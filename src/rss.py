@@ -46,7 +46,7 @@ class RssGenerator:
         # Rss with only basic fields
         rss_string = str(self.p)
 
-        for message in self.messages:
+        for message in reversed(self.messages):
             try:
                 print(f"Message id={message.id}...")
                 connector = PocketCasts(message.url)
