@@ -1,4 +1,5 @@
 from functools import cached_property
+from dataclasses import dataclass
 
 from requests_html import HTMLSession, Element
 
@@ -34,3 +35,9 @@ class RssConnector:
     @cached_property
     def item_title(self) -> str:
         return self._get_item_title()
+
+
+@dataclass
+class Message:
+    text: str
+    url: str
