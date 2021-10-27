@@ -1,8 +1,12 @@
+from functools import cached_property
 from typing import Optional
 
-from requests_html import HTML, Element
+from requests_xml import XML, Element, XMLSession
 
 from base import RssConnector 
+
+
+xml_session = XMLSession()
 
 
 class PocketCasts(RssConnector):
@@ -13,8 +17,8 @@ class PocketCasts(RssConnector):
         return self.html.find('.rss_button', first=True).links.pop()
 
     def _get_rss_item(self) -> Element:
-        r = self.session.get(self.rss_feed, verify=False)
-        item = self._get_item_from_html(html=r.html, title_text=self.item_title)
+        r = xml_session.get(self.rss_feed, verify=False)
+        item = self._get_item_from_xml(xml=r.xml, title_text=self.item_title)
         
         if not item:
             raise RuntimeError(f"Failed to get the item for title \
@@ -22,11 +26,11 @@ class PocketCasts(RssConnector):
 
         return item
 
-    def _get_item_from_html(self, html: HTML, title_text: str) -> Optional[Element]:
-        for item in html.find('item'):
+    def _get_item_from_xml(self, xml: XML, title_text: str) -> Optional[Element]:
+        for item in xml.find('item'):
             curr_title = item.find('title', first=True).text
             if curr_title == title_text:
-                return item.html
+                return item.xml
         return None
 
     def _get_item_title(self):

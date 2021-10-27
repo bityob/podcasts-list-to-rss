@@ -1,3 +1,4 @@
 telethon
 requests_html
 podgen
+requests-xml
