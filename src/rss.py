@@ -50,6 +50,7 @@ class RssGenerator:
             try:
                 print(f"Message id={message.id}...")
                 connector = PocketCasts(message.url)
+                print(f"title={connector.item_title}")
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{connector.item}{CLOSING_CHANNEL_TAG}")
             except:
                 print(f"Failed with message id={message.id}")

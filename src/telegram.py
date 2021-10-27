@@ -22,7 +22,7 @@ class TelegramReader:
         async with TelegramClient('user', api_id, api_hash) as client:
             await client.start()
 
-            async for message in client.iter_messages(channel_name):
+            async for message in client.iter_messages(channel_name, limit=4):
                 print(f"id={message.id}")
                 if message.text:
                     yield Message(
@@ -30,6 +30,6 @@ class TelegramReader:
                         url=await self.get_url_from_message(message), 
                         text=message.text,
                         date=message.date,
-                    )   
+                    )
 
 
