@@ -13,8 +13,8 @@ class PocketCasts(RssConnector):
         return self.html.find('.rss_button', first=True).links.pop()
 
     def _get_rss_item(self) -> Element:
-        r = self.session.get(self.rss_feed)
-        item = self._get_item_from_html(html=r.html, title_text=self.item)
+        r = self.session.get(self.rss_feed, verify=False)
+        item = self._get_item_from_html(html=r.html, title_text=self.item_title)
         
         if not item:
             raise RuntimeError(f"Failed to get the item for title \
@@ -26,7 +26,7 @@ class PocketCasts(RssConnector):
         for item in html.find('item'):
             curr_title = item.find('title', first=True).text
             if curr_title == title_text:
-                return item
+                return item.html
         return None
 
     def _get_item_title(self):

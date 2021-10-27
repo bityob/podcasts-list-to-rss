@@ -1,5 +1,6 @@
 from functools import cached_property
 from dataclasses import dataclass
+from datetime import datetime
 
 from requests_html import HTMLSession, Element
 
@@ -9,7 +10,8 @@ session = HTMLSession()
 class RssConnector:
     def __init__(self, url: str):
         self.url = url
-        self.request = session.get(self.url)
+        self.session = session
+        self.request = self.session.get(self.url, verify=False)
         self.request.raise_for_status()
         self.html = self.request.html
 
@@ -36,8 +38,14 @@ class RssConnector:
     def item_title(self) -> str:
         return self._get_item_title()
 
+    @cached_property
+    def item(self) -> str:
+        return self._get_rss_item()
+
 
 @dataclass
 class Message:
+    id: int
     text: str
     url: str
+    date: datetime
