@@ -12,8 +12,768 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 28 Oct 2021 01:09:42 +0000</lastBuildDate>
-  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    <lastBuildDate>Thu, 28 Oct 2021 01:11:55 +0000</lastBuildDate>
+  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק 11 - ערי הקולינריה: לונדון</title>
+        <itunes:title>פרק 11 - ערי הקולינריה: לונדון</itunes:title>
+        <link>https://foodfetish.podbean.com/e/%d7%a4%d7%a8%d7%a7-11-%d7%a2%d7%a8%d7%99-%d7%94%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%a8%d7%99%d7%94-%d7%9c%d7%95%d7%a0%d7%93%d7%95%d7%9f/</link>
+        <comments>https://foodfetish.podbean.com/e/%d7%a4%d7%a8%d7%a7-11-%d7%a2%d7%a8%d7%99-%d7%94%d7%a7%d7%95%d7%9c%d7%99%d7%a0%d7%a8%d7%99%d7%94-%d7%9c%d7%95%d7%a0%d7%93%d7%95%d7%9f/#comments</comments>
+        <pubDate>Mon, 20 Sep 2021 05:21:01 +0000</pubDate>
+        <guid isPermaLink="false">foodfetish.podbean.com/1beb01c2-4b9f-308c-b17d-1bbb040fda6f</guid>
+                      <description>פרק ישן אבל עדיין טוב על הקולינריה בלונדון. אומנם כרגע קשה יותר להגיע אבל עדיין אפשר לחלום 😀
+#אוכל #תרבות
+
+Food fetish - 11
+
+https://pca.st/episode/b1c0025f-17da-459f-8f6c-b871477f4321&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק זה - שהוא חובה לכל מסעדן, שף או חובב אוכל שמתכנן ביקור בלונדון, &lt;/p&gt;
+
+&lt;p&gt;נשתה ג׳ין (טאנקרי) ונסביר על הקשר ההדוק בין המשקה ללונדון&lt;/p&gt;
+
+&lt;p&gt;נדבר על התפתחות הקולינריה בלונדון&lt;/p&gt;
+
+&lt;p&gt;על ההיסטוריה של המטבח הבריטי עוד מתקופה טקסי התה והגינונים&lt;/p&gt;
+
+&lt;p&gt;על איך הפכה לונדון מבירה אירופאית אפרורית למקום הכי תוסס - קולינרית ותרבותית באירופה&lt;/p&gt;
+
+&lt;p&gt;על מסעדות וחוויות קולינריות שונות - החל מפיין דיינינג, שווקי האוכל המטורפים של העיר, קונספטים ייחודיים שהשאירו בנו חותם &lt;/p&gt;
+
+&lt;p&gt;ועוד המון נושאים מעניינים שכולם יחד הם לא יותר מטיפה בנהר התמזה ביחס למה שקורה בעיר הזו&lt;/p&gt;
+
+&lt;p&gt;מאחלים לכולם האזנה נעימה!&lt;/p&gt;
+</description>
+                        <content:encoded>פרק ישן אבל עדיין טוב על הקולינריה בלונדון. אומנם כרגע קשה יותר להגיע אבל עדיין אפשר לחלום 😀
+#אוכל #תרבות
+
+Food fetish - 11
+
+https://pca.st/episode/b1c0025f-17da-459f-8f6c-b871477f4321&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק זה - שהוא חובה לכל מסעדן, שף או חובב אוכל שמתכנן ביקור בלונדון, &lt;/p&gt;
+
+&lt;p&gt;נשתה ג׳ין (טאנקרי) ונסביר על הקשר ההדוק בין המשקה ללונדון&lt;/p&gt;
+
+&lt;p&gt;נדבר על התפתחות הקולינריה בלונדון&lt;/p&gt;
+
+&lt;p&gt;על ההיסטוריה של המטבח הבריטי עוד מתקופה טקסי התה והגינונים&lt;/p&gt;
+
+&lt;p&gt;על איך הפכה לונדון מבירה אירופאית אפרורית למקום הכי תוסס - קולינרית ותרבותית באירופה&lt;/p&gt;
+
+&lt;p&gt;על מסעדות וחוויות קולינריות שונות - החל מפיין דיינינג, שווקי האוכל המטורפים של העיר, קונספטים ייחודיים שהשאירו בנו חותם &lt;/p&gt;
+
+&lt;p&gt;ועוד המון נושאים מעניינים שכולם יחד הם לא יותר מטיפה בנהר התמזה ביחס למה שקורה בעיר הזו&lt;</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/xdacss/Itay_Food_Fetish_Podcast_Edit_13_4_217yuco.mp3" length="232898780" type="audio/mpeg"/>
+        <itunes:subtitle>בפרק זה - שהוא חובה לכל מסעדן, שף או חובב אוכל שמתכנן ביקור בלונדון, 
+נשתה ג׳ין (טאנקרי) ונסביר על הקשר ההדוק בין המשקה ללונדון
+נדבר על התפתחות הקולינריה בלונדון
+על ההיסטוריה של המטבח הבריטי עוד מתקופה טקסי התה והגינונים
+על איך הפכה לונדון מבירה אירופאית...</itunes:subtitle>
+        <itunes:summary>פרק ישן אבל עדיין טוב על הקולינריה בלונדון. אומנם כרגע קשה יותר להגיע אבל עדיין אפשר לחלום 😀
+#אוכל #תרבות
+
+Food fetish - 11
+
+https://pca.st/episode/b1c0025f-17da-459f-8f6c-b871477f4321&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק זה - שהוא חובה לכל מסעדן, שף או חובב אוכל שמתכנן ביקור בלונדון, &lt;/p&gt;
+
+&lt;p&gt;נשתה ג׳ין (טאנקרי) ונסביר על הקשר ההדוק בין המשקה ללונדון&lt;/p&gt;
+
+&lt;p&gt;נדבר על התפתחות הקולינריה בלונדון&lt;/p&gt;
+
+&lt;p&gt;על ההיסטוריה של המטבח הבריטי עוד מתקופה טקסי התה והגינונים&lt;/p&gt;
+
+&lt;p&gt;על איך הפכה לונדון מבירה אירופאית אפרורית למקום הכי תוסס - קולינרית ותרבותית באירופה&lt;/p&gt;
+
+&lt;p&gt;על מסעדות וחוויות קולינריות שונות - החל מפיין דיינינג, שווקי האוכל המטורפים של העיר, קונספטים ייחודיים שהשאירו בנו חותם &lt;/p&gt;
+
+&lt;p&gt;ועוד המון נושאים מעניינים שכולם יחד הם לא יותר מטיפה בנהר התמזה ביחס למה שקורה בעיר הזו&lt;/p&gt;
+
+&lt;p&gt;מאחלים לכולם האזנה נעימה!&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>Food Fetish</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:37:02</itunes:duration>
+                <itunes:episode>11</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/9710806/foodfetishlogo.jpg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">f0bc37cc-418f-48fa-940e-075a30238ee7</guid>
+      <title>458- Real Fake Bridges</title>
+      <description>הגשרים המומצאים שהתגלו כאמיתיים ואז הפכו למזוייפים עד שעיר קטנה בהולנד בנתה אותם 😀
+סיפור עיצוב שטרות היורו עם הנסיון להציג עליהם סמלים מאחדים שאינם שייכים לאף מדינה ואז התברר שחלקם כן שייכים. 
+#כלכלה #סיפורמעניין #אנגלית
+
+99% Invisible - 458 
+
+https://pca.st/episode/a45cf4ed-a5bc-41ba-9b93-a14a151dbc63&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The great Jacob Goldstein, author of &lt;a href="https://amzn.to/2XcGQhF"&gt;&lt;i&gt;Money: The True Story of a Made Up Thing&lt;/i&gt;&lt;/a&gt;, stops by to tell us two stories about the design of paper currency around the world. First, the story of the making of the Euro banknotes, the design of which was supposed to unify Europe and not rely on any one country's national heroes or monuments. Then we learn about China's early pioneering experiments in paper currency, hundreds of years before it caught on in the rest of the world. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37968&amp;post_type=episode"&gt;Real Fake Bridges&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Mon, 20 Sep 2021 05:23:02 +0000</pubDate>
+      <author>roman@99pi.org (Roman Mars)</author>
+      <link>https://99percentinvisible.org</link>
+      <content:encoded>הגשרים המומצאים שהתגלו כאמיתיים ואז הפכו למזוייפים עד שעיר קטנה בהולנד בנתה אותם 😀
+סיפור עיצוב שטרות היורו עם הנסיון להציג עליהם סמלים מאחדים שאינם שייכים לאף מדינה ואז התברר שחלקם כן שייכים. 
+#כלכלה #סיפורמעניין #אנגלית
+
+99% Invisible - 458 
+
+https://pca.st/episode/a45cf4ed-a5bc-41ba-9b93-a14a151dbc63&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The great Jacob Goldstein, author of &lt;a href="https://amzn.to/2XcGQhF"&gt;&lt;i&gt;Money: The True Story of a Made Up Thing&lt;/i&gt;&lt;/a&gt;, stops by to tell us two stories about the design of paper currency around the world. First, the story of the making of the Euro banknotes, the design of which was supposed to unify Europe and not rely on any one country's national heroes or monuments. Then we learn about China's early pioneering experiments in paper currency, hundreds of years before it caught on in the rest of the world. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37968&amp;post_type=episode"&gt;Real Fake Bridges&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="20005385" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/c1299eeb-c6f2-420e-80d4-011bbe4b4d65/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=c1299eeb-c6f2-420e-80d4-011bbe4b4d65&amp;feed=BqbsxVfO"/>
+      <itunes:title>458- Real Fake Bridges</itunes:title>
+      <itunes:author>Roman Mars</itunes:author>
+      <itunes:duration>00:20:43</itunes:duration>
+      <itunes:summary>הגשרים המומצאים שהתגלו כאמיתיים ואז הפכו למזוייפים עד שעיר קטנה בהולנד בנתה אותם 😀
+סיפור עיצוב שטרות היורו עם הנסיון להציג עליהם סמלים מאחדים שאינם שייכים לאף מדינה ואז התברר שחלקם כן שייכים. 
+#כלכלה #סיפורמעניין #אנגלית
+
+99% Invisible - 458 
+
+https://pca.st/episode/a45cf4ed-a5bc-41ba-9b93-a14a151dbc63</itunes:summary>
+      <itunes:subtitle>The great Jacob Goldstein, author of Money: The True Story of a Made Up Thing, stops by to tell us two stories about the design of paper currency around the world. First, the story of the making of the Euro banknotes, the design of which was supposed to unify Europe and not rely on any one country's national heroes or monuments. Then we learn about China's early pioneering experiments in paper currency, hundreds of years before it caught on in the rest of the world. </itunes:subtitle>
+      <itunes:keywords>design, euro, china, bridges, money, currency, banknotes</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>[התשובה] אירופה היא יבשת?</title><link>https://www.spreaker.com/user/pimedia/guy-goodbye-mst</link><description>פרק גיאוגרפי משעשע. האם אירופה היא יבשת נפרדת או שאולי המצב הנכון הוא אירו-אסיה? 
+ההסבר הוא כרגיל "סיבות הסטוריות" אבל הדרך שבה מגיעים לכל המסקנות היא מעניינת ומשעשעת לפרקים. 
+#הסטוריה #גאוגרפיה
+
+התשובה - אירופה היא יבשת?
+
+https://pca.st/episode/058cdf1f-0e07-409d-94c3-b5d407ab4a53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול, קיסרים רוסיים, וכמובן, האירוויזיון.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;דורון פישלר.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/45107644</guid><pubDate>Thu, 23 Sep 2021 08:02:42 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/45107644/guy_goodbye_mst.mp3" length="34658428" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול, קיסרים רוסיים, וכמובן, האירוויזיון.
+
+האזנה נעימה,
+דורון פישלר....</itunes:subtitle><itunes:summary>פרק גיאוגרפי משעשע. האם אירופה היא יבשת נפרדת או שאולי המצב הנכון הוא אירו-אסיה? 
+ההסבר הוא כרגיל "סיבות הסטוריות" אבל הדרך שבה מגיעים לכל המסקנות היא מעניינת ומשעשעת לפרקים. 
+#הסטוריה #גאוגרפיה
+
+התשובה - אירופה היא יבשת?
+
+https://pca.st/episode/058cdf1f-0e07-409d-94c3-b5d407ab4a53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול, קיסרים רוסיים, וכמובן, האירוויזיון.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;דורון פישלר.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/&lt;/a&gt;</itunes:summary><itunes:duration>2167</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>It's brutal out here: Olivia Rodrigo and how the music business makes songwriters fight over credits</title>
+      <link>https://www.theverge.com/e/22436745</link>
+      <description>דיון מעניין על זכויות היוצרים בארה"ב. הדיון מתמקד בתמלוגים השונים שחלים על כל יצירה מוזיקלים ועל מקרים מהתקופה האחרונה שבה זמרים מפורסמים העדיפו לשלם תמלוגים חלקיים על "השראה" ליוצרי שירים וותיקים, הכל בשביל לא להגיע לבית המשפט. 
+#משפט #מוזיקה #אנגלית
+
+Decoder - It's brutal out here: Olivia Rodrigo and how the music business makes songwriters fight over credits
+
+https://pca.st/episode/21f162a5-f7f1-474d-919e-78139994ea6c&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week on Decoder we are doing something a little different. We're talking with Charlie Harding, co-host of the podcast Switched on Pop a podcast about pop music, about the state of the music industry particularly as it relates to copyright. The conversation is framed around Olivia Rodrigo's debut album Sour and why she keeps handing out songwriting credits months after the album was released. This is kind of a hybrid between an episode of Decoder and an episode of Switched on Pop. We play a lot of music throughout the episode and in case you want to go back and listen to full songs we've made playlists for both Spotify and Apple Music.
+
+Spotify - https://spoti.fi/3nuMTt7
+Apple Music - https://apple.co/3986hUw
+
+Links
+Olivia Rodrigo Studied All the Right Moves 
+https://www.vulture.com/2021/05/olivia-rodrigo-sour-album-review
+
+Why Taylor Swift is rerecording all her old songs https://www.vox.com/culture/22278732/taylor-swift-re-recording-fearless-love-story-master-rights-scooter-braun
+
+Olivia Rodrigo Gives Taylor Swift Songwriting Credit on Second ‘Sour’ Song, ‘Deja Vu’ https://variety.com/2021/music/news/olivia-rodrigo-taylor-swift-songwriting-credit-deja-vu-1235015769/
+
+Olivia Rodrigo Adds Paramore to Songwriting Credits on ‘Good 4 U’
+https://variety.com/2021/music/news/olivia-rodrigo-paramore-good-4-u-misery-business-1235048791/
+
+‘Blurred Lines’ Copyright Suit Against Robin Thicke, Pharrell Ends in $5M Judgment https://www.rollingstone.com/music/music-news/robin-thicke-pharrell-williams-blurred-lines-copyright-suit-final-5-million-dollar-judgment-768508/
+ 
+Katy Perry Wins Appeal in ‘Dark Horse’ Infringement Case https://www.rollingstone.com/music/music-news/katy-perry-dark-horse-copyright-win-appeal-969009/
+ 
+Led Zeppelin Wins Long ‘Stairway to Heaven’ Copyright Case https://www.nytimes.com/2020/10/05/arts/music/stairway-to-heaven-led-zeppelin-lawsuit.html
+ 
+Isley Feels Vindicated In Bolton Case https://www.billboard.com/articles/news/78775/isley-feels-vindicated-in-bolton-case
+
+Transcript - https://www.theverge.com/e/22436745
+
+The Verge is turning 10 and we're throwing a party in New York City! Purchase tickets here - https://bit.ly/2YRI8iR
+
+This episode was produced by Creighton DeSimone, Alexander Charles Adams, and Andrew Marino. We were edited by Callie Wright. And our music is by Breakmaster Cylinder. 
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Thu, 23 Sep 2021 08:06:09 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Verge</itunes:author>
+      <itunes:subtitle>Nilay Patel talks to Switched on Pop co-host Charlie Harding about copyright in the music industry</itunes:subtitle>
+      <itunes:summary>דיון מעניין על זכויות היוצרים בארה"ב. הדיון מתמקד בתמלוגים השונים שחלים על כל יצי</itunes:summary>
+      <content:encoded>דיון מעניין על זכויות היוצרים בארה"ב. הדיון מתמקד בתמלוגים השונים שחלים על כל יצירה מוזיקלים ועל מקרים מהתקופה האחרונה שבה זמרים מפורסמים העדיפו לשלם תמלוגים חלקיים על "השראה" ליוצרי שירים וותיקים, הכל בשביל לא להגיע לבית המשפט. 
+#משפט #מוזיקה #אנגלית
+
+Decoder - It's brutal out here: Olivia Rodrigo and how the music business makes songwriters fight over credits
+
+https://pca.st/episode/21f162a5-f7f1-474d-919e-78139994ea6c&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week on Decoder we are doing something a little different. We're talking with Charlie Harding, co-host of the podcast Switched on Pop a podcast about pop music, about the state of the music industry particularly as it relates to copyright. The conversation is framed around Olivia Rodrigo's debut album Sour and why she keeps handing out songwriting credits months after the album was released. This is kind of a hybrid between an episode of Decoder and an episode of Switched on Pop. We play a lot of music throughout the episode and in case you want to go back and listen to full songs we've made playlists for both Spotify and Apple Music.
+
+Spotify - https://spoti.fi/3nuMTt7
+Apple Music - https://apple.co/3986hUw
+
+Links
+Olivia Rodrigo Studied All the Right Moves 
+https://www.vulture.com/2021/05/olivia-rodrigo-sour-album-review
+
+Why Taylor Swift is rerecording all her old songs https://www.vox.com/culture/22278732/taylor-swift-re-recording-fearless-love-story-master-rights-scooter-braun
+
+Olivia Rodrigo Gives Taylor Swift Songwriting Credit on Second ‘Sour’ Song, ‘Deja Vu’ https://variety.com/2021/music/news/olivia-rodrigo-taylor-swift-songwriting-credit-deja-vu-1235015769/
+
+Olivia Rodrigo Adds Paramore to Songwriting Credits on ‘Good 4 U’
+https://variety.com/2021/music/news/olivia-rodrigo-paramore-good-4-u-misery-business-1235048791/
+
+‘Blurred Lines’ Copyright Suit Against Robin Thicke, Pharrell Ends in $5M Judgment https://www.rollingstone.com/music/music-news/robin-thicke-pharrell-williams-blurred-lines-copyright-suit-final-5-million-dollar-judgment-768508/
+ 
+Katy Perry Wins Appeal in ‘Dark Horse’ Infringement Case https://www.rollingstone.com/music/music-news/katy-perry-dark-horse-copyright-win-appeal-969009/
+ 
+Led Zeppelin Wins Long ‘Stairway to Heaven’ Copyright Case https://www.nytimes.com/2020/10/05/arts/music/stairway-to-heaven-led-zeppelin-lawsuit.html
+ 
+Isley Feels Vindicated In Bolton Case https://www.billboard.com/articles/news/78775/isley-feels-vindicated-in-bolton-case
+
+Transcript - https://www.theverge.com/e/22436745
+
+The Verge is turning 10 and we're throwing a party in New York City! Purchase tickets here - https://bit.ly/2YRI8iR
+
+This episode was produced by Creighton DeSimone, Alexander Charles Adams, and Andrew Marino. We were edited by Callie Wright. And our music is by Breakmaster Cylinder. 
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
+      <itunes:duration>3949</itunes:duration>
+      <guid isPermaLink="false">7bf8aece-60de-11eb-92cb-abbbce5e07ef</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP9402582477.mp3?updated=1631679470" length="0" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">e337d5b6-3fb0-4433-aea9-23598f105828</guid>
+      <title>459- Yankee Pyramids</title>
+      <description>ההמלצה היא על החצי שעה הראשונה של הפרק שבה מדברים על הספריות הנשיאותיות בארה"ב. זה סיפור מעניין על איך התחילו לבנות לכל נשיא את הספריה שלו ומה המטרה של המונומנטים הללו. 
+#הסטוריה #סיפורמעניין #אנגלית 
+
+99% Invisible - 459 
+
+https://pca.st/episode/09ef9b6f-be9e-48d1-abe3-fdef3f2318ba&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Presidential libraries are tributes to greatness, "[a] self-congratulatory, almost fictional account of someone's achievements, where all the blemishes are hidden," explains one New York architect.  But they're also a "weird mix of a historical repository of records and things that have a lot of meaning." Studying their origins and evolution, one can begin to see how presidential libraries have always involved tensions and contradictions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38002&amp;post_type=episode"&gt;Yankee Pyramids&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The premise of using the extreme example of Trump to heighten the contradictions of executive branch norms is what we do on Roman's other podcast &lt;a href="https://trumpconlaw.com"&gt;What Trump Can Teach Us About Con Law&lt;/a&gt;. It's good! And it's not really about Trump, so don't worry. It's essentially a current events based Constitutional Law class taught by an incredible professor, Elizabeth Joh. We included the latest episode here for you to check out. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+</description>
+      <pubDate>Thu, 23 Sep 2021 08:16:38 +0000</pubDate>
+      <author>roman@99pi.org (Delaney Hall, Elizabeth Joh)</author>
+      <link>https://99percentinvisible.org</link>
+      <content:encoded>ההמלצה היא על החצי שעה הראשונה של הפרק שבה מדברים על הספריות הנשיאותיות בארה"ב. זה סיפור מעניין על איך התחילו לבנות לכל נשיא את הספריה שלו ומה המטרה של המונומנטים הללו. 
+#הסטוריה #סיפורמעניין #אנגלית 
+
+99% Invisible - 459 
+
+https://pca.st/episode/09ef9b6f-be9e-48d1-abe3-fdef3f2318ba&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Presidential libraries are tributes to greatness, "[a] self-congratulatory, almost fictional account of someone's achievements, where all the blemishes are hidden," explains one New York architect.  But they're also a "weird mix of a historical repository of records and things that have a lot of meaning." Studying their origins and evolution, one can begin to see how presidential libraries have always involved tensions and contradictions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38002&amp;post_type=episode"&gt;Yankee Pyramids&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The premise of using the extreme example of Trump to heighten the contradictions of executive branch norms is what we do on Roman's other podcast &lt;a href="https://trumpconlaw.com"&gt;What Trump Can Teach Us About Con Law&lt;/a&gt;. It's good! And it's not really about Trump, so don't worry. It's essentially a current events based Constitutional Law class taught by an incredible professor, Elizabeth Joh. We included the latest episode here for you to check out. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+</content:encoded>
+      <enclosure length="61977263" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/ee42a2b6-fac3-4594-81d8-0a066f9a54bb/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=ee42a2b6-fac3-4594-81d8-0a066f9a54bb&amp;feed=BqbsxVfO"/>
+      <itunes:title>459- Yankee Pyramids</itunes:title>
+      <itunes:author>Delaney Hall, Elizabeth Joh</itunes:author>
+      <itunes:duration>01:04:26</itunes:duration>
+      <itunes:summary>ההמלצה היא על החצי שעה הראשונה של הפרק שבה מדברים על הספריות הנשיאותיות בארה"ב. זה סיפור מעניין על איך התחילו לבנות לכל נשיא את הספריה שלו ומה המטרה של המונומנטים הללו. 
+#הסטוריה #סיפורמעניין #אנגלית 
+
+99% Invisible - 459 
+
+https://pca.st/episode/09ef9b6f-be9e-48d1-abe3-fdef3f2318ba&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Presidential libraries are tributes to greatness, "[a] self-congratulatory, almost fictional account of someone's achievements, where all the blemishes are hidden," explains one New York architect.  But they're also a "weird mix of a historical repository of records and things that have a lot of meaning." Studying their origins and evolution, one can begin to see how presidential libraries have always involved tensions and contradictions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38002&amp;post_type=episode"&gt;Yankee Pyramids&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The premise of using the extreme example of Trump to heighten the contradictions of executive branch norms is what we do on Roman's other podcast &lt;a href="https://trumpconlaw.com"&gt;What Trump Can Teach Us About Con Law&lt;/a&gt;. It's good! And it's not really about Trump, so don't worry. It's essentially a current events based Constitutional Law class taught by an incredible professor, Elizabeth Joh. We included the latest episode here for you to check out. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>The weirdness of Presidential libraries</itunes:subtitle>
+      <itunes:keywords>fdr, lbj, sb-8, trump, lepore, libraries, president, obama</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 71 - ציונים זה לא הכל?</title>
+            <itunes:subtitle>עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה י…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/71a</link>
+            <pubDate>Fri, 24 Sep 2021 08:00:04 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1124341987</guid>
+            <description>פרק על ביקורות יין, ציונים ותחרויות. נקודת המבט הישראלית על תחרויות בינלאומיות, איך מדרגים יין ושיחה עם מנהלת השיווק של יקב נחמני. 
+#אוכל #ישראל
+
+מוצר צריכה בסיסי - 71
+
+https://pca.st/episode/f1d50beb-b42d-48ff-b1ec-b707b7c6d80d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה יצאנו להבין, מה הוא המקום ומה היא ההשפעה של ציונים ותחרויות יין? בעולם מתקיימות מאות תחרויות שונות ואינספור ציונים ניתנים ליינות. איך מחליטים כיצד לדרג יין? ועד כמה זה בכלל משמעותי? ואולי בכלל תם תפקידו של המבקר והגיעה שעתה של חוכמת ההמונים?
+הגיעו להתארח:
+שקד נחמני - הבת ומנהלת השיווק של יקב נחמני שזכה לאחרונה בציון הגבוה ביותר שניתן ליין ישראלי בתחרות של המגזין המכובד דיקנטר: 97 נקודות.
+אבי אפרתי -מבקר המסעדות והיין של אתר וואלה! News. וגם פסיכולוג קליני.
+חיים גן - הלוא הוא איש הענבים שאחראי לאינספור תערוכות ופסטיבלי יין, תחרויות יין ובראשן התחרות הבין לאומית: טרה וינו ועוד פעילויות רבות בתחום, בינהן ספר ביקורת יין מקיף שיצא ב 2016.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/8c0b774a64ee18cc98396e459692fa3c62906047.mp3?name=wine" length="49882173" type="audio/mpeg"/>
+            <itunes:summary>פרק על ביקורות יין, ציונים ותחרויות. נקודת המבט הישראלית על תחרויות בינלאומיות, איך מדרגים יין ושיחה עם מנהלת השיווק של יקב נחמני. 
+#אוכל #ישראל
+
+מוצר צריכה בסיסי - 71
+
+https://pca.st/episode/f1d50beb-b42d-48ff-b1ec-b707b7c6d80d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה יצאנו להבין, מה הוא המקום ומה היא ההשפעה של ציונים ותחרויות יין? בעולם מתקיימות מאות תחרויות שונות ואינספור ציונים ניתנים ליינות. איך מחליטים כיצד לדרג יין? ועד כמה זה בכלל משמעותי? ואולי בכלל תם תפקידו של המבקר והגיעה שעתה של חוכמת ההמונים?
+הגיעו להתארח:
+שקד נחמני - הבת ומנהלת השיווק של יקב נחמני שזכה לאחרונה בציון הגבוה ביותר שניתן ליין ישראלי בתחרות של המגזין המכובד דיקנטר: 97 נקודות.
+אבי אפרתי -מבקר המסעדות והיין של אתר וואלה! News. וגם פסיכולוג קליני.
+חיים גן - הלוא הוא איש הענבים שאחראי לאינספור תערוכות ופסטיבלי יין, תחרויות יין ובראשן התחרות הבין לאומית: טרה וינו ועוד פעילויות רבות בתחום, בינהן ספר ביקורת יין מקיף שיצא ב 2016.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:51:57</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-6AZ2SbWSLzYym4Sz-eOXkcw-t3000x3000.jpg"/>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <itunes:title>פרק 13 | רובין הוד והמשקיעים החדשים</itunes:title>
+    <title>פרק 13 | רובין הוד והמשקיעים החדשים</title>
+    <description>סקירה מאוד מעניינת של חברת רובין הוד האמריקאית. מעבר למידע בסיסי על החברה דיון על מודל הרווח של החברה ועל האסטרטגיה שלה בגיוס משתמשים חדשים. וכמובן בסוף קצת תחזיות לעתיד והאם יש לחברה מספיק "חפיר" בשביל להתמודד עם תחרות. 
+#שיווק #אסטרטגיה #שוקההון
+
+התמונה הגדולה - 13 
+
+https://pca.st/episode/91d5f301-09c7-4e4b-85ae-6db20a3c15f3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;בפרק הזה דיברנו על רובין הוד, אפליקציית השקעות בשוק ההון שחוללה מהפכה בתחום ההשקעות הקמעונאיות, בעיקר בזכות הצעת הערך המרכזית שלה - מסחר באפס עמלות. אלה היו שנתיים מטורפות לרובינהוד. צמיחה אסטרונומית בזמן מגיפה, ראלי היסטורי בשווקים, מערכות פנימיות מג׳עג׳עות שמנעו ממשתמשים לבצע פקודות מסחר, והשיא כמובן בפרשת גיימסטופ ורדיט מתחילת השנה. אם זה לא מספיק אז גם החברה יצאה להנפקה הקיץ, מה שאפשר לראשונה חשיפה למספרים המאוד מסקרנים שלה. &lt;br/&gt;&lt;br/&gt;בפרק הזה התמקדנו בהחלטות שרובין הוד קיבלה לאורך השנים בגזרת המוצר, ואיך הן עיצבו את היתרונות האסטרטגיים שלה היום. וואו, זה היה חתיכת פרק ארוך. לא אופייני לנו, אבל מקווים שנהניתם. תודה לכם שהאזנתם, ותודה מיוחדת לפטרונים שלנו שתומכים בנו &lt;a href='https://www.patreon.com/techstratpod'&gt;בפטריאון&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt; השארנו לכם שאלה לדיון בסוף הפרק, אז נשמח לשמוע מכם ב&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק&lt;/a&gt; שלנו. כמו תמיד, שמחים מאוד לשמוע מה חשבתם על הפרק, על רובין הוד, ומה שבא לכם. &lt;br/&gt;&lt;br/&gt;נתראה בפרק הבא &lt;br/&gt;ניר ואביעד&lt;/p&gt;</description>
+    <content:encoded>סקירה מאוד מעניינת של חברת רובין הוד האמריקאית. מעבר למידע בסיסי על החברה דיון על מודל הרווח של החברה ועל האסטרטגיה שלה בגיוס משתמשים חדשים. וכמובן בסוף קצת תחזיות לעתיד והאם יש לחברה מספיק "חפיר" בשביל להתמודד עם תחרות. 
+#שיווק #אסטרטגיה #שוקההון
+
+התמונה הגדולה - 13 
+
+https://pca.st/episode/91d5f301-09c7-4e4b-85ae-6db20a3c15f3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;בפרק הזה דיברנו על רובין הוד, אפליקציית השקעות בשוק ההון שחוללה מהפכה בתחום ההשקעות הקמעונאיות, בעיקר בזכות הצעת הערך המרכזית שלה - מסחר באפס עמלות. אלה היו שנתיים מטורפות לרובינהוד. צמיחה אסטרונומית בזמן מגיפה, ראלי היסטורי בשווקים, מערכות פנימיות מג׳עג׳עות שמנעו ממשתמשים לבצע פקודות מסחר, והשיא כמובן בפרשת גיימסטופ ורדיט מתחילת השנה. אם זה לא מספיק אז גם החברה יצאה להנפקה הקיץ, מה שאפשר לראשונה חשיפה למספרים המאוד מסקרנים שלה. &lt;br/&gt;&lt;br/&gt;בפרק הזה התמקדנו בהחלטות שרובין הוד קיבלה לאורך השנים בגזרת המוצר, ואיך הן עיצבו את היתרונות האסטרטגיים שלה היום. וואו, זה היה חתיכת פרק ארוך. לא אופייני לנו, אבל מקווים שנהניתם. תודה לכם שהאזנתם, ותודה מיוחדת לפטרונים שלנו שתומכים בנו &lt;a href='https://www.patreon.com/techstratpod'&gt;בפטריאון&lt;/a&gt;.&lt;br/&gt;&lt;br/&gt; השארנו לכם שאלה לדיון בסוף הפרק, אז נשמח לשמוע מכם ב&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק&lt;/a&gt; שלנו. כמו תמיד, שמחים מאוד לשמוע מה חשבתם על הפרק, על רובין הוד, ומה שבא לכם. &lt;br/&gt;&lt;br/&gt;נתראה בפרק הבא &lt;br/&gt;ניר ואביעד&lt;/p&gt;</content:encoded>
+    <itunes:author/>
+    <enclosure url="https://www.buzzsprout.com/1717514/9232123-13.mp3" length="46435986" type="audio/mpeg"/>
+    <guid isPermaLink="false">Buzzsprout-9232123</guid>
+    <pubDate>Sun, 26 Sep 2021 14:15:04 +0000</pubDate>
+    <itunes:duration>3866</itunes:duration>
+    <itunes:keywords/>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>המגדל הגאה שקרס: כישלון המודיעין האמריקאי ב-11 בספטמבר - שיחה עם יורם שוייצר</title>
+        <itunes:title>המגדל הגאה שקרס: כישלון המודיעין האמריקאי ב-11 בספטמבר - שיחה עם יורם שוייצר</itunes:title>
+        <link>https://dannyorbach.podbean.com/e/%d7%94%d7%9e%d7%92%d7%93%d7%9c%d7%94%d7%92%d7%90%d7%94%d7%a9%d7%a7%d7%a8%d7%a1%d7%9b%d7%99%d7%a9%d7%9c%d7%95%d7%9f-%d7%94/</link>
+        <comments>https://dannyorbach.podbean.com/e/%d7%94%d7%9e%d7%92%d7%93%d7%9c%d7%94%d7%92%d7%90%d7%94%d7%a9%d7%a7%d7%a8%d7%a1%d7%9b%d7%99%d7%a9%d7%9c%d7%95%d7%9f-%d7%94/#comments</comments>
+        <pubDate>Wed, 29 Sep 2021 05:00:04 +0000</pubDate>
+        <guid isPermaLink="false">dannyorbach.podbean.com/bf2788b6-a521-32ea-a1df-cd41283c1ea9</guid>
+                      <description>שיחה על פיגועי ה11 בספטמבר מפרספקטיבה של 20 שנה אחרי. איך במבט לאחור אנחנו מנתחים את גורם ההפתעה, למה מנגנוני המודיעין של ארה"ב לא עצרו את הפיגועים ומה השינויים שחלו מאז. 
+#הסטוריה 
+
+סוכן משולש - 46
+
+https://pca.st/episode/0bf028db-6d33-40f6-b1d8-c60e5db01557&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק הנוכחי של "סוכן משולש" אנחנו מארחים את יורם שוייצר, ראש התוכנית ללימודי טרור במכון ללימודי ביטחון לאומי. ביחד איתו, נצא למסע לבסיסיו המרוחקים של ארגון הטרור אל קאעדה, בניסיון לגלות כיצד הצליחו בן לאדן ואנשיו להפתיע את מערכת המודיעין המשומנת של ארה"ב ולהפיל את מגדלי התאומים בניו יורק. נכיר את ההיררכיה המבצעית של אל קאעדה, וכמה מסוכני המודיעין האמריקאים שלחמו נגדה. נשאל מה הסימנים המעידים לפיגוע בסדר גודל כזה, ומדוע האמריקאים לא הצליחו להבין אותם. למה הסתירו ה-CIA וה-FBA מידע זה מזה, באופן שמנע את סיכול הפיגוע, והאם האשם בכלל בהנהגה הפוליטית? כיצד הפלילו את עיראק בקשר עם אל קאעדה, תיאורית שווא שהובילה את וושינגטון לאחת מההסתבכויות החמורות בתולדותיה? לבסוף, נדבר על כשלי מודיעין והדרך להתמודד איתם, אז, כיום ובעתיד.</description>
+                        <content:encoded>שיחה על פיגועי ה11 בספטמבר מפרספקטיבה של 20 שנה אחרי. איך במבט לאחור אנחנו מנתחים את גורם ההפתעה, למה מנגנוני המודיעין של ארה"ב לא עצרו את הפיגועים ומה השינויים שחלו מאז. 
+#הסטוריה 
+
+סוכן משולש - 46
+
+https://pca.st/episode/0bf028db-6d33-40f6-b1d8-c60e5db01557&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק הנוכחי של "סוכן משולש" אנחנו מארחים את יורם שוייצר, ראש התוכנית ללימודי טרור במכון ללימודי ביטחון לאומי. ביחד איתו, נצא למסע לבסיסיו המרוחקים של ארגון הטרור אל קאעדה, בניסיון לגלות כיצד הצליחו בן לאדן ואנשיו להפתיע את מערכת המודיעין המשומנת של ארה"ב ולהפיל את מגדלי התאומים בניו יורק. נכיר את ההיררכיה המבצעית של אל קאעדה, וכמה מסוכני המודיעין האמריקאים שלחמו נגדה. נשאל מה הסימנים המעידים לפיגוע בסדר גודל כזה, ומדוע האמריקאים לא הצליחו להבין אותם. למה הסתירו ה-CIA וה-FBA מידע זה מזה, באופן שמנע את סיכול הפיגוע, והאם האשם בכלל בהנהגה הפוליטית? כיצד הפלילו את עיראק בקשר עם אל קאעדה, תיאורית שווא שהובילה את וושינגטון לאחת מההסתבכויות החמורות בתולדותיה? לבסוף, נדבר על כשלי מודיעין והדרך להתמודד איתם, אז, כיום ובעתיד.</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/t9ufgu/_46apzng.mp3" length="44625366" type="audio/mpeg"/>
+        <itunes:subtitle>בפרק הנוכחי של "סוכן משולש" אנחנו מארחים את יורם שוייצר, ראש התוכנית ללימודי טרור במכון ללימודי ביטחון לאומי. ביחד איתו, נצא למסע לבסיסיו המרוחקים של ארגון הטרור אל קאעדה, בניסיון לגלות כיצד הצליחו בן לאדן ואנשיו להפתיע את מערכת המודיעין המשומנת של ארה"ב...</itunes:subtitle>
+        <itunes:summary>שיחה על פיגועי ה11 בספטמבר מפרספקטיבה של 20 שנה אחרי. איך במבט לאחור אנחנו מנתחים את גורם ההפתעה, למה מנגנוני המודיעין של ארה"ב לא עצרו את הפיגועים ומה השינויים שחלו מאז. 
+#הסטוריה 
+
+סוכן משולש - 46
+
+https://pca.st/episode/0bf028db-6d33-40f6-b1d8-c60e5db01557&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק הנוכחי של "סוכן משולש" אנחנו מארחים את יורם שוייצר, ראש התוכנית ללימודי טרור במכון ללימודי ביטחון לאומי. ביחד איתו, נצא למסע לבסיסיו המרוחקים של ארגון הטרור אל קאעדה, בניסיון לגלות כיצד הצליחו בן לאדן ואנשיו להפתיע את מערכת המודיעין המשומנת של ארה"ב ולהפיל את מגדלי התאומים בניו יורק. נכיר את ההיררכיה המבצעית של אל קאעדה, וכמה מסוכני המודיעין האמריקאים שלחמו נגדה. נשאל מה הסימנים המעידים לפיגוע בסדר גודל כזה, ומדוע האמריקאים לא הצליחו להבין אותם. למה הסתירו ה-CIA וה-FBA מידע זה מזה, באופן שמנע את סיכול הפיגוע, והאם האשם בכלל בהנהגה הפוליטית? כיצד הפלילו את עיראק בקשר עם אל קאעדה, תיאורית שווא שהובילה את וושינגטון לאחת מההסתבכויות החמורות בתולדותיה? לבסוף, נדבר על כשלי מודיעין והדרך להתמודד איתם, אז, כיום ובעתיד.</itunes:summary>
+        <itunes:author>dannyorbach</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>50:35</itunes:duration>
+                <itunes:episode>48</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/8107163/_2_9rprw.jpg"/>    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>When Luddites Attack (Classic)</title>
+      <description>הסיפור של הלודיטים בהנהגתו של נד לוד (שכנראה לא היה קיים). היה זמן שבו המהפכה התעשייתית נראתה כמשהו שאפשר למנוע והלודיטים ניסו לעשות בדיוק את זה, לעצור את המהפכה. כינו אותם לא רציונליים ולא הגיוניים ובשיחה דווקא מתברר שהם היו מאוד רציונליים. אולי לא צודקים לטווח הארוך אבל בקצר - הגיון מאוד ברור. 
+#הסטוריה #כלכלה #טכנולוגיה #אנגלית
+
+Planet money - 1468
+
+https://pca.st/episode/cefe7747-473c-45d5-9dbd-74c5cc2172b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A couple centuries ago, a group of English clothworkers set out to destroy the machines that had been taking their jobs. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Wed, 29 Sep 2021 05:01:02 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">7ef63d80-e5f7-4117-a7d3-31f83d3c2c05</guid>
+      <link>https://www.npr.org/2021/09/24/1040606747/when-luddites-attack-classic</link>
+      <itunes:title>When Luddites Attack (Classic)</itunes:title>
+      <itunes:episode>1468</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>הסיפור של הלודיטים בהנהגתו של נד לוד (שכנראה לא היה קיים). היה זמן שבו המהפכה התעשייתית נראתה כמשהו שאפשר למנוע והלודיטים ניסו לעשות בדיוק את זה, לעצור את המהפכה. כינו אותם לא רציונליים ולא הגיוניים ובשיחה דווקא מתברר שהם היו מאוד רציונליים. אולי לא צודקים לטווח הארוך אבל בקצר - הגיון מאוד ברור. 
+#הסטוריה #כלכלה #טכנולוגיה #אנגלית
+
+Planet money - 1468
+
+https://pca.st/episode/cefe7747-473c-45d5-9dbd-74c5cc2172b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A couple centuries ago, a group of English clothworkers set out to destroy the machines that had been taking their jobs. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2021/09/24/gettyimages-679510604_wide-64cd1866746fd3d07427a087ecd9302cee2e4020.jpg?s=1400"/>
+      <itunes:duration>1127</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>הסיפור של הלודיטים בהנהגתו של נד לוד (שכנראה לא היה קיים). היה זמן שבו המהפכה התעשייתית נראתה כמשהו שאפשר למנוע והלודיטים ניסו לעשות בדיוק את זה, לעצור את המהפכה. כינו אותם לא רציונליים ולא הגיוניים ובשיחה דווקא מתברר שהם היו מאוד רציונליים. אולי לא צודקים לטווח הארוך אבל בקצר - הגיון מאוד ברור. 
+#הסטוריה #כלכלה #טכנולוגיה #אנגלית
+
+Planet money - 1468
+
+https://pca.st/episode/cefe7747-473c-45d5-9dbd-74c5cc2172b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A couple centuries ago, a group of English clothworkers set out to destroy the m</content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/09/20210924_pmoney_pmpodludditesrerun__1.mp3?awCollectionId=510289&amp;awEpisodeId=1040606747&amp;orgId=1&amp;d=1127&amp;p=510289&amp;story=1040606747&amp;t=podcast&amp;e=1040606747&amp;size=18046729&amp;ft=pod&amp;f=510289" length="18046729" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>כשבגרוש היה שנקל - המיסים ההזויים [כשבגרוש היה חור]</title><link>https://www.spreaker.com/user/pimedia/mst-s-g-4groosh</link><description>פרק כייפי על מיסים הזויים (במיוחד). 
+פרק משותף בין "כשבגרוש היה חור" עם "שנקל". 
+#כלכלה #קצרים 
+
+כשבגרוש היה חור - המיסים ההזויים
+
+https://pca.st/episode/8dd85175-e44b-4009-aafc-03a61c61a27d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!&lt;br /&gt;בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46690594</guid><pubDate>Fri, 01 Oct 2021 09:51:53 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46690594/mst_s_g_4groosh.mp3" length="47452649" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!
+בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.
+
+האזנה נעימה,
+רועי.
+
+
+https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/</itunes:subtitle><itunes:summary>פרק כייפי על מיסים הזויים (במיוחד). 
+פרק משותף בין "כשבגרוש היה חור" עם "שנקל". 
+#כלכלה #קצרים 
+
+כשבגרוש היה חור - המיסים ההזויים
+
+https://pca.st/episode/8dd85175-e44b-4009-aafc-03a61c61a27d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!&lt;br /&gt;בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/&lt;/a&gt;</itunes:summary><itunes:duration>2966</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!
+בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.
+
+האזנה נעימה,
+רועי.
+
+
+https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1112043829</guid>
+      <title>הוא משקיע. גם בכתיבה. - פופקורן 211 עם דניאל שנער</title>
+      <pubDate>Fri, 01 Oct 2021 09:51:56 +0000</pubDate>
+      <link>https://soundcloud.com/hamutsi/211-daniel-shinar</link>
+      <itunes:duration>01:22:00</itunes:duration>
+      <itunes:author>ליאור פרנקל</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...
+#סיפורמעניין #שיפורעצמי
+
+פופקורן - 221
+
+https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+
+דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיונו כקצין מודיעין - ועל כן נדרשו לאישור הצנזורה כדי לצאת לאור. נפגשנו לדבר על שתי האהבות האלו שלו.
+
+אז איך עובדת קרן השקעות? אילו שאלות כל היזמים שואלים, גם כשהם מצליחים? למה הוא הוא מרגיש שלא היה יכול להתמקד רק בכתיבה? למה היה צריך את אישור הצנזורה? מה השיטה שעזרה לו לסיים את הספרים שלו בתור אדם עסוק מאד? והאם הסיפורים שהוא פוגש כמשקיע מתערבבים לתוך הספרים שהוא כותב?</itunes:summary>
+      <itunes:subtitle>איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי…</itunes:subtitle>
+      <description>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...
+#סיפורמעניין #שיפורעצמי
+
+פופקורן - 221
+
+https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+
+דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיו</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1112043829-hamutsi-211-daniel-shinar.mp3" length="78737996"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-NzM1bdGKF97v9GK7-yfwJLw-t3000x3000.jpg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>חומות חימר | מרגלית צנעני</title>
+      <itunes:title>חומות חימר | מרגלית צנעני</itunes:title>
+      <description>שבוע שעבר היה כנס פודקאסטים בשם "פודקאסטים על הבמה" אז חוץ מזה שהיה מעולה גם גיליתי כמה פודקאסטים חדשים וגם קיבלתי המלצה על הפרק הזה של שיר אחד שכנראה לא הייתי מקשיבה לו אחרת. 
+מרגלית צנעני והשיר חומות חימר - שיר חזק עם מילים מדהימות.
+#מוזיקה #השראה
+
+שיר אחד - חומות חימר
+
+https://pca.st/episode/4064c900-50f3-480d-a3ed-2edd9a936a35&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שתי ילדות גדלו בתחושה שהן אחרות, מורדות. אחת - צברית אשכנזיה מקיבוץ שפיים, והשנייה - בת ליוצאי תימן משיכון בנתניה. המפגש ביניהן יצר שיר שהפך להמנון נשי וסמל למרד
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>שבוע שעבר היה כנס פודקאסטים בשם "פודקאסטים על הבמה" אז חוץ מזה שהיה מעולה גם גיליתי כמה פודקאסטים חדשים וגם קיבלתי המלצה על הפרק הזה של שיר אחד שכנראה לא הייתי מקשיבה לו אחרת. 
+מרגלית צנעני והשיר חומות חימר - שיר חזק עם מילים מדהימות.
+#מוזיקה #השראה
+
+שיר אחד - חומות חימר
+
+https://pca.st/episode/4064c900-50f3-480d-a3ed-2edd9a936a35&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שתי ילדות גדלו בתחושה שהן אחרות, מורדות. אחת - צברית אשכנזיה מקיבוץ שפיים, והשנייה - בת ליוצאי תימן משיכון בנתניה. המפגש ביניהן יצר שיר שהפך להמנון נשי וסמל למרד
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>שבוע שעבר היה כנס פודקאסטים בשם "פודקאסטים על הבמה" אז חוץ מזה שהיה מעולה גם גיליתי כמה פודקאסטים חדשים וגם קיבלתי המלצה על הפרק הזה של שיר אחד שכנראה לא הייתי מקשיבה לו אחרת. 
+מרגלית צנעני והשיר חומות חימר - שיר חזק עם מילים מדהימות.
+#מוזיקה #השראה
+
+שיר אחד - חומות חימר
+
+https://pca.st/episode/4064c900-50f3-480d-a3ed-2edd9a936a35&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שתי ילדות גדלו בתחושה שהן אחרות, מורדות. אחת - צברית אשכנזיה מקיבוץ שפיים, והשנייה - בת ליוצאי תימן משיכון בנתניה. המפגש ביניהן יצר שיר שהפך להמנון נשי וסמל למרד
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b8d7b53f-244f-44bb-84c3-aa0601413e81/image.jpg?t=1551736925&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b8d7b53f-244f-44bb-84c3-aa0601413e81/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1559731743" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/one-song/b8d7b53f-244f-44bb-84c3-aa0601413e81/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b8d7b53f-244f-44bb-84c3-aa0601413e81/image.jpg?t=1551736925&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">b8d7b53f-244f-44bb-84c3-aa0601413e81</guid>
+      <omny:clipId>b8d7b53f-244f-44bb-84c3-aa0601413e81</omny:clipId>
+      <pubDate>Sun, 03 Oct 2021 09:00:04 +0000</pubDate>
+      <itunes:duration>1378</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b8d7b53f-244f-44bb-84c3-aa0601413e81/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1559731743" length="22081812" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/one-song/b8d7b53f-244f-44bb-84c3-aa0601413e81</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>הולמס חלק א׳</title>
+      <guid isPermaLink="false">610c3a34f231ba0f6021672b</guid>
+      <description>משהו קליל לסופ"ש - שיחה ב3 פרקים על שרלוק הולמס. שתי קוראות ותיקות שאוהבות את הז'אנר מדברות על ההרפתקאות השונות של הבלש המפורסם ועל מערכות היחסים שלו עם ווטסון ועם עצמו. 
+#ספרות #סיפורמעניין
+
+האחיות גרים - 84 הולמס
+
+https://pca.st/episode/2fe95adf-2e9d-4956-94c4-a890da050e36
+https://pca.st/episode/c48ce5fd-d315-4a2e-8cb0-75e0c9a9d16a
+https://pca.st/episode/f4a508b1-87cc-4c32-85d6-b6d2ae39ec1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק שמונים וארבעה ובו נשלוף זכוכית מגדלת ומקטרת ונלך אל האפלה בעקבותיו המפותלים של הבלש (בהא הידיעה)</description>
+      <category>grim</category>
+      <pubDate>Fri, 08 Oct 2021 05:32:02 +0000</pubDate>
+      <isPremiumContent>no</isPremiumContent>
+      <enclosure url="https://www1.nobexpartners.com/ODItem.aspx?id=610c3a34f231ba0f6021672b.74230.a.mp3" type="audio/mpeg" length="31472326"/>
+      <itunes:duration>1311</itunes:duration>
+      <itunes:subtitle>פרק שמונים וארבעה ובו נשלוף זכוכית מגדלת ומקטרת ונלך אל האפלה בעקבותיו המפותלים של הבלש (בהא הידיעה)</itunes:subtitle>
+      <itunes:summary>משהו קליל לסופ"ש - שיחה ב3 פרקים על שרלוק הולמס. שתי קוראות ותיקות שאוהבות את הז'אנר מדברות על ההרפתקאות השונות של הבלש המפורסם ועל מערכות היחסים שלו עם ווטסון ועם עצמו. 
+#ספרות #סיפורמעניין
+
+האחיות גרים - 84 הולמס
+
+https://pca.st/episode/2fe95adf-2e9d-4956-94c4-a890da050e36
+https://pca.st/episode/c48ce5fd-d315-4a2e-8cb0-75e0c9a9d16a
+https://pca.st/episode/f4a508b1-87cc-4c32-85d6-b6d2ae39ec1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק שמונים וארבעה ובו נשלוף זכוכית מגדלת ומקטרת ונלך אל האפלה בעקבותיו המפותלים של הבלש (בהא הידיעה)</itunes:summary>
+      <itunes:image href="https://www1.nobexpartners.com/ODItem.aspx?id=610c3a34f231ba0f6021672b.74230.i.jpeg"/>
+      <media:content url="https://www1.nobexpartners.com/ODItem.aspx?id=610c3a34f231ba0f6021672b.74230.a.mp3" fileSize="31472326" duration="1311" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">514ce02b-de23-4749-b2d9-b4376c0a6b3b</guid>
+      <title>47. Robert Axelrod on Why Being Nice, Forgiving, and Provokable are the Best Strategies for Life</title>
+      <description>שיחה על דילמת האסיר מתוך תורת המשחקים. הנקודה המעניינת היא איך משחקים את המשחק הרבה פעמים ברצף ואיך אפשר ללמוד מזה על האסטרטגיות הטובות ביותר להרוויח במשחק. 
+#פסיכולוגיה #אסטרטגיה #אנגלית
+
+People I mostly admire - 47
+
+https://pca.st/episode/f2206d7c-5053-4275-8d4a-62d4e0e5581a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The prisoner’s dilemma is a classic game-theory problem. Robert, a political scientist at the University of Michigan, has spent his career studying it — and the ways humans can cooperate, or betray each other, for their own benefit. He and Steve talk about the best way to play it and how it shows up in real world situations, from war zones to Steve’s own life.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 08 Oct 2021 05:32:46 +0000</pubDate>
+      <author>radio@freakonomics.com (Freakonomics Radio + Stitcher)</author>
+      <link>https://people-i-mostly-admire.simplecast.com/episodes/robert-axelrod-on-why-being-nice-forgiving-and-provokable-are-the-best-strategies-for-life-3OlKQTY0</link>
+      <content:encoded>שיחה על דילמת האסיר מתוך תורת המשחקים. הנקודה המעניינת היא איך משחקים את המשחק הרבה פעמים ברצף ואיך אפשר ללמוד מזה על האסטרטגיות הטובות ביותר להרוויח במשחק. 
+#פסיכולוגיה #אסטרטגיה #אנגלית
+
+People I mostly admire - 47
+
+https://pca.st/episode/f2206d7c-5053-4275-8d4a-62d4e0e5581a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The prisoner’s dilemma is a classic game-theory problem. Robert, a political scientist at the University of Michigan, has spent his career studying it — and the ways humans can cooperate, or betray each other, for their own benefit. He and Steve talk about the best way to play it and how it shows up in real world situations, from war zones to Steve’s own life.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="43187973" type="audio/mpeg" url="https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/2b111688-246c-4b06-9e6e-c18015cf7bb1/episodes/c70e2443-5c76-4b53-8679-17eb1a8f40da/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b111688-246c-4b06-9e6e-c18015cf7bb1&amp;awEpisodeId=c70e2443-5c76-4b53-8679-17eb1a8f40da&amp;feed=rP60Wf24"/>
+      <itunes:title>47. Robert Axelrod on Why Being Nice, Forgiving, and Provokable are the Best Strategies for Life</itunes:title>
+      <itunes:author>Freakonomics Radio + Stitcher</itunes:author>
+      <itunes:duration>00:44:59</itunes:duration>
+      <itunes:summary>שיחה על דילמת האסיר מתוך תורת המשחקים. הנקודה המעניינת היא איך משחקים את המשחק הרבה פעמים ברצף ואיך אפשר ללמוד מזה על האסטרטגיות הטובות ביותר להרוויח במשחק. 
+#פסיכולוגיה #אסטרטגיה #אנגלית
+
+People I mostly admire - 47
+
+https://pca.st/episode/f2206d7c-5053-4275-8d4a-62d4e0e5581a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The prisoner’s dilemma is a classic game-theory problem. Robert, a political scientist at the University of Michigan, has spent his career studying it — and the ways humans can cooperate, or betray each other, for their own benefit. He and Steve talk about the best way to play it and how it shows up in real world situations, from war zones to Steve’s own life.&lt;/p</itunes:summary>
+      <itunes:subtitle>The prisoner’s dilemma is a classic game-theory problem. Robert, a political scientist at the University of Michigan, has spent his career studying it — and the ways humans can cooperate, or betray each other, for their own benefit. He and Steve talk about the best way to play it and how it shows up in real world situations, from war zones to Steve’s own life.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>The Rent Help Is Too Damn Slow</title>
+      <description>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. 
+#כלכלה #אנגלית 
+
+Planet money - The Rent Help Is Too Damn Slow
+
+https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Sun, 10 Oct 2021 06:01:02 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">8edc9547-d7fb-4bb5-9348-be49c98ed64a</guid>
+      <link>https://www.npr.org/2021/10/01/1042525315/the-rent-help-is-too-damn-slow</link>
+      <itunes:title>The Rent Help Is Too Damn Slow</itunes:title>
+      <itunes:episode>1470</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. 
+#כלכלה #אנגלית 
+
+Planet money - The Rent Help Is Too Damn Slow
+
+https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2021/10/01/gettyimages-530956768_wide-5d44721d7f9092cf4af127f7aaecca1d3655f0b3.jpg?s=1400"/>
+      <itunes:duration>1449</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. 
+#כלכלה #אנגלית 
+
+Planet money - The Rent Help Is Too Damn Slow
+
+https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/10/20211001_pmoney_pmpod1116.mp3?awCollectionId=510289&amp;awEpisodeId=1042525315&amp;orgId=1&amp;d=1449&amp;p=510289&amp;story=1042525315&amp;t=podcast&amp;e=1042525315&amp;size=23185955&amp;ft=pod&amp;f=510289" length="23185955" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>דילוגי אותיות בתנ"ך- נבואות מוצפנות או פסאודו מדע? [עושים תנ"ך]</title><link>https://www.spreaker.com/user/pimedia/dilugimrc_1</link><description>פרק מאוד מסקרן על הצופן התנ"כי. מה הבסיס הסטטיסטי שעליו מבוססת תיאוריית הצופן, מה הציג רב המכר "הצופן התנכי"והאם תוכלו למצוא מה העתיד צופן לכם גם בתוך מלחמה ושלום :) 
+#הסטוריה #סיפורמעניין
+
+עושים תנ"ך - דילוגי אותיות בתנ"ך- נבואות מוצפנות או פסאודו מדע? 
+
+https://pca.st/episode/f952378b-5c8f-4c9b-92c7-717168f337d2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בשנת 1997 פרסם העיתונאי מייקל דרוזנין את ספרו "הצופן התנ"כי" שהפך עד מהרה לרב מכר עולמי. בספר נטען כי התורה מלאה בצפנים נסתרים המוחבאים בצורה של דילוגי אותיות וביכולתם  לחזות את העתיד. רעיון הצופן התנ"כי מועלה לא פעם על מנת לאשש את הטענה כי התנ"ך נכתב בהשראה אלוהית, אם כי דרוזנין עצמו ייחס את ההצפנה לחוצנים בעלי יכולת טכנולוגית מתקדמת. לכאורה- פסאודו מדע, רעיון שאנו ב"עושים תנ"ך היינו פוסלים על הסף כיוון שלכאורה הרעיון אינו עומד באמות המידה המדעיות המקובלות.&lt;br /&gt;האמנם? מסתבר כי כבר בשנת 1994 פרסמו 3 מדענים ישראליים מאמר מדעי בכתב העת Statistical Science שעליו נסמך ספרו רב המכר של דרוזנין.&lt;br /&gt;בשעתו אפילו חתן פרס נובל, המתמטיקאי ישראל אומן, תמך במאמר וקיבל את תוצאותיו. &lt;br /&gt;האם אכן יש דברים בגו? האם באמת יש צפנים מוסתרים בתנ"ך? האם המאמר עומד באמות המידה המדעיות? מה היו הכשלים במאמר ומה התגובות של מתמטיקאים עמיתים למסקנות שעלו ממנו? ספוילר - אפילו פרופ' אומן חזר בו לבסוף מתמיכתו במסקנות המאמר. אבל...אולי בכל זאת יש בתורה מימד נסתר? ד"ר אבי דנטלסקי מתארח באולפן וצולל יחד איתי אל עומקם של הכתובים.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;יותם.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/10/04/jamesrichardson-osimtanach-otiyot/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/10/04/jamesrichardson-osimtanach-otiyot/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46809707</guid><pubDate>Tue, 12 Oct 2021 10:01:02 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46809707/dilugimrc.mp3" length="43159379" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>בשנת 1997 פרסם העיתונאי מייקל דרוזנין את ספרו "הצופן התנ"כי" שהפך עד מהרה לרב מכר עולמי. בספר נטען כי התורה מלאה בצפנים נסתרים המוחבאים בצורה של דילוגי אותיות וביכולתם  לחזות את העתיד. רעיון הצופן התנ"כי מועלה לא פעם על מנת לאשש את הטענה כי התנ"ך נכתב...</itunes:subtitle><itunes:summary>פרק מאוד מסקרן על הצופן התנ"כי. מה הבסיס הסטטיסטי שעליו מבוססת תיאוריית הצופן, מה הציג רב המכר "הצופן התנכי"והאם תוכלו למצוא מה העתיד צ</itunes:summary><itunes:duration>2698</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d46b277294b6219f33940877927c8e40.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>בשנת 1997 פרסם העיתונאי מייקל דרוזנין את ספרו "הצופן התנ"כי" שהפך עד מהרה לרב מכר עולמי. בספר נטען כי התורה מלאה בצפנים נסתרים המוחבאים בצורה של דילוגי אותיות וביכולתם  לחזות את העתיד. רעיון הצופן התנ"כי מועלה לא פעם על מנת לאשש את הטענה כי התנ"ך נכתב בהשראה אלוהית, אם כי דרוזנין עצמו ייחס את ההצפנה לחוצנים בעלי יכולת טכנולוגית מתקדמת. לכאורה- פסאודו מדע, רעיון שאנו ב"עושים תנ"ך היינו פוסלים על הסף כיוון שלכאורה הרעיון אינו עומד באמות המידה המדעיות המקובלות.
+האמנם? מסתבר כי כבר בשנת 1994 פרסמו 3 מדענים ישראליים מאמר מדעי בכתב העת Statistical Science שעליו נסמך ספרו רב המכר של דרוזנין.
+בשעתו אפילו חתן פרס נובל, המתמטיקאי ישראל אומן, תמך במאמר וקיבל את תוצאותיו. 
+האם אכן יש דברים בגו? האם באמת יש צפנים מוסתרים בתנ"ך? האם המאמר עומד באמות המידה המדעיות? מה היו הכשלים במאמר ומה התגובות של מתמטיקאים עמיתים למסקנות שעלו ממנו? ספוילר - אפילו פרופ' אומן חזר בו לבסוף מתמיכתו במסקנות המאמר. אבל...אולי בכל זאת יש בתורה מימד נסתר? ד"ר אבי דנטלסקי מתארח באולפן וצולל יחד איתי אל עומקם של הכתובים.
+
+האזנה נעימה,
+יותם.
+
+
+https://www.ads.ranlevi.com/2021/10/04/jamesrichardson-osimtanach-otiyot/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/d46b277294b6219f33940877927c8e40.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>איך לנצח באבן נייר ומספריים? [התשובה]</title><link>https://www.spreaker.com/user/pimedia/rpsmsst</link><description>איך מנצחים במשחק "אבן, נייר ומספריים"? 
+תחילה הפרק סוקר את מקורות המשחק ואז מתמקד בתחרויות הסמי מקצועיות שנערכו למשך מספר שנים. בעיקר פרק כייפי שמערב ממש מעט סטטיסטיקה.
+#סיפורמעניין #הסטוריה
+
+התשובה - איך לנצח באבן נייר ומספריים? 
+
+https://pca.st/episode/bb636cbf-7d7f-4c4c-90e8-1a9630bd51ce
+
+ואם אתם סקרנים מי ניצח - דורון או המאזינים, תקשיבו לפרק ההמשך שיצא השבוע:
+https://pca.st/episode/60eee1a7-38cb-42b0-9e7d-5e2248d6ef32&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מאיפה הגיעו האבן, הנייר והמספריים? מאיפה הרעיון המשונה שנייר מנצח אבן? והכי חשוב: האם למרות הכל ישנה אסטרטגיה מנצחת במשחק הזה? כן, יש תשובות.&lt;br /&gt;&lt;br /&gt;קישור לטופס - שחקו באבן נייר ומספריים נגד דורון פישלר&lt;br /&gt;&lt;a href="https://tiny.cc/doronfishler" rel="noopener"&gt;https://tiny.cc/doronfishler&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;לינקים למאמרים שהוזכרו בפרק:&lt;br /&gt;Social cycling and conditional responses in the Rock-Paper-Scissors game&lt;br /&gt;&lt;a href="https://arxiv.org/pdf/1404.5199v1.pdf" rel="noopener"&gt;https://arxiv.org/pdf/1404.5199v1.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Behavior in Strategic Settings: Evidence from a Million Rock-Paper-Scissors Games&lt;br /&gt;&lt;a href="https://www.mdpi.com/2073-4336/10/2/18" rel="noopener"&gt;https://www.mdpi.com/2073-4336/10/2/18&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Cycles in War&lt;br /&gt;&lt;a href="http://math.colgate.edu/~integers/kg2/kg2.pdf" rel="noopener"&gt;http://math.colgate.edu/~integers/kg2/kg2.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;שחקו אבן נייר ומספריים נגד המחשב&lt;br /&gt;&lt;a href="https://www.afiniti.com/corporate/rock-paper-scissors" rel="noopener"&gt;https://www.afiniti.com/corporate/rock-paper-scissors&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/10/04/panda-hatshuva-even-niyar/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/10/04/panda-hatshuva-even-niyar/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46814706</guid><pubDate>Thu, 14 Oct 2021 13:00:04 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46814706/rpsmsst.mp3" length="41631702" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>מאיפה הגיעו האבן, הנייר והמספריים? מאיפה הרעיון המשונה שנייר מנצח אבן? והכי חשוב: האם למרות הכל ישנה אסטרטגיה מנצחת במשחק הזה? כן, יש תשובות.
+
+קישור לטופס - שחקו באבן נייר ומספריים נגד דורון פישלר
+https://tiny.cc/doronfishler
+
+לינקים למאמרים שהוזכרו...</itunes:subtitle><itunes:summary>איך מנצחים במשחק "אבן, נייר ומספריים"? 
+תחילה הפרק סוקר את מקורות המשחק ואז מתמקד בתחרויות הסמי מקצועיות שנערכו למשך מספר שנים. בעיקר פרק כייפי שמערב ממש מעט סטטיסטיקה.
+#סיפורמעניין #הסטוריה
+
+התשובה - איך לנצח באבן נייר ומספריים? 
+
+https://pca.st/episode/bb636cbf-7d7f-4c4c-90e8-1a9630bd51ce
+
+ואם אתם סקרנים מי ניצח - דורון או המאזינים, תקשיבו לפרק ההמשך שיצא השבוע:
+https://pca.st/episode/60eee1a7-38cb-42b0-9e7d-5e2248d6ef32&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מאיפה הגיעו האבן, הנייר והמספריים? מאיפה הרעיון המשונה שנייר מנצח אבן? והכי חשוב: האם למרות הכל ישנה אסטרטגיה מנצחת במשחק הזה? כן, יש תשובות.&lt;br /&gt;&lt;br /&gt;קישור לטופס - שחקו באבן נייר ומספריים נגד דורון פישלר&lt;br /&gt;&lt;a href="https://tiny.cc/doronfishler" rel="noopener"&gt;https://tiny.cc/doronfishler&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;לינקים למאמרים שהוזכרו בפרק:&lt;br /&gt;Social cycling and conditional responses in the Rock-Paper-Scissors game&lt;br /&gt;&lt;a href="https://arxiv.org/pdf/1404.5199v1.pdf" rel="noopener"&gt;https://arxiv.org/pdf/1404.5199v1.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Behavior in Strategic Settings: Evidence from a Million Rock-Paper-Scissors Games&lt;br /&gt;&lt;a href="https://www.mdpi.com/2073-4336/10/2/18" rel="noopener"&gt;https://www.mdpi.com/2073-4336/10/2/18&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Cycles in War&lt;br /&gt;&lt;a href="http://math.colgate.edu/~integers/kg2/kg2.pdf" rel="noopener"&gt;http://math.colgate.edu/~integers/kg2/kg2.pdf&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;שחקו אבן נייר ומספריים נגד המחשב&lt;br /&gt;&lt;a href="https://www.afiniti.com/corporate/rock-paper-scissors" rel="noopener"&gt;https://www.afiniti.com/corporate/rock-paper-scissors&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/10/04/panda-hatshuva-even-niyar/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/10/04/panda-hatshuva-even-niyar/&lt;/a&gt;</itunes:summary><itunes:duration>2602</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>מאיפה הגיעו האבן, הנייר והמספריים? מאיפה הרעיון המשונה שנייר מנצח אבן? והכי חשוב: האם למרות הכל ישנה אסטרטגיה מנצחת במשחק הזה? כן, יש תשובות.
+
+קישור לטופס - שחקו באבן נייר ומספריים נגד דורון פישלר
+https://tiny.cc/doronfishler
+
+לינקים למאמרים שהוזכרו בפרק:
+Social cycling and conditional responses in the Rock-Paper-Scissors game
+https://arxiv.org/pdf/1404.5199v1.pdf
+
+Behavior in Strategic Settings: Evidence from a Million Rock-Paper-Scissors Games
+https://www.mdpi.com/2073-4336/10/2/18
+
+Cycles in War
+http://math.colgate.edu/~integers/kg2/kg2.pdf
+
+שחקו אבן נייר ומספריים נגד המחשב
+https://www.afiniti.com/corporate/rock-paper-scissors
+
+
+
+
+https://www.ads.ranlevi.com/2021/10/04/panda-hatshuva-even-niyar/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>142. Zero</title>
+      <itunes:title>142. Zero</itunes:title>
+      <description>ההסטוריה הקצרה של המספר 0. 
+דרך המקורות, המשמעויות והרגעים שבכלל אסרו את השימוש בו. 
+#כלכלה #הסטוריה #אנגלית
+
+The allusionist - 142
+
+https://pca.st/episode/80de6b0d-9a24-4f77-a9cb-02f9bf4bb672&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Did any number cause as much trouble as zero? It stranded ships; it scrambles the brains of mathematicians, calendar users and computers; it even got itself banned in Florence. Math(s) communicator and drag queen Kyne explains the Terminator of numbers.
+
+Find out more about this episode at theallusionist.org/zero. And submit requests for words you'd like me to investigate in the next episode at theallusionist.org/requests.
+
+Until 4 October 2021, you can stream the London Podfest performance of the new Allusionist stage show, full of eponyms, music and planets. Link is at theallusionist.org/events.
+
+Sign up to be a patron at patreon.com/allusionist and as well as supporting the show, you get behind the scenes glimpses, and discounted tickets for the Allusionist stage show.
+
+The music is by Martin Austwick. Hear Martin’s own songs at palebirdmusic.com or search for Pale Bird on Bandcamp and Spotify, and he’s @martinaustwick on Twitter and Instagram. 
+
+The Allusionist's online home is theallusionist.org. Stay in touch at twitter.com/allusionistshow, facebook.com/allusionistshow and instagram.com/allusionistshow.
+
+Our ad partner is Multitude. To sponsor an episode of the show, contact them at multitude.productions/ads. This episode is sponsored by:
+
+• Bombas, makers of the most comfortable socks in the history of feet - and super-smooth undies and T-shirts too. Get 20 percent off your first purchase at bombas.com/allusionist. 
+• Acorn TV, the streaming service featuring hundreds of dramas, mysteries and comedies from around the world. Try Acorn TV free for 30 days, by going to Acorn.TV and using my promo code allusionist. (Be sure to type that code in lower case.) 
+• BetterHelp, online therapy with licensed professional counsellors. Allusionist listeners get 10% off your first month at betterhelp.com/allusionist.
+
+
+
+Support the show: http://patreon.com/allusionist
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>ההסטוריה הקצרה של המספר 0. 
+דרך המקורות, המשמעויות והרגעים שבכלל אסרו את השימוש בו. 
+#כלכלה #הסטוריה #אנגלית
+
+The allusionist - 142
+
+https://pca.st/episode/80de6b0d-9a24-4f77-a9cb-02f9bf4bb672&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Did any number cause as much trouble as zero? It stranded ships; it scrambles the brains of mathematicians, calendar users and computers; it even got itself banned in Florence. Math(s) communicator and drag queen Kyne explains the Terminator of numbers.
+
+Find out more about this episode at theallusionist.org/zero. And submit requests for words you'd like me to investigate in the next episode at theallusionist.org/requests.
+
+Until 4 October 2021, you can stream the London Podfest performance of the new Allusionist stage show, full of eponyms, music and planets. Link is at theallusionist.org/events.
+
+Sign up to be a patron at patreon.com/allusionist and as well as supporting the show, you get behind the scenes glimpses, and discounted tickets for the Allusionist stage show.
+
+The music is by Martin Austwick. Hear Martin’s own songs at paleb</content:encoded>
+      <itunes:summary>ההסטוריה הקצרה של המספר 0. 
+דרך המקורות, המשמעויות והרגעים שבכלל אסרו את השימוש בו. 
+#כלכלה #הסטוריה #אנגלית
+
+The allusionist - 142
+
+https://pca.st/episode/80de6b0d-9a24-4f77-a9cb-02f9bf4bb672&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Did any number cause as much trouble as zero? It stranded ships; it scrambles the brains of mathematicians, calendar users and computers; it even got itself banned in Florence. Math(s) communicator and drag queen Kyne explains the Terminator of numbers.
+
+Find out more about this episode at theallusionist.org/zero. And submit requests for words you'd like me to investigate in the next episode at theallusionist.org/requests.
+
+Until 4 October 2021, you can stream the London Podfest performance of the new Allusionist stage show, full of eponyms, music and planets. Link is at theallusionist.org/events.
+
+Sign up to be a patron at patreon.com/allusionist and as well as supporting the show, you get behind the scenes glimpses, and discounted tickets for the Allusionist stage show.
+
+The music is by Martin Austwick. Hear Martin’s own songs at palebirdmusic.com or search for Pale Bird on Bandcamp and Spotify, and he’s @martinaustwick on Twitter and Instagram. 
+
+The Allusionist's online home is theallusionist.org. Stay in touch at twitter.com/allusionistshow, facebook.com/allusionistshow and instagram.com/allusionistshow.
+
+Our ad partner is Multitude. To sponsor an episode of the show, contact them at multitude.productions/ads. This episode is sponsored by:
+
+• Bombas, makers of the most comfortable socks in the history of feet - and super-smooth undies and T-shirts too. Get 20 percent off your first purchase at bombas.com/allusionist. 
+• Acorn TV, the streaming service featuring hundreds of dramas, mysteries and comedies from around the world. Try Acorn TV free for 30 days, by going to Acorn.TV and using my promo code allusionist. (Be sure to type that code in lower case.) 
+• BetterHelp, online therapy with licensed professional counsellors. Allusionist listeners get 10% off your first month at betterhelp.com/allusionist.
+
+
+
+Support the show: http://patreon.com/allusionist
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <category>Kyne</category>
+      <category>zero</category>
+      <category>nought</category>
+      <category>nothing</category>
+      <category>math</category>
+      <category>maths</category>
+      <category>mathematics</category>
+      <category>arithmetic</category>
+      <category>numbers</category>
+      <category>numerals</category>
+      <category>negative</category>
+      <category>counting</category>
+      <category>Mayans</category>
+      <category>India</category>
+      <category>Brahma Gupta</category>
+      <category>Italy</category>
+      <category>Italian</category>
+      <category>Fibonacci</category>
+      <category>eponyms</category>
+      <category>Hindu-Arabic numerals</category>
+      <category>Arabic</category>
+      <category>Sanskrit</category>
+      <category>Florence</category>
+      <category>calendars</category>
+      <category>history</category>
+      <category>typographical</category>
+      <category>placeholder</category>
+      <category>illegal math</category>
+      <category>imaginary numbers</category>
+      <category>Aristotle</category>
+      <category>voids</category>
+      <category>fraud</category>
+      <category>debt</category>
+      <category>Renaissance</category>
+      <category>printing press</category>
+      <category>errors</category>
+      <category>hippuric</category>
+      <category>words</category>
+      <category>language</category>
+      <category>linguistics</category>
+      <category>education</category>
+      <category>comedy</category>
+      <category>entertainment</category>
+      <category>society &amp; culture</category>
+      <category>arts</category>
+      <category>literature</category>
+      <category>etymology</category>
+      <category>lexicon</category>
+      <category>vocabulary</category>
+      <category>Helen Zaltzman</category>
+      <itunes:keywords>Kyne, zero, nought, nothing, math, maths, mathematics, arithmetic, numbers, numerals, negative, counting, Mayans, India, Brahma Gupta, Italy, Italian, Fibonacci, eponyms, Hindu-Arabic numerals, Arabic, Sanskrit, Florence, calendars, history, typographical, placeholder, illegal math, imaginary numbers, Aristotle, voids, fraud, debt, Renaissance, printing press, errors, hippuric, words, language, linguistics, education, comedy, entertainment, society &amp; culture, arts, literature, etymology, lexicon, vocabulary, Helen Zaltzman</itunes:keywords>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Helen Zaltzman</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/68041908-2539-4da9-8128-adae00da4ca9/image.jpg?t=1632575700&amp;size=Large"/>
+      <media:content url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/68041908-2539-4da9-8128-adae00da4ca9/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/allusionist/zero/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/68041908-2539-4da9-8128-adae00da4ca9/image.jpg?t=1632575700&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">68041908-2539-4da9-8128-adae00da4ca9</guid>
+      <omny:clipId>68041908-2539-4da9-8128-adae00da4ca9</omny:clipId>
+      <pubDate>Thu, 14 Oct 2021 13:01:02 +0000</pubDate>
+      <itunes:duration>1472</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/68041908-2539-4da9-8128-adae00da4ca9/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" length="23603608" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/allusionist/zero</link>
+      <itunes:explicit>clean</itunes:explicit>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>LIBOR pains</title>
       <description>פרק מעניין על ריבית הליבור. ריבית על פיה בנקים בכל העולם מוכנים להלוות כסף אחד לשני. וכמובן שכתוצאה מזה היא משפיעה מאוד על הלוואות, הסכמים וכמעט כל העסקאות שהבנקים עושים בינם לבין עצמם. 
 מסתבר שהריבית סובלת מחולשה של הטייה ע"י הבנקים (כי הם אלו שקובעים את הריבית לעצמם) ולכן עכשיו גורמים שונים בעולם מחפשים מדד חדש שיחליף את הליבור. 
