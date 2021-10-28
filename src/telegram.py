@@ -1,5 +1,6 @@
 import os
 from typing import Iterable, Optional
+import random
 
 from telethon import TelegramClient
 
@@ -22,7 +23,7 @@ class TelegramReader:
         async with TelegramClient('user', api_id, api_hash) as client:
             await client.start()
 
-            async for message in client.iter_messages(channel_name, limit=1):
+            async for message in client.iter_messages(channel_name, limit=random.randint(1, 10)):
                 print(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
