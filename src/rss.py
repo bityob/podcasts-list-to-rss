@@ -49,15 +49,20 @@ class RssGenerator:
                 item = str(connector.item)
                         
                 # Replace item fields
-                xml_item = XML(xml=item)
 
+                # Replace publish date
+                xml_item = XML(xml=item)
                 xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
-                
                 print(f"after={xml_item.lxml.find('pubDate').text}")
+
+                # Prepand text to description
+                original_text = xml_item.lxml.find("description").text
+                xml_item.lxml.find("description").text = f"{message.text}\n\n\n{original_text}"
 
                 # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
 
+                
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
                 # raise
