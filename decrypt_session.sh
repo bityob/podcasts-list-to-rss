@@ -3,5 +3,5 @@
 # Decrypt the file
 # --batch to prevent interactive command
 # --yes to assume "yes" for questions
-gpg --quiet --batch --yes --decrypt --passphrase="$LARGE_SECRET_PASSPHRASE" \
+gpg --quiet --batch --yes --decrypt --passphrase="$SESSION_SECRET_PASSPHRASE" \
 --output $HOME/user.session user.session.gpg

@@ -15,11 +15,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+      - name: Decrypt session secret
+        env:
+          SESSION_SECRET_PASSPHRASE: ${{ secrets.SESSION_SECRET_PASSPHRASE }}
+        run: decrypt_secret.sh
       - name: Run docker container
         env:
           TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
           TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
           TELEGRAM_PUBLIC_CHANNEL_NAME: ${{ secrets.TELEGRAM_PUBLIC_CHANNEL_NAME }}
-          TELEGRAM_PHONE: ${{ secrets.TELEGRAM_PHONE }}
-          TELEGRAM_PASSWORD: ${{ secrets.TELEGRAM_PASSWORD }}
         run: bash build.sh
