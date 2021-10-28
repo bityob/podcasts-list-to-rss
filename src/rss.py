@@ -58,6 +58,8 @@ class RssGenerator:
                         
                 # Replace item fields
                 xml_item = XML(xml=item)
+                print(f"date={message.date}")
+                print(f"date={formatRFC2822(message.date)}")
                 xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_item.xml}{CLOSING_CHANNEL_TAG}")

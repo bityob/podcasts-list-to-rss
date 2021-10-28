@@ -23,7 +23,7 @@ class TelegramReader:
             await client.start()
 
             async for message in client.iter_messages(channel_name, limit=4):
-                print(f"id={message.id}")
+                print(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
                         id=message.id,
