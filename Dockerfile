@@ -16,6 +16,6 @@ COPY requirments.txt .
 RUN pip install -r requirments.txt --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
 COPY src /app
-#COPY user.session /app
+COPY user.session /app
 
 CMD ["python", "main.py"] 
