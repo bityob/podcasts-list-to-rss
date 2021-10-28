@@ -61,7 +61,8 @@ class RssGenerator:
                 xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_item.xml}{CLOSING_CHANNEL_TAG}")
-            except:
-                print(f"Failed with message id={message.id}")
+            except Exception as ex:
+                print(f"Failed with message id={message.id}, error={ex}")
+
 
         return rss_string

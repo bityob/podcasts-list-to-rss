@@ -1,4 +1,6 @@
 import asyncio
+import urllib3
+urllib3.disable_warnings()
 
 from podgen import Podcast, Episode
 
