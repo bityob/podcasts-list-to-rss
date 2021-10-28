@@ -2,9 +2,11 @@ from typing import List
 
 from lxml import etree
 from podgen import Podcast, Episode
+from podgen.util import formatRFC2822
 
 from base import Message
 from pocket_casts import PocketCasts
+from requests_xml import XML
 
 CLOSING_CHANNEL_TAG = "</channel>"
 
@@ -51,7 +53,14 @@ class RssGenerator:
                 print(f"Message id={message.id}...")
                 connector = PocketCasts(message.url)
                 print(f"title={connector.item_title}")
-                rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{connector.item}{CLOSING_CHANNEL_TAG}")
+
+                item = str(connector.item)
+                        
+                # Replace item fields
+                xml_item = XML(xml=item)
+                xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
+
+                rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_item.xml}{CLOSING_CHANNEL_TAG}")
             except:
                 print(f"Failed with message id={message.id}")
 
