@@ -60,10 +60,17 @@ class RssGenerator:
                 xml_item = XML(xml=item)
                 print(f"date={message.date}")
                 print(f"date={formatRFC2822(message.date)}")
+                print(f"before={xml_item.lxml.find('pubDate').text}")
                 xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
+                print(f"after={xml_item.lxml.find('pubDate').text}")
+                # print(f"before={xml_item.xpath('//pubDate', first=True).text}")
+                # xml_item.xpath('//pubDate', first=True).text = formatRFC2822(message.date)
+                # print(f"after={xml_item.xpath('//pubDate', first=True).text}")
+                xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
 
-                rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_item.xml}{CLOSING_CHANNEL_TAG}")
+                rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
+                # raise
                 print(f"Failed with message id={message.id}, error={ex}")
 
 
