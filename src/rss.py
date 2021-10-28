@@ -57,7 +57,7 @@ class RssGenerator:
 
                 # Prepand text to description
                 original_text = xml_item.lxml.find("description").text
-                xml_item.lxml.find("description").text = f"{message.text}\n\n\n{original_text}"
+                xml_item.lxml.find("description").text = f"{message.text}\n\n\n#######\n\n\n{original_text}"
 
                 # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
