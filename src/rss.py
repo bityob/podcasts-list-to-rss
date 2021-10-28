@@ -57,7 +57,7 @@ class RssGenerator:
 
                 # Prepand text to description
                 original_text = xml_item.lxml.find("description").text
-                new_text = f"{message.text}\n\n\n#######\n\n\n{original_text}"
+                new_text = f"{message.text}<br><br><br>#######<br><br><br>{original_text}"
 
                 xml_item.lxml.find("description").text = new_text
                 
