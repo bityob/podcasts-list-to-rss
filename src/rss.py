@@ -36,14 +36,6 @@ class RssGenerator:
         * pubDate - use telegram Message date
         * description - prepand the orignal text with the Message text
         """
-        # for message in self.messages:
-        #     connector = PocketCasts(message.url)
-        #     curr_episode = Episode(
-        #         title=connector.item_title,
-        #         long_summary=message.text,
-        #         publication_date=message.date,
-        #     )
-        #     self.p.episodes.append(curr_episode)
 
         # Rss with only basic fields
         rss_string = str(self.p)
@@ -58,14 +50,12 @@ class RssGenerator:
                         
                 # Replace item fields
                 xml_item = XML(xml=item)
-                print(f"date={message.date}")
-                print(f"date={formatRFC2822(message.date)}")
-                print(f"before={xml_item.lxml.find('pubDate').text}")
+
                 xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
+                
                 print(f"after={xml_item.lxml.find('pubDate').text}")
-                # print(f"before={xml_item.xpath('//pubDate', first=True).text}")
-                # xml_item.xpath('//pubDate', first=True).text = formatRFC2822(message.date)
-                # print(f"after={xml_item.xpath('//pubDate', first=True).text}")
+
+                # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
