@@ -18,7 +18,7 @@ jobs:
       - name: Decrypt session secret
         env:
           SESSION_SECRET_PASSPHRASE: ${{ secrets.SESSION_SECRET_PASSPHRASE }}
-        run: decrypt_session.sh
+        run: bash decrypt_session.sh
       - name: Run docker container
         env:
           TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
