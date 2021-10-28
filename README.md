@@ -2,6 +2,8 @@
 
 Generate an RSS file from Telegram podcasts list
 
+[bit.ly/podcasts-rss](https://bit.ly/podcasts-rss)
+
 ### What was done
 
 - Read messages from Telegram channel
