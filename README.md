@@ -9,7 +9,10 @@ Generate an RSS file from Telegram podcasts list
 - Read messages from Telegram channel
 - Parse each message and get it's episode link 
 - Find the RSS link of the podcast and get the RSS item from it
-- Build an RSS file from all items from all messages 
+- Build an RSS file from all items from all messages
+- Use the original episode XML item and just update those fields:
+  - Publish date - use the Telegram published date instead of the original episode published date
+  - Prepand to episode's description the Telegram message description from 
 - Commit and save the RSS file 
 - Run this flow each 1 hour using GitHub Actions
 
