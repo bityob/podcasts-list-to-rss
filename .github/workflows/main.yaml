@@ -27,34 +27,34 @@ jobs:
         run: bash build.sh
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7.4.0
-          with:
-            add: 'assets/rss.xml'
-            author_name: Yonatan Bitton (via GitHub Actions)
-            author_email: bityob@gmail.com
+        with:
+          add: 'assets/rss.xml'
+          author_name: Yonatan Bitton (via GitHub Actions)
+          author_email: bityob@gmail.com
 
-            # # The local path to the directory where your repository is located. You should use actions/checkout first to set it up.
-            # # Default: '.'
-            # cwd: './path/to/the/repo'
+          # # The local path to the directory where your repository is located. You should use actions/checkout first to set it up.
+          # # Default: '.'
+          # cwd: './path/to/the/repo'
 
-            # # The message for the commit.
-            # # Default: 'Commit from GitHub Actions (name of the workflow)'
-            # message: 'Your commit message'
+          # # The message for the commit.
+          # # Default: 'Commit from GitHub Actions (name of the workflow)'
+          # message: 'Your commit message'
 
-            # The way the action should handle pathspec errors from the add and remove commands. Three options are available:
-            # - ignore -> errors will be logged but the step won't fail
-            # - exitImmediately -> the action will stop right away, and the step will fail
-            # - exitAtEnd -> the action will go on, every pathspec error will be logged at the end, the step will fail.
-            # Default: ignore
-            pathspec_error_handling: exitImmediately
+          # The way the action should handle pathspec errors from the add and remove commands. Three options are available:
+          # - ignore -> errors will be logged but the step won't fail
+          # - exitImmediately -> the action will stop right away, and the step will fail
+          # - exitAtEnd -> the action will go on, every pathspec error will be logged at the end, the step will fail.
+          # Default: ignore
+          pathspec_error_handling: exitImmediately
 
-            # Arguments for the git pull command. Use NO-PULL to avoid the action pulling at all.
-            # Default: '--no-rebase'
-            pull: 'NO-PULL'
+          # Arguments for the git pull command. Use NO-PULL to avoid the action pulling at all.
+          # Default: '--no-rebase'
+          pull: 'NO-PULL'
 
-            # Whether to push the commit and, if any, its tags to the repo. It can also be used to set the git push arguments (see the paragraph below for more info)
-            # Default: true
-            push: true
+          # Whether to push the commit and, if any, its tags to the repo. It can also be used to set the git push arguments (see the paragraph below for more info)
+          # Default: true
+          push: true
 
-            # Whether to use the --signoff option on `git commit` (only boolean values accepted*)
-            # Default: false
-            signoff: true
+          # Whether to use the --signoff option on `git commit` (only boolean values accepted*)
+          # Default: false
+          signoff: true
