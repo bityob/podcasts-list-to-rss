@@ -18,6 +18,7 @@ description = """ערוץ עידכוני הפרקים של יוליה שנרר. 
 דברו איתי כאן:
 https://www.linkedin.com/in/yuliashnerer"""
 website = "https://t.me/podcastsrec"
+image_url = "https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"
 
 
 class RssGenerator:
@@ -27,6 +28,7 @@ class RssGenerator:
             description=description,
             website=website,
             explicit=False,
+            image=image_url,
         )
         self.messages = messages
 
