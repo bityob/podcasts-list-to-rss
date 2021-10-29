@@ -2,7 +2,7 @@
 
 Generate an RSS file from Telegram podcasts list
 
-[bit.ly/podcasts-rss](https://bit.ly/podcasts-rss)
+[bit.ly/podcastsrss](https://bit.ly/podcastsrss)
 
 ### What was done
 
