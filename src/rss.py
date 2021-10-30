@@ -1,4 +1,4 @@
-from typing import List
+from typing import List, Optional
 
 from lxml import etree
 from podgen import Podcast, Episode
@@ -9,6 +9,7 @@ from pocket_casts import PocketCasts
 from requests_xml import XML
 
 CLOSING_CHANNEL_TAG = "</channel>"
+LAST_TELEGRAM_MESSAGE_ID_TAG = "lastTelegramMessageId"
 
 name = "פודקאסט פלייליסט"
 description = """ערוץ עידכוני הפרקים של יוליה שנרר. כאן תמצאו המלצות על פרקים מפודקאסטים שונים. אין סדר או העדפה מסוימים, מה שנשמע מעניין באותו שבוע.
@@ -40,7 +41,9 @@ class RssGenerator:
         """
 
         # Rss with only basic fields
-        rss_string = str(self.p)
+        rss_string: str = str(self.p)
+
+        max_message_id = 0
 
         for message in self.messages:
             try:
@@ -80,12 +83,20 @@ class RssGenerator:
 
                 # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
-
                 
-                rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
+                rss_string: str = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
+
+                max_message_id = max(message.id, max_message_id)
             except Exception as ex:
                 # raise
                 print(f"Failed with message id={message.id}, error={ex}")
+
+        if max_message_id:
+            root = etree.fromstring(rss_string)
+            channel = root.find('channel')
+            last_message_id = etree.SubElement(channel, LAST_TELEGRAM_MESSAGE_ID_TAG)
+            last_message_id.text = str(max_message_id)
+            rss_string = etree.tostring(root, pretty_print=True)
 
 
         return rss_string
