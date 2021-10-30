@@ -92,7 +92,7 @@ class RssGenerator:
                 print(f"Failed with message id={message.id}, error={ex}")
 
         if max_message_id:
-            root = etree.fromstring(rss_string)
+            root = etree.fromstring(bytes(rss_string, encoding='utf8'))
             channel = root.find('channel')
             last_message_id = etree.SubElement(channel, LAST_TELEGRAM_MESSAGE_ID_TAG)
             last_message_id.text = str(max_message_id)
