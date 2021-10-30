@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-  <channel>
+  <channel><lastTelegramMessageId>100</lastTelegramMessageId>
     <title>פודקאסט פלייליסט</title>
     <link>https://t.me/podcastsrec</link>
     <description>ערוץ עידכוני הפרקים של יוליה שנרר. כאן תמצאו המלצות על פרקים מפודקאסטים שונים. אין סדר או העדפה מסוימים, מה שנשמע מעניין באותו שבוע.
@@ -12,7 +12,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 30 Oct 2021 17:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Oct 2021 17:58:57 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">32b8073c-e8ac-491b-8c63-6d7030d4a69b</guid>
@@ -2979,5 +2979,5 @@ Transcript available at www.sporkful.com.</itunes:summary>
       <itunes:duration>1978</itunes:duration>
       <enclosure url="https://chtbl.com/track/288D49/traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/9a16516d-cd6b-428e-a3b3-aac50181710a/11cac36b-a80e-4fff-8dba-ad44010689ce/audio.mp3?utm_source=Podcast&amp;in_playlist=b4dbf52c-d783-4d4a-ab56-aac501817114" length="47516879" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-sporkful/what-mcdonald-s-can-tell-us-about-black-america</link>
-    </item><lastTelegramMessageId>100</lastTelegramMessageId></channel>
+    </item></channel>
 </rss>
