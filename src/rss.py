@@ -1,8 +1,7 @@
-from token import ENCODING
-from typing import List, Optional
+from typing import List
 
 from lxml import etree
-from podgen import Podcast, Episode
+from podgen import Podcast
 from podgen.util import formatRFC2822
 
 from base import Message
