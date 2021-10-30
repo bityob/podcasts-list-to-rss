@@ -93,6 +93,6 @@ class RssGenerator:
                 print(f"Failed with message id={message.id}, error={ex}")
 
         if max_message_id:
-            rss_string = rss_string.replace("<channel>", f"<channel><{LAST_TELEGRAM_MESSAGE_ID_TAG}>{str(max_message_id)}</{LAST_TELEGRAM_MESSAGE_ID_TAG}>")
+            rss_string = rss_string.replace("<channel>", f"<channel>\n<{LAST_TELEGRAM_MESSAGE_ID_TAG}>{str(max_message_id)}</{LAST_TELEGRAM_MESSAGE_ID_TAG}>")
 
         return rss_string

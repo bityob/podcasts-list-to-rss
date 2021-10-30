@@ -18,11 +18,11 @@ class TelegramReader:
             return message.web_preview.url
         return None
 
-    async def gen_messages(self) -> Iterable[Message]:
+    async def gen_messages(self, first_message=0) -> Iterable[Message]:
         async with TelegramClient('user', api_id, api_hash) as client:
             await client.start()
 
-            async for message in client.iter_messages(channel_name, limit=100):
+            async for message in client.iter_messages(channel_name, limit=100, min_id=first_message):
                 print(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
