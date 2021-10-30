@@ -1,3 +1,4 @@
+from token import ENCODING
 from typing import List, Optional
 
 from lxml import etree
@@ -10,6 +11,7 @@ from requests_xml import XML
 
 CLOSING_CHANNEL_TAG = "</channel>"
 LAST_TELEGRAM_MESSAGE_ID_TAG = "lastTelegramMessageId"
+ENCODING = "UTF-8"
 
 name = "פודקאסט פלייליסט"
 description = """ערוץ עידכוני הפרקים של יוליה שנרר. כאן תמצאו המלצות על פרקים מפודקאסטים שונים. אין סדר או העדפה מסוימים, מה שנשמע מעניין באותו שבוע.
@@ -92,11 +94,10 @@ class RssGenerator:
                 print(f"Failed with message id={message.id}, error={ex}")
 
         if max_message_id:
-            root = etree.fromstring(bytes(rss_string, encoding='utf8'))
+            root = etree.fromstring(bytes(rss_string, encoding=ENCODING))
             channel = root.find('channel')
             last_message_id = etree.SubElement(channel, LAST_TELEGRAM_MESSAGE_ID_TAG)
             last_message_id.text = str(max_message_id)
-            rss_string: str = etree.tostring(root, pretty_print=True).decode('utf8')
-
+            rss_string: str = etree.tostring(root, pretty_print=True, encoding=ENCODING, xml_declaration=True).decode(ENCODING)
 
         return rss_string
