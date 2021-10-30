@@ -96,7 +96,7 @@ class RssGenerator:
             channel = root.find('channel')
             last_message_id = etree.SubElement(channel, LAST_TELEGRAM_MESSAGE_ID_TAG)
             last_message_id.text = str(max_message_id)
-            rss_string = etree.tostring(root, pretty_print=True)
+            rss_string: str = etree.tostring(root, pretty_print=True).decode('utf8')
 
 
         return rss_string
