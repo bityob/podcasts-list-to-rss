@@ -47,7 +47,9 @@ class PocketCasts(RssConnector):
 
     @classmethod
     def is_valid_url(cls, url):
-        return cls.url_host in url
+        if url is not None:
+            return cls.url_host in url
+        return False
 
 
         

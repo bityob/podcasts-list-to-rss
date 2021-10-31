@@ -46,7 +46,7 @@ class RssGenerator:
             try:
                 print(f"Message id={message.id}...")
 
-                url = next(PocketCasts.is_valid_url(url) for url in [message.url] + message.urls)
+                url = next(url for url in [message.url] + message.urls if PocketCasts.is_valid_url(url))
 
                 print(f"Found url={url}")
 
@@ -89,9 +89,7 @@ class RssGenerator:
                 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
-                print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
                 import pdb; pdb.set_trace()
-                
-
+                print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
 
         return rss_string

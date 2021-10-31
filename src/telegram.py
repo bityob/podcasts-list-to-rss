@@ -4,7 +4,7 @@ import re
 
 from telethon import TelegramClient
 
-from src.base import Message
+from base import Message
 
 URL_PATTERN = r"(https?://[^\s]+)"
 
