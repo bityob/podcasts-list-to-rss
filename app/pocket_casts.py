@@ -3,7 +3,7 @@ from typing import Optional
 
 from requests_xml import XML, Element, XMLSession
 
-from base import RssConnector 
+from app.base import RssConnector 
 
 
 xml_session = XMLSession()

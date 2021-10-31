@@ -3,10 +3,11 @@ from typing import List
 from lxml import etree
 from podgen import Podcast, Episode
 from podgen.util import formatRFC2822
-
-from base import Message
-from pocket_casts import PocketCasts
 from requests_xml import XML
+
+from app.base import Message
+from app.pocket_casts import PocketCasts
+
 
 CLOSING_CHANNEL_TAG = "</channel>"
 

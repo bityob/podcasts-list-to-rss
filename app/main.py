@@ -4,8 +4,8 @@ urllib3.disable_warnings()
 
 from podgen import Podcast, Episode
 
-from telegram import TelegramReader
-from rss import RssGenerator
+from app.telegram import TelegramReader
+from app.rss import RssGenerator
 
 
 
