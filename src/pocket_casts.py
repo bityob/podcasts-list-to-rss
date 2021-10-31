@@ -10,6 +10,8 @@ xml_session = XMLSession()
 
 
 class PocketCasts(RssConnector):
+    url_host = "pca.st"
+
     """
     Link example: https://pca.st/29rqw2h4
     """
@@ -32,7 +34,7 @@ class PocketCasts(RssConnector):
             if curr_title == title_text:
                 return item.xml
         
-        # Sometimes the title match the itunes title only, check from there if not found
+        # Sometimes the title match the itunes title only, check from there if not found    
         for item in xml.find('item'):
             curr_title = item.lxml.find('itunes:title', namespaces=item.lxml.nsmap).text
             if curr_title == title_text:
@@ -42,6 +44,13 @@ class PocketCasts(RssConnector):
 
     def _get_item_title(self):
         return self.html.find('.section > h1', first=True).text
+
+    @classmethod
+    def is_valid_url(cls, url):
+        if url is not None:
+            return cls.url_host in url
+        return False
+
 
         
 

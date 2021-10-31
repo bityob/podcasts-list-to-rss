@@ -1,6 +1,7 @@
 from functools import cached_property
 from dataclasses import dataclass
 from datetime import datetime
+from typing import List
 
 from requests_html import HTMLSession, Element
 
@@ -49,3 +50,4 @@ class Message:
     text: str
     url: str
     date: datetime
+    urls: List[str]

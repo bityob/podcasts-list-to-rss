@@ -45,17 +45,30 @@ class RssGenerator:
         for message in self.messages:
             try:
                 print(f"Message id={message.id}...")
-                connector = PocketCasts(message.url)
-                print(f"title={connector.item_title}")
 
+                url = next((url for url in [message.url] + message.urls if PocketCasts.is_valid_url(url)), None)
+
+                print(f"Found url={url}")
+
+                if url is None:
+                    print(f"Ignoring message {message.id}, text: {message.text} no url found")
+                    continue
+
+                connector = PocketCasts(url)
+
+                print(f"title={connector.item_title}")
                 item = str(connector.item)
                         
                 # Replace item fields
 
                 # Replace publish date
                 xml_item = XML(xml=item)
-                xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
-                print(f"after={xml_item.lxml.find('pubDate').text}")
+
+                try:
+                    self.update_publish_date(message, xml_item)
+                except AttributeError:
+                    # Sometimes pubDate is in lower
+                    self.update_publish_date(message, xml_item, "pubdate")
 
                 # Prepand text to description
                 original_text = xml_item.lxml.find("description").text
@@ -80,12 +93,14 @@ class RssGenerator:
 
                 # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
-
                 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
-                # raise
-                print(f"Failed with message id={message.id}, error={ex}")
-
+                print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
+                raise
 
         return rss_string
+
+    def update_publish_date(self, message, xml_item, tag="pubDate"):
+        xml_item.lxml.find(tag).text = formatRFC2822(message.date)
+        print(f"after={xml_item.lxml.find(tag).text}")
