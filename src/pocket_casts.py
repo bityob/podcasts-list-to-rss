@@ -21,6 +21,7 @@ class PocketCasts(RssConnector):
         item = self._get_item_from_xml(xml=r.xml, title_text=self.item_title)
 
         if not item:
+            import pdb; pdb.set_trace()
             raise RuntimeError(f"Failed to get the item for title \
                                 '{self.item_title}' from RSS feed '{self.rss_feed}'")
 
@@ -32,7 +33,7 @@ class PocketCasts(RssConnector):
             if curr_title == title_text:
                 return item.xml
         
-        # Sometimes the title match the itunes title only, check from there if not found
+        # Sometimes the title match the itunes title only, check from there if not found    
         for item in xml.find('item'):
             curr_title = item.lxml.find('itunes:title', namespaces=item.lxml.nsmap).text
             if curr_title == title_text:
