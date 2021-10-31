@@ -31,6 +31,13 @@ class PocketCasts(RssConnector):
             curr_title = item.find('title', first=True).text
             if curr_title == title_text:
                 return item.xml
+        
+        # Sometimes the title match the itunes title only, check from there if not found
+        for item in xml.find('item'):
+            curr_title = item.lxml.find('itunes:title', namespaces=item.lxml.nsmap).text
+            if curr_title == title_text:
+                return item.xml
+
         return None
 
     def _get_item_title(self):
