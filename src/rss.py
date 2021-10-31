@@ -63,8 +63,12 @@ class RssGenerator:
 
                 # Replace publish date
                 xml_item = XML(xml=item)
-                xml_item.lxml.find("pubDate").text = formatRFC2822(message.date)
-                print(f"after={xml_item.lxml.find('pubDate').text}")
+
+                try:
+                    self.update_publish_date(message, xml_item)
+                except AttributeError:
+                    # Sometimes pubDate is in lower
+                    self.update_publish_date(message, xml_item, "pubdate")
 
                 # Prepand text to description
                 original_text = xml_item.lxml.find("description").text
@@ -89,7 +93,6 @@ class RssGenerator:
 
                 # Must use the `lxml` and not the `xml`, because we change it 
                 xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
-
                 
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
@@ -97,3 +100,7 @@ class RssGenerator:
                 raise
 
         return rss_string
+
+    def update_publish_date(self, message, xml_item, tag="pubDate"):
+        xml_item.lxml.find(tag).text = formatRFC2822(message.date)
+        print(f"after={xml_item.lxml.find(tag).text}")
