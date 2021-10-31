@@ -3,3 +3,4 @@ requests_html
 podgen
 requests-xml
 pytest
+pytest-asyncio
