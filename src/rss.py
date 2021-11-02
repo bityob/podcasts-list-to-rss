@@ -97,7 +97,6 @@ class RssGenerator:
                 rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
             except Exception as ex:
                 print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
-                raise
 
         return rss_string
 
