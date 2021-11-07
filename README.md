@@ -19,8 +19,8 @@ Generate an RSS file from Telegram podcasts list
 
 ### Next steps (Todo list)
 
-- [ ] Some messages are not well parsed and failing to get episode details
-- [ ] Rememer last read message and read only newer messages
+- [x] Some messages are not well parsed and failing to get episode details
+- [ ] Remember last read message and read only newer messages
 - [ ] Update commit only if there are new episodes 
 - [ ] Use bot token to listen to new messages instead. Now we use app token that has more permissions and can read all channel history
 - [ ] Different between this repo (which should be a template) and a specific repo for each desired flow, that can be managed by each user who wants to use this flow
