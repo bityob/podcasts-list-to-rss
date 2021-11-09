@@ -12,9 +12,35 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 09 Nov 2021 03:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Nov 2021 04:18:51 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>ביטוח - חלק א'</title>
+      <itunes:title>ביטוח - חלק א'</itunes:title>
+      <description>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן חינוכית</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">d0b6e9d8f7f86d862cab7d10e840ae37</guid>
+      <omny:clipId>48ef7bea-37dc-4a9e-96cb-a92f009992c3</omny:clipId>
+      <pubDate>Tue, 09 Nov 2021 04:01:28 +0000</pubDate>
+      <itunes:duration>968</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" length="15538969" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3</link>
+      <itunes:order>12</itunes:order>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">b6f924e8-a663-4c70-a021-37a157ae2e19</guid>
       <title>463- Fifty-Four Forty or Fight</title>
       <description>סיפורי גבולות. תוכנית שמוקדשת לגבול שבין קנדה לארה"ב שהוא אחד הגבולות השקטים והלא קיימים בעולם. ובכל זאת כשיש גבול בין שתי מדינות זה יוצר הרבה מצבים מעניינים ומצחיקים (כולל הודות לקורונה). &lt;br&gt;#קצרים #אנגלית&lt;br&gt;99% Invisible - 463- Fifty-Four Forty or Fight&lt;br&gt;&lt;br&gt;https://pca.st/44vk6scd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;At a glance, the border between the United States and Canada would seem to be at the friendlier end of the international boundary spectrum. But even though the US-Canada border is now pretty tame, when two countries touch each other over a stretch of 5500 miles, it can result in some surprisingly weird disputes, misunderstandings,  geographical quirks and ...really good stories. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38152&amp;post_type=episode"&gt;Fifty-Four Forty or Fight&lt;/a&gt;&lt;/p&gt;
