@@ -12,7 +12,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 10 Nov 2021 14:13:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Nov 2021 15:15:21 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
             <title>Losing Your Marbles</title>
@@ -1762,11 +1762,11 @@ Adam also started companies along the way that offered services such as web desi
 
 He currently co-hosts the No Agenda podcast with John Dvorak. Get ready for another great interview on Guy Kawasaki's Remarkable People podcast!</description>
       <pubDate>Wed, 08 Sep 2021 07:04:08 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Peg Fitzpatrick, Jeff Sieh, Adam Curry, Guy Kawasaki)</author>
+      <author>guykawasaki@gmail.com (Peg Fitzpatrick, Jeff Sieh, Guy Kawasaki, Adam Curry)</author>
       <link>https://guykawasaki.com/remarkable-people/</link>
       <enclosure length="68848791" type="audio/mpeg" url="https://chrt.fm/track/55D4D8/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/d7c2314b-a664-441e-9179-e43bc7e7ceda/audio/843bb34c-3f3a-4ed7-825e-d8df1277b877/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
       <itunes:title>Adam Curry: Legendary MTV VJ, OG Podcaster, and Tech Pioneer</itunes:title>
-      <itunes:author>Peg Fitzpatrick, Jeff Sieh, Adam Curry, Guy Kawasaki</itunes:author>
+      <itunes:author>Peg Fitzpatrick, Jeff Sieh, Guy Kawasaki, Adam Curry</itunes:author>
       <itunes:duration>01:10:43</itunes:duration>
       <itunes:summary>שיחה מרתקת עם אדם קורי על ימי הזוהר של MTV ועל איך התחיל עולם הפודקאסטים. הוא היה ממקימי אחד הפודקאסטים הראשונים בעולם  Daily Source Code.&lt;br&gt;#פודקאסטים #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Remarkable people - 92&lt;br&gt;&lt;br&gt;https://pca.st/episode/c623da0e-b8dd-49fe-af33-4c0c0e9f848a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Adam Curry was one of the VJs (video jockeys) of MTV back in the 1980s. In this position, he “interviewed” some of the most popular musicians of the time including Michael Jackson and Paul McCartney.
 
@@ -2213,11 +2213,11 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
 
 “He’s a brilliant writer," Mr. Obama added. “He’s relentless.” Listen in as Guy Kawasaki talks to Cody about his years working at The White House this week on the Remarkable People Podcast.</description>
       <pubDate>Wed, 18 Aug 2021 05:30:36 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Peg Fitzpatrick, Cody Keenan, Jeff Sieh, Guy Kawasaki)</author>
+      <author>guykawasaki@gmail.com (Jeff Sieh, Peg Fitzpatrick, Guy Kawasaki, Cody Keenan)</author>
       <link>https://guykawasaki.com/remarkable-people/</link>
       <enclosure length="57878381" type="audio/mpeg" url="https://chrt.fm/track/55D4D8/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/0fcd1c69-7c31-4cb2-8db3-86dbd2cd138a/audio/759da9fd-10dc-49f6-9836-91948583c7c5/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
       <itunes:title>Cody Keenan: Speech Writer and Former Director of Speechwriting for President Barack Obama</itunes:title>
-      <itunes:author>Peg Fitzpatrick, Cody Keenan, Jeff Sieh, Guy Kawasaki</itunes:author>
+      <itunes:author>Jeff Sieh, Peg Fitzpatrick, Guy Kawasaki, Cody Keenan</itunes:author>
       <itunes:duration>00:59:18</itunes:duration>
       <itunes:summary>שיחה מעניינת עם כותב הנאומים של הנשיא לשעבר ברק אובמה. קודי קינן מדבר על כתיבת נאומים, על דיבור בפני קהל ועל איך זה לכתוב נאומים לאומה. &lt;br&gt;#כתיבה #סיפורמעניין #אנגלית&lt;br&gt;Remarkable people - 88&lt;br&gt;&lt;br&gt;https://pca.st/episode/735b4a87-2612-48b5-8a8b-7d2b8cdf06b9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;You'll be blown away with this interview with speechwriter Cody Keenan, former Director of Speechwriting for President Barack Obama. President Obama said he relied “on Cody not just to share my vision, but to help tell America’s story.”
 
@@ -2609,7 +2609,191 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1842</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/842c61b6-160b-4022-ba57-ad6b0174bc3d/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="29534903" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/210</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #444 – אורי שטיינברג והאוונגליסטים</title>
+		<link/>https://geekonomy.net/2021/07/14/geekonomy444/
+					<comments>https://geekonomy.net/2021/07/14/geekonomy444/#respond</comments>
+		
+		<creator/>
+		<pubdate>Wed, 21 Jul 2021 16:06:58 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4800</guid>
+
+					<description>שיחה מעניינת על האוונגליסטים בארה"ב והקשר שלהם לישראל. &lt;br&gt;#הסטוריה #דת&lt;br&gt;&lt;br&gt;גיקונומי - פרק 444&lt;br&gt;&lt;br&gt;https://pca.st/gvqih9sg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://open.spotify.com/show/0nWqZUWKohhz31RvOMXbSe">הפודקאסט זמן קנאביס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.linkedin.com/in/uri-steinberg-09130616/">הלינקדאין של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.uristeinberg.com/">האתר של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/14/geekonomy444/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<summary>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</summary>
+<description>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-14 at 21.25.52</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Toy | Netta | חלק 1</title>
       <itunes:title>Toy | Netta | חלק 1</itunes:title>
       <description>מוזיקה לשבת: זוכה האורוויזיון Toy והדרך שנטע עברה איתו.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;שיר אחד &lt;br&gt;&lt;br&gt;https://pca.st/episode/f3b56a7a-412a-4eab-b973-230ab2c1293b&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2aa24ac-4643-4e1e-b502-04679010262d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נטע ברזילי הופיעה בפאבים ובחתונות, צרחה במופעי אוונגרד, ונאבקה לשלם שכר דירה. בקיצור, היא הייתה הדבר הכי רחוק מתחרות פופ נוצצת. אבל כשמלהקי ״הכוכב הבא״ ראו אותה במרתף בפלורנטין, הם ידעו שזו הזמרת שחיכו לה עשרים שנה. לקראת אירוויזיון 2019, פרק מיוחד בשני חלקים
