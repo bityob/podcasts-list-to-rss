@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 12 Nov 2021 20:15:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Nov 2021 21:12:34 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>#181 Absolutely Devious Lick </title>
@@ -55,7 +55,41 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
                 <itunes:episode>36</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <media:content url="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog8395107/episode_logo_new_small_pb8gzv.png" medium="image">
-                            <media:title type="html">פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</media:title></media:content>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+                            <media:title type="html">פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</media:title></media:content>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+            <title>Losing Your Marbles</title>
+                <itunes:subtitle>They’ve seen wars, the bottom of the ocean and even - bizarrely - been part of a boxing match.
+
+The story of how the Parthenon Marbles actually ended up in London’s British Museum is a wild tale featuring bribes, court cases and some extremely dodgy deals.  
+
+There’s been a centuries-long campaign to get them back to their homeland. Now, a team of Greek-Australians have decided that the time for diplomacy is over and a new tactic is required. 
+
+Season Two is co-produced with CBC Podcasts.</itunes:subtitle>
+                <description>סיפור פסלי השיש מהתקופה היוונית הקלאסית שהיו בתוך הפרתנון באתונה ואיך הם הגיעו למוזיאון הבריטי. הפסלים שנחשבים היום לאוצר לאומי של יוון נמצאים בבריטניה בעקבות סדרה של עסקאות חצי כשרות וכנראה כתוצאה משוחד של האימפריה העותמנית ששלטה בזמנו ביוון. זה הסיפור שלהם ושל מי שנלחם להחזיר אותם למולדת ההיסטורית שלהם. &lt;br&gt;#הסטוריה #אנגלית &lt;br&gt;https://prnt.sc/1yje8dq&lt;br&gt;&lt;br&gt;Staff the British stole - Losing Your Marbles&lt;br&gt;&lt;br&gt;https://pca.st/uqizkk5d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                    
+                    They’ve seen wars, the bottom of the ocean and even - bizarrely - been part of a boxing match.
+
+The story of how the Parthenon Marbles actually ended up in London’s British Museum is a wild tale featuring bribes, court cases and some extremely dodgy deals.  
+
+There’s been a centuries-long campaign to get them back to their homeland. Now, a team of Greek-Australians have decided that the time for diplomacy is over and a new tactic is required. 
+
+Season Two is co-produced with CBC Podcasts.
+                    
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/stuff-the-british-stole/losing-your-marbles/13572980</link>
+            <enclosure url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-10-27-s2-ep2.mp3" type="audio/mp3" length="7220160"/>
+				      <pubDate>Tue, 09 Nov 2021 05:07:12 +0000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/stuff-the-british-stole/losing-your-marbles/13572980</guid>
+                <itunes:duration>36:46</itunes:duration>
+                <media:content url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-10-27-s2-ep2.mp3" type="audio/mp3" fileSize="7220160" medium="audio" expression="full" duration="36:46"/>
+                        <media:group>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-16x9-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-4x3-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-3x2-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-3x4-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-1x1-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/12754574-4x3-thumbnail.jpg?v=5"/>
+                        </media:group>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ביטוח - חלק א'</title>
       <itunes:title>ביטוח - חלק א'</itunes:title>
       <description>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
