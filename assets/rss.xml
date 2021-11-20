@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 20 Nov 2021 06:17:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Nov 2021 07:14:15 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Mission: ImPASTAble 7 (Update) | Turning The Ship</title>
@@ -50,116 +50,6 @@ Transcript available at www.sporkful.com.</itunes:summary>
       <itunes:duration>2438</itunes:duration>
       <enclosure url="https://chtbl.com/track/288D49/traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/9a16516d-cd6b-428e-a3b3-aac50181710a/dbac5aad-381d-4cc6-8d21-add6013b98c8/audio.mp3?utm_source=Podcast&amp;in_playlist=b4dbf52c-d783-4d4a-ab56-aac501817114" length="58547239" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-sporkful/mission-impastable-7-update-turning-the-ship</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-            <title>איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר</title>
-            <description>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </description>
-            <content:encoded>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </content:encoded>
-            <itunes:summary>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </itunes:summary>
-            <itunes:image href="https://s3.castbox.fm/fe/7b/08/dd37a944cb921a3e7f81bfb11d.jpg"/>
-            <enclosure url="https://s3.castbox.fm/70/ea/d9/79f65743289d9c49d938d05ace.mp3" type="audio/mp3" length="89659430"/>
-            <itunes:duration>01:02:15</itunes:duration>
-            <guid>album-061c31349f5a4cdd9bd7353ac6d2d3d6-7d81e007c78b4398953317fac9cccfec</guid>
-            <pubDate>Thu, 18 Nov 2021 06:30:29 +0000</pubDate>
-            <author/>
-            <author_picture/>
-            <castbox:tid>440132394</castbox:tid>
-            <castbox:episode_premium/>
-            <itunes:explicit>no</itunes:explicit>
-            
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-            <title>Cup Runneth</title>
-                <itunes:subtitle>In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
-
-Now that chalice sits in London’s Victoria &amp; Albert Museum.
-
-But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
-
-Season Two is co-produced with CBC Podcasts.</itunes:subtitle>
-                <description>סיפורו של עץ מאוד מיוחד - The Chalice Tree, שנמצא באירלנד והוא הגיבור של עלילה הסטורית מרתקת. ודרך סיפורו של העץ גם הצצה לסיפורם של האירים הקתולים והפרוטסטנטיים ב200 השנים האחרונות. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;Stuff the British stole - Cup Runneth&lt;br&gt;&lt;br&gt;https://pca.st/hwlawuc7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-                    
-                    In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
-
-Now that chalice sits in London’s Victoria &amp; Albert Museum.
-
-But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
-
-Season Two is co-produced with CBC Podcasts.
-                    
-                </description>
-            <link>https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</link>
-            <enclosure url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-11-02-s2-ep3.mp3" type="audio/mp3" length="7220160"/>
-				      <pubDate>Tue, 16 Nov 2021 05:01:02 +0000</pubDate>
-            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</guid>
-                <itunes:duration>38:52</itunes:duration>
-                <itunes:keywords>chalice tree, county cork, ireland, british redcoats, victoria and albert museum</itunes:keywords>
-                <media:content url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-11-02-s2-ep3.mp3" type="audio/mp3" fileSize="7220160" medium="audio" expression="full" duration="38:52"/>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות</title>
-      <itunes:title>הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות</itunes:title>
-      <description>שיחה מעניינת על חברה שבדרך כלל לא מדברים עליה - מקורות. על חדשנות בחברה ועל התפקיד של מנהל החדשנות בכל התהליכים. &lt;br&gt;#ישראל #שיווק&lt;br&gt;&lt;br&gt;עוד פודקאסט לסטארטפים - הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות&lt;br&gt;&lt;br&gt;https://pca.st/ql15zklb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה שוחחנו על האתגרים בהובלת חדשנות בחברה תשתיות ממשלתית, על הדרכים בהם ניתן למדוד הצלחה של מנהלי חדשנות, על המתח שבין startup nation ל-implementation nation, ועל הסיכונים והזדמנויות העומדות היום בפני מקורות, אשר יכולות להיפתר באמצעות חדשנות.
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>שיחה מעניינת על חברה שבדרך כלל לא מדברים עליה - מקורות. על חדשנות בחברה ועל התפקיד של מנהל החדשנות בכל התהליכים. &lt;br&gt;#ישראל #שיווק&lt;br&gt;&lt;br&gt;עוד פודקאסט לסטארטפים - הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות&lt;br&gt;&lt;br&gt;https://pca.st/ql15zklb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה שוחחנו על האתגרים בהובלת חדשנות בחברה תשתיות ממשלתית, על הדרכים בהם ניתן למדוד הצלחה של מנהלי חדשנות, על המתח שבין startup nation ל-implementation nation, ועל הסיכונים והזדמנויות העומדות היום בפני מקורות, אשר יכולות להיפתר באמצעות חדשנות.
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>שיחה מעניינת על חברה שבדרך כלל לא מדברים עליה - מקורות. על חדשנות בחברה ועל התפקיד של מנהל החדשנות בכל התהליכים. &lt;br&gt;#ישראל #שיווק&lt;br&gt;&lt;br&gt;עוד פודקאסט לסטארטפים - הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות&lt;br&gt;&lt;br&gt;https://pca.st/ql15zklb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה שוחחנו על האתגרים בהובלת חדשנות בחברה תשתיות ממשלתית, על הדרכים בהם ניתן למדוד הצלחה של מנהלי חדשנות, על המתח שבין startup nation ל-implementation nation, ועל הסיכונים והזדמנויות העומדות היום בפני מקורות, אשר יכולות להיפתר באמצעות חדשנות.
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>תומי בראב וגיא קצוביץ׳</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/8804c20a-9fec-47e4-9e46-add300dbddd0/image.jpg?t=1635774388&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/8804c20a-9fec-47e4-9e46-add300dbddd0/audio.mp3?utm_source=Podcast&amp;in_playlist=f059ccb3-e0c5-4d56-9900-aa7800d4532a" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/odpodcast/transformetors-dudibalsar/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/8804c20a-9fec-47e4-9e46-add300dbddd0/image.jpg?t=1635774388&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">8804c20a-9fec-47e4-9e46-add300dbddd0</guid>
-      <omny:clipId>8804c20a-9fec-47e4-9e46-add300dbddd0</omny:clipId>
-      <pubDate>Tue, 16 Nov 2021 05:00:58 +0000</pubDate>
-      <itunes:duration>2370</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/8804c20a-9fec-47e4-9e46-add300dbddd0/audio.mp3?utm_source=Podcast&amp;in_playlist=f059ccb3-e0c5-4d56-9900-aa7800d4532a" length="37951580" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/odpodcast/transformetors-dudibalsar</link>
-      <itunes:explicit>clean</itunes:explicit>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>פרק 213: מבוא לכסף</title>
-      <itunes:title>פרק 213: מבוא לכסף</itunes:title>
-      <description>חיות כיס חזרו לעונה חדשה! (סוף סוף..) &lt;br&gt;והם פותחים אותה עם פרק שקצת מזכיר את הסדרה שהמלצתי עליה קודם "ערך מוסף בשבילי" עם פרק שכולל 11 טיפים להתנהלות כלכלית נבונה. כמו שהם בעצמם אומרים, לא הכל נכון לכולם, אבל זה כן מעין בסיס שממנו אפשר להמשיך להתפתח. &lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;חיות כיס - פרק 213: מבוא לכסף&lt;br&gt;&lt;br&gt;https://pca.st/2z7bny23&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;11 כללים שיעזרו לכם להתנהל טוב יותר עם כסף. פרק פתיחת העונה
-מגישים: שאול אמסטרדמסקי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייעה בעריכה: רחל רפאלי, עיבוד תמונה: אור בן אסולי
-
-
-
- 
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>חיות כיס חזרו לעונה חדשה! (סוף סוף..) &lt;br&gt;והם פותחים אותה עם פרק שקצת מזכיר את הסדרה שהמלצתי עליה קודם "ערך מוסף בשבילי" עם פרק שכולל 11 טיפים להתנהלות כלכלית נבונה. כמו שהם בעצמם אומרים, לא הכל נכון לכולם, אבל זה כן מעין בסיס שממנו אפשר להמשיך להתפתח. &lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;חיות כיס - פרק 213: מבוא לכסף&lt;br&gt;&lt;br&gt;https://pca.st/2z7bny23&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;11 כללים שיעזרו לכם להתנהל טוב יותר עם כסף. פרק פתיחת העונה
-מגישים: שאול אמסטרדמסקי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייעה בעריכה: רחל רפאלי, עיבוד תמונה: אור בן אסולי
-
-
-
- 
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>חיות כיס חזרו לעונה חדשה! (סוף סוף..) &lt;br&gt;והם פותחים אותה עם פרק שקצת מזכיר את הסדרה שהמלצתי עליה קודם "ערך מוסף בשבילי" עם פרק שכולל 11 טיפים להתנהלות כלכלית נבונה. כמו שהם בעצמם אומרים, לא הכל נכון לכולם, אבל זה כן מעין בסיס שממנו אפשר להמשיך להתפתח. &lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;חיות כיס - פרק 213: מבוא לכסף&lt;br&gt;&lt;br&gt;https://pca.st/2z7bny23&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;11 כללים שיעזרו לכם להתנהל טוב יותר עם כסף. פרק פתיחת העונה
-מגישים: שאול אמסטרדמסקי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייעה בעריכה: רחל רפאלי, עיבוד תמונה: אור בן אסולי
-
-
-
- 
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>213</itunes:episode>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d38d8139-7e76-42b4-b3ed-add40168450c/image.jpg?t=1635890783&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d38d8139-7e76-42b4-b3ed-add40168450c/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/hayot-kiss/213/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d38d8139-7e76-42b4-b3ed-add40168450c/image.jpg?t=1635890783&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">d38d8139-7e76-42b4-b3ed-add40168450c</guid>
-      <omny:clipId>d38d8139-7e76-42b4-b3ed-add40168450c</omny:clipId>
-      <pubDate>Sun, 14 Nov 2021 04:01:01 +0000</pubDate>
-      <itunes:duration>2628</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d38d8139-7e76-42b4-b3ed-add40168450c/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="42108856" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/hayot-kiss/213</link>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">b80ee208-229e-4379-b0ad-05ecdb0f9f2a</guid>
       <title>Seth Godin: Marketing god, Blogger, and Author</title>
@@ -254,33 +144,7 @@ Season Two is co-produced with CBC Podcasts.
                             <media:content url="https://www.abc.net.au/cm/rimage/12754574-1x1-large.jpg?v=5" medium="image" type="image/jpeg"/>
                             <media:thumbnail url="https://www.abc.net.au/cm/rimage/12754574-4x3-thumbnail.jpg?v=5"/>
                         </media:group>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>ביטוח - חלק א'</title>
-      <itunes:title>ביטוח - חלק א'</itunes:title>
-      <description>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן חינוכית</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">d0b6e9d8f7f86d862cab7d10e840ae37</guid>
-      <omny:clipId>48ef7bea-37dc-4a9e-96cb-a92f009992c3</omny:clipId>
-      <pubDate>Tue, 09 Nov 2021 04:01:28 +0000</pubDate>
-      <itunes:duration>968</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" length="15538969" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3</link>
-      <itunes:order>12</itunes:order>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">b6f924e8-a663-4c70-a021-37a157ae2e19</guid>
       <title>463- Fifty-Four Forty or Fight</title>
       <description>סיפורי גבולות. תוכנית שמוקדשת לגבול שבין קנדה לארה"ב שהוא אחד הגבולות השקטים והלא קיימים בעולם. ובכל זאת כשיש גבול בין שתי מדינות זה יוצר הרבה מצבים מעניינים ומצחיקים (כולל הודות לקורונה). &lt;br&gt;#קצרים #אנגלית&lt;br&gt;99% Invisible - 463- Fifty-Four Forty or Fight&lt;br&gt;&lt;br&gt;https://pca.st/44vk6scd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;At a glance, the border between the United States and Canada would seem to be at the friendlier end of the international boundary spectrum. But even though the US-Canada border is now pretty tame, when two countries touch each other over a stretch of 5500 miles, it can result in some surprisingly weird disputes, misunderstandings,  geographical quirks and ...really good stories. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38152&amp;post_type=episode"&gt;Fifty-Four Forty or Fight&lt;/a&gt;&lt;/p&gt;
@@ -334,46 +198,7 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
 
 
 
-https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
-      <title>Hire power</title>
-      <description>סקירה בנושא סעיף האי תחתרות שמופיע בחוזי העבודה של חלק גדול מהעובדים בעולם. &lt;br&gt;בפועל מעסיקים רבים משלבים אותו לא בגלל חשש מתחרות אלא מסיבות אחרות. נושא שחשוב לחשוב ולדבר עליו. &lt;br&gt;#הסטוריה #תעסוקה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - Hire power&lt;br&gt;&lt;br&gt;https://pca.st/h7opyi1u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Noncompete agreements have become an integral part of job contracts. A show about what they are and how we got here. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
-      <pubDate>Thu, 04 Nov 2021 10:00:04 +0000</pubDate>
-      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
-      <guid isPermalink="false">c1eca615-339f-4f42-9a76-c95d752ba17f</guid>
-      <link>https://www.npr.org/2021/10/14/1046156345/hire-power</link>
-      <itunes:title>Hire power</itunes:title>
-      <itunes:episode>1474</itunes:episode>
-      <itunes:author>NPR</itunes:author>
-      <itunes:summary>סקירה בנושא סעיף האי תחתרות שמופיע בחוזי העבודה של חלק גדול מהעובדים בעולם. &lt;br&gt;בפועל מעסיקים רבים משלבים אותו לא בגלל חשש מתחרות אלא מסיבות אחרות. נושא שחשוב לחשוב ולדבר עליו. &lt;br&gt;#הסטוריה #תעסוקה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - Hire power&lt;br&gt;&lt;br&gt;https://pca.st/h7opyi1u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Noncompete agreements have become an integral part of job contracts. A show about what they are and how we got here. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
-      <itunes:image href="https://media.npr.org/assets/img/2021/10/15/gettyimages-539568195_wide-b2b2b3896c3e0a44a3d309a5c4f8676da0b8bae8.jpg?s=1400"/>
-      <itunes:duration>1173</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <content:encoded>סקירה בנושא סעיף האי תחתרות שמופיע בחוזי העבודה של חלק גדול מהעובדים בעולם. &lt;br&gt;בפועל מעסיקים רבים משלבים אותו לא בגלל חשש מתחרות אלא מסיבות אחרות. נושא שחשוב לחשוב ולדבר עליו. &lt;br&gt;#הסטוריה #תעסוקה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - Hire power&lt;br&gt;&lt;br&gt;https://pca.st/h7opyi1u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Noncompete agreements have become an integral part of job contracts. A show about what they are and how we got here. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
-      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/10/20211015_pmoney_pmpod_1474.mp3?awCollectionId=510289&amp;awEpisodeId=1046156345&amp;orgId=1&amp;topicId=1006&amp;d=1173&amp;p=510289&amp;story=1046156345&amp;t=podcast&amp;e=1046156345&amp;size=18773560&amp;ft=pod&amp;f=510289" length="18773560" type="audio/mpeg"/>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה</title>
-        <itunes:title>מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה</itunes:title>
-        <link>https://dannyorbach.podbean.com/e/%d7%9e%d7%a8%d7%92%d7%9c%d7%99%d7%9d-%d7%9e%d7%95%d7%a9%d7%9b%d7%97%d7%99%d7%9d%d7%94%d7%91%d7%99%d7%95%d7%9f-%d7%94%d7%a4%d7%95/</link>
-        <comments>https://dannyorbach.podbean.com/e/%d7%9e%d7%a8%d7%92%d7%9c%d7%99%d7%9d-%d7%9e%d7%95%d7%a9%d7%9b%d7%97%d7%99%d7%9d%d7%94%d7%91%d7%99%d7%95%d7%9f-%d7%94%d7%a4%d7%95/#comments</comments>
-        <pubDate>Tue, 02 Nov 2021 06:06:03 +0000</pubDate>
-        <guid isPermaLink="false">dannyorbach.podbean.com/e022b208-e76b-3e12-a140-09cbb3be6ee6</guid>
-                      <description>האם ידעתם שפולין הייתה מעצמת מודיעין? זהו סיפורו של המודיעין הפולני בין שתי מלחמות עולם ואז גם במהלך מלחמת העולם השניה. בתקופה ההיא הממשלה הגולה של פולין ניהלה רשת מאוד ענפה של מרגלים שעבדו לצד בעלות הברית ותרמו בצורה מאוד מוחשית לתוצאות המלחמה. &lt;br&gt;#הסטוריה #סיפורמעניין&lt;br&gt;&lt;br&gt;סוכן משולש - מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה&lt;br&gt;&lt;br&gt;https://pca.st/3sgzhm8y&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;האם ידעתם שפולין היתה מעצמת מודיעין? בפרק הנוכחי של "סוכן משולש", אנחנו מארחים את ד"ר יעקב פלקוב, חוקר מזרח אירופה במלחמת העולם השנייה, שידבר על הגילויים המרעישים בספרו החדש. לאחר שנדבר על הישגי המודיעין הפולני בפיענוח הצופן הנאצי, על מדינת המחתרת ועל התרומה הפולנית החשאית למאמץ המלחמה הבריטי, ייקח אותנו פלקוב לארץ לא נודעת: משא ומתן מסוכן וחשאי בין הפולנים לגרמנים, תככים בריטיים, מלחמה פנימית בתוך ממשלת פולין הגולה, ומתווך יהודי אחד שעמד בעין הסערה. &lt;/p&gt;
-</description>
-                        <content:encoded>האם ידעתם שפולין הייתה מעצמת מודיעין? זהו סיפורו של המודיעין הפולני בין שתי מלחמות עולם ואז גם במהלך מלחמת העולם השניה. בתקופה ההיא הממשלה הגולה של פולין ניהלה רשת מאוד ענפה של מרגלים שעבדו לצד בעלות הברית ותרמו בצורה מאוד מוחשית לתוצאות המלחמה. &lt;br&gt;#הסטוריה #סיפורמעניין&lt;br&gt;&lt;br&gt;סוכן משולש - מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה&lt;br&gt;&lt;br&gt;https://pca.st/3sgzhm8y&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;האם ידעתם שפולין היתה מעצמת מודיעין? בפרק הנוכחי של "סוכן משולש", אנחנו מארחים את ד"ר יעקב פלקוב, חוקר מזרח אירופה במלחמת העולם השנייה, שידבר על הגילויים המרעישים בספרו החדש. לאחר שנדבר על הישגי המודיעין הפולני בפיענוח הצופן הנאצי, על מדינת המחתרת ועל התרומה הפולנית החשאית למאמץ המלחמה הבריטי, ייקח אותנו פלקוב לארץ לא נודעת: משא ומתן מסוכן וחשאי בין הפולנים לגרמנים, תככים בריטיים, מלחמה פנימית בתוך ממשלת פולין הגולה, ומתווך יהודי אחד שעמד בעין הסערה. &lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/84zrdr/_476kmdm.mp3" length="57484926" type="audio/mpeg"/>
-        <itunes:subtitle>האם ידעתם שפולין היתה מעצמת מודיעין? בפרק הנוכחי של "סוכן משולש", אנחנו מארחים את ד"ר יעקב פלקוב, חוקר מזרח אירופה במלחמת העולם השנייה, שידבר על הגילויים המרעישים בספרו החדש. לאחר שנדבר על הישגי המודיעין הפולני בפיענוח הצופן הנאצי, על מדינת המחתרת ועל הת...</itunes:subtitle>
-        <itunes:summary>האם ידעתם שפולין הייתה מעצמת מודיעין? זהו סיפורו של המודיעין הפולני בין שתי מלחמות עולם ואז גם במהלך מלחמת העולם השניה. בתקופה ההיא הממשלה הגולה של פולין ניהלה רשת מאוד ענפה של מרגלים שעבדו לצד בעלות הברית ותרמו בצורה מאוד מוחשית לתוצאות המלחמה. &lt;br&gt;#הסטוריה #סיפורמעניין&lt;br&gt;&lt;br&gt;סוכן משולש - מרגלים מושכחים: הביון הפולני במלחמת העולם השנייה&lt;br&gt;&lt;br&gt;https://pca.st/3sgzhm8y&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;האם ידעתם שפולין היתה מעצמת מודיעין? בפרק הנוכחי של "סוכן משולש", אנחנו מארחים את ד"ר יעקב פלקוב, חוקר מזרח אירופה במלחמת העולם השנייה, שידבר על הגילויים המרעישים בספרו החדש. לאחר שנדבר על הישגי המודיעין הפולני בפיענוח הצופן הנאצי, על מדינת המחתרת ועל התרומה הפולנית החשאית למאמץ המלחמה הבריטי, ייקח אותנו פלקוב לארץ לא נודעת: משא ומתן מסוכן וחשאי בין הפולנים לגרמנים, תככים בריטיים, מלחמה פנימית בתוך ממשלת פולין הגולה, ומתווך יהודי אחד שעמד בעין הסערה. &lt;/p&gt;
-</itunes:summary>
-        <itunes:author>dannyorbach</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>58:34</itunes:duration>
-                <itunes:episode>49</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/8107163/_2_9rprw.jpg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f4594108-5a6f-4930-ab01-ca1a0014e960</guid>
       <title>Who was Marquis de Lafayette? with Mike Duncan</title>
       <description>פרק שמשלב שני נושאים מעניינים: &lt;br&gt;קודם כל שיחה עם פודקאסטר שמתפרנס מהעיסוק שלו. איך זה התחיל ואיך הוא הפך לפודקאסטר היסטורי במשרה מלאה. &lt;br&gt;ואז ההסטוריה של מרקיז דה לה פאייט שהשתתף במאבק לעצמאות של ארה"ב ואז חזר הביתה לצרפת בשביל להספיק להשתתף במהפכה הצרפתית. &lt;br&gt;#הסטוריה #פודקאסטים #אנגלית&lt;br&gt;https://prnt.sc/1x6dv8j&lt;br&gt;&lt;br&gt;Why is this happening - Who was Marquis de Lafayette? with Mike Duncan&lt;br&gt;&lt;br&gt;https://pca.st/0i5001vf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Time for a fun one, America's favorite fighting Frenchman. You may have seen streets, parks, and subway stations that include the name Lafayette, but may not know much about the man other than the show-stopping performance of Daveed Diggs, who played Lafayette in Hamilton. The actual Marquis de Lafayette was born in France to immense wealth and privilege, allowing him to mingle in the most elite circles of the time. He shipped off to the US colonies to find his fortune and endeared himself to George Washington, fought for US independence and then returned to France to play a crucial role in *their* revolution as well.  Mike Duncan, a fish monger turned wildly popular history podcaster, wrote about Lafayette’s story in his new book, “Hero of Two Worlds: The Marquis de Lafayette in the Age of Revolution.” He joins to discuss Lafayette's fascinating life, his research and life in Paris during Covid and whether the US is on the precipice of revolution and democratic decline.</description>
@@ -515,11 +340,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">eed74da0-ad9c-11eb-b55d-4707d5fe168f</guid>
       <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG5796202215.mp3?updated=1635169234" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>פרסי נובל נגד מדליות אולימפיות [התשובה]</title><link>https://www.spreaker.com/user/pimedia/nobel-rc5</link><description>פרק כייפי שסופר מדליות אולימפיות ופרסי נובל.&lt;br&gt;הפרק מתחיל מהשאלה האם ישראל היא המדינה היחידה בעולם שיש לה יותר פרסי נובל ממדליות ומשם ממשיך לעוד מדינות קטנות וגדולות שזכו בפרסים בכמויות שונות. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;התשובה - פרסי נובל נגד מדליות אולימפיות&lt;br&gt;&lt;br&gt;https://pca.st/f9fd0ono&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;האם ישראל היא באמת המדינה היחידה בעולם שזכתה ביותר פרסי נובל מאשר במדליות אולימפיות? בשביל זה צריך לברר מה בעצם הקטע עם פרס נובל, איך בעצם סופרים מדליות ונובלים, ולמה מתברר שהיריבה הגדולה ביותר של ישראל היא בעצם אי קטן בקאריביים.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46110494</guid><pubDate>Sun, 31 Oct 2021 06:00:03 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46110494/nobel_rc5.mp3" length="34492135" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>האם ישראל היא באמת המדינה היחידה בעולם שזכתה ביותר פרסי נובל מאשר במדליות אולימפיות? בשביל זה צריך לברר מה בעצם הקטע עם פרס נובל, איך בעצם סופרים מדליות ונובלים, ולמה מתברר שהיריבה הגדולה ביותר של ישראל היא בעצם אי קטן בקאריביים....</itunes:subtitle><itunes:summary>פרק כייפי שסופר מדליות אולימפיות ופרסי נובל.&lt;br&gt;הפרק מתחיל מהשאלה האם ישראל היא המדינה היחידה בעולם שיש לה יותר פרסי נובל ממדליות ומשם ממשיך לעוד מדינות קטנות וגדולות שזכו בפרסים בכמויות שונות. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;התשובה - פרסי נובל נגד מדליות אולימפיות&lt;br&gt;&lt;br&gt;https://pca.st/f9fd0ono&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;האם ישראל היא באמת המדינה היחידה בעולם שזכתה ביותר פרסי נובל מאשר במדליות אולימפיות? בשביל זה צריך לברר מה בעצם הקטע עם פרס נובל, איך בעצם סופרים מדליות ונובלים, ולמה מתברר שהיריבה הגדולה ביותר של ישראל היא בעצם אי קטן בקאריביים.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/&lt;/a&gt;</itunes:summary><itunes:duration>2156</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>האם ישראל היא באמת המדינה היחידה בעולם שזכתה ביותר פרסי נובל מאשר במדליות אולימפיות? בשביל זה צריך לברר מה בעצם הקטע עם פרס נובל, איך בעצם סופרים מדליות ונובלים, ולמה מתברר שהיריבה הגדולה ביותר של ישראל היא בעצם אי קטן בקאריביים.
-
-
-
-https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">32b8073c-e8ac-491b-8c63-6d7030d4a69b</guid>
       <title>462- I Can't Believe It's Pink Margarine</title>
       <description>פרק מאוד משעשע וכייפי על ההסטוריה של המרגרינה. על המלחמה של יצרני החמאה במוצר החדש והמאיים - מרגרינה ולאילו חקיקות מוזרות זה הוביל בארה"ב (מרגרינה ורודה).&lt;br&gt;#הסטוריה #אוכל #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 462 I Can't Believe It's Pink Margarine&lt;br&gt;&lt;br&gt;https://pca.st/ggzaaeie&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Margarine is yellow, like butter, but it hasn't always been. At times and in places, it has been a bland white, or even a dull pink. These strange variations were a byproduct of 150-year war to destroy margarine, and everything that it stands for. During this epic fight for survival, margarine has had to reinvent itself, over and over again. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38120&amp;post_type=episode"&gt;I Can't Believe It's Pink Margarine&lt;/a&gt;&lt;/p&gt;
@@ -539,42 +360,7 @@ https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/</googlepl
       <itunes:keywords>design, napoleon, supermarket, health food, butter, dairy, food, margarine</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1139224123</guid>
-      <title>#178 - היהודים הלוחמים של שלום בוגוסלבסקי</title>
-      <pubDate>Thu, 28 Oct 2021 05:01:01 +0000</pubDate>
-      <link>https://soundcloud.com/historia-il/178a</link>
-      <itunes:duration>01:39:40</itunes:duration>
-      <itunes:author>היסטוריה גדולה, בקטנה</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה על יהודים לוחמים בכל הזמנים עם שלום בוגוסלבסקי. מסתבר שבין בר כוכבא לבין תחיית הציונות היו יהודים לוחמים. השיחה קופצת מתקופה לתקופה אבל מזכירה הרבה סיפורים שונים ונוגעת ממש בקטנה בסיבות האפשריות להיווצרות המיתוס שהיהודים לא יודעים להלחם. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;הסטוריה גדולה בקטנה - 178 &lt;br&gt;&lt;br&gt;https://pca.st/peq0lwno&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מלבד חוקרים של העת העתיקה והיסטוריה ישראלית, מעט מאוד אנשים יחשבו על לוחמים יהודיים - בכל הדיון שלנו בהיסטוריה יהודית, המוקד נוטה להיות רדיפות ופוגרומים, פחות לחימה. שלום בוגוסלבסקי טוען שזה לא כל הסיפור של העם היהודי - ושאי שם בין בר כוכבא לצהל, יהודים דווקא לא חששו להרים נשק. ישבנו איתו לדבר על זה.
-
-פטראון נקמת הגפילטע פיש: https://www.patreon.com/ostjuden?fan_landing=true
-אתר הטיולים במזרח אירופה: https://shalomboguslavsky.wixsite.com/easteyrope
-טלגרם עדכונים על סיורים, הרצאות וטיולים בחו"ל: https://t.me/joinchat/QkvlRhK9GgsxYzNk
-
-האתר של עודד: https://odedfire.co.il/
-הספר של ניל:  https://bit.ly/300shavim
-
-לתמיכה בנו בפטראון: https://www.patreon.com/historia
-היסטוריה גדולה, בקטנה בפייסבוק: www.facebook.com/Diggstory
-מוזיקת פתיחה וסיום: Scott Holmes / Corporate Innovative</itunes:summary>
-      <itunes:subtitle>מלבד חוקרים של העת העתיקה והיסטוריה ישראלית, מעט …</itunes:subtitle>
-      <description>שיחה על יהודים לוחמים בכל הזמנים עם שלום בוגוסלבסקי. מסתבר שבין בר כוכבא לבין תחיית הציונות היו יהודים לוחמים. השיחה קופצת מתקופה לתקופה אבל מזכירה הרבה סיפורים שונים ונוגעת ממש בקטנה בסיבות האפשריות להיווצרות המיתוס שהיהודים לא יודעים להלחם. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;הסטוריה גדולה בקטנה - 178 &lt;br&gt;&lt;br&gt;https://pca.st/peq0lwno&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מלבד חוקרים של העת העתיקה והיסטוריה ישראלית, מעט מאוד אנשים יחשבו על לוחמים יהודיים - בכל הדיון שלנו בהיסטוריה יהודית, המוקד נוטה להיות רדיפות ופוגרומים, פחות לחימה. שלום בוגוסלבסקי טוען שזה לא כל הסיפור של העם היהודי - ושאי שם בין בר כוכבא לצהל, יהודים דווקא לא חששו להרים נשק. ישבנו איתו לדבר על זה.
-
-פטראון נקמת הגפילטע פיש: https://www.patreon.com/ostjuden?fan_landing=true
-אתר הטיולים במזרח אירופה: https://shalomboguslavsky.wixsite.com/easteyrope
-טלגרם עדכונים על סיורים, הרצאות וטיולים בחו"ל: https://t.me/joinchat/QkvlRhK9GgsxYzNk
-
-האתר של עודד: https://odedfire.co.il/
-הספר של ניל:  https://bit.ly/300shavim
-
-לתמיכה בנו בפטראון: https://www.patreon.com/historia
-היסטוריה גדולה, בקטנה בפייסבוק: www.facebook.com/Diggstory
-מוזיקת פתיחה וסיום: Scott Holmes / Corporate Innovative</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1139224123-historia-il-178a.mp3" length="99090274"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-U0m3sQ7q8Kk4fyFe-WmjYqw-t3000x3000.jpg"/>
-    <media:content url="https://feeds.soundcloud.com/stream/1139224123-historia-il-178a.mp3" fileSize="99090274" type="audio/mpeg"/></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">979d3233-aad3-49ec-ab35-db46d7c349ac</guid>
       <title>Out Of Time</title>
       <description>סקירה מאוד מעניינת של נושא הזמן. מתחילים מהקשר בין זמן לדת ומשם ממשיכים להגדרות של זמן כמושג קפיטליסטי. בסופו של דבר מוביל אותנו לדיון של מה עושים עם הזמן ומה ההשקעה הכי מוצלחת של המשאב הזה (כי כידוע זמן=כסף, אז איך משקיעים?).&lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;Ministry of ideas - Out Of Time&lt;br&gt;&lt;br&gt;https://pca.st/7ellweee&lt;br&gt;&lt;br&gt;ומזכירה לכם את הסיפורים הקצרים בנושא זמן שהמלצתי עליהם לפני כמה חודשים: 99% invisible - פרק 443  https://pca.st/elk0qjb3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Many of the earliest time technologies were used to mark sacred time -- time set apart for the divine. But with the Industrial Revolution, efficient time use became its own sacred value. We now live in the age of capitalist time, where time is money and must be spent as productively as possible. As we struggle with a global pandemic, it’s time to rethink what we hold sacred.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;i&gt;Guests&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://scholar.harvard.edu/aragab/biography" target="_blank"&gt;&lt;strong&gt;Ahmed Ragab&lt;/strong&gt;&lt;/a&gt;, Richard T. Watson Associate Professor of Science and Religion, and affiliate associate professor of the history of science at Harvard University.&lt;/p&gt;&lt;p&gt;&lt;a href="https://luddy.indiana.edu/contact/profile/?profile_id=575" target="_blank"&gt;&lt;strong&gt;Mary Gray&lt;/strong&gt;&lt;/a&gt;, associate professor of informatics at the University of Indiana at Bloomington, fellow at Harvard University’s Berkman Klein Center for Internet and Society and a Senior Researcher at Microsoft Research.&lt;/p&gt;
@@ -2815,7 +2601,191 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1842</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/842c61b6-160b-4022-ba57-ad6b0174bc3d/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="29534903" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/210</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #444 – אורי שטיינברג והאוונגליסטים</title>
+		<link/>https://geekonomy.net/2021/07/14/geekonomy444/
+					<comments>https://geekonomy.net/2021/07/14/geekonomy444/#respond</comments>
+		
+		<creator/>
+		<pubdate>Wed, 21 Jul 2021 16:06:58 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4800</guid>
+
+					<description>שיחה מעניינת על האוונגליסטים בארה"ב והקשר שלהם לישראל. &lt;br&gt;#הסטוריה #דת&lt;br&gt;&lt;br&gt;גיקונומי - פרק 444&lt;br&gt;&lt;br&gt;https://pca.st/gvqih9sg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://open.spotify.com/show/0nWqZUWKohhz31RvOMXbSe">הפודקאסט זמן קנאביס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.linkedin.com/in/uri-steinberg-09130616/">הלינקדאין של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.uristeinberg.com/">האתר של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/14/geekonomy444/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<summary>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</summary>
+<description>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-14 at 21.25.52</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Toy | Netta | חלק 1</title>
       <itunes:title>Toy | Netta | חלק 1</itunes:title>
       <description>מוזיקה לשבת: זוכה האורוויזיון Toy והדרך שנטע עברה איתו.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;שיר אחד &lt;br&gt;&lt;br&gt;https://pca.st/episode/f3b56a7a-412a-4eab-b973-230ab2c1293b&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2aa24ac-4643-4e1e-b502-04679010262d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נטע ברזילי הופיעה בפאבים ובחתונות, צרחה במופעי אוונגרד, ונאבקה לשלם שכר דירה. בקיצור, היא הייתה הדבר הכי רחוק מתחרות פופ נוצצת. אבל כשמלהקי ״הכוכב הבא״ ראו אותה במרתף בפלורנטין, הם ידעו שזו הזמרת שחיכו לה עשרים שנה. לקראת אירוויזיון 2019, פרק מיוחד בשני חלקים
@@ -2986,178 +2956,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2651</itunes:duration>
       <guid isPermaLink="false">3483af52-5031-11eb-80cb-cbd3611b0e30</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6176542629.mp3?updated=1634154395" length="0" type="audio/mpeg"/>
-    </item><item>
-		<title>פרק #441 – פרופ' אבי בן-בסט ומדיניות ציבורית כלכלית</title>
-		<link/>https://geekonomy.net/2021/07/06/geekonomy441/
-					<comments>https://geekonomy.net/2021/07/06/geekonomy441/#respond</comments>
-		
-		<creator/>
-		<pubdate>Sun, 11 Jul 2021 18:27:03 +0000</pubdate>
-				<category/>
-		<guid ispermalink="false">http://geekonomy.net/?p=4776</guid>
-
-					<description>דיון מעניין על הכלכלה בישראל. ראם מראיין את אבי בן בסט לשעבר מנכ"ל משרד האוצר על המדיניות הכלכלית של ישראל בהמון תחומים. חלקית דיון הסטורי וחלקית אקטואלי למה שקורה היום. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;גיקונומי - פרק 441&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/utqb3ehv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-<p>
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>על מה דיברנו:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-</p>
-<!-- /wp:paragraph -->
-
-<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
-
-<!-- wp:paragraph -->
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F7qsOTHq0fKZWRODtyPCVho&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818913005%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=odeD31xikwaPkJmA2TIUydDLU5RIf%2BvyQLyw0hWnMEA%3D&amp;reserved=0">קבוצת Surface Devices</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F5AmRmpymSh3f7iQPTTwz6g&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818922962%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=GlZgfD3tNEvtXfJVPPkcZOajKnk%2BzHi1TM9rXa0Yuds%3D&amp;reserved=0">קבוצת M365 Security</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
-<!-- /wp:paragraph -->
-
-
-<!-- wp:paragraph -->
-<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
-<!-- /wp:paragraph -->
-
-<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
-		
-					<commentrss>https://geekonomy.net/2021/07/06/geekonomy441/feed/</commentrss>
-			<comments>0</comments>
-		
-		<enclosure url="http://mcdn.podbean.com/mf/web/6axmg2/geekonomy441.mp3" length="98240207" type="audio/mpeg"/>
-
-		<author>ReemSherman</author>
-<author>ReemSherman</author>
-<explicit>no</explicit>
-<explicit>no</explicit>
-<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
-<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
-<summary>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</summary>
-<description>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</description>
-<subtitle>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</subtitle>
-
-		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg"/>
-		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg" medium="image">
-			<title type="html">WhatsApp Image 2021-07-06 at 15.44.53</title>
-		</content>
-
-		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
-			<title type="html">reemsherman</title>
-		</content>
-	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ספיישל לאונרד כהן</title>
       <itunes:title>ספיישל לאונרד כהן</itunes:title>
       <description>מוזיקה לשבת: לאונרד כהן באחד האלבומים הפחות מושמעים. 50 שנה ל-Songs of Love and Hate.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות &lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
