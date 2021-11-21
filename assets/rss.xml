@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 21 Nov 2021 13:19:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 14:13:18 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">8aa8bd8c-23e8-4e10-baf0-45888481f5b9</guid>
@@ -2205,32 +2205,7 @@ https://www.ads.ranlevi.com/2021/06/28/liorshapira-hatshuva-sixsixsix/</googlepl
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>00:49:49</itunes:duration>
             <itunes:image href="https://i1.sndcdn.com/artworks-4OAkyBlLXXGAKyFJ-iGtJnQ-t3000x3000.jpg"/>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>ספיישל אריתה פרנקלין</title>
-      <itunes:title>ספיישל אריתה פרנקלין</itunes:title>
-      <description>קצת מוזיקה כייפית לשבת - ספיישל אריתה פרנקלין. מוזיקת סול, איך אריתה הפכה לכוכבת שידועה היום וקצת מההשפעות מסביב. &lt;br&gt;#מוזיקה&lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - 227&lt;br&gt;&lt;br&gt;https://pca.st/episode/77594ede-09dd-48b8-8d32-29b29c230d4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שלוש שנים למותה של מלכת הסול, אריתה פרנקלין. עם נוגה קליין
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>קצת מוזיקה כייפית לשבת - ספיישל אריתה פרנקלין. מוזיקת סול, איך אריתה הפכה לכוכבת שידועה היום וקצת מההשפעות מסביב. &lt;br&gt;#מוזיקה&lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - 227&lt;br&gt;&lt;br&gt;https://pca.st/episode/77594ede-09dd-48b8-8d32-29b29c230d4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שלוש שנים למותה של מלכת הסול, אריתה פרנקלין. עם נוגה קליין
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>קצת מוזיקה כייפית לשבת - ספיישל אריתה פרנקלין. מוזיקת סול, איך אריתה הפכה לכוכבת שידועה היום וקצת מההשפעות מסביב. &lt;br&gt;#מוזיקה&lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - 227&lt;br&gt;&lt;br&gt;https://pca.st/episode/77594ede-09dd-48b8-8d32-29b29c230d4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שלוש שנים למותה של מלכת הסול, אריתה פרנקלין. עם נוגה קליין
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/444e943c-da19-4a37-8915-ad8601083cd3/image.jpg?t=1629130563&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/444e943c-da19-4a37-8915-ad8601083cd3/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/midnight-special/444e943c-da19-4a37-8915-ad8601083cd3/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/444e943c-da19-4a37-8915-ad8601083cd3/image.jpg?t=1629130563&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">444e943c-da19-4a37-8915-ad8601083cd3</guid>
-      <omny:clipId>444e943c-da19-4a37-8915-ad8601083cd3</omny:clipId>
-      <pubDate>Sat, 28 Aug 2021 06:46:51 +0000</pubDate>
-      <itunes:duration>5472</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/444e943c-da19-4a37-8915-ad8601083cd3/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" length="87594250" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/midnight-special/444e943c-da19-4a37-8915-ad8601083cd3</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1108213435</guid>
       <title>איך להפוך אלגוריתם לשירה? - פופקורן 210 עם ד״ר ליאור זלמנסון</title>
       <pubDate>Fri, 27 Aug 2021 12:26:51 +0000</pubDate>
