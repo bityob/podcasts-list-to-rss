@@ -11,9 +11,58 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 22 Nov 2021 17:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Nov 2021 18:17:26 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">8aa8bd8c-23e8-4e10-baf0-45888481f5b9</guid>
+      <title>481. Is the U.S. Really Less Corrupt Than China?</title>
+      <description>דיון על שחיתות. הכיוון שממנו באים לנושא זה מחקר על שחיתות בסין לעומת ארה"ב ואיך שחיתות מקדמת או עוצרת התפתחות של מדינה. הפרק מתבסס על הגדרות מאוד ספציפיות של שחיתות אבל עדיין בתור דיון זה מעניין. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Freakonomics - 481. Is the U.S. Really Less Corrupt Than China?&lt;br&gt;&lt;br&gt;https://pca.st/k0qr6f2j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;A new book by an unorthodox political scientist argues that the two rivals have more in common than we’d like to admit. It’s just that most American corruption is essentially legal.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 21 Nov 2021 04:01:12 +0000</pubDate>
+      <author>editor@freakonomics.com (Freakonomics Radio + Stitcher)</author>
+      <link>http://freakonomics.com/</link>
+      <content:encoded>דיון על שחיתות. הכיוון שממנו באים לנושא זה מחקר על שחיתות בסין לעומת ארה"ב ואיך שחיתות מקדמת או עוצרת התפתחות של מדינה. הפרק מתבסס על הגדרות מאוד ספציפיות של שחיתות אבל עדיין בתור דיון זה מעניין. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Freakonomics - 481. Is the U.S. Really Less Corrupt Than China?&lt;br&gt;&lt;br&gt;https://pca.st/k0qr6f2j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;A new book by an unorthodox political scientist argues that the two rivals have more in common than we’d like to admit. It’s just that most American corruption is essentially legal.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="53505295" type="audio/mpeg" url="https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/db3548dd-4dfb-4ee0-b839-59fec416289e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=db3548dd-4dfb-4ee0-b839-59fec416289e&amp;feed=Y8lFbOT4"/>
+      <itunes:title>481. Is the U.S. Really Less Corrupt Than China?</itunes:title>
+      <itunes:author>Freakonomics Radio + Stitcher</itunes:author>
+      <itunes:duration>00:55:44</itunes:duration>
+      <itunes:summary>דיון על שחיתות. הכיוון שממנו באים לנושא זה מחקר על שחיתות בסין לעומת ארה"ב ואיך שחיתות מקדמת או עוצרת התפתחות של מדינה. הפרק מתבסס על הגדרות מאוד ספציפיות של שחיתות אבל עדיין בתור דיון זה מעניין. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Freakonomics - 481. Is the U.S. Really Less Corrupt Than China?&lt;br&gt;&lt;br&gt;https://pca.st/k0qr6f2j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;A new book by an unorthodox political scientist argues that the two rivals have more in common than we’d like to admit. It’s just that most American corruption is essentially legal.&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>A new book by an unorthodox political scientist argues that the two rivals have more in common than we’d like to admit. It’s just that most American corruption is essentially legal.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>S5E11: קומרסיישן 88 עם סער דוידי, Innovation Director Automation at Ranpak</title>
+      <itunes:title>קומרסיישן 88 עם סער דוידי, Innovation Director Automation at Ranpak</itunes:title>
+      <description>שיחה על מאחורי הקלעים של הe-commerce ועל החשיבות שיש ללוגיסטיקה בכל התהליך. סער דוידי מספר על הנסיון שלו בשיפור תהליכים מאוסטרליה ועל מה שהוא עושה בארץ. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 88 עם סער דוידי, Innovation Director Automation at Ranpak&lt;br&gt;&lt;br&gt;https://pca.st/ubdc71gt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;לא בכל יום יוצא לי לארח מוביל עולמי באיקומרס, ועוד בתחום הלוגיסטיקה והתפעול. מקצוען על שעובד עם אמזון, וולמארט וכו׳. תוסיפו לזה שהוא ישראלי שחזר לפני כמה חודשים מחיים של עשרים שנה באוסטרליה, שהוא דובר עברית משובחת ושהוא חבר יקר בשם סער דוידי.  אז מה ההבדל בין האיקומרס הישראלי לאוסטרלי? איפה אנחנו טועים והאם אפשר לתקן? איך זה לתכנן ולהפעיל מכונת אריזה של 3000 קרטונים בשעה? סער משתף בחוויות ובעוצמות של catch , שם עבד עם חברי גבי לייבוביץ׳ ואחיו חזי לאורך רוב שנותיו במלבורן. המון מידע ונסיון התנקזו לשיחה שלנו, עם הקשרים של תרבות, קיימות ואיך אפשר בלי- בירה. מתי רם מאדסקייל מסביר בפינתו הקבועה על חשיבות השימוש ב-first party data בקידום חנויות איקומרס. צ׳ירז מייטס!
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>שיחה על מאחורי הקלעים של הe-commerce ועל החשיבות שיש ללוגיסטיקה בכל התהליך. סער דוידי מספר על הנסיון שלו בשיפור תהליכים מאוסטרליה ועל מה שהוא עושה בארץ. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 88 עם סער דוידי, Innovation Director Automation at Ranpak&lt;br&gt;&lt;br&gt;https://pca.st/ubdc71gt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;לא בכל יום יוצא לי לארח מוביל עולמי באיקומרס, ועוד בתחום הלוגיסטיקה והתפעול. מקצוען על שעובד עם אמזון, וולמארט וכו׳. תוסיפו לזה שהוא ישראלי שחזר לפני כמה חודשים מחיים של עשרים שנה באוסטרליה, שהוא דובר עברית משובחת ושהוא חבר יקר בשם סער דוידי.  אז מה ההבדל בין האיקומרס הישראלי לאוסטרלי? איפה אנחנו טועים והאם אפשר לתקן? איך זה לתכנן ולהפעיל מכונת אריזה של 3000 קרטונים בשעה? סער משתף בחוויות ובעוצמות של catch , שם עבד עם חברי גבי לייבוביץ׳ ואחיו חזי לאורך רוב שנותיו במלבורן. המון מידע ונסיון התנקזו לשיחה שלנו, עם הקשרים של תרבות, קיימות ואיך אפשר בלי- בירה. מתי רם מאדסקייל מסביר בפינתו הקבועה על חשיבות השימוש ב-first party data בקידום חנויות איקומרס. צ׳ירז מייטס!
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>שיחה על מאחורי הקלעים של הe-commerce ועל החשיבות שיש ללוגיסטיקה בכל התהליך. סער דוידי מספר על הנסיון שלו בשיפור תהליכים מאוסטרליה ועל מה שהוא עושה בארץ. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 88 עם סער דוידי, Innovation Director Automation at Ranpak&lt;br&gt;&lt;br&gt;https://pca.st/ubdc71gt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;לא בכל יום יוצא לי לארח מוביל עולמי באיקומרס, ועוד בתחום הלוגיסטיקה והתפעול. מקצוען על שעובד עם אמזון, וולמארט וכו׳. תוסיפו לזה שהוא ישראלי שחזר לפני כמה חודשים מחיים של עשרים שנה באוסטרליה, שהוא דובר עברית משובחת ושהוא חבר יקר בשם סער דוידי.  אז מה ההבדל בין האיקומרס הישראלי לאוסטרלי? איפה אנחנו טועים והאם אפשר לתקן? איך זה לתכנן ולהפעיל מכונת אריזה של 3000 קרטונים בשעה? סער משתף בחוויות ובעוצמות של catch , שם עבד עם חברי גבי לייבוביץ׳ ואחיו חזי לאורך רוב שנותיו במלבורן. המון מידע ונסיון התנקזו לשיחה שלנו, עם הקשרים של תרבות, קיימות ואיך אפשר בלי- בירה. מתי רם מאדסקייל מסביר בפינתו הקבועה על חשיבות השימוש ב-first party data בקידום חנויות איקומרס. צ׳ירז מייטס!
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:author>תימור גורדון</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/597d2d6b-8eb5-40fc-8ed3-addc01426e28/image.jpg?t=1636698171&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/597d2d6b-8eb5-40fc-8ed3-addc01426e28/audio.mp3?utm_source=Podcast&amp;in_playlist=a2cc551a-402a-4e70-9764-aa7600b26534" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/commersation/88-innovation-director-automation-at-ranpak/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/597d2d6b-8eb5-40fc-8ed3-addc01426e28/image.jpg?t=1636698171&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">597d2d6b-8eb5-40fc-8ed3-addc01426e28</guid>
+      <omny:clipId>597d2d6b-8eb5-40fc-8ed3-addc01426e28</omny:clipId>
+      <pubDate>Sun, 21 Nov 2021 04:01:02 +0000</pubDate>
+      <itunes:duration>2995</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/597d2d6b-8eb5-40fc-8ed3-addc01426e28/audio.mp3?utm_source=Podcast&amp;in_playlist=a2cc551a-402a-4e70-9764-aa7600b26534" length="47960140" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/commersation/88-innovation-director-automation-at-ranpak</link>
+      <psc:chapters>
+        <psc:chapter start="00:23:35" title="הטיפ של מתי רם מאדסקייל"/>
+      </psc:chapters>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Mission: ImPASTAble 7 (Update) | Turning The Ship</title>
       <itunes:title>Mission: ImPASTAble 7 (Update) | Turning The Ship</itunes:title>
       <description>עידכון חדש בסיפור של צורת הפסטה החדשה שהמציאו בSporkful. זה בעצם סיפור פיתוח מוצר ושיווק בהמשכים. מאוד מעניין למי שרוצה לשמוע על מוצר שהמציאו בתוכנית פודקאסטים ומשם הוא התגלגל לעולם האמיתי, הצליח במידה מסויימת ועכשיו מפתחים אותו. &lt;br&gt;#אוכל #אנגלית #שיווק&lt;br&gt;&lt;br&gt;The sporkful - Mission: ImPASTAble 7 (Update) | Turning The Ship&lt;br&gt;&lt;br&gt;&lt;br&gt;https://prnt.sc/1zh0c6w&lt;br&gt;https://pca.st/qde3o3k3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We’re back with the latest on cascatelli, the new pasta shape that Dan invented. Now that the chaos around cascatelli’s launch has died down, Dan has to make some big decisions about what to do next — with help from his cousin Carrie and die maker Chris Maldari. Then while Sfoglini upgrades their factory and tries to get the pasta into stores and restaurants, Dan explores other opportunities. Can he land the kind of deal he’s hoping for? Plus: Dan puts his mom to work developing recipes for cascatelli.
@@ -66,6 +115,41 @@ Transcript available at www.sporkful.com.</itunes:summary>
             <castbox:episode_premium/>
             <itunes:explicit>no</itunes:explicit>
             
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+            <title>Cup Runneth</title>
+                <itunes:subtitle>In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
+
+Now that chalice sits in London’s Victoria &amp; Albert Museum.
+
+But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
+
+Season Two is co-produced with CBC Podcasts.</itunes:subtitle>
+                <description>סיפורו של עץ מאוד מיוחד - The Chalice Tree, שנמצא באירלנד והוא הגיבור של עלילה הסטורית מרתקת. ודרך סיפורו של העץ גם הצצה לסיפורם של האירים הקתולים והפרוטסטנטיים ב200 השנים האחרונות. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;Stuff the British stole - Cup Runneth&lt;br&gt;&lt;br&gt;https://pca.st/hwlawuc7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+                    
+                    In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
+
+Now that chalice sits in London’s Victoria &amp; Albert Museum.
+
+But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
+
+Season Two is co-produced with CBC Podcasts.
+                    
+                </description>
+            <link>https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</link>
+            <enclosure url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-11-02-s2-ep3.mp3" type="audio/mp3" length="7220160"/>
+				      <pubDate>Tue, 16 Nov 2021 05:01:02 +0000</pubDate>
+            <guid isPermaLink="true">https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</guid>
+                <itunes:duration>38:52</itunes:duration>
+                <itunes:keywords>chalice tree, county cork, ireland, british redcoats, victoria and albert museum</itunes:keywords>
+                <media:content url="https://abcmedia.akamaized.net/radio/podcast/stuff-the-british-stole/sbs-2021-11-02-s2-ep3.mp3" type="audio/mp3" fileSize="7220160" medium="audio" expression="full" duration="38:52"/>
+                        <media:group>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-16x9-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-4x3-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-3x2-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-3x4-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:content url="https://www.abc.net.au/cm/rimage/12754574-1x1-large.jpg?v=5" medium="image" type="image/jpeg"/>
+                            <media:thumbnail url="https://www.abc.net.au/cm/rimage/12754574-4x3-thumbnail.jpg?v=5"/>
+                        </media:group>
         </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>[הטרנספורמרים]  דודי בלסר, מנהל תחום החדשנות במקורות</title>
       <itunes:title>[הטרנספורמרים]  דודי בלסר, מנהל תחום החדשנות במקורות</itunes:title>
@@ -174,6 +258,22 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>100</itunes:episode>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>#181 Absolutely Devious Lick </title>
+      <description>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Thu, 11 Nov 2021 04:17:52 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:subtitle/>
+      <itunes:summary>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
+      <itunes:duration>2603</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false">546ecc52-3771-11ec-95bd-135138cad9dd</guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT5451606460.mp3?updated=1635778269" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</title>
         <itunes:title>פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</itunes:title>
@@ -234,7 +334,33 @@ Season Two is co-produced with CBC Podcasts.
                             <media:content url="https://www.abc.net.au/cm/rimage/12754574-1x1-large.jpg?v=5" medium="image" type="image/jpeg"/>
                             <media:thumbnail url="https://www.abc.net.au/cm/rimage/12754574-4x3-thumbnail.jpg?v=5"/>
                         </media:group>
-        </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>ביטוח - חלק א'</title>
+      <itunes:title>ביטוח - חלק א'</itunes:title>
+      <description>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>ערך מוסף בשבילי זאת סדרה של כאן שמנגישה מונחים פיננסיים לקהל הרחב. הפרקים קצרים ומדברים בצורה פשוטה וברורה על נושאים כספיים - פנסיה, ביטוח \ משכנתא, ביטקוין ועוד....&lt;br&gt;אני אמליץ פה על שני הפרקים של ביטוח אבל כדאי לעבור על כל הפרקים שמדברים על נושאים שתרצו להבין יותר טוב.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - ביטוח&lt;br&gt;&lt;br&gt;https://pca.st/avouxrhi&lt;br&gt;&lt;br&gt;https://pca.st/5ervccmi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ביטוח זה עוד אחד מהנושאים הפיננסים שאנחנו משלמים עליהם לא מעט - בין מאות לאלפי שקלים בחודש - אבל לא תמיד אנחנו יודעים על מה אנחנו משלמים, כמה אנחנו משלמים ומה אנחנו מקבלים בתמורה. הפרק הזה יתמקד בביטוח רכב והדירה.
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן חינוכית</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">d0b6e9d8f7f86d862cab7d10e840ae37</guid>
+      <omny:clipId>48ef7bea-37dc-4a9e-96cb-a92f009992c3</omny:clipId>
+      <pubDate>Tue, 09 Nov 2021 04:01:28 +0000</pubDate>
+      <itunes:duration>968</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/48ef7bea-37dc-4a9e-96cb-a92f009992c3/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115501" length="15538969" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/valueadded/48ef7bea-37dc-4a9e-96cb-a92f009992c3</link>
+      <itunes:order>12</itunes:order>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">b6f924e8-a663-4c70-a021-37a157ae2e19</guid>
       <title>463- Fifty-Four Forty or Fight</title>
       <description>סיפורי גבולות. תוכנית שמוקדשת לגבול שבין קנדה לארה"ב שהוא אחד הגבולות השקטים והלא קיימים בעולם. ובכל זאת כשיש גבול בין שתי מדינות זה יוצר הרבה מצבים מעניינים ומצחיקים (כולל הודות לקורונה). &lt;br&gt;#קצרים #אנגלית&lt;br&gt;99% Invisible - 463- Fifty-Four Forty or Fight&lt;br&gt;&lt;br&gt;https://pca.st/44vk6scd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;At a glance, the border between the United States and Canada would seem to be at the friendlier end of the international boundary spectrum. But even though the US-Canada border is now pretty tame, when two countries touch each other over a stretch of 5500 miles, it can result in some surprisingly weird disputes, misunderstandings,  geographical quirks and ...really good stories. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38152&amp;post_type=episode"&gt;Fifty-Four Forty or Fight&lt;/a&gt;&lt;/p&gt;
@@ -2769,7 +2895,191 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1842</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/842c61b6-160b-4022-ba57-ad6b0174bc3d/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="29534903" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/210</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #444 – אורי שטיינברג והאוונגליסטים</title>
+		<link/>https://geekonomy.net/2021/07/14/geekonomy444/
+					<comments>https://geekonomy.net/2021/07/14/geekonomy444/#respond</comments>
+		
+		<creator/>
+		<pubdate>Wed, 21 Jul 2021 16:06:58 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4800</guid>
+
+					<description>שיחה מעניינת על האוונגליסטים בארה"ב והקשר שלהם לישראל. &lt;br&gt;#הסטוריה #דת&lt;br&gt;&lt;br&gt;גיקונומי - פרק 444&lt;br&gt;&lt;br&gt;https://pca.st/gvqih9sg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://open.spotify.com/show/0nWqZUWKohhz31RvOMXbSe">הפודקאסט זמן קנאביס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.linkedin.com/in/uri-steinberg-09130616/">הלינקדאין של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.uristeinberg.com/">האתר של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/14/geekonomy444/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<summary>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</summary>
+<description>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-14 at 21.25.52</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Toy | Netta | חלק 1</title>
       <itunes:title>Toy | Netta | חלק 1</itunes:title>
       <description>מוזיקה לשבת: זוכה האורוויזיון Toy והדרך שנטע עברה איתו.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;שיר אחד &lt;br&gt;&lt;br&gt;https://pca.st/episode/f3b56a7a-412a-4eab-b973-230ab2c1293b&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2aa24ac-4643-4e1e-b502-04679010262d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נטע ברזילי הופיעה בפאבים ובחתונות, צרחה במופעי אוונגרד, ונאבקה לשלם שכר דירה. בקיצור, היא הייתה הדבר הכי רחוק מתחרות פופ נוצצת. אבל כשמלהקי ״הכוכב הבא״ ראו אותה במרתף בפלורנטין, הם ידעו שזו הזמרת שחיכו לה עשרים שנה. לקראת אירוויזיון 2019, פרק מיוחד בשני חלקים
