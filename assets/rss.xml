@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 09:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 10:13:19 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Re-Rolling Role Playing Games</title>
@@ -488,6 +488,22 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>100</itunes:episode>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>#181 Absolutely Devious Lick </title>
+      <description>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Thu, 11 Nov 2021 04:17:52 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Gimlet</itunes:author>
+      <itunes:subtitle/>
+      <itunes:summary>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
+      <itunes:duration>2603</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <guid isPermaLink="false">546ecc52-3771-11ec-95bd-135138cad9dd</guid>
+      <enclosure url="https://traffic.megaphone.fm/GLT5451606460.mp3?updated=1635778269" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</title>
         <itunes:title>פרק 36. כשבינה מלאכותית מתחרזת עם ברירה טבעית. אורח: ערן הדס</itunes:title>
