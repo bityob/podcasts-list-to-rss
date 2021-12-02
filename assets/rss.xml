@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 02 Dec 2021 17:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 18:17:46 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">e9b9ba44-107f-4af3-a774-b1427a418479</guid>
@@ -401,7 +401,23 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <psc:chapters>
         <psc:chapter start="00:23:35" title="הטיפ של מתי רם מאדסקייל"/>
       </psc:chapters>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+            <title>איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר</title>
+            <description>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </description>
+            <content:encoded>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </content:encoded>
+            <itunes:summary>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/fe/7b/08/dd37a944cb921a3e7f81bfb11d.jpg"/>
+            <enclosure url="https://s3.castbox.fm/70/ea/d9/79f65743289d9c49d938d05ace.mp3" type="audio/mp3" length="89659430"/>
+            <itunes:duration>01:02:15</itunes:duration>
+            <guid>album-061c31349f5a4cdd9bd7353ac6d2d3d6-7d81e007c78b4398953317fac9cccfec</guid>
+            <pubDate>Thu, 18 Nov 2021 06:30:29 +0000</pubDate>
+            <author/>
+            <author_picture/>
+            <castbox:tid>440132394</castbox:tid>
+            <castbox:episode_premium/>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
             <title>Cup Runneth</title>
                 <itunes:subtitle>In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
 
@@ -1842,6 +1858,23 @@ https://www.ads.ranlevi.com/2021/10/04/jamesrichardson-osimtanach-otiyot/</googl
       <itunes:duration>3024</itunes:duration>
       <guid isPermaLink="false">63fe7094-21ac-11ec-9710-ab088499c068</guid>
       <enclosure url="https://chrt.fm/track/F1ACE7/traffic.megaphone.fm/MFI5444368272.mp3?updated=1632978664" length="0" type="audio/mpeg"/>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>The Rent Help Is Too Damn Slow</title>
+      <description>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. &lt;br&gt;#כלכלה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - The Rent Help Is Too Damn Slow&lt;br&gt;&lt;br&gt;https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Sun, 10 Oct 2021 06:01:02 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">8edc9547-d7fb-4bb5-9348-be49c98ed64a</guid>
+      <link>https://www.npr.org/2021/10/01/1042525315/the-rent-help-is-too-damn-slow</link>
+      <itunes:title>The Rent Help Is Too Damn Slow</itunes:title>
+      <itunes:episode>1470</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. &lt;br&gt;#כלכלה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - The Rent Help Is Too Damn Slow&lt;br&gt;&lt;br&gt;https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2021/10/01/gettyimages-530956768_wide-5d44721d7f9092cf4af127f7aaecca1d3655f0b3.jpg?s=1400"/>
+      <itunes:duration>1449</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפור על העברת הכספים לנפגעי קורונה בארה"ב. מצד אחד הפוליטיקאים התאגדו והקציבו סכומי ענק כדי ששוק השכירויות לא יפגע בצורה אנושה ומצד שני תהליך ההקצאה של הכספים הללו, הוא איך נאמר בעדינות -איטי ומסובך. &lt;br&gt;#כלכלה #אנגלית &lt;br&gt;&lt;br&gt;Planet money - The Rent Help Is Too Damn Slow&lt;br&gt;&lt;br&gt;https://pca.st/episode/e5b63c1c-3e18-4079-a8b4-c163b0f97dde&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Congress created a massive pile of money to help people pay rent during the pandemic. Why have so few people gotten help? We follow the money. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/10/20211001_pmoney_pmpod1116.mp3?awCollectionId=510289&amp;awEpisodeId=1042525315&amp;orgId=1&amp;d=1449&amp;p=510289&amp;story=1042525315&amp;t=podcast&amp;e=1042525315&amp;size=23185955&amp;ft=pod&amp;f=510289" length="23185955" type="audio/mpeg"/>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:podcast="https://podcastindex.org/namespace/1.0"><title>ביזה: כרמן, חלק ב'</title><itunes:title>ביזה: כרמן, חלק ב'</itunes:title><description>לפני כחודש יצא הפרק הראשון ועכשיו מגיע ההמשך שלו. האזנה לאופרה המפורסמת של ביזה עם הערות ותובנות מעניינות על המוזיקה, המחבר והקהל שלא היה מוכן בתקופה ההיא למסרים החתרניים. &lt;br&gt;#מוזיקה&lt;br&gt;החלק הראשון: https://t.me/podcastsrec/63&lt;br&gt;&lt;br&gt;קלאסי קינן - ביזה: כרמן חלק ב'&lt;br&gt;&lt;br&gt;https://pca.st/episode/f67cac53-f121-4442-9e55-86710e8f70ac&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;https://www.facebook.com/groups/2574945439466338/
 
 </description><content:encoded>לפני כחודש יצא הפרק הראשון ועכשיו מגיע ההמשך שלו. האזנה לאופרה המפורסמת של ביזה עם הערות ותובנות מעניינות על המוזיקה, המחבר והקהל שלא היה מוכן בתקופה ההיא למסרים החתרניים. &lt;br&gt;#מוזיקה&lt;br&gt;החלק הראשון: https://t.me/podcastsrec/63&lt;br&gt;&lt;br&gt;קלאסי קינן - ביזה: כרמן חלק ב'&lt;br&gt;&lt;br&gt;https://pca.st/episode/f67cac53-f121-4442-9e55-86710e8f70ac&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;https://www.facebook.com/groups/2574945439466338/
@@ -3450,7 +3483,178 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2651</itunes:duration>
       <guid isPermaLink="false">3483af52-5031-11eb-80cb-cbd3611b0e30</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6176542629.mp3?updated=1634154395" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #441 – פרופ' אבי בן-בסט ומדיניות ציבורית כלכלית</title>
+		<link/>https://geekonomy.net/2021/07/06/geekonomy441/
+					<comments>https://geekonomy.net/2021/07/06/geekonomy441/#respond</comments>
+		
+		<creator/>
+		<pubdate>Sun, 11 Jul 2021 18:27:03 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4776</guid>
+
+					<description>דיון מעניין על הכלכלה בישראל. ראם מראיין את אבי בן בסט לשעבר מנכ"ל משרד האוצר על המדיניות הכלכלית של ישראל בהמון תחומים. חלקית דיון הסטורי וחלקית אקטואלי למה שקורה היום. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;גיקונומי - פרק 441&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/utqb3ehv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F7qsOTHq0fKZWRODtyPCVho&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818913005%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=odeD31xikwaPkJmA2TIUydDLU5RIf%2BvyQLyw0hWnMEA%3D&amp;reserved=0">קבוצת Surface Devices</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F5AmRmpymSh3f7iQPTTwz6g&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818922962%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=GlZgfD3tNEvtXfJVPPkcZOajKnk%2BzHi1TM9rXa0Yuds%3D&amp;reserved=0">קבוצת M365 Security</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/06/geekonomy441/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/6axmg2/geekonomy441.mp3" length="98240207" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
+<summary>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</summary>
+<description>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-06 at 15.44.53</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ספיישל לאונרד כהן</title>
       <itunes:title>ספיישל לאונרד כהן</itunes:title>
       <description>מוזיקה לשבת: לאונרד כהן באחד האלבומים הפחות מושמעים. 50 שנה ל-Songs of Love and Hate.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות &lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
