@@ -11,9 +11,52 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 05:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Dec 2021 06:17:47 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Day of the Debt</title>
+      <description>פרק מאוד משעשע על איך אפשר להלוות כסף לארה"ב. ותכלס על משמעות הביטחון של הלווים בכך שארה"ב תוכל להחזיר את הכסף הזה ואיך זה הופך אותה להשקעה דיי לא משתלמת. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Planet Money - Day of the Debt&lt;br&gt;משך: 21 דק'&lt;br&gt;https://pca.st/8cq3a0p6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We make a loan to the U.S. government, and it does not go the way we thought it would. Plus: the story of that one time the U.S. defaulted. Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Thu, 16 Dec 2021 05:37:01 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">33167a97-e651-40aa-ac66-d6c6ec6f89e9</guid>
+      <link>https://www.npr.org/2021/11/23/1058529788/day-of-the-debt</link>
+      <itunes:title>Day of the Debt</itunes:title>
+      <itunes:episode>1487</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>פרק מאוד משעשע על איך אפשר להלוות כסף לארה"ב. ותכלס על משמעות הביטחון של הלווים בכך שארה"ב תוכל להחזיר את הכסף הזה ואיך זה הופך אותה להשקעה דיי לא משתלמת. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Planet Money - Day of the Debt&lt;br&gt;משך: 21 דק'&lt;br&gt;https://pca.st/8cq3a0p6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We make a loan to the U.S. government, and it does not go the way we thought it would. Plus: the story of that one time the U.S. defaulted. Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2021/11/24/pms-tbill-use-this_wide-bbebd6c4372bf0965dc7342d8b5e3ec6db216004.jpg?s=1400"/>
+      <itunes:duration>1270</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>פרק מאוד משעשע על איך אפשר להלוות כסף לארה"ב. ותכלס על משמעות הביטחון של הלווים בכך שארה"ב תוכל להחזיר את הכסף הזה ואיך זה הופך אותה להשקעה דיי לא משתלמת. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Planet Money - Day of the Debt&lt;br&gt;משך: 21 דק'&lt;br&gt;https://pca.st/8cq3a0p6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We make a loan to the U.S. government, and it does not go the way we thought it would. Plus: the story of that one time the U.S. defaulted. Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/11/20211124_pmoney_pmpod_1487.mp3?awCollectionId=510289&amp;awEpisodeId=1058529788&amp;orgId=1&amp;topicId=1017&amp;d=1270&amp;p=510289&amp;story=1058529788&amp;t=podcast&amp;e=1058529788&amp;size=20322099&amp;ft=pod&amp;f=510289" length="20322099" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>דיסני פלוס עושה עלייה | #21</title>
+      <itunes:title>דיסני פלוס עושה עלייה | #21</itunes:title>
+      <description>שירות דיסני פלוס הופך להיות זמין בארץ ובאבק פיות מדברים על השירות העולמי. מה היתרונות, החסרונות ומה מפת השוק בתחום ערוצי הילדים. &lt;br&gt;#ישראל #תרבות&lt;br&gt;&lt;br&gt;אבק פיות - דיסני פלוס עושה עלייה | #21&lt;br&gt;משך: 38 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f5hisryy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מרגע עם דודלי ועד ארתור: דורות של ילדים גדלו על טלוויזיה ישראלית דרך רשימת קלאסיקות שלא נגמרת. בעוד פעם החינוכית וערוץ הילדים היו האוטוריטה הבלעדית, בשנים האחרונות נכנס שחקן חדש שניסה לאיים על הסדר הקיים – ערוץ דיסני, אך ללא הצלחה. האם הכניסה של דיסני פלוס לישראל תשנה את חוקי המשחק? אורח: ד"ר יובל גוז'נסקי, פרק פתיחת העונה
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>שירות דיסני פלוס הופך להיות זמין בארץ ובאבק פיות מדברים על השירות העולמי. מה היתרונות, החסרונות ומה מפת השוק בתחום ערוצי הילדים. &lt;br&gt;#ישראל #תרבות&lt;br&gt;&lt;br&gt;אבק פיות - דיסני פלוס עושה עלייה | #21&lt;br&gt;משך: 38 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f5hisryy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מרגע עם דודלי ועד ארתור: דורות של ילדים גדלו על טלוויזיה ישראלית דרך רשימת קלאסיקות שלא נגמרת. בעוד פעם החינוכית וערוץ הילדים היו האוטוריטה הבלעדית, בשנים האחרונות נכנס שחקן חדש שניסה לאיים על הסדר הקיים – ערוץ דיסני, אך ללא הצלחה. האם הכניסה של דיסני פלוס לישראל תשנה את חוקי המשחק? אורח: ד"ר יובל גוז'נסקי, פרק פתיחת העונה
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>שירות דיסני פלוס הופך להיות זמין בארץ ובאבק פיות מדברים על השירות העולמי. מה היתרונות, החסרונות ומה מפת השוק בתחום ערוצי הילדים. &lt;br&gt;#ישראל #תרבות&lt;br&gt;&lt;br&gt;אבק פיות - דיסני פלוס עושה עלייה | #21&lt;br&gt;משך: 38 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f5hisryy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מרגע עם דודלי ועד ארתור: דורות של ילדים גדלו על טלוויזיה ישראלית דרך רשימת קלאסיקות שלא נגמרת. בעוד פעם החינוכית וערוץ הילדים היו האוטוריטה הבלעדית, בשנים האחרונות נכנס שחקן חדש שניסה לאיים על הסדר הקיים – ערוץ דיסני, אך ללא הצלחה. האם הכניסה של דיסני פלוס לישראל תשנה את חוקי המשחק? אורח: ד"ר יובל גוז'נסקי, פרק פתיחת העונה
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:author>ynet</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/9a93f8ac-95de-4955-b9d5-adf101763ca4/image.jpg?t=1638433061&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/9a93f8ac-95de-4955-b9d5-adf101763ca4/audio.mp3?utm_source=Podcast&amp;in_playlist=1888b583-14a3-4665-8e92-aca700cbbb40" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/avak-feyot/21/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/9a93f8ac-95de-4955-b9d5-adf101763ca4/image.jpg?t=1638433061&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">9a93f8ac-95de-4955-b9d5-adf101763ca4</guid>
+      <omny:clipId>9a93f8ac-95de-4955-b9d5-adf101763ca4</omny:clipId>
+      <pubDate>Thu, 16 Dec 2021 05:36:02 +0000</pubDate>
+      <itunes:duration>2276</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/9a93f8ac-95de-4955-b9d5-adf101763ca4/audio.mp3?utm_source=Podcast&amp;in_playlist=1888b583-14a3-4665-8e92-aca700cbbb40" length="36471785" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/avak-feyot/21</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
       <title>מדריך הטרמפיסט לגלקסיה</title>
       <guid isPermaLink="false">61a72464f231b41eb87d55c6</guid>
       <description>פרק לחובבי המדריך לטרמפיסט בגלקסיה - אחד הספרים המפורסמים של דאגלס אדאמס. הרבה רפרנסים לספרים, אנקדוטות משעשעות ובעיקר שיחה של שתי חובבות על קלאסיקה אהובה. &lt;br&gt;#ספרים &lt;br&gt;&lt;br&gt;האחיות גרים - מדריך הטרמפיסט לגלקסיה&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/wu983nqv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק תשעים ושישה ובו נרים עינינו אל השמיים בתקווה שלא למצוא שם דחפור ווגוני, ונתפוס טרמפ</description>
