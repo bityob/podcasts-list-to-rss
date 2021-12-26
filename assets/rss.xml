@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 26 Dec 2021 16:22:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Dec 2021 17:21:21 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Have Yourself a Scary Little Krampus</title>
@@ -613,27 +613,14 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">611ab1ec-a166-11eb-8a22-eb823899e314</guid>
       <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019403" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1161979513</guid>
-      <title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</title>
-      <pubDate>Tue, 07 Dec 2021 05:59:01 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/222-guy-rozenwald</link>
-      <itunes:duration>01:15:18</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה על ניהול עובדים. גיא רוזנוולד (יזם) מספר על התיאוריה הניהולית שלו ובכך מאפשר לנו לחשוב איתו ביחד על איך בונים צוות ואיך מנהלים קבוצות שונות של אנשים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך גורמים לעובדים להישאר? - פופקורן 222 &lt;br&gt;&lt;br&gt;https://pca.st/ao8fmnd8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
-לאחרונה אני חושב הרבה על ניהול (אני אפילו עובד על ספר חדש - פרטים בפודקאסט!).
- 
-אל מול הצרכים ההולכים ומשתנים של עובדים בעולם החדש, מנהלים מוצאים את עצמם בפוזיציה שצריכה לאזן בין מטרות הקבוצה והחברה לבין ציפיות העובד לאוטונומיה, משמעות כיף ותגמול. כדי שלא אחשוב על הנושא הזה לבד - הזמנתי את גיא רוזנוולד לחשוב איתי בקול רם מול מיקרופון פתוח.
-גיא יזם, בונה ומנהל קבוצות מעל ל- 18 שנים. הוא פיתח תורה ניהולית שמשלבת קונספטים מתחומים כמו כלכלה התנהגותית,מוזיקה ואפילו ספורט. את המודלים הניהוליים שפיתח הוא מלמד ומעביר בסדנאות וגם מטמיע בתפקידו הנוכחי, בו הוא מוביל את Global ontology group באיביי.
-
-להאזנה באתר:
-https://frnkl.co/blog-podcast/222-guy-rozenwald
-
-קבלו עדכון על הספר החדש שלי:
-https://forms.gle/1asgAemvCNmF6DNF6</itunes:summary>
-      <itunes:subtitle>אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? א…</itunes:subtitle>
-      <description>שיחה על ניהול עובדים. גיא רוזנוולד (יזם) מספר על התיאוריה הניהולית שלו ובכך מאפשר לנו לחשוב איתו ביחד על איך בונים צוות ואיך מנהלים קבוצות שונות של אנשים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך גורמים לעובדים להישאר? - פופקורן 222 &lt;br&gt;&lt;br&gt;https://pca.st/ao8fmnd8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</title>
+        <itunes:title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%92%d7%95%d7%a8%d7%9e%d7%99%d7%9d%d7%9c%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%9d-%d7%9c%d7%94%d7%99%d7%a9%d7%90%d7%a8%d7%a4/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%92%d7%95%d7%a8%d7%9e%d7%99%d7%9d%d7%9c%d7%a2%d7%95%d7%91%d7%93%d7%99%d7%9d-%d7%9c%d7%94%d7%99%d7%a9%d7%90%d7%a8%d7%a4/#comments</comments>
+        <pubDate>Tue, 07 Dec 2021 05:59:01 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1161979513</guid>
+                      <description>שיחה על ניהול עובדים. גיא רוזנוולד (יזם) מספר על התיאוריה הניהולית שלו ובכך מאפשר לנו לחשוב איתו ביחד על איך בונים צוות ואיך מנהלים קבוצות שונות של אנשים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך גורמים לעובדים להישאר? - פופקורן 222 &lt;br&gt;&lt;br&gt;https://pca.st/ao8fmnd8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
 לאחרונה אני חושב הרבה על ניהול (אני אפילו עובד על ספר חדש - פרטים בפודקאסט!).
  
 אל מול הצרכים ההולכים ומשתנים של עובדים בעולם החדש, מנהלים מוצאים את עצמם בפוזיציה שצריכה לאזן בין מטרות הקבוצה והחברה לבין ציפיות העובד לאוטונומיה, משמעות כיף ותגמול. כדי שלא אחשוב על הנושא הזה לבד - הזמנתי את גיא רוזנוולד לחשוב איתי בקול רם מול מיקרופון פתוח.
@@ -644,9 +631,37 @@ https://frnkl.co/blog-podcast/222-guy-rozenwald
 
 קבלו עדכון על הספר החדש שלי:
 https://forms.gle/1asgAemvCNmF6DNF6</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1161979513-hamutsi-222-guy-rozenwald.mp3" length="94281518"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-ro1KsJPPSWHSpFEV-Q0XINQ-t3000x3000.jpg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+                        <content:encoded>שיחה על ניהול עובדים. גיא רוזנוולד (יזם) מספר על התיאוריה הניהולית שלו ובכך מאפשר לנו לחשוב איתו ביחד על איך בונים צוות ואיך מנהלים קבוצות שונות של אנשים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך גורמים לעובדים להישאר? - פופקורן 222 &lt;br&gt;&lt;br&gt;https://pca.st/ao8fmnd8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
+לאחרונה אני חושב הרבה על ניהול (אני אפילו עובד על ספר חדש - פרטים בפודקאסט!).
+ 
+אל מול הצרכים ההולכים ומשתנים של עובדים בעולם החדש, מנהלים מוצאים את עצמם בפוזיציה שצריכה לאזן בין מטרות הקבוצה והחברה לבין ציפיות העובד לאוטונומיה, משמעות כיף ותגמול. כדי שלא אחשוב על הנושא הזה לבד - הזמנתי את גיא רוזנוולד לחשוב איתי בקול רם מול מיקרופון פתוח.
+גיא יזם, בונה ומנהל קבוצות מעל ל- 18 שנים. הוא פיתח תורה ניהולית שמשלבת קונספטים מתחומים כמו כלכלה התנהגותית,מוזיקה ואפילו ספורט. את המודלים הניהוליים שפיתח הוא מלמד ומעביר בסדנאות וגם מטמיע בתפקידו הנוכחי, בו הוא מוביל את Global ontology group באיביי.
+
+להאזנה באתר:
+https://frnkl.co/blog-podcast/222-guy-rozenwald
+
+קבלו עדכון על הספר החדש שלי:
+https://forms.gle/1asgAemvCNmF6DNF6</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/5tfpjm/stream_1161979513-hamutsi-222-guy-rozenwald.mp3" length="94281518" type="audio/mpeg"/>
+        <itunes:subtitle>אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
+לאחרונה אני חושב הרבה על ניהול (אני אפילו עובד על ספר חדש - פרטים בפודק...</itunes:subtitle>
+        <itunes:summary>שיחה על ניהול עובדים. גיא רוזנוולד (יזם) מספר על התיאוריה הניהולית שלו ובכך מאפשר לנו לחשוב איתו ביחד על איך בונים צוות ואיך מנהלים קבוצות שונות של אנשים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך גורמים לעובדים להישאר? - פופקורן 222 &lt;br&gt;&lt;br&gt;https://pca.st/ao8fmnd8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אז איך בונים קבוצה מצטיינת? איך זה קשור לספורט? איך יוצרים תרבות בחברה (רמז - לא דרך דיבורים)?  ואיך מייצרים סביבה שגורמת לעובדים לא רק ״לא לעזוב״ אלה לבחור מחדש להישאר במקום העבודה?
+לאחרונה אני חושב הרבה על ניהול (אני אפילו עובד על ספר חדש - פרטים בפודקאסט!).
+ 
+אל מול הצרכים ההולכים ומשתנים של עובדים בעולם החדש, מנהלים מוצאים את עצמם בפוזיציה שצריכה לאזן בין מטרות הקבוצה והחברה לבין ציפיות העובד לאוטונומיה, משמעות כיף ותגמול. כדי שלא אחשוב על הנושא הזה לבד - הזמנתי את גיא רוזנוולד לחשוב איתי בקול רם מול מיקרופון פתוח.
+גיא יזם, בונה ומנהל קבוצות מעל ל- 18 שנים. הוא פיתח תורה ניהולית שמשלבת קונספטים מתחומים כמו כלכלה התנהגותית,מוזיקה ואפילו ספורט. את המודלים הניהוליים שפיתח הוא מלמד ומעביר בסדנאות וגם מטמיע בתפקידו הנוכחי, בו הוא מוביל את Global ontology group באיביי.
+
+להאזנה באתר:
+https://frnkl.co/blog-podcast/222-guy-rozenwald
+
+קבלו עדכון על הספר החדש שלי:
+https://forms.gle/1asgAemvCNmF6DNF6</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:15:18</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/5fe09bceb4c489d74f6189aef1a7b9fb.jpg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 216: איש של יציבות</title>
       <itunes:title>פרק 216: איש של יציבות</itunes:title>
       <description>פרק על אינפלציה. ניתוח של המצב  כיום בישראל ושל הדילמות שעומדות בפני הנגיד של בנק ישראל בשביל לרסן את האינפלציה. להעלות ריבית או לא להעלות - זאת השאלה.&lt;br&gt;#ישראל #כלכלה&lt;br&gt;&lt;br&gt;חיות כיס - פרק 216: איש של יציבות&lt;br&gt;&lt;br&gt;https://pca.st/8o7kvb0f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אינפלציה היא עליית מחירים מתמשכת. האם מה שאנחנו רואים עכשיו זו עליית מחירים זמנית או תחילתה של אינפלציה? שיחה עם נגיד בנק ישראל, פרופ' אמיר ירון, האיש שאמור לפתור את החידה הזו
@@ -975,27 +990,14 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1942</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/6dd1bdcf-1394-484a-89d2-ade2012d3038/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="31123512" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/215-13</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1157549446</guid>
-      <title>לכתוב ולקרוא את העתיד - פופקורן 221 עם אורי גושן</title>
-      <pubDate>Tue, 23 Nov 2021 04:53:35 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/221-ori-goshen</link>
-      <itunes:duration>01:16:12</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה מעניינת על כתיבה כמו שהיא יכולה להראות בעתיד המאוד לא רחוק שלנו. ובמיוחד איך AI יכול להשפיע עליה ולשנות אותה. אורי מתאר מצבים שבהם אנחנו עדיין נהיה אלו עם הרעיונות אבל הביצוע כבר יהיה שייך למכונה. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פופקורן - 221 לכתוב ולקרוא את העתיד &lt;br&gt;&lt;br&gt;https://pca.st/3rcjh5nv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
-
- אתם לא יכולים להרשות לעצמכם לא להכיר את זה. בשנים הקרובות נחשף לשינויים בדרך בה אנחנו כותבים וקוראים. מה שלא השתנה כבר מאות שנים הולך להיראות אחרת לגמרי. בגלל הטכנולוגיה ובזכות מחקרים ויישומים מתקדמים שמנסים להבין ולשפר את הקשר בינינו לבין השפה שלנו.
-
-ביקשתי מאורי, יזם סדרתי, מייסד ומנכ״ל משותף ב AI21 Labs, חברה פורצת דרך שיסביר לי איך בינה מלאכותית מצליחה לכתוב טקסט, במה זה שונה מהדרך בה אנחנו כותבים ואיך אנחנו יכולים לעבוד איתה יחד כדי לשפר את הכתיבה והקריאה שלנו. 
-
-פרק שמצליח לבאר את אחד התחומים המעניינים ביותר שמתפתחים עכשיו בקצב מטורף.
-
-
-להאזנה באתר:
-frnkl.co/blog-podcast/221-ori-goshen</itunes:summary>
-      <itunes:subtitle>איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הד…</itunes:subtitle>
-      <description>שיחה מעניינת על כתיבה כמו שהיא יכולה להראות בעתיד המאוד לא רחוק שלנו. ובמיוחד איך AI יכול להשפיע עליה ולשנות אותה. אורי מתאר מצבים שבהם אנחנו עדיין נהיה אלו עם הרעיונות אבל הביצוע כבר יהיה שייך למכונה. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פופקורן - 221 לכתוב ולקרוא את העתיד &lt;br&gt;&lt;br&gt;https://pca.st/3rcjh5nv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>לכתוב ולקרוא את העתיד - פופקורן 221 עם אורי גושן</title>
+        <itunes:title>לכתוב ולקרוא את העתיד - פופקורן 221 עם אורי גושן</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%9c%d7%9b%d7%aa%d7%95%d7%91%d7%95%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%90%d7%aa%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%9c%d7%9b%d7%aa%d7%95%d7%91%d7%95%d7%9c%d7%a7%d7%a8%d7%95%d7%90-%d7%90%d7%aa%d7%94%d7%a2%d7%aa%d7%99%d7%93-%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8/#comments</comments>
+        <pubDate>Tue, 23 Nov 2021 04:53:35 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1157549446</guid>
+                      <description>שיחה מעניינת על כתיבה כמו שהיא יכולה להראות בעתיד המאוד לא רחוק שלנו. ובמיוחד איך AI יכול להשפיע עליה ולשנות אותה. אורי מתאר מצבים שבהם אנחנו עדיין נהיה אלו עם הרעיונות אבל הביצוע כבר יהיה שייך למכונה. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פופקורן - 221 לכתוב ולקרוא את העתיד &lt;br&gt;&lt;br&gt;https://pca.st/3rcjh5nv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
 
  אתם לא יכולים להרשות לעצמכם לא להכיר את זה. בשנים הקרובות נחשף לשינויים בדרך בה אנחנו כותבים וקוראים. מה שלא השתנה כבר מאות שנים הולך להיראות אחרת לגמרי. בגלל הטכנולוגיה ובזכות מחקרים ויישומים מתקדמים שמנסים להבין ולשפר את הקשר בינינו לבין השפה שלנו.
 
@@ -1006,9 +1008,38 @@ frnkl.co/blog-podcast/221-ori-goshen</itunes:summary>
 
 להאזנה באתר:
 frnkl.co/blog-podcast/221-ori-goshen</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1157549446-hamutsi-221-ori-goshen.mp3" length="73161167"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-Dw1hYUh6uT54QCq6-0SEqyA-t3000x3000.jpg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><title>Mixtape: The Wandering Soul
+                        <content:encoded>שיחה מעניינת על כתיבה כמו שהיא יכולה להראות בעתיד המאוד לא רחוק שלנו. ובמיוחד איך AI יכול להשפיע עליה ולשנות אותה. אורי מתאר מצבים שבהם אנחנו עדיין נהיה אלו עם הרעיונות אבל הביצוע כבר יהיה שייך למכונה. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פופקורן - 221 לכתוב ולקרוא את העתיד &lt;br&gt;&lt;br&gt;https://pca.st/3rcjh5nv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
+
+ אתם לא יכולים להרשות לעצמכם לא להכיר את זה. בשנים הקרובות נחשף לשינויים בדרך בה אנחנו כותבים וקוראים. מה שלא השתנה כבר מאות שנים הולך להיראות אחרת לגמרי. בגלל הטכנולוגיה ובזכות מחקרים ויישומים מתקדמים שמנסים להבין ולשפר את הקשר בינינו לבין השפה שלנו.
+
+ביקשתי מאורי, יזם סדרתי, מייסד ומנכ״ל משותף ב AI21 Labs, חברה פורצת דרך שיסביר לי איך בינה מלאכותית מצליחה לכתוב טקסט, במה זה שונה מהדרך בה אנחנו כותבים ואיך אנחנו יכולים לעבוד איתה יחד כדי לשפר את הכתיבה והקריאה שלנו. 
+
+פרק שמצליח לבאר את אחד התחומים המעניינים ביותר שמתפתחים עכשיו בקצב מטורף.
+
+
+להאזנה באתר:
+frnkl.co/blog-podcast/221-ori-goshen</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/3uroy7/stream_1157549446-hamutsi-221-ori-goshen.mp3" length="73161167" type="audio/mpeg"/>
+        <itunes:subtitle>איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
+
+ אתם לא יכולים להרשות לעצמכם לא להכיר את זה. בשנים הקרובות נחשף לשינויים בדרך בה אנחנו כותבים וקוראים. מה שלא השתנה כבר מאות שנים הולך להיראות אחרת לגמרי. בגלל הטכנולוגיה ובזכות מחקר...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת על כתיבה כמו שהיא יכולה להראות בעתיד המאוד לא רחוק שלנו. ובמיוחד איך AI יכול להשפיע עליה ולשנות אותה. אורי מתאר מצבים שבהם אנחנו עדיין נהיה אלו עם הרעיונות אבל הביצוע כבר יהיה שייך למכונה. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פופקורן - 221 לכתוב ולקרוא את העתיד &lt;br&gt;&lt;br&gt;https://pca.st/3rcjh5nv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נכתוב בעתיד? ואיך הבינה המלאכותית תשפיע על הדרך בה אנחנו קוראים?  
+
+ אתם לא יכולים להרשות לעצמכם לא להכיר את זה. בשנים הקרובות נחשף לשינויים בדרך בה אנחנו כותבים וקוראים. מה שלא השתנה כבר מאות שנים הולך להיראות אחרת לגמרי. בגלל הטכנולוגיה ובזכות מחקרים ויישומים מתקדמים שמנסים להבין ולשפר את הקשר בינינו לבין השפה שלנו.
+
+ביקשתי מאורי, יזם סדרתי, מייסד ומנכ״ל משותף ב AI21 Labs, חברה פורצת דרך שיסביר לי איך בינה מלאכותית מצליחה לכתוב טקסט, במה זה שונה מהדרך בה אנחנו כותבים ואיך אנחנו יכולים לעבוד איתה יחד כדי לשפר את הכתיבה והקריאה שלנו. 
+
+פרק שמצליח לבאר את אחד התחומים המעניינים ביותר שמתפתחים עכשיו בקצב מטורף.
+
+
+להאזנה באתר:
+frnkl.co/blog-podcast/221-ori-goshen</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:16:12</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/2a4093d7ec6974ef1d83a9e9bc7ab612.jpg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/"><title>Mixtape: The Wandering Soul
 </title><link>http://www.wnycstudios.org/story/wandering-soul/</link><description>סיפור מרתק על לוחמה פסיכולוגית בזמן מלחמת ויטנאם. &lt;br&gt;מה קורה כשלוקחים קבוצה של אנשי שיווק ופרסום ואומרים להם למצוא דרך שבה הצד השני יכנע בלי קרב?&lt;br&gt;התוצאה היא סיפור מפחיד על הרוחות של המתים שלא מוצאות מנוחה. &lt;br&gt;#הסטוריה #פסיכולוגיה #אנגלית &lt;br&gt;&lt;br&gt;Radiolab - Mixtape: The Wandering Soul&lt;br&gt;&lt;br&gt;https://pca.st/x7mea8p0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;span&gt;As the Vietnam war dragged on, the US military began desperately searching for any vulnerability in their North Vietnamese enemy. In 1964, they found it. It was an old Vietnamese folktale involving a ghost, eternal damnation and fear - a tailor made weaponizable myth. And so, armed with tape recorders and microphones, the military set out to win the war by bringing this ghost story to life.&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span&gt;Today, the story of these efforts and their ghosts that still haunt us today. &lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Mixtape is reported, produced, scored and sound designed by Simon Adler with original music throughout by Simon. Indispensable reporting and production assistance was provided by Eli Cohen.&lt;/em&gt;&lt;/p&gt;
@@ -2608,28 +2639,38 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1378</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b8d7b53f-244f-44bb-84c3-aa0601413e81/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1559731743" length="22081812" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/b8d7b53f-244f-44bb-84c3-aa0601413e81</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1112043829</guid>
-      <title>הוא משקיע. גם בכתיבה. - פופקורן 211 עם דניאל שנער</title>
-      <pubDate>Fri, 01 Oct 2021 09:51:56 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/211-daniel-shinar</link>
-      <itunes:duration>01:22:00</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...&lt;br&gt;#סיפורמעניין #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - 221&lt;br&gt;&lt;br&gt;https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
-
-דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיונו כקצין מודיעין - ועל כן נדרשו לאישור הצנזורה כדי לצאת לאור. נפגשנו לדבר על שתי האהבות האלו שלו.
-
-אז איך עובדת קרן השקעות? אילו שאלות כל היזמים שואלים, גם כשהם מצליחים? למה הוא הוא מרגיש שלא היה יכול להתמקד רק בכתיבה? למה היה צריך את אישור הצנזורה? מה השיטה שעזרה לו לסיים את הספרים שלו בתור אדם עסוק מאד? והאם הסיפורים שהוא פוגש כמשקיע מתערבבים לתוך הספרים שהוא כותב?</itunes:summary>
-      <itunes:subtitle>איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי…</itunes:subtitle>
-      <description>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...&lt;br&gt;#סיפורמעניין #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - 221&lt;br&gt;&lt;br&gt;https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>הוא משקיע. גם בכתיבה. - פופקורן 211 עם דניאל שנער</title>
+        <itunes:title>הוא משקיע. גם בכתיבה. - פופקורן 211 עם דניאל שנער</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%94%d7%95%d7%90-%d7%9e%d7%a9%d7%a7%d7%99%d7%a2%d7%92%d7%9d-%d7%91%d7%9b%d7%aa%d7%99%d7%91%d7%94%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-211/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%94%d7%95%d7%90-%d7%9e%d7%a9%d7%a7%d7%99%d7%a2%d7%92%d7%9d-%d7%91%d7%9b%d7%aa%d7%99%d7%91%d7%94%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-211/#comments</comments>
+        <pubDate>Fri, 01 Oct 2021 09:51:56 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1112043829</guid>
+                      <description>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...&lt;br&gt;#סיפורמעניין #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - 221&lt;br&gt;&lt;br&gt;https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
 
 דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיונו כקצין מודיעין - ועל כן נדרשו לאישור הצנזורה כדי לצאת לאור. נפגשנו לדבר על שתי האהבות האלו שלו.
 
 אז איך עובדת קרן השקעות? אילו שאלות כל היזמים שואלים, גם כשהם מצליחים? למה הוא הוא מרגיש שלא היה יכול להתמקד רק בכתיבה? למה היה צריך את אישור הצנזורה? מה השיטה שעזרה לו לסיים את הספרים שלו בתור אדם עסוק מאד? והאם הסיפורים שהוא פוגש כמשקיע מתערבבים לתוך הספרים שהוא כותב?</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1112043829-hamutsi-211-daniel-shinar.mp3" length="78737996"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-NzM1bdGKF97v9GK7-yfwJLw-t3000x3000.jpg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>כשבגרוש היה שנקל - המיסים ההזויים [כשבגרוש היה חור]</title><link>https://www.spreaker.com/user/pimedia/mst-s-g-4groosh</link><description>פרק כייפי על מיסים הזויים (במיוחד). &lt;br&gt;פרק משותף בין "כשבגרוש היה חור" עם "שנקל". &lt;br&gt;#כלכלה #קצרים &lt;br&gt;&lt;br&gt;כשבגרוש היה חור - המיסים ההזויים&lt;br&gt;&lt;br&gt;https://pca.st/episode/8dd85175-e44b-4009-aafc-03a61c61a27d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!&lt;br /&gt;בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46690594</guid><pubDate>Fri, 01 Oct 2021 09:51:53 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46690594/mst_s_g_4groosh.mp3" length="47452649" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!
+                        <content:encoded>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...&lt;br&gt;#סיפורמעניין #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - 221&lt;br&gt;&lt;br&gt;https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+
+דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיונו כקצין מודיעין - ועל כן נדרשו לאישור הצנזורה כדי לצאת לאור. נפגשנו לדבר על שתי האהבות האלו שלו.
+
+אז איך עובדת קרן השקעות? אילו שאלות כל היזמים שואלים, גם כשהם מצליחים? למה הוא הוא מרגיש שלא היה יכול להתמקד רק בכתיבה? למה היה צריך את אישור הצנזורה? מה השיטה שעזרה לו לסיים את הספרים שלו בתור אדם עסוק מאד? והאם הסיפורים שהוא פוגש כמשקיע מתערבבים לתוך הספרים שהוא כותב?</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/nhazkf/stream_1112043829-hamutsi-211-daniel-shinar.mp3" length="78737996" type="audio/mpeg"/>
+        <itunes:subtitle>איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+
+דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני ר...</itunes:subtitle>
+        <itunes:summary>שיחה מאוד מעניינת עם דניאל שנער, ראש קרן השקעות והכותב של "בית הפגודה" ושמיים אדומים". השיחה מתחילה אי שם מהשירות הצבאי במודיעין וממשיכה לתואר ראשון שלא ממש הוביל למשהו ואז להתקדמות של דניאל בעולם הפיננסי. אי שם בדרך איך כותבים רבי מכר במקביל למשרה מלאה + ילדים...&lt;br&gt;#סיפורמעניין #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - 221&lt;br&gt;&lt;br&gt;https://pca.st/episode/26e15d9c-4b44-45bf-91a1-66399ba9ad44&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך קורה שמנכ״ל קרן השקעות מצליחה גם כותב שני רבי-מכר?
+
+דניאל שנער הוא טיפוס שמצליח להצליח מבלי להצליח לעצבן. הוא גם מנכ״ל כללטק, קרן השקעות שמשקיעה בחברות הייטק בשלבים מתקדמים (כמו Iron Source שהרגע הנפיקה בבורסה בארה״ב). וגם, מצא איכשהו זמן לכתוב שני רבי מכר - "שמים אדומים"(שהיה ספר הפרוזה הנמכר ביותר בשנת 2018) ו-"בית הפגודה" שחורך עכשיו את רשימות רבי המכר. שניהם מבוססים על ניסיונו כקצין מודיעין - ועל כן נדרשו לאישור הצנזורה כדי לצאת לאור. נפגשנו לדבר על שתי האהבות האלו שלו.
+
+אז איך עובדת קרן השקעות? אילו שאלות כל היזמים שואלים, גם כשהם מצליחים? למה הוא הוא מרגיש שלא היה יכול להתמקד רק בכתיבה? למה היה צריך את אישור הצנזורה? מה השיטה שעזרה לו לסיים את הספרים שלו בתור אדם עסוק מאד? והאם הסיפורים שהוא פוגש כמשקיע מתערבבים לתוך הספרים שהוא כותב?</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:22:00</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/2f954bca84548638da626f9b1560489f.jpg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>כשבגרוש היה שנקל - המיסים ההזויים [כשבגרוש היה חור]</title><link>https://www.spreaker.com/user/pimedia/mst-s-g-4groosh</link><description>פרק כייפי על מיסים הזויים (במיוחד). &lt;br&gt;פרק משותף בין "כשבגרוש היה חור" עם "שנקל". &lt;br&gt;#כלכלה #קצרים &lt;br&gt;&lt;br&gt;כשבגרוש היה חור - המיסים ההזויים&lt;br&gt;&lt;br&gt;https://pca.st/episode/8dd85175-e44b-4009-aafc-03a61c61a27d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!&lt;br /&gt;בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46690594</guid><pubDate>Fri, 01 Oct 2021 09:51:53 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46690594/mst_s_g_4groosh.mp3" length="47452649" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>פרק קרוס מיוחד עם הפודקאסט המעולה שנקל!
 בפרק זה הגיעו רועי שוורץ תיכון ועידן ארץ, המנחים של שנקל לדבר על המיסים הכי מוזרים שיש בעולם.
 
 האזנה נעימה,
@@ -3157,25 +3198,14 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>5472</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/444e943c-da19-4a37-8915-ad8601083cd3/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" length="87594250" type="audio/mpeg"/>
       <link>https://omny.fm/shows/midnight-special/444e943c-da19-4a37-8915-ad8601083cd3</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1108213435</guid>
-      <title>איך להפוך אלגוריתם לשירה? - פופקורן 210 עם ד״ר ליאור זלמנסון</title>
-      <pubDate>Fri, 27 Aug 2021 12:26:51 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/lior-zalmanson-210</link>
-      <itunes:duration>01:32:39</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>נקודת מבט שונה ודיי מיוחדת על רשתות חברתיות ומימון המונים. הקו המקשר של השיחה זה ספר שירה שמבוסס על ההודעות האוטומטיות של רשתות חברתיות שונות אבל בפועל הדיון זולג להרבה מאוד נושאים בין טכנולוגיה ופסיכולוגיה. &lt;br&gt;#טכנולוגיה #שירה #פסיכולוגיה&lt;br&gt;&lt;br&gt;פופקורן - 210 &lt;br&gt;&lt;br&gt;https://pca.st/episode/17663336-1450-4daf-a423-ffe66ebf3d0e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
-
-
-רַק אַתָּה / יָכוֹל לִרְאוֹת אֶת זֶה // אֶלָּא אִם כֵּן / תְּשַׁתֵּף אֶת זֶה // אֲנַחְנוּ יְכוֹלִים לְהַרְאוֹת לְךָ כֵּיצַד. 
-זה נקרא כמו שירה נכון? אבל האמת שזו הודעה שד״ר ליאור זלמנסון, קיבל מפייסבוק, באחת האינטרקציות הרבות שלו עם הפלטפורמה. 
- 
-אז הוא לקח את זה צעד קדימה - ליאור אסף טקסטים וירטואליים מרחבי הסושיאל והאינטרנט והפך אותם לספר שירה. זה כל כך מיוחד שדיברנו שעה וחצי על 3 שירים וגם על - האינטרנט המתבגר וההשפעות שלו עלינו, סטנדרטים חברתיים ועל איך אפשר להבין את החוויה של האנחנו ב-2021?
-
-https://frnkl.co/blog-podcast/210-lior-zalmanson</itunes:summary>
-      <itunes:subtitle>איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה א…</itunes:subtitle>
-      <description>נקודת מבט שונה ודיי מיוחדת על רשתות חברתיות ומימון המונים. הקו המקשר של השיחה זה ספר שירה שמבוסס על ההודעות האוטומטיות של רשתות חברתיות שונות אבל בפועל הדיון זולג להרבה מאוד נושאים בין טכנולוגיה ופסיכולוגיה. &lt;br&gt;#טכנולוגיה #שירה #פסיכולוגיה&lt;br&gt;&lt;br&gt;פופקורן - 210 &lt;br&gt;&lt;br&gt;https://pca.st/episode/17663336-1450-4daf-a423-ffe66ebf3d0e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>איך להפוך אלגוריתם לשירה? - פופקורן 210 עם ד״ר ליאור זלמנסון</title>
+        <itunes:title>איך להפוך אלגוריתם לשירה? - פופקורן 210 עם ד״ר ליאור זלמנסון</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%a4%d7%95%d7%9a%d7%90%d7%9c%d7%92%d7%95%d7%a8%d7%99%d7%aa%d7%9d-%d7%9c%d7%a9%d7%99%d7%a8%d7%94%d7%a4%d7%95/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%94%d7%a4%d7%95%d7%9a%d7%90%d7%9c%d7%92%d7%95%d7%a8%d7%99%d7%aa%d7%9d-%d7%9c%d7%a9%d7%99%d7%a8%d7%94%d7%a4%d7%95/#comments</comments>
+        <pubDate>Fri, 27 Aug 2021 12:26:51 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1108213435</guid>
+                      <description>נקודת מבט שונה ודיי מיוחדת על רשתות חברתיות ומימון המונים. הקו המקשר של השיחה זה ספר שירה שמבוסס על ההודעות האוטומטיות של רשתות חברתיות שונות אבל בפועל הדיון זולג להרבה מאוד נושאים בין טכנולוגיה ופסיכולוגיה. &lt;br&gt;#טכנולוגיה #שירה #פסיכולוגיה&lt;br&gt;&lt;br&gt;פופקורן - 210 &lt;br&gt;&lt;br&gt;https://pca.st/episode/17663336-1450-4daf-a423-ffe66ebf3d0e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
 
 
 רַק אַתָּה / יָכוֹל לִרְאוֹת אֶת זֶה // אֶלָּא אִם כֵּן / תְּשַׁתֵּף אֶת זֶה // אֲנַחְנוּ יְכוֹלִים לְהַרְאוֹת לְךָ כֵּיצַד. 
@@ -3184,9 +3214,35 @@ https://frnkl.co/blog-podcast/210-lior-zalmanson</itunes:summary>
 אז הוא לקח את זה צעד קדימה - ליאור אסף טקסטים וירטואליים מרחבי הסושיאל והאינטרנט והפך אותם לספר שירה. זה כל כך מיוחד שדיברנו שעה וחצי על 3 שירים וגם על - האינטרנט המתבגר וההשפעות שלו עלינו, סטנדרטים חברתיים ועל איך אפשר להבין את החוויה של האנחנו ב-2021?
 
 https://frnkl.co/blog-podcast/210-lior-zalmanson</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1108213435-hamutsi-lior-zalmanson-210.mp3" length="88962532"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-oGQOxICW7AczPqBZ-p0hweg-t3000x3000.jpg"/>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+                        <content:encoded>נקודת מבט שונה ודיי מיוחדת על רשתות חברתיות ומימון המונים. הקו המקשר של השיחה זה ספר שירה שמבוסס על ההודעות האוטומטיות של רשתות חברתיות שונות אבל בפועל הדיון זולג להרבה מאוד נושאים בין טכנולוגיה ופסיכולוגיה. &lt;br&gt;#טכנולוגיה #שירה #פסיכולוגיה&lt;br&gt;&lt;br&gt;פופקורן - 210 &lt;br&gt;&lt;br&gt;https://pca.st/episode/17663336-1450-4daf-a423-ffe66ebf3d0e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
+
+
+רַק אַתָּה / יָכוֹל לִרְאוֹת אֶת זֶה // אֶלָּא אִם כֵּן / תְּשַׁתֵּף אֶת זֶה // אֲנַחְנוּ יְכוֹלִים לְהַרְאוֹת לְךָ כֵּיצַד. 
+זה נקרא כמו שירה נכון? אבל האמת שזו הודעה שד״ר ליאור זלמנסון, קיבל מפייסבוק, באחת האינטרקציות הרבות שלו עם הפלטפורמה. 
+ 
+אז הוא לקח את זה צעד קדימה - ליאור אסף טקסטים וירטואליים מרחבי הסושיאל והאינטרנט והפך אותם לספר שירה. זה כל כך מיוחד שדיברנו שעה וחצי על 3 שירים וגם על - האינטרנט המתבגר וההשפעות שלו עלינו, סטנדרטים חברתיים ועל איך אפשר להבין את החוויה של האנחנו ב-2021?
+
+https://frnkl.co/blog-podcast/210-lior-zalmanson</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/coon16/stream_1108213435-hamutsi-lior-zalmanson-210.mp3" length="88962532" type="audio/mpeg"/>
+        <itunes:subtitle>איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
+
+
+רַק אַתָּה / יָכוֹל לִרְאוֹת אֶת זֶה...</itunes:subtitle>
+        <itunes:summary>נקודת מבט שונה ודיי מיוחדת על רשתות חברתיות ומימון המונים. הקו המקשר של השיחה זה ספר שירה שמבוסס על ההודעות האוטומטיות של רשתות חברתיות שונות אבל בפועל הדיון זולג להרבה מאוד נושאים בין טכנולוגיה ופסיכולוגיה. &lt;br&gt;#טכנולוגיה #שירה #פסיכולוגיה&lt;br&gt;&lt;br&gt;פופקורן - 210 &lt;br&gt;&lt;br&gt;https://pca.st/episode/17663336-1450-4daf-a423-ffe66ebf3d0e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך נוטיפיקציה של פייסבוק יכולה להפוך לשיר? למה אנחנו צריכים להסביר את עצמנו לגוגל אם אנחנו עוסקים בכמה דברים? האם הרשתות החברתיות צריכות להיות תחת חוק וצנזורה של מדינות? ומה הבעיה של ליאור זלמנסון עם מימון המונים? 
+
+
+רַק אַתָּה / יָכוֹל לִרְאוֹת אֶת זֶה // אֶלָּא אִם כֵּן / תְּשַׁתֵּף אֶת זֶה // אֲנַחְנוּ יְכוֹלִים לְהַרְאוֹת לְךָ כֵּיצַד. 
+זה נקרא כמו שירה נכון? אבל האמת שזו הודעה שד״ר ליאור זלמנסון, קיבל מפייסבוק, באחת האינטרקציות הרבות שלו עם הפלטפורמה. 
+ 
+אז הוא לקח את זה צעד קדימה - ליאור אסף טקסטים וירטואליים מרחבי הסושיאל והאינטרנט והפך אותם לספר שירה. זה כל כך מיוחד שדיברנו שעה וחצי על 3 שירים וגם על - האינטרנט המתבגר וההשפעות שלו עלינו, סטנדרטים חברתיים ועל איך אפשר להבין את החוויה של האנחנו ב-2021?
+
+https://frnkl.co/blog-podcast/210-lior-zalmanson</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:32:39</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/9555c8886a6200b5cf1cd5ac8a624961.jpg"/>    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 31. כשהאינטרנט מקרטע: על כישלון, טכנולוגיה וזמן עם ד"ר נטע אלכסנדר</title>
         <itunes:title>פרק 31. כשהאינטרנט מקרטע: על כישלון, טכנולוגיה וזמן עם ד"ר נטע אלכסנדר</itunes:title>
         <link>https://posthum.podbean.com/e/ep31/</link>
@@ -3511,24 +3567,32 @@ https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/</googlepla
 			<itunes:keywords/>
 			<itunes:subtitle>In this episode, my guest is Dr. Matt Walker, Professor of Neuroscience and Psychology and the Founder &amp; Director of the Center for Human Sleep Science at the University of California, Berkeley. He is also the author of the international best-selling...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1095638221</guid>
-      <title>איך למכור מיליון עותקים ממשהו? - פופקורן 206 עם מיכאל עומר</title>
-      <pubDate>Sat, 07 Aug 2021 12:17:37 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/206-mike-omer</link>
-      <itunes:duration>01:21:48</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
- 
-מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</itunes:summary>
-      <itunes:subtitle>איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהו…</itunes:subtitle>
-      <description>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>איך למכור מיליון עותקים ממשהו? - פופקורן 206 עם מיכאל עומר</title>
+        <itunes:title>איך למכור מיליון עותקים ממשהו? - פופקורן 206 עם מיכאל עומר</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f-%d7%a2%d7%95%d7%aa%d7%a7%d7%99%d7%9d-%d7%9e/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f-%d7%a2%d7%95%d7%aa%d7%a7%d7%99%d7%9d-%d7%9e/#comments</comments>
+        <pubDate>Sat, 07 Aug 2021 12:17:37 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1095638221</guid>
+                      <description>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
  
 מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1095638221-hamutsi-206-mike-omer.mp3" length="78532360"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-QiQw2tF7UkYEggxB-UREwaQ-t3000x3000.jpg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+                        <content:encoded>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/gg26vz/stream_1095638221-hamutsi-206-mike-omer.mp3" length="78532360" type="audio/mpeg"/>
+        <itunes:subtitle>איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:21:48</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/9ee148182454e2ed48b2deabbcd985e9.jpg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">2126a701-3c0a-4840-b64f-16cf94e806ce</guid>
       <title>453- The Book of Tasty and Healthy Food</title>
       <description>פרק על ספר המתכונים האחד והיחיד של ברית המועצות. כשהמדינה מחנכת את האזרחים שלה דרך מתכונים וחלומות על מוצרים לא קיימים. פיסת הסטוריה מרתקת. &lt;br&gt;#אוכל #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible -453&lt;br&gt;&lt;br&gt;https://pca.st/episode/9be397cd-f749-4ee6-810e-74a191172f95&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Officially titled &lt;i&gt;The Book of Tasty and Healthy Food&lt;/i&gt;, it was often known simply as “Kniga” (translated: "book") because it was one of the only cookbooks to exist in the Soviet Union. The volume is peppered with glossy photographs of really lavish spreads and packed with text as well. There are recipes for lentils and crab salad and how to cook buckwheat nine different ways. But this book was meant to do so much more than show people how to make certain dishes — it's a Stalinist document aimed at addressing hunger itself in the USSR. "The book" was at the vanguard of a radical Soviet food experiment that, despite its numerous obstacles, transformed Russian cuisine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37787&amp;post_type=episode"&gt;The Book of Tasty and Healthy Food&lt;/a&gt;&lt;/p&gt;
@@ -3802,7 +3866,191 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1842</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/842c61b6-160b-4022-ba57-ad6b0174bc3d/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="29534903" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/210</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #444 – אורי שטיינברג והאוונגליסטים</title>
+		<link/>https://geekonomy.net/2021/07/14/geekonomy444/
+					<comments>https://geekonomy.net/2021/07/14/geekonomy444/#respond</comments>
+		
+		<creator/>
+		<pubdate>Wed, 21 Jul 2021 16:06:58 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4800</guid>
+
+					<description>שיחה מעניינת על האוונגליסטים בארה"ב והקשר שלהם לישראל. &lt;br&gt;#הסטוריה #דת&lt;br&gt;&lt;br&gt;גיקונומי - פרק 444&lt;br&gt;&lt;br&gt;https://pca.st/gvqih9sg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://open.spotify.com/show/0nWqZUWKohhz31RvOMXbSe">הפודקאסט זמן קנאביס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.linkedin.com/in/uri-steinberg-09130616/">הלינקדאין של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="http://www.uristeinberg.com/">האתר של אורי</a></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/14/geekonomy444/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+<enclosure url="http://mcdn.podbean.com/mf/web/63hjw5/geekonomy444.mp3" length="78353615" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg?w=780"/>
+<summary>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</summary>
+<description>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אורי שטיינברג טס לארצות הברית במסגרת נספחות במשרד לתיירות. במשך השנים שבילה שם בילה זמן רב עם הקהילה האוונגליסטית, שהפכה למושא עניין מרכזי בחייו.
+
+
+
+
+על מה דיברנו:
+
+
+
+80 מיליון אוונגליסטים אמריקאים, 700 מיליון אוונגליסטים בעולם, נצרות, יהדות, ארצות הברית, גזענות, שחורים, היספניים, קוריאה, פיליפינים, התנ"ך, הפלות, מישל וולבק
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+הפודקאסט זמן קנאביס
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+הלינקדאין של אורי
+
+
+
+האתר של אורי
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-14-at-21.25.52.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-14 at 21.25.52</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Toy | Netta | חלק 1</title>
       <itunes:title>Toy | Netta | חלק 1</itunes:title>
       <description>מוזיקה לשבת: זוכה האורוויזיון Toy והדרך שנטע עברה איתו.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;שיר אחד &lt;br&gt;&lt;br&gt;https://pca.st/episode/f3b56a7a-412a-4eab-b973-230ab2c1293b&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2aa24ac-4643-4e1e-b502-04679010262d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נטע ברזילי הופיעה בפאבים ובחתונות, צרחה במופעי אוונגרד, ונאבקה לשלם שכר דירה. בקיצור, היא הייתה הדבר הכי רחוק מתחרות פופ נוצצת. אבל כשמלהקי ״הכוכב הבא״ ראו אותה במרתף בפלורנטין, הם ידעו שזו הזמרת שחיכו לה עשרים שנה. לקראת אירוויזיון 2019, פרק מיוחד בשני חלקים
@@ -3998,29 +4246,14 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>6770</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/36c7304b-96fe-46b7-b17f-acf30171ab49/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07&amp;t=1616727633" length="108360885" type="audio/mpeg"/>
       <link>https://omny.fm/shows/midnight-special/36c7304b-96fe-46b7-b17f-acf30171ab49</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1083244753</guid>
-      <title>דן אריאלי - איך להשקיע בהון האנושי שלכם? - פופקורן 200</title>
-      <pubDate>Fri, 09 Jul 2021 07:33:32 +0000</pubDate>
-      <link>https://soundcloud.com/hamutsi/200-dan-ariely</link>
-      <itunes:duration>01:29:11</itunes:duration>
-      <itunes:author>ליאור פרנקל</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>שיחה מעניינת עם דן אריאלי.&lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פופקורן&lt;br&gt;&lt;br&gt;https://pca.st/episode/ad77deac-a3de-48e5-bafb-327e70784266&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
-
-לכבוד חגיגות פרק 200  המרגשות של פופקורן, היה לי העונג לפגוש ולראיין את  דן אריאלי.
-
-דיברנו על מה זה אומר ליצור לעצמנו מזל? איך כדאי להכריע בין טווח קצר לבין טווח ארוך? מה סגנון הניהול שלו? איך הוא יודע מתי להגיד כן או לא לדברים? ואיזו שאלה כדאי לשאול כדי לדעת אם הגיע הזמן לעשות שינוי בקריירה שלכם?
-
-דן אריאלי הוא פרופסור לפסיכולוגיה וכלכלה התנהגותית, חבר סגל באוניברסיטת דיוק, ממייסדי חברת קיימא, ומהחוקרים המובילים בעולם בתחום הכלכלה ההתנהגותית. 
-ספריו רבי המכר ומחקריו הרבים בתחום, מנגישים את הכלכלה התנהגותית לכדי פרקטיקה ומציעים לנו דרכים ליישום תובנות מהתחום בחיי היום יום שלנו.
-
-להאזנה באתר -
-https://frnkl.co/blog-podcast/200-dan-ariely</itunes:summary>
-      <itunes:subtitle>איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
-
-לכבו…</itunes:subtitle>
-      <description>שיחה מעניינת עם דן אריאלי.&lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פופקורן&lt;br&gt;&lt;br&gt;https://pca.st/episode/ad77deac-a3de-48e5-bafb-327e70784266&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>דן אריאלי - איך להשקיע בהון האנושי שלכם? - פופקורן 200</title>
+        <itunes:title>דן אריאלי - איך להשקיע בהון האנושי שלכם? - פופקורן 200</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%93%d7%9f-%d7%90%d7%a8%d7%99%d7%90%d7%9c%d7%99%d7%90%d7%99%d7%9a%d7%9c%d7%94%d7%a9%d7%a7%d7%99%d7%a2-%d7%91%d7%94%d7%95%d7%9f-%d7%94%d7%90/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%93%d7%9f-%d7%90%d7%a8%d7%99%d7%90%d7%9c%d7%99%d7%90%d7%99%d7%9a%d7%9c%d7%94%d7%a9%d7%a7%d7%99%d7%a2-%d7%91%d7%94%d7%95%d7%9f-%d7%94%d7%90/#comments</comments>
+        <pubDate>Fri, 09 Jul 2021 07:33:32 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1083244753</guid>
+                      <description>שיחה מעניינת עם דן אריאלי.&lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פופקורן&lt;br&gt;&lt;br&gt;https://pca.st/episode/ad77deac-a3de-48e5-bafb-327e70784266&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
 
 לכבוד חגיגות פרק 200  המרגשות של פופקורן, היה לי העונג לפגוש ולראיין את  דן אריאלי.
 
@@ -4031,9 +4264,40 @@ https://frnkl.co/blog-podcast/200-dan-ariely</itunes:summary>
 
 להאזנה באתר -
 https://frnkl.co/blog-podcast/200-dan-ariely</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1083244753-hamutsi-200-dan-ariely.mp3" length="85622202"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-cz42ExxwBDOCREGz-59cxHg-t3000x3000.jpg"/>
-    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+                        <content:encoded>שיחה מעניינת עם דן אריאלי.&lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פופקורן&lt;br&gt;&lt;br&gt;https://pca.st/episode/ad77deac-a3de-48e5-bafb-327e70784266&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
+
+לכבוד חגיגות פרק 200  המרגשות של פופקורן, היה לי העונג לפגוש ולראיין את  דן אריאלי.
+
+דיברנו על מה זה אומר ליצור לעצמנו מזל? איך כדאי להכריע בין טווח קצר לבין טווח ארוך? מה סגנון הניהול שלו? איך הוא יודע מתי להגיד כן או לא לדברים? ואיזו שאלה כדאי לשאול כדי לדעת אם הגיע הזמן לעשות שינוי בקריירה שלכם?
+
+דן אריאלי הוא פרופסור לפסיכולוגיה וכלכלה התנהגותית, חבר סגל באוניברסיטת דיוק, ממייסדי חברת קיימא, ומהחוקרים המובילים בעולם בתחום הכלכלה ההתנהגותית. 
+ספריו רבי המכר ומחקריו הרבים בתחום, מנגישים את הכלכלה התנהגותית לכדי פרקטיקה ומציעים לנו דרכים ליישום תובנות מהתחום בחיי היום יום שלנו.
+
+להאזנה באתר -
+https://frnkl.co/blog-podcast/200-dan-ariely</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/udzofv/stream_1083244753-hamutsi-200-dan-ariely.mp3" length="85622202" type="audio/mpeg"/>
+        <itunes:subtitle>איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
+
+לכבוד חגיגות פרק 200  המרגשות של פופקורן, היה לי העונג לפגוש ולראיין את  דן אריאלי.
+
+דיברנו על מה זה אומר ליצור לעצמנו מזל? איך כדאי להכריע בין טווח קצר לבין טווח ארוך? מה סגנון הניהול שלו? איך הוא יודע מתי לה...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת עם דן אריאלי.&lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פופקורן&lt;br&gt;&lt;br&gt;https://pca.st/episode/ad77deac-a3de-48e5-bafb-327e70784266&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך כלכלה התנהגותית משפיעה על הקריירה שלנו?
+
+לכבוד חגיגות פרק 200  המרגשות של פופקורן, היה לי העונג לפגוש ולראיין את  דן אריאלי.
+
+דיברנו על מה זה אומר ליצור לעצמנו מזל? איך כדאי להכריע בין טווח קצר לבין טווח ארוך? מה סגנון הניהול שלו? איך הוא יודע מתי להגיד כן או לא לדברים? ואיזו שאלה כדאי לשאול כדי לדעת אם הגיע הזמן לעשות שינוי בקריירה שלכם?
+
+דן אריאלי הוא פרופסור לפסיכולוגיה וכלכלה התנהגותית, חבר סגל באוניברסיטת דיוק, ממייסדי חברת קיימא, ומהחוקרים המובילים בעולם בתחום הכלכלה ההתנהגותית. 
+ספריו רבי המכר ומחקריו הרבים בתחום, מנגישים את הכלכלה התנהגותית לכדי פרקטיקה ומציעים לנו דרכים ליישום תובנות מהתחום בחיי היום יום שלנו.
+
+להאזנה באתר -
+https://frnkl.co/blog-podcast/200-dan-ariely</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:29:11</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/a192c6f2214ab7ac9bf387024adbb76b.jpg"/>    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>The Rest Of The Story, Summer 2021</title>
       <description>סיפורים קצרים שמסכמים כמה מהסיפורים הגדולים של הערוץ השנה. מעניין בפני עצמו וגם כטיזר לסיפורים עצמם. &lt;br&gt;#סיפורמעניין #קצרים #אנגלית&lt;br&gt;&lt;br&gt;Planet money&lt;br&gt;&lt;br&gt;https://pca.st/cmlrk6hz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We follow up on &lt;a href="https://www.npr.org/2020/09/18/914519464/does-alcohol-to-go-have-a-chance-to-survive-the-pandemic"&gt;takeout cocktails&lt;/a&gt;, college athletes at the &lt;a href="https://podcasts.apple.com/us/podcast/amateur-hour-at-the-supreme-court/id290783428?i=1000524290502"&gt;Supreme Court&lt;/a&gt;, bankrupt &lt;a href="https://podcasts.apple.com/us/podcast/owner-of-a-broken-hertz/id290783428?i=1000479483394"&gt;Hertz&lt;/a&gt;, and the &lt;a href="https://podcasts.apple.com/us/podcast/the-new-shape-of-pasta/id290783428?i=1000513720202"&gt;new shape of pasta&lt;/a&gt;. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
       <pubDate>Wed, 07 Jul 2021 18:47:56 +0000</pubDate>
