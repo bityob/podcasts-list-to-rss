@@ -11,9 +11,72 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 05:15:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 06:18:44 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית</title>
+        <itunes:title>פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית</itunes:title>
+        <link>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-177%d7%9b%d7%a9%d7%9e%d7%a8%d7%95%d7%91-%d7%91%d7%90%d7%9c%d7%92%d7%9f-%d7%90%d7%99%d7%90%d7%a4%d7%a9%d7%a8%d7%9c%d7%a2%d7%a9%d7%95/</link>
+        <comments>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-177%d7%9b%d7%a9%d7%9e%d7%a8%d7%95%d7%91-%d7%91%d7%90%d7%9c%d7%92%d7%9f-%d7%90%d7%99%d7%90%d7%a4%d7%a9%d7%a8%d7%9c%d7%a2%d7%a9%d7%95/#comments</comments>
+        <pubDate>Tue, 28 Dec 2021 05:30:06 +0000</pubDate>
+        <guid isPermaLink="false">regulator.podbean.com/e30082b7-3cc3-3a40-b3ad-71f5093230d6</guid>
+                      <description>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
+
+&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
+
+&lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
+
+&lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
+</description>
+                        <content:encoded>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
+
+&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
+
+&lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
+
+&lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://chtbl.com/track/BD81D3/mcdn.podbean.com/mf/web/9ym9jg/177_-_russia_guillotine8d5l5.mp3" length="22350399" type="audio/mpeg"/>
+        <itunes:subtitle>רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי 
+הרגולטור - פודקאסט על מדיניות רגולציה \ 
+עורך ומגיש: גיא מור \ 
+עריכת סאונד: עומר קרן</itunes:subtitle>
+        <itunes:summary>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
+
+&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
+
+&lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
+
+&lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>גיא מור</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>15:30</itunes:duration>
+                <itunes:episode>183</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/5448327/WhatsApp_Image_2020-04-29_at_23_05_44.jpeg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">ecf3c402-d41f-4efd-9c19-7931e67d5926</guid>
+      <title>470- The Three Santas of Slovenia</title>
+      <description>אז בסלובניה יש 3 דמויות של סנטה.  אישית אני מכירה מצבים שבהם יש במדינה גם סנטה קלאוס וגם סבא כפור אבל לא הכרתי מצב שבו השתמרו ויש שימוש פעיל ב3 סמלים דומים אך שונים של התקופה.  סיפור מרתק איך כל אחד מהם נוצר, מתי חוגגים את ההגעה שלהם (3 תאריכים שונים) , איזה מתנות הם מביאים לילדים וכמובן - מי באמת הכי פופולארי במדינה. &lt;br&gt;#אנגלית #תרבות &lt;br&gt;&lt;br&gt;99% Invisible - 470- The Three Santas of Slovenia&lt;br&gt;משך: 38 דק'&lt;br&gt;https://pca.st/3kiid1ef&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Slovenia is a small country in Central Europe nestled between Italy, Austria, Croatia and Hungary. It's a land of snowy white peaks, green valleys, and turquoise rivers. The country is beautiful in all seasons, but it is perhaps at its most magical around Christmastime. This nation of just over 2 million people is visited by, not one, not two, but three different "santas" every festive season. But it hasn't always been this way. Each Santa has had his moment in the spotlight—each in a different period of Slovenia’s complicated history. And in order to have a Christmas season that reflects that history and speaks to all Slovenians, you need three magical men.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38383&amp;post_type=episode"&gt;The Three Santas of Slovenia&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Tue, 28 Dec 2021 05:29:01 +0000</pubDate>
+      <author>roman@99pi.org (Emmett FitzGerald, Joe Rosenberg, Will Aspinall)</author>
+      <link>https://99percentinvisible.org</link>
+      <content:encoded>אז בסלובניה יש 3 דמויות של סנטה.  אישית אני מכירה מצבים שבהם יש במדינה גם סנטה קלאוס וגם סבא כפור אבל לא הכרתי מצב שבו השתמרו ויש שימוש פעיל ב3 סמלים דומים אך שונים של התקופה.  סיפור מרתק איך כל אחד מהם נוצר, מתי חוגגים את ההגעה שלהם (3 תאריכים שונים) , איזה מתנות הם מביאים לילדים וכמובן - מי באמת הכי פופולארי במדינה. &lt;br&gt;#אנגלית #תרבות &lt;br&gt;&lt;br&gt;99% Invisible - 470- The Three Santas of Slovenia&lt;br&gt;משך: 38 דק'&lt;br&gt;https://pca.st/3kiid1ef&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Slovenia is a small country in Central Europe nestled between Italy, Austria, Croatia and Hungary. It's a land of snowy white peaks, green valleys, and turquoise rivers. The country is beautiful in all seasons, but it is perhaps at its most magical around Christmastime. This nation of just over 2 million people is visited by, not one, not two, but three different "santas" every festive season. But it hasn't always been this way. Each Santa has had his moment in the spotlight—each in a different period of Slovenia’s complicated history. And in order to have a Christmas season that reflects that history and speaks to all Slovenians, you need three magical men.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38383&amp;post_type=episode"&gt;The Three Santas of Slovenia&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="36596704" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/d8d8c79d-5ced-4a6c-924c-d4b663539191/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=d8d8c79d-5ced-4a6c-924c-d4b663539191&amp;feed=BqbsxVfO"/>
+      <itunes:title>470- The Three Santas of Slovenia</itunes:title>
+      <itunes:author>Emmett FitzGerald, Joe Rosenberg, Will Aspinall</itunes:author>
+      <itunes:duration>00:38:00</itunes:duration>
+      <itunes:summary>אז בסלובניה יש 3 דמויות של סנטה.  אישית אני מכירה מצבים שבהם יש במדינה גם סנטה קלאוס וגם סבא כפור אבל לא הכרתי מצב שבו השתמרו ויש שימוש פעיל ב3 סמלים דומים אך שונים של התקופה.  סיפור מרתק איך כל אחד מהם נוצר, מתי חוגגים את ההגעה שלהם (3 תאריכים שונים) , איזה מתנות הם מביאים לילדים וכמובן - מי באמת הכי פופולארי במדינה. &lt;br&gt;#אנגלית #תרבות &lt;br&gt;&lt;br&gt;99% Invisible - 470- The Three Santas of Slovenia&lt;br&gt;משך: 38 דק'&lt;br&gt;https://pca.st/3kiid1ef&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Slovenia is a small country in Central Europe nestled between Italy, Austria, Croatia and Hungary. It's a land of snowy white peaks, green valleys, and turquoise rivers. The country is beautiful in all seasons, but it is perhaps at its most magical around Christmastime. This nation of just over 2 million people is visited by, not one, not two, but three different "santas" every festive season. But it hasn't always been this way. Each Santa has had his moment in the spotlight—each in a different period of Slovenia’s complicated history. And in order to have a Christmas season that reflects that history and speaks to all Slovenians, you need three magical men.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38383&amp;post_type=episode"&gt;The Three Santas of Slovenia&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>Slovenia has just over 2 million people and is visited by, not one, not two, but three different "santas" every festive season. But it hasn't always been this way. Each Santa has had his moment in the spotlight—each in a different period of Slovenia’s complicated history. And in order to have a Christmas season that reflects that history and speaks to all Slovenians, you need three magical men.</itunes:subtitle>
+      <itunes:keywords>design, dedek mraz, christmas, slovenia, santa, saint nick, claus, yugoslavia, holiday</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Have Yourself a Scary Little Krampus</title>
       <description>בתרבות שלנו אנחנו פחות מכירים יצור  בשם קראמפוס אבל באירופה ובמיוחד בגרמניה הם המלווים הקבועים של תקופת סוף השנה.  וזה דיון מעניין על האם הילדים צריכים דמות מאיימת כמו קראמפוס ללות את סבא כפור/סנטה קלאוס או לא. &lt;br&gt;**התמונה צולמה במצעד הקרמפוסים השנתי בגרמניה לפני כמה שנים. **&lt;br&gt;#אנגלית  #תרבות  &lt;br&gt;Imaginary worlds - Have Yourself a Scary Little Krampus&lt;br&gt;משך : 31 דק'&lt;br&gt;&lt;br&gt;https://prnt.sc/24jjlfx&lt;br&gt;&lt;br&gt;https://pca.st/lo5jlhsq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The imagery of Christmas in most Western countries is of pure wholesomeness with Santa Claus or St. Nicholas, presents, candy, lights, etc. But in central Europe, there is another figure in the mix, the horned devilish-looking character called Krampus, who doles out punishment if you’re naughty instead of nice. I talk with Jules Linner and Christina Albert about why it was important for them as children to believe in St Nick’s dark companion. Krampus event organizer and author Al Ridenour, along with cultural anthropologist Matthäus Rest, explain the history of Krampus, and why he’s still an important part of German and Austrian culture today.
 Here's the link to Al’s book “The Krampus and the Old, Dark Christmas: Roots and Rebirth of the Folkloric Devil,” and Al’s podcast Bone and Sickle episode on Krampus.
