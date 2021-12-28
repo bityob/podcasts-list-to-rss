@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 00:51:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Dec 2021 02:03:06 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Have Yourself a Scary Little Krampus</title>
@@ -1678,7 +1678,7 @@ https://www.ads.ranlevi.com/2021/08/16/revoptic-hatshuva-olympicnobel/</googlepl
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>30</itunes:episode>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:media="http://search.yahoo.com/mrss/">
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>מה עושים? #28 - מגשימים מטרות ומנהלים את הזמן - גיא בן דויד😎</title>
         <itunes:title>מה עושים? #28 - מגשימים מטרות ומנהלים את הזמן - גיא בן דויד😎</itunes:title>
         <link>https://barondan.podbean.com/e/%d7%9e%d7%94-%d7%a2%d7%95%d7%a9%d7%99%d7%9d28%d7%9e%d7%92%d7%a9%d7%99%d7%9e%d7%99%d7%9d-%d7%9e%d7%98%d7%a8%d7%95%d7%aa%d7%95%d7%9e%d7%a0%d7%94%d7%9c/</link>
