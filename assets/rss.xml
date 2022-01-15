@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 15 Jan 2022 04:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jan 2022 05:15:43 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><title>Simpson’s Paradox: How to make vaccinated death figures misleading</title><description>על סטטיסטיקה ועל ניתוח מוטעה של נתונים. ניתוח של מקרה שבו הפרשנות של הנתונים סותרת את ההגיון ואיך בעצם זה קרה ויכול לקרות שוב. &lt;br&gt;#אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;&lt;br&gt;More or Less: Behind the statistics - Simpson’s Paradox: How to make vaccinated death figures misleading&lt;br&gt;משך: 9 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/o0tzbn1j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Vaccines are the best way to stop deaths and serious cases related to covid19, this is an irrefutable fact. However, recent ONS data seems to show that vaccinated people had a higher all cause death rate than unvaccinated people. Why is this data misleading? Here’s a clue: it’s to do with a quirky statistical phenomenon called Simpsons Paradox. 
 
@@ -598,76 +598,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <itunes:explicit>no</itunes:explicit>
             <itunes:duration>00:23:35</itunes:duration>
             <itunes:image href="https://i1.sndcdn.com/artworks-8RtAwuLu3ULnktpE-hVeH6g-t3000x3000.jpg"/>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>Antitrust: ConstitutionDAO</title>
-      <link>https://thepodglomerate.com/shows/rocketship</link>
-      <description>המשך הסיפור מלפני כמה שבועות על קבוצת בלוקצ'ין שהתארגנה לרכישה משותפת של אחד העותקים הבודדים שעומדים למכירה - של חוקת ארה"ב. הם הצליחו לגייס סכום דמיוני של 47 מיליון דולר אבל הפסידו במכירה הפומבית. &lt;br&gt;#בלוקצין #כלכלה #אנגלית&lt;br&gt;הפרק שבו דיברו על זה לראשונה: https://t.me/podcastsrec/144&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: ConstitutionDAO&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kw4xj9lg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A consortium of crypto investors pulled together $47 million worth of ether in a week to try to buy a rare, first-edition copy of the U.S. Constitution at a Sotheby’s auction — and lost. Today we cover the auction and aftermath of this historical moment.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 23 Dec 2021 05:30:59 +0000</pubDate>
-      <itunes:title>Antitrust: ConstitutionDAO</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>8</itunes:episode>
-      <itunes:author>Rocketship / The Podglomerate</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/61415054-a166-11eb-8a22-f30f0208c7f3/image/rocketship_FM_EX.png?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Antitrust: ConstitutionDAO</itunes:subtitle>
-      <itunes:summary>המשך הסיפור מלפני כמה שבועות על קבוצת בלוקצ'ין שהתארגנה לרכישה משותפת של אחד העותקים הבודדים שעומדים למכירה - של חוקת ארה"ב. הם הצליחו לגייס סכום דמיוני של 47 מיליון דולר אבל הפסידו במכירה הפומבית. &lt;br&gt;#בלוקצין #כלכלה #אנגלית&lt;br&gt;הפרק שבו דיברו על זה לראשונה: https://t.me/podcastsrec/144&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: ConstitutionDAO&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kw4xj9lg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A consortium of crypto investors pulled together $47 million worth of ether in a week to try to buy a rare, first-edition copy of the U.S. Constitution at a Sotheby’s auction — and lost. Today we cover the auction and aftermath of this historical moment.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>המשך הסיפור מלפני כמה שבועות על קבוצת בלוקצ'ין שהתארגנה לרכישה משותפת של אחד העותקים הבודדים שעומדים למכירה - של חוקת ארה"ב. הם הצליחו לגייס סכום דמיוני של 47 מיליון דולר אבל הפסידו במכירה הפומבית. &lt;br&gt;#בלוקצין #כלכלה #אנגלית&lt;br&gt;הפרק שבו דיברו על זה לראשונה: https://t.me/podcastsrec/144&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: ConstitutionDAO&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kw4xj9lg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A consortium of crypto investors pulled together $47 million worth of ether in a week to try to buy a rare, first-edition copy of the U.S. Constitution at a Sotheby’s auction — and lost. Today we cover the auction and aftermath of this historical moment.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1784</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">61415054-a166-11eb-8a22-f30f0208c7f3</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG8350765432.mp3?updated=1638389568" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>[כשבגרוש היה חור] הקפיצה הגדולה קדימה</title><link>https://www.spreaker.com/user/pimedia/1-hCBg3h</link><description>"הקפיצה הגדולה קדימה" הייתה תוכנית רפורמה נרחבת שערכה המפלגה הקומוניסטית ברפובליקה העממית של סין בין 1958-1960. בפועל היא לא הייתה קפיצה ולא קדימה אלא משטר טוטאליטרי שחיזק את השלטון שלו באזרחים. אבל הסיפור של זה הוא בהחלט סיפור מאוד מענין. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - הקפיצה הגדולה קדימה&lt;br&gt;משך: 47 דק'&lt;br&gt;&lt;br&gt;זה הפרק המקורי ששודר: &lt;br&gt;https://pca.st/x7f4&lt;br&gt;וזה הפרק החדש שהוא תחילתה של סדרה שנשמעת מאוד מעניינת: &lt;br&gt;https://pca.st/13hsd63k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.&lt;br /&gt;בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.&lt;br /&gt;&lt;br /&gt;תודה ליובל מלחי על שתרם מזמנו והניסיון הרב שלו להפקת הפרק.&lt;br /&gt;&lt;br /&gt;*פרק זה הוא עריכה מחדש של הפרק הראשון והשני, אם שמעתם אותם * אתם מוזמנים להאזין לפרק הבא&lt;br /&gt;&lt;br /&gt;נעימת פתיחה:&lt;br /&gt;&lt;a href="http://www.podcastthemes.com/audio/freetheme5.mp3" rel="noopener"&gt;http://www.podcastthemes.com/audio/freetheme5.mp3&lt;/a&gt;&lt;br /&gt;קטעי מעבר:&lt;br /&gt;AR Sound Effects&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=jgB2JDK4KTA" rel="noopener"&gt;https://www.youtube.com/watch?v=jgB2JDK4KTA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Music: All The Tea In China by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Music: Voyage Of Discovery by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Song: 'Doug Maxwell - Lau Tzu Ehru'&lt;br /&gt;Music promoted by BreakingCopyright: &lt;a href="https://youtu.be/QRF2zzEFu8c" rel="noopener"&gt;https://youtu.be/QRF2zzEFu8c&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Garden Meditation&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=hUpBbxwWVs8" rel="noopener"&gt;https://www.youtube.com/watch?v=hUpBbxwWVs8&lt;/a&gt;&lt;br /&gt;Chinese Traditional Bamboo Flute Music&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=yAHgqDPfaLM" rel="noopener"&gt;https://www.youtube.com/watch?v=yAHgqDPfaLM&lt;/a&gt;</description><guid isPermaLink="false">album-c3bea2429ccd4e7dadeca836e8e82942-e1af36f16aed4454b5b989504e56a7ad</guid><pubDate>Tue, 21 Dec 2021 05:06:02 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/34847412/448ff44856b3158b9c4dfdfc88.mp3" length="44752291" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>[כשבגרוש היה חור] הקפיצה הגדולה קדימה</title><link>https://www.spreaker.com/user/pimedia/1-hCBg3h</link><description>"הקפיצה הגדולה קדימה" הייתה תוכנית רפורמה נרחבת שערכה המפלגה הקומוניסטית ברפובליקה העממית של סין בין 1958-1960. בפועל היא לא הייתה קפיצה ולא קדימה אלא משטר טוטאליטרי שחיזק את השלטון שלו באזרחים. אבל הסיפור של זה הוא בהחלט סיפור מאוד מענין. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - הקפיצה הגדולה קדימה&lt;br&gt;משך: 47 דק'&lt;br&gt;&lt;br&gt;זה הפרק המקורי ששודר: &lt;br&gt;https://pca.st/x7f4&lt;br&gt;וזה הפרק החדש שהוא תחילתה של סדרה שנשמעת מאוד מעניינת: &lt;br&gt;https://pca.st/13hsd63k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.&lt;br /&gt;בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.&lt;br /&gt;&lt;br /&gt;תודה ליובל מלחי על שתרם מזמנו והניסיון הרב שלו להפקת הפרק.&lt;br /&gt;&lt;br /&gt;*פרק זה הוא עריכה מחדש של הפרק הראשון והשני, אם שמעתם אותם * אתם מוזמנים להאזין לפרק הבא&lt;br /&gt;&lt;br /&gt;נעימת פתיחה:&lt;br /&gt;&lt;a href="http://www.podcastthemes.com/audio/freetheme5.mp3" rel="noopener"&gt;http://www.podcastthemes.com/audio/freetheme5.mp3&lt;/a&gt;&lt;br /&gt;קטעי מעבר:&lt;br /&gt;AR Sound Effects&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=jgB2JDK4KTA" rel="noopener"&gt;https://www.youtube.com/watch?v=jgB2JDK4KTA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Music: All The Tea In China by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Music: Voyage Of Discovery by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Song: 'Doug Maxwell - Lau Tzu Ehru'&lt;br /&gt;Music promoted by BreakingCopyright: &lt;a href="https://youtu.be/QRF2zzEFu8c" rel="noopener"&gt;https://youtu.be/QRF2zzEFu8c&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Garden Meditation&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=hUpBbxwWVs8" rel="noopener"&gt;https://www.youtube.com/watch?v=hUpBbxwWVs8&lt;/a&gt;&lt;br /&gt;Chinese Traditional Bamboo Flute Music&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=yAHgqDPfaLM" rel="noopener"&gt;https://www.youtube.com/watch?v=yAHgqDPfaLM&lt;/a&gt;</description><guid isPermaLink="false">album-c3bea2429ccd4e7dadeca836e8e82942-e1af36f16aed4454b5b989504e56a7ad</guid><pubDate>Tue, 21 Dec 2021 05:06:02 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/34847412/448ff44856b3158b9c4dfdfc88.mp3" length="44752291" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.
 בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.
 
 תודה ליובל מלחי על שתרם מזמנו והניסיון...</itunes:subtitle><itunes:summary>"הקפיצה הגדולה קדימה" הייתה תוכנית רפורמה נרחבת שערכה המפלגה הקומוניסטית ברפובליקה העממית של סין בין 1958-1960. בפועל היא לא הייתה קפיצה ולא קדימה אלא משטר טוטאליטרי שחיזק את השלטון שלו באזרחים. אבל הסיפור של זה הוא בהחלט סיפור מאוד מענין. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - הקפיצה הגדולה קדימה&lt;br&gt;משך: 47 דק'&lt;br&gt;&lt;br&gt;זה הפרק המקורי ששודר: &lt;br&gt;https://pca.st/x7f4&lt;br&gt;וזה הפרק החדש שהוא תחילתה של סדרה שנשמעת מאוד מעניינת: &lt;br&gt;https://pca.st/13hsd63k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.&lt;br /&gt;בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.&lt;br /&gt;&lt;br /&gt;תודה ליובל מלחי על שתרם מזמנו והניסיון הרב שלו להפקת הפרק.&lt;br /&gt;&lt;br /&gt;*פרק זה הוא עריכה מחדש של הפרק הראשון והשני, אם שמעתם אותם * אתם מוזמנים להאזין לפרק הבא&lt;br /&gt;&lt;br /&gt;נעימת פתיחה:&lt;br /&gt;&lt;a href="http://www.podcastthemes.com/audio/freetheme5.mp3" rel="noopener"&gt;http://www.podcastthemes.com/audio/freetheme5.mp3&lt;/a&gt;&lt;br /&gt;קטעי מעבר:&lt;br /&gt;AR Sound Effects&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=jgB2JDK4KTA" rel="noopener"&gt;https://www.youtube.com/watch?v=jgB2JDK4KTA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Music: All The Tea In China by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Music: Voyage Of Discovery by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Song: 'Doug Maxwell - Lau Tzu Ehru'&lt;br /&gt;Music promoted by BreakingCopyright: &lt;a href="https://youtu.be/QRF2zzEFu8c" rel="noopener"&gt;https://youtu.be/QRF2zzEFu8c&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Garden Meditation&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=hUpBbxwWVs8" rel="noopener"&gt;https://www.youtube.com/watch?v=hUpBbxwWVs8&lt;/a&gt;&lt;br /&gt;Chinese Traditional Bamboo Flute Music&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=yAHgqDPfaLM" rel="noopener"&gt;https://www.youtube.com/watch?v=yAHgqDPfaLM&lt;/a&gt;</itunes:summary><itunes:duration>2797</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>PI Media</googleplay:author><googleplay:description>הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.
@@ -1053,75 +984,6 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>97</itunes:episode>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>Antitrust: Web3, DAOs, ICOs &amp; Protocols</title>
-      <link>https://thepodglomerate.com/shows/rocketship</link>
-      <description>קצת הסברים פשוטים על עולם הבלוקצ'יין. אבל לא הדברים ששמעתם כבר המון פעמים אלא קונספטים כמו DAO, Salona, Etherium ועוד..&lt;br&gt;סיפורים קצרים ומומלצים.&lt;br&gt;#קצרים #אנגלית #כלכלה #בלוקציין&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: Web3 DAOs, ICOs &amp; Protocols&lt;br&gt;&lt;br&gt;https://pca.st/i4e6j3ky&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the evolving world of Web3 there are some incredible developments from the ConstitutionDAO to Solana, a new blockchain that’s faster and more efficient that both Bitcoin and Etherium. But with these new advancements there are scams abound in this unregulated world. Today we take another look at the emerging world of Web3.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Tue, 07 Dec 2021 06:01:52 +0000</pubDate>
-      <itunes:title>Antitrust: Web3, DAOs, ICOs &amp; Protocols</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>11</itunes:season>
-      <itunes:episode>7</itunes:episode>
-      <itunes:author>Rocketship / The Podglomerate</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/611ab1ec-a166-11eb-8a22-eb823899e314/image/rocketship_FM_EX.png?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Antitrust: Web3, DAOs, ICOs &amp; Protocols</itunes:subtitle>
-      <itunes:summary>קצת הסברים פשוטים על עולם הבלוקצ'יין. אבל לא הדברים ששמעתם כבר המון פעמים אלא קונספטים כמו DAO, Salona, Etherium ועוד..&lt;br&gt;סיפורים קצרים ומומלצים.&lt;br&gt;#קצרים #אנגלית #כלכלה #בלוקציין&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: Web3 DAOs, ICOs &amp; Protocols&lt;br&gt;&lt;br&gt;https://pca.st/i4e6j3ky&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the evolving world of Web3 there are some incredible developments from the ConstitutionDAO to Solana, a new blockchain that’s faster and more efficient that both Bitcoin and Etherium. But with these new advancements there are scams abound in this unregulated world. Today we take another look at the emerging world of Web3.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>קצת הסברים פשוטים על עולם הבלוקצ'יין. אבל לא הדברים ששמעתם כבר המון פעמים אלא קונספטים כמו DAO, Salona, Etherium ועוד..&lt;br&gt;סיפורים קצרים ומומלצים.&lt;br&gt;#קצרים #אנגלית #כלכלה #בלוקציין&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: Web3 DAOs, ICOs &amp; Protocols&lt;br&gt;&lt;br&gt;https://pca.st/i4e6j3ky&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the evolving world of Web3 there are some incredible developments from the ConstitutionDAO to Solana, a new blockchain that’s faster and more efficient that both Bitcoin and Etherium. But with these new advancements there are scams abound in this unregulated world. Today we take another look at the emerging world of Web3.
-
-***
-This episode is brought to you by:
-
-Vidyard: The Top Video Tool for SaaS Marketing and Sales http://vidyard.com/rocketship
-NetSuite: NetSuite by Oracle is a scalable solution to run all of your key back office operations. Go to netsuite.com/rocketship today.
-Blinkist: Rocketship.fm is now on Blinkist! Listen to 12 minute episodes with no ads! Get seven days free when you check out Blinkist.
-Indeed: Indeed is the job site that makes hiring as easy as 1-2-3. Get started with a free $75 sponsored job credit at indeed.com/rocketship.
-BetterHelp: Unlimited Professional Counseling via Online Chat, Video or Phone Anytime, Anywhere. Get 10% off when you visit betterhelp.com/rocketship.
-Fundrise: Fundrise makes investing in private real estate as easy as investing in stocks, bonds, or mutual funds. Go to fundrise.com/rocketship today.
-Airfocus: The home for products and the people who build them. Airfocus is an easy-to-use and flexible product management platform that combines product strategy superpowers with modularity. Visit airfocus.com/rocketship and try it for free today.
-WIX: When your agency partners with Wix, you unlock an entire digital ecosystem for creating, managing and growing your business online. Head over to Wix.com/Partners and reimagine what your agency can accomplish.
-
-***
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Rocketship, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Creative Elements and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1981</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">611ab1ec-a166-11eb-8a22-eb823899e314</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019403" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</title>
         <itunes:title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</itunes:title>
@@ -4798,7 +4660,178 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2651</itunes:duration>
       <guid isPermaLink="false">3483af52-5031-11eb-80cb-cbd3611b0e30</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6176542629.mp3?updated=1634154395" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item>
+		<title>פרק #441 – פרופ' אבי בן-בסט ומדיניות ציבורית כלכלית</title>
+		<link/>https://geekonomy.net/2021/07/06/geekonomy441/
+					<comments>https://geekonomy.net/2021/07/06/geekonomy441/#respond</comments>
+		
+		<creator/>
+		<pubdate>Sun, 11 Jul 2021 18:27:03 +0000</pubdate>
+				<category/>
+		<guid ispermalink="false">http://geekonomy.net/?p=4776</guid>
+
+					<description>דיון מעניין על הכלכלה בישראל. ראם מראיין את אבי בן בסט לשעבר מנכ"ל משרד האוצר על המדיניות הכלכלית של ישראל בהמון תחומים. חלקית דיון הסטורי וחלקית אקטואלי למה שקורה היום. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;גיקונומי - פרק 441&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/utqb3ehv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+<p>
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>על מה דיברנו:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+</p>
+<!-- /wp:paragraph -->
+
+<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
+
+<!-- wp:paragraph -->
+<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F7qsOTHq0fKZWRODtyPCVho&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818913005%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=odeD31xikwaPkJmA2TIUydDLU5RIf%2BvyQLyw0hWnMEA%3D&amp;reserved=0">קבוצת Surface Devices</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F5AmRmpymSh3f7iQPTTwz6g&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818922962%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=GlZgfD3tNEvtXfJVPPkcZOajKnk%2BzHi1TM9rXa0Yuds%3D&amp;reserved=0">קבוצת M365 Security</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
+<!-- /wp:paragraph -->
+
+
+<!-- wp:paragraph -->
+<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
+<!-- /wp:paragraph -->
+
+<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
+		
+					<commentrss>https://geekonomy.net/2021/07/06/geekonomy441/feed/</commentrss>
+			<comments>0</comments>
+		
+		<enclosure url="http://mcdn.podbean.com/mf/web/6axmg2/geekonomy441.mp3" length="98240207" type="audio/mpeg"/>
+
+		<author>ReemSherman</author>
+<author>ReemSherman</author>
+<explicit>no</explicit>
+<explicit>no</explicit>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
+<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
+<summary>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</summary>
+<description>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</description>
+<subtitle>
+
+אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
+
+
+
+
+על מה דיברנו:
+
+
+
+תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
+
+
+
+נותני החסות שלנו לפרק הזה:
+
+
+קבוצת Surface Devices
+
+
+
+קבוצת M365 Security
+
+
+
+עמוד המשרות של סטרימאלמנטס
+
+
+
+
+לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
+
+
+האימייל של ראם</subtitle>
+
+		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg"/>
+		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg" medium="image">
+			<title type="html">WhatsApp Image 2021-07-06 at 15.44.53</title>
+		</content>
+
+		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
+			<title type="html">reemsherman</title>
+		</content>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ספיישל לאונרד כהן</title>
       <itunes:title>ספיישל לאונרד כהן</itunes:title>
       <description>מוזיקה לשבת: לאונרד כהן באחד האלבומים הפחות מושמעים. 50 שנה ל-Songs of Love and Hate.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות &lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
