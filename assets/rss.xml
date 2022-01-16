@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 16 Jan 2022 06:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jan 2022 07:14:57 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:title>The Body Mass Index</itunes:title>
@@ -4173,7 +4173,32 @@ https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/</googlepla
 			<itunes:keywords/>
 			<itunes:subtitle>In this episode, my guest is Dr. Matt Walker, Professor of Neuroscience and Psychology and the Founder &amp; Director of the Center for Human Sleep Science at the University of California, Berkeley. He is also the author of the international best-selling...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>איך למכור מיליון עותקים ממשהו? - פופקורן 206 עם מיכאל עומר</title>
+        <itunes:title>איך למכור מיליון עותקים ממשהו? - פופקורן 206 עם מיכאל עומר</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f-%d7%a2%d7%95%d7%aa%d7%a7%d7%99%d7%9d-%d7%9e/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%9e%d7%9b%d7%95%d7%a8%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f-%d7%a2%d7%95%d7%aa%d7%a7%d7%99%d7%9d-%d7%9e/#comments</comments>
+        <pubDate>Sat, 07 Aug 2021 12:17:37 +0000</pubDate>
+        <guid isPermaLink="false">tag:soundcloud,2010:tracks/1095638221</guid>
+                      <description>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</description>
+                        <content:encoded>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/gg26vz/stream_1095638221-hamutsi-206-mike-omer.mp3" length="78532360" type="audio/mpeg"/>
+        <itunes:subtitle>איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת עם מיכאל עומר, סופר רב מכר שמכר מעל מיליון עותקים של הספרים שלו באמזון. הם מדברים על תהליך הכתיבה, ל מכירות באמזון ועל ההבדל בין הוצאת ספרים רגילות לאמזון. &lt;br&gt;#סיפורמקור #השראה #ספרות&lt;br&gt;&lt;br&gt;פופקורן - פרק 206&lt;br&gt;&lt;br&gt;https://pca.st/episode/ef635937-6b11-4721-8faf-42ed1bb4e628&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איך אפשר למכור מליון עותקים ממשהו? מה היתרון בלהוציא ספר בהוצאה עצמית? למה בורות זה דבר נפלא? איך עוזבים עבודה בהיי-טק כדי ללכת אחרי החלום שלך? ואיך אפשר לדייק את הקול הייחודי שלך?
+ 
+מיכאל עומר היה מתכנת, אבל החליט לעזוב את הכסף של ההיי-טק כדי להיות סופר. צעד אמיץ נכון? כן, אבל עומר ידע מה הוא עושה. כלומר... הוא חשב שהוא יודע. המציאות היתה הרבה יותר מסובכת והוא איבד את החסכונות לפני שעלה למעלה. אבל מאז, ספריו תורגמו ל-14 שפות ונמכרו במעל למליון עותקים. הספר שלו, "מוח של רוצח" הוא הספר הכי נמכר ברוסיה ב-2020 והשני הכי נמכר דיגיטלית בארה"ב ב-2018, ונכנס לטבלאות רבי המכר של הניו יורק טיימס ושל הוושינגטון פוסט.</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:21:48</itunes:duration>
+                                <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/9ee148182454e2ed48b2deabbcd985e9.jpg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">2126a701-3c0a-4840-b64f-16cf94e806ce</guid>
       <title>453- The Book of Tasty and Healthy Food</title>
       <description>פרק על ספר המתכונים האחד והיחיד של ברית המועצות. כשהמדינה מחנכת את האזרחים שלה דרך מתכונים וחלומות על מוצרים לא קיימים. פיסת הסטוריה מרתקת. &lt;br&gt;#אוכל #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible -453&lt;br&gt;&lt;br&gt;https://pca.st/episode/9be397cd-f749-4ee6-810e-74a191172f95&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Officially titled &lt;i&gt;The Book of Tasty and Healthy Food&lt;/i&gt;, it was often known simply as “Kniga” (translated: "book") because it was one of the only cookbooks to exist in the Soviet Union. The volume is peppered with glossy photographs of really lavish spreads and packed with text as well. There are recipes for lentils and crab salad and how to cook buckwheat nine different ways. But this book was meant to do so much more than show people how to make certain dishes — it's a Stalinist document aimed at addressing hunger itself in the USSR. "The book" was at the vanguard of a radical Soviet food experiment that, despite its numerous obstacles, transformed Russian cuisine.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37787&amp;post_type=episode"&gt;The Book of Tasty and Healthy Food&lt;/a&gt;&lt;/p&gt;
