@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 19 Jan 2022 17:18:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jan 2022 19:12:08 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>HBO 2.0</title>
@@ -5599,5 +5599,40 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded>פרק מעניין על ריבית דה ריבית&lt;br&gt;#כלכלה #ספורט #סיפורמעניין&lt;br&gt;&lt;br&gt;https://pca.st/episode/0d9d2850-d87b-490e-a12f-13d9e8c21b1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;How the worst deal in baseball explains one of the most important concepts in economics. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
       <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2021/06/20210625_pmoney_pmpod1093v2.mp3?awCollectionId=510289&amp;awEpisodeId=1010404697&amp;orgId=1&amp;topicId=1017&amp;d=1267&amp;p=510289&amp;story=1010404697&amp;t=podcast&amp;e=1010404697&amp;size=20276959&amp;ft=pod&amp;f=510289" length="20276959" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">11cac36b-a80e-4fff-8dba-ad44010689ce</guid>
+      <title>What McDonald’s Can Tell Us About Black America</title>
+      <description>זאת גם המלצה על ספר וגם סיפור מעניין.&lt;br&gt;#שיווק #שיוויון #אוכל &lt;br&gt;&lt;br&gt;https://pca.st/episode/ade31a41-2ffb-4377-a87e-c8d1aea05b4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Growing up as a Black kid in Chicago, Dr. Marcia Chatelain says she learned more about Black history from McDonald’s than from her fancy prep school. Now, as a professor of history and African American studies, &lt;a href="http://www.marciachatelain.com/"&gt;Dr. Chatelain&lt;/a&gt; is exploring the role that McDonald’s has played in Black communities since its founding in the 1940s. In many places, McDonald’s has been a community hub and a pathway to business ownership for Black entrepreneurs. But it’s also been a tool for those seeking to preserve segregation. We dig into the chain’s complicated legacy. Plus, Dan and his family stop in at a very special McDonald’s on Long Island.  &lt;/p&gt;
+&lt;p&gt;This is the second part of our two-episode series on McDonald’s. Make sure to check out last week’s episode about &lt;a href="https://www.sporkful.com/hacking-mcdonalds-broken-ice-cream-machines/"&gt;the couple who hacked the infamous McDonald’s ice cream machine&lt;/a&gt;. //&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Get 500+ more great Sporkful episodes from our catalog and lots of other Stitcher goodness when you sign up for Stitcher Premium: &lt;/em&gt;&lt;a href="http://www.stitcherpremium.com/Sporkful"&gt;&lt;em&gt;www.StitcherPremium.com/Sporkful&lt;/em&gt;&lt;/a&gt;&lt;em&gt; (promo code: SPORKFUL).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transcript available at &lt;/em&gt;&lt;a href="http://www.sporkful.com/"&gt;&lt;em&gt;www.sporkful.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 27 Jun 2021 19:26:57 +0000</pubDate>
+      <author>hello@sporkful.com (Dan Pashman and Stitcher)</author>
+      <link>http://www.sporkful.com/</link>
+      <content:encoded>זאת גם המלצה על ספר וגם סיפור מעניין.&lt;br&gt;#שיווק #שיוויון #אוכל &lt;br&gt;&lt;br&gt;https://pca.st/episode/ade31a41-2ffb-4377-a87e-c8d1aea05b4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Growing up as a Black kid in Chicago, Dr. Marcia Chatelain says she learned more about Black history from McDonald’s than from her fancy prep school. Now, as a professor of history and African American studies, &lt;a href="http://www.marciachatelain.com/"&gt;Dr. Chatelain&lt;/a&gt; is exploring the role that McDonald’s has played in Black communities since its founding in the 1940s. In many places, McDonald’s has been a community hub and a pathway to business ownership for Black entrepreneurs. But it’s also been a tool for those seeking to preserve segregation. We dig into the chain’s complicated legacy. Plus, Dan and his family stop in at a very special McDonald’s on Long Island.  &lt;/p&gt;
+&lt;p&gt;This is the second part of our two-episode series on McDonald’s. Make sure to check out last week’s episode about &lt;a href="https://www.sporkful.com/hacking-mcdonalds-broken-ice-cream-machines/"&gt;the couple who hacked the infamous McDonald’s ice cream machine&lt;/a&gt;. //&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Get 500+ more great Sporkful episodes from our catalog and lots of other Stitcher goodness when you sign up for Stitcher Premium: &lt;/em&gt;&lt;a href="http://www.stitcherpremium.com/Sporkful"&gt;&lt;em&gt;www.StitcherPremium.com/Sporkful&lt;/em&gt;&lt;/a&gt;&lt;em&gt; (promo code: SPORKFUL).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transcript available at &lt;/em&gt;&lt;a href="http://www.sporkful.com/"&gt;&lt;em&gt;www.sporkful.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="31821688" type="audio/mpeg" url="https://chtbl.com/track/288D49/stitcher.simplecastaudio.com/6d163170-a732-46a6-9641-3d73119590d7/episodes/9a246d0f-3d84-4a16-a6ee-90e7a6a40fbf/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=6d163170-a732-46a6-9641-3d73119590d7&amp;awEpisodeId=9a246d0f-3d84-4a16-a6ee-90e7a6a40fbf&amp;feed=n91GPFY5"/>
+      <itunes:title>What McDonald’s Can Tell Us About Black America</itunes:title>
+      <itunes:author>Dan Pashman and Stitcher</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/6d1631/6d163170-a732-46a6-9641-3d73119590d7/9a246d0f-3d84-4a16-a6ee-90e7a6a40fbf/3000x3000/image.jpg?aid=rss_feed"/>
+      <itunes:duration>00:32:58</itunes:duration>
+      <itunes:summary>זאת גם המלצה על ספר וגם סיפור מעניין.&lt;br&gt;#שיווק #שיוויון #אוכל &lt;br&gt;&lt;br&gt;https://pca.st/episode/ade31a41-2ffb-4377-a87e-c8d1aea05b4d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Growing up as a Black kid in Chicago, Dr. Marcia Chatelain says she learned more about Black history from McDonald’s than from her fancy prep school. Now, as a professor of history and African American studies, &lt;a href="http://www.marciachatelain.com/"&gt;Dr. Chatelain&lt;/a&gt; is exploring the role that McDonald’s has played in Black communities since its founding in the 1940s. In many places, McDonald’s has been a community hub and a pathway to business ownership for Black entrepreneurs. But it’s also been a tool for those seeking to preserve segregation. We dig into the chain’s complicated legacy. Plus, Dan and his family stop in at a very special McDonald’s on Long Island.  &lt;/p&gt;
+&lt;p&gt;This is the second part of our two-episode series on McDonald’s. Make sure to check out last week’s episode about &lt;a href="https://www.sporkful.com/hacking-mcdonalds-broken-ice-cream-machines/"&gt;the couple who hacked the infamous McDonald’s ice cream machine&lt;/a&gt;. //&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Get 500+ more great Sporkful episodes from our catalog and lots of other Stitcher goodness when you sign up for Stitcher Premium: &lt;/em&gt;&lt;a href="http://www.stitcherpremium.com/Sporkful"&gt;&lt;em&gt;www.StitcherPremium.com/Sporkful&lt;/em&gt;&lt;/a&gt;&lt;em&gt; (promo code: SPORKFUL).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Transcript available at &lt;/em&gt;&lt;a href="http://www.sporkful.com/"&gt;&lt;em&gt;www.sporkful.com&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>Growing up as a Black kid in Chicago, Dr. Marcia Chatelain says she learned more about Black history from McDonald’s than from her fancy prep school. Now, as a professor of history and African American studies, Dr. Chatelain is exploring the role that McDonald’s has played in Black communities since its founding in the 1940s. In many places, McDonald’s has been a community hub and a pathway to business ownership for Black entrepreneurs. But it’s also been a tool for those seeking to preserve segregation. We dig into the chain’s complicated legacy. Plus, Dan and his family stop in at a very special McDonald’s on Long Island.  
+
+This is the second part of our two-episode series on McDonald’s. Make sure to check out last week’s episode about the couple who hacked the infamous McDonald’s ice cream machine. //
+
+Get 500+ more great Sporkful episodes from our catalog and lots of other Stitcher goodness when you sign up for Stitcher Premium: www.StitcherPremium.com/Sporkful (promo code: SPORKFUL).
+
+Transcript available at www.sporkful.com.</itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item></channel>
 </rss>
