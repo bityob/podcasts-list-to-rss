@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 21 Jan 2022 10:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 11:12:22 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>A Black Musician Takes on the KKK</title>
@@ -170,7 +170,32 @@ https://www.ads.ranlevi.com/2021/03/01/overwolf-hatshuva-wellerman/</googleplay:
       <itunes:keywords>מסעדנות, דיכאון, מטבח, מישלן, ריקוד, עסקים, שיטה, רשת, אוכל</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
       <googleplay:explicit>No</googleplay:explicit>
-    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 77 - המחיר של היין</title>
+            <itunes:subtitle>כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או ב…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/77a</link>
+            <pubDate>Tue, 11 Jan 2022 05:31:01 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1179235996</guid>
+            <description>איך נקבע מחיר היין בישראל?  שיחה מאוד מעניינת עם דמויות שונות בעולם היין הישראלי. &lt;br&gt;#ישראל #אוכל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 77 - המחיר של היין&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ijg065yf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או במסעדה?
+ואיך זה שבעולם אפשר למצוא בקבוקי יין ביורו וחצי?
+יצאנו לחקור, לשאול ולברר והזמנו אורחים:
+אלכס הרוני, מנכ"ל ומייסד יקב דלתון - מהיקבים הגדולים בישראל שמוכרים יינות במנעד רחב של מחירים ובמגוון גדול של מקומות.
+גיא בליס, מנהל השיווק של קבוצת חינאווי, Wine and More ואנוטקה - שמייבאים יינות, משווקים ומוכרים אותם בחנויות הרשת ולעסקים נוספים.
+ומור ברנשטיין, סומליירית ותיקה שעומדת מאחורי תפריטי יין רבים.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/faddbec27994a3f93d1037981d1fa6d8df66ca42.mp3?name=wine" length="62623659" type="audio/mpeg"/>
+            <itunes:summary>איך נקבע מחיר היין בישראל?  שיחה מאוד מעניינת עם דמויות שונות בעולם היין הישראלי. &lt;br&gt;#ישראל #אוכל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 77 - המחיר של היין&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ijg065yf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או במסעדה?
+ואיך זה שבעולם אפשר למצוא בקבוקי יין ביורו וחצי?
+יצאנו לחקור, לשאול ולברר והזמנו אורחים:
+אלכס הרוני, מנכ"ל ומייסד יקב דלתון - מהיקבים הגדולים בישראל שמוכרים יינות במנעד רחב של מחירים ובמגוון גדול של מקומות.
+גיא בליס, מנהל השיווק של קבוצת חינאווי, Wine and More ואנוטקה - שמייבאים יינות, משווקים ומוכרים אותם בחנויות הרשת ולעסקים נוספים.
+ומור ברנשטיין, סומליירית ותיקה שעומדת מאחורי תפריטי יין רבים.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:05:13</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-FB6bUJKllinhU7tn-ztzlXA-t3000x3000.jpg"/>
+        </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Is a Stradivarius just a violin? (Classic)</title>
       <description>הפרק שמזמן חיכיתי לו, רק לא ידעתי את זה :)&lt;br&gt;מבחן נגינה עיוור בין כינור של  סטרדיווריוס לבין כינור חדש יותר. אני לא אהרוס ולא אגלה הצליל של מי נשמע יותר טוב. &lt;br&gt;#מוזיקה #אנגלית&lt;br&gt;&lt;br&gt;Planet money - Is a Stradivarius just a violin? &lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kabnen7l&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Many music aficionados will tell you that violins and violas made by legendary craftsman Antonio Stradivari represent the pinnacle of the instruments. But what if it's all just an example of really good branding? | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
       <pubDate>Tue, 11 Jan 2022 05:30:13 +0000</pubDate>
@@ -625,6 +650,28 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:keywords>design, dedek mraz, christmas, slovenia, santa, saint nick, claus, yugoslavia, holiday</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>Have Yourself a Scary Little Krampus</title>
+      <description>בתרבות שלנו אנחנו פחות מכירים יצור  בשם קראמפוס אבל באירופה ובמיוחד בגרמניה הם המלווים הקבועים של תקופת סוף השנה.  וזה דיון מעניין על האם הילדים צריכים דמות מאיימת כמו קראמפוס ללות את סבא כפור/סנטה קלאוס או לא. &lt;br&gt;**התמונה צולמה במצעד הקרמפוסים השנתי בגרמניה לפני כמה שנים. **&lt;br&gt;#אנגלית  #תרבות  &lt;br&gt;Imaginary worlds - Have Yourself a Scary Little Krampus&lt;br&gt;משך : 31 דק'&lt;br&gt;&lt;br&gt;https://prnt.sc/24jjlfx&lt;br&gt;&lt;br&gt;https://pca.st/lo5jlhsq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The imagery of Christmas in most Western countries is of pure wholesomeness with Santa Claus or St. Nicholas, presents, candy, lights, etc. But in central Europe, there is another figure in the mix, the horned devilish-looking character called Krampus, who doles out punishment if you’re naughty instead of nice. I talk with Jules Linner and Christina Albert about why it was important for them as children to believe in St Nick’s dark companion. Krampus event organizer and author Al Ridenour, along with cultural anthropologist Matthäus Rest, explain the history of Krampus, and why he’s still an important part of German and Austrian culture today.
+Here's the link to Al’s book “The Krampus and the Old, Dark Christmas: Roots and Rebirth of the Folkloric Devil,” and Al’s podcast Bone and Sickle episode on Krampus.
+This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Multitude. If you’re interested in advertising on Imaginary Worlds, you can contact them here.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Sun, 26 Dec 2021 04:30:48 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Eric Molinsky</itunes:author>
+      <itunes:subtitle>To some people outside central Europe, the idea of St Nicholas having a horned tongue-wagging companion called Krampus, who punishes children, might seem absurd, even hilarious. But we reconsider whether it’s important to add a little fear and darkness into our Christmas iconography.  </itunes:subtitle>
+      <itunes:summary>בתרבות שלנו אנחנו פחות מכירים יצור  בשם קראמפוס אבל באירופה ובמיוחד בגרמניה הם המלווים הקבועים של תקופת סוף השנה.  וזה דיון מעניין על האם הילדים צריכים דמות מאיימת כמו קראמפוס ללות את סבא כפור/סנטה קלאוס או לא. &lt;br&gt;**התמונה צולמה במצעד הקרמפוסים השנתי בגרמניה לפני כמה שנים. **&lt;br&gt;#אנגלית  #תרבות  &lt;br&gt;Imaginary worlds - Have Yourself a Scary Little Krampus&lt;br&gt;משך : 31 דק'&lt;br&gt;&lt;br&gt;https://prnt.sc/24jjlfx&lt;br&gt;&lt;br&gt;https://pca.st/lo5jlhsq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The imagery of Christmas in most Western countries is of pure wholesomeness with Santa Claus or St. Nicholas, presents, candy, lights, etc. But in central Europe, there is another figure in the mix, the horned devilish-looking character called Krampus, who doles out punishment if you’re naughty instead of nice. I talk with Jules Linner and Christina Albert about why it was important for them as children to believe in St Nick’s dark companion. Krampus event organizer and author Al Ridenour, along with cultural anthropologist Matthäus Rest, explain the history of Krampus, and why he’s still an important part of German and Austrian culture today.
+Here's the link to Al’s book “The Krampus and the Old, Dark Christmas: Roots and Rebirth of the Folkloric Devil,” and Al’s podcast Bone and Sickle episode on Krampus.
+This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Multitude. If you’re interested in advertising on Imaginary Worlds, you can contact them here.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>בתרבות שלנו אנחנו פחות מכירים יצור  בשם קראמפוס אבל באירופה ובמיוחד בגרמניה הם המלווים הקבועים של תקופת סוף השנה.  וזה דיון מעניין על האם הילדים צריכים דמות מאיימת כמו קראמפוס ללות את סבא כפור/סנטה קלאוס או לא. &lt;br&gt;**התמונה צולמה במצעד הקרמפוסים השנתי בגרמניה לפני כמה שנים. **&lt;br&gt;#אנגלית  #תרבות  &lt;br&gt;Imaginary worlds - Have Yourself a Scary Little Krampus&lt;br&gt;משך : 31 דק'&lt;br&gt;&lt;br&gt;https://prnt.sc/24jjlfx&lt;br&gt;&lt;br&gt;https://pca.st/lo5jlhsq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The imagery of Christmas in most Western countries is of pure wholesomeness with Santa Claus or St. Nicholas, presents, candy, lights, etc. But in central Europe, there is another figure in the mix, the horned devilish-looking character called Krampus, who doles out punishment if you’re naughty instead of nice. I talk with Jules Linner and Christina Albert about why it was important for them as children to believe in St Nick’s dark companion. Krampus event organizer and author Al Ridenour, along with cultural anthropologist Matthäus Rest, explain the history of Krampus, and why he’s still an important part of German and Austrian culture today.
+Here's the link to Al’s book “The Krampus and the Old, Dark Christmas: Roots and Rebirth of the Folkloric Devil,” and Al’s podcast Bone and Sickle episode on Krampus.
+This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Multitude. If you’re interested in advertising on Imaginary Worlds, you can contact them here.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>1857</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">4d69ed64-5050-11eb-a37c-8fdade04ee46</guid>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002027" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f557294e-9449-44f6-ae58-7a53b256c7ba</guid>
       <title>פרק 12: צאו מהקיבעון: הכלי האפקטיבי שיפתח בפניכם עוד הזדמנויות</title>
@@ -658,7 +705,28 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי</title>
+            <itunes:subtitle>פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושב…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/76a</link>
+            <pubDate>Thu, 23 Dec 2021 05:31:03 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1171182031</guid>
+            <description>שיחה על איך מתארגנים לטעימות יין. אומנם כוונת המשורר כאן זה לעשות טעימות יין ביתיות לחברים אבל יש בשיחה גם עקרונות מועילים לטעימות יין שעושים במסעדות. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ya7p3b53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושבות על לארח חברות לטעימה? משתעשעים בטעימה עיוורת?
+הפרק הזה הוא בשבילכם!
+מה חשוב לדעת ולהכין? איזה כיבוד להגיש ליד (אם בכלל) ואיפה אסור לטעום יין? להתחיל מהיין הלבן או האדום? הצעיר או המבוגר? איך מה שאתם לובשים, עונדים ועוטים על עצמכם עלול להשפיע על הטעימה? ועוד המון תשובות לשאלות שמעניינות את כולם! (או לפחות הרבה אנשים שאנחנו אוהבים)
+זה הולך להיות מהיר, קצר ועם גוף מלא.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/fb19a37abcecd91967965d71df625d653a88c504.mp3?name=wine" length="22641266" type="audio/mpeg"/>
+            <itunes:summary>שיחה על איך מתארגנים לטעימות יין. אומנם כוונת המשורר כאן זה לעשות טעימות יין ביתיות לחברים אבל יש בשיחה גם עקרונות מועילים לטעימות יין שעושים במסעדות. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ya7p3b53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושבות על לארח חברות לטעימה? משתעשעים בטעימה עיוורת?
+הפרק הזה הוא בשבילכם!
+מה חשוב לדעת ולהכין? איזה כיבוד להגיש ליד (אם בכלל) ואיפה אסור לטעום יין? להתחיל מהיין הלבן או האדום? הצעיר או המבוגר? איך מה שאתם לובשים, עונדים ועוטים על עצמכם עלול להשפיע על הטעימה? ועוד המון תשובות לשאלות שמעניינות את כולם! (או לפחות הרבה אנשים שאנחנו אוהבים)
+זה הולך להיות מהיר, קצר ועם גוף מלא.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:23:35</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-8RtAwuLu3ULnktpE-hVeH6g-t3000x3000.jpg"/>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Antitrust: ConstitutionDAO</title>
       <link>https://thepodglomerate.com/shows/rocketship</link>
       <description>המשך הסיפור מלפני כמה שבועות על קבוצת בלוקצ'ין שהתארגנה לרכישה משותפת של אחד העותקים הבודדים שעומדים למכירה - של חוקת ארה"ב. הם הצליחו לגייס סכום דמיוני של 47 מיליון דולר אבל הפסידו במכירה הפומבית. &lt;br&gt;#בלוקצין #כלכלה #אנגלית&lt;br&gt;הפרק שבו דיברו על זה לראשונה: https://t.me/podcastsrec/144&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: ConstitutionDAO&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kw4xj9lg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A consortium of crypto investors pulled together $47 million worth of ether in a week to try to buy a rare, first-edition copy of the U.S. Constitution at a Sotheby’s auction — and lost. Today we cover the auction and aftermath of this historical moment.
@@ -3303,7 +3371,30 @@ https://www.ads.ranlevi.com/2021/09/26/jamesrichardson-grush-shnekel/</googlepla
     <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-  </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 71 - ציונים זה לא הכל?</title>
+            <itunes:subtitle>עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה י…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/71a</link>
+            <pubDate>Fri, 24 Sep 2021 08:00:04 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1124341987</guid>
+            <description>פרק על ביקורות יין, ציונים ותחרויות. נקודת המבט הישראלית על תחרויות בינלאומיות, איך מדרגים יין ושיחה עם מנהלת השיווק של יקב נחמני. &lt;br&gt;#אוכל #ישראל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - 71&lt;br&gt;&lt;br&gt;https://pca.st/episode/f1d50beb-b42d-48ff-b1ec-b707b7c6d80d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה יצאנו להבין, מה הוא המקום ומה היא ההשפעה של ציונים ותחרויות יין? בעולם מתקיימות מאות תחרויות שונות ואינספור ציונים ניתנים ליינות. איך מחליטים כיצד לדרג יין? ועד כמה זה בכלל משמעותי? ואולי בכלל תם תפקידו של המבקר והגיעה שעתה של חוכמת ההמונים?
+הגיעו להתארח:
+שקד נחמני - הבת ומנהלת השיווק של יקב נחמני שזכה לאחרונה בציון הגבוה ביותר שניתן ליין ישראלי בתחרות של המגזין המכובד דיקנטר: 97 נקודות.
+אבי אפרתי -מבקר המסעדות והיין של אתר וואלה! News. וגם פסיכולוג קליני.
+חיים גן - הלוא הוא איש הענבים שאחראי לאינספור תערוכות ופסטיבלי יין, תחרויות יין ובראשן התחרות הבין לאומית: טרה וינו ועוד פעילויות רבות בתחום, בינהן ספר ביקורת יין מקיף שיצא ב 2016.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/8c0b774a64ee18cc98396e459692fa3c62906047.mp3?name=wine" length="49882173" type="audio/mpeg"/>
+            <itunes:summary>פרק על ביקורות יין, ציונים ותחרויות. נקודת המבט הישראלית על תחרויות בינלאומיות, איך מדרגים יין ושיחה עם מנהלת השיווק של יקב נחמני. &lt;br&gt;#אוכל #ישראל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - 71&lt;br&gt;&lt;br&gt;https://pca.st/episode/f1d50beb-b42d-48ff-b1ec-b707b7c6d80d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עד כמה משפיעים ציונים וביקורות על יין?
+בפרק הזה יצאנו להבין, מה הוא המקום ומה היא ההשפעה של ציונים ותחרויות יין? בעולם מתקיימות מאות תחרויות שונות ואינספור ציונים ניתנים ליינות. איך מחליטים כיצד לדרג יין? ועד כמה זה בכלל משמעותי? ואולי בכלל תם תפקידו של המבקר והגיעה שעתה של חוכמת ההמונים?
+הגיעו להתארח:
+שקד נחמני - הבת ומנהלת השיווק של יקב נחמני שזכה לאחרונה בציון הגבוה ביותר שניתן ליין ישראלי בתחרות של המגזין המכובד דיקנטר: 97 נקודות.
+אבי אפרתי -מבקר המסעדות והיין של אתר וואלה! News. וגם פסיכולוג קליני.
+חיים גן - הלוא הוא איש הענבים שאחראי לאינספור תערוכות ופסטיבלי יין, תחרויות יין ובראשן התחרות הבין לאומית: טרה וינו ועוד פעילויות רבות בתחום, בינהן ספר ביקורת יין מקיף שיצא ב 2016.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:51:57</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-6AZ2SbWSLzYym4Sz-eOXkcw-t3000x3000.jpg"/>
+        </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">e337d5b6-3fb0-4433-aea9-23598f105828</guid>
       <title>459- Yankee Pyramids</title>
       <description>ההמלצה היא על החצי שעה הראשונה של הפרק שבה מדברים על הספריות הנשיאותיות בארה"ב. זה סיפור מעניין על איך התחילו לבנות לכל נשיא את הספריה שלו ומה המטרה של המונומנטים הללו. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 459 &lt;br&gt;&lt;br&gt;https://pca.st/episode/09ef9b6f-be9e-48d1-abe3-fdef3f2318ba&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Presidential libraries are tributes to greatness, "[a] self-congratulatory, almost fictional account of someone's achievements, where all the blemishes are hidden," explains one New York architect.  But they're also a "weird mix of a historical repository of records and things that have a lot of meaning." Studying their origins and evolution, one can begin to see how presidential libraries have always involved tensions and contradictions.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38002&amp;post_type=episode"&gt;Yankee Pyramids&lt;/a&gt;&lt;/p&gt;&lt;p&gt;The premise of using the extreme example of Trump to heighten the contradictions of executive branch norms is what we do on Roman's other podcast &lt;a href="https://trumpconlaw.com"&gt;What Trump Can Teach Us About Con Law&lt;/a&gt;. It's good! And it's not really about Trump, so don't worry. It's essentially a current events based Constitutional Law class taught by an incredible professor, Elizabeth Joh. We included the latest episode here for you to check out. &lt;/p&gt;&lt;p&gt; &lt;/p&gt;
@@ -4705,7 +4796,22 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
             <castbox:episode_premium/>
             <itunes:explicit>no</itunes:explicit>
             
-        </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>The Invention of Hydration</title>
+      <description>קצת כמו שחברות הפרסום המציאו את הוולנטיינז דיי, כאן מדברים על איך יצרו את המודעות שלנו לשתיית מים. מרתק.&lt;br&gt;#שיווק #בריאות #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring -The Invention of Hydration&lt;br&gt;&lt;br&gt;https://pca.st/episode/b5b85b0b-1e6f-4617-83b6-3f8760151307&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;To say that hydration is an invention is only a slight exaggeration. Back in the 1970’s and ‘80s, no one carried bottled water with them, but by the ‘90s it was a genuine status object. How did bottled water transform itself from a small, European luxury item to the single largest beverage category in America? It took both technological innovation, but even more importantly it took savvy marketing from brands like Gatorade and Perrier to turn the concept of hydration, and dehydration into problem they could solve via their wares. Today, hydration has branched out from athletics to wellness to skincare, but the actual science behind all of it is pretty sketchy. If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Fri, 16 Jul 2021 05:38:16 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Slate Podcasts</itunes:author>
+      <itunes:subtitle>How did bottled water transform itself from a small, European luxury item to the single largest beverage category in America?</itunes:subtitle>
+      <itunes:summary>קצת כמו שחברות הפרסום המציאו את הוולנטיינז דיי, כאן מדברים על איך יצרו את המודעות שלנו לשתיית מים. מרתק.&lt;br&gt;#שיווק #בריאות #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring -The Invention of Hydration&lt;br&gt;&lt;br&gt;https://pca.st/episode/b5b85b0b-1e6f-4617-83b6-3f8760151307&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;To say that hydration is an invention is only a slight exaggeration. Back in the 1970’s and ‘80s, no one carried bottled water with them, but by the ‘90s it was a genuine status object. How did bottled water transform itself from a small, European luxury item to the single largest beverage category in America? It took both technological innovation, but even more importantly it took savvy marketing from brands like Gatorade and Perrier to turn the concept of hydration, and dehydration into problem they could solve via their wares. Today, hydration has branched out from athletics to wellness to skincare, but the actual science behind all of it is pretty sketchy. If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>קצת כמו שחברות הפרסום המציאו את הוולנטיינז דיי, כאן מדברים על איך יצרו את המודעות שלנו לשתיית מים. מרתק.&lt;br&gt;#שיווק #בריאות #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring -The Invention of Hydration&lt;br&gt;&lt;br&gt;https://pca.st/episode/b5b85b0b-1e6f-4617-83b6-3f8760151307&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;To say that hydration is an invention is only a slight exaggeration. Back in the 1970’s and ‘80s, no one carried bottled water with them, but by the ‘90s it was a genuine status object. How did bottled water transform itself from a small, European luxury item to the single largest beverage category in America? It took both technological innovation, but even more importantly it took savvy marketing from brands like Gatorade and Perrier to turn the concept of hydration, and dehydration into problem they could solve via their wares. Today, hydration has branched out from athletics to wellness to skincare, but the actual science behind all of it is pretty sketchy. If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>2237</itunes:duration>
+      <guid isPermaLink="false">3471d0d4-5031-11eb-80cb-b765cf776e74</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6135216764.mp3?updated=1624289338" length="0" type="audio/mpeg"/>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>לרוץ לחיים בריאים ומאושרים - ד"ר עמי שינפלד על ספרו לרוץ מהלב - פרק 33</title>
         <itunes:title>לרוץ לחיים בריאים ומאושרים - ד"ר עמי שינפלד על ספרו לרוץ מהלב - פרק 33</itunes:title>
         <link>https://mindsetisreal.podbean.com/e/%d7%9c%d7%a8%d7%95%d7%a5%d7%9c%d7%97%d7%99%d7%99%d7%9d%d7%91%d7%a8%d7%99%d7%90%d7%99%d7%9d-%d7%95%d7%9e%d7%90%d7%95%d7%a9%d7%a8%d7%99%d7%9d-%d7%93/</link>
@@ -4802,6 +4908,24 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded>סיפור ההקמה של שירות Mailchimp מפי אחד המייסדים. יש לזה טאצ' מיוחד כי הוא מספר על הרבה מאוד חוסר וודאות שהייתה להם לאורך הדרך ועל תהליך של למידה שהחברה והוא עצמו עבר במהלך השנים. &lt;br&gt;#אנגלית #שיווק #סיפורמקור&lt;br&gt;&lt;br&gt;E-350: Mailchimp - Ben Chestnut  &lt;br&gt;&lt;br&gt;https://pca.st/50eswcra&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the late 1990s, Ben Chestnut was a struggling young designer interning at an appliance company, when somebody suggested that he try designing for the internet instead. A few years later, Ben and two co-founders launched a web design agency, only to discover that the service they'd included almost as an afterthought—email marketing—was taking off among their small-business clients. The founders named that service Mailchimp and pivoted to it full-time in 2007, choosing a winking monkey as their mascot, and stumbling onto the Freemium model before it became mainstream. But their most impeccable timing came in 2014, when they decided to sponsor a new podcast called &lt;em&gt;Serial&lt;/em&gt;, a move that catapulted the winking monkey into popular culture. Over the years, despite management jitters and a public reckoning over office culture, Mailchimp has remained profitable and self-funded, with revenue of $800 million in 2020. </content:encoded>
       <enclosure url="https://play.podtrac.com/npr-510313/edge1.pod.npr.org/anon.npr-mp3/npr/hibt/2021/07/20210709_hibt_hibt_-_mailchimp__liz____-_final_podcast_mix.mp3?awCollectionId=510313&amp;awEpisodeId=1014699766&amp;orgId=1&amp;d=5094&amp;p=510313&amp;story=1014699766&amp;t=podcast&amp;e=1014699766&amp;size=81515460&amp;ft=pod&amp;f=510313" length="81515460" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>That Seattle Muzak Sound </title>
+      <description>סיפור מרתק על חברה ענקית ששלטה בשוק המוזיקה במשך עשרות שנים והיום אנחנו כבר כמעט לא מכירים. מעניין איך להקות כמו הביטלס השפיעו על התפתחות התפיסה שלנו את יוצר המוזיקה ואיך בדרכו זה השפיע על חברות כמו מיוזאק. &lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring - That Seattle Muzak Sound&lt;br&gt;&lt;br&gt;https://pca.st/episode/5bfc997e-f7bc-4842-b95d-72e962a036ff&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+On this episode, we explore the misunderstood history of Muzak, formerly the world’s foremost producers of elevator music. Out of the technological innovations of World War I, Muzak emerged as one of the most significant musical institutions of the 20th century, only to become a punching bag as the 1960’s began to turn public perceptions of popular music on its head. By the 80’s and 90’s, Muzak was still the butt of jokes, and was trying to figure out a new direction as they happened to employ many players in Seattle's burgeoning grunge scene. This is the story of how different ideas about pop music butted heads throughout the 20th century, including inside Muzak’s offices. 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Wed, 14 Jul 2021 05:03:39 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Slate Podcasts</itunes:author>
+      <itunes:subtitle>Muzak, the purveyors of elevator music, had become a complete joke by the 1990’s when it found many of the players in the Seattle grunge scene working in its offices. </itunes:subtitle>
+      <itunes:summary>סיפור מרתק על חברה ענקית ששלטה בשוק המוזיקה במשך עשרות שנים והיום אנחנו כבר כמעט לא מכירים. מעניין איך להקות כמו הביטלס השפיעו על התפתחות התפיסה שלנו את יוצר המוזיקה ואיך בדרכו זה השפיע על חברות כמו מיוזאק. &lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring - That Seattle Muzak Sound&lt;br&gt;&lt;br&gt;https://pca.st/episode/5bfc997e-f7bc-4842-b95d-72e962a036ff&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+On this episode, we explore the misunderstood history of Muzak, formerly the world’s foremost producers of elevator music. Out of the technological innovations of World War I, Muzak emerged as one of the most significant musical institutions of the 20th century, only to become a punching bag as the 1960’s began to turn public perceptions of popular music on its head. By the 80’s and 90’s, Muzak was still the butt of jokes, and was trying to figure out a new direction as they happened to employ many players in Seattle's burgeoning grunge scene. This is the story of how different ideas about pop music butted heads throughout the 20th century, including inside Muzak’s offices. 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>סיפור מרתק על חברה ענקית ששלטה בשוק המוזיקה במשך עשרות שנים והיום אנחנו כבר כמעט לא מכירים. מעניין איך להקות כמו הביטלס השפיעו על התפתחות התפיסה שלנו את יוצר המוזיקה ואיך בדרכו זה השפיע על חברות כמו מיוזאק. &lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Decoder ring - That Seattle Muzak Sound&lt;br&gt;&lt;br&gt;https://pca.st/episode/5bfc997e-f7bc-4842-b95d-72e962a036ff&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you can binge the whole season of Decoder Ring right now, plus ad free podcasts, bonus episodes, and much more.
+On this episode, we explore the misunderstood history of Muzak, formerly the world’s foremost producers of elevator music. Out of the technological innovations of World War I, Muzak emerged as one of the most significant musical institutions of the 20th century, only to become a punching bag as the 1960’s began to turn public perceptions of popular music on its head. By the 80’s and 90’s, Muzak was still the butt of jokes, and was trying to figure out a new direction as they happened to employ many players in Seattle's burgeoning grunge scene. This is the story of how different ideas about pop music butted heads throughout the 20th century, including inside Muzak’s offices. 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>2651</itunes:duration>
+      <guid isPermaLink="false">3483af52-5031-11eb-80cb-cbd3611b0e30</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6176542629.mp3?updated=1634154395" length="0" type="audio/mpeg"/>
     </item><item>
 		<title>פרק #441 – פרופ' אבי בן-בסט ומדיניות ציבורית כלכלית</title>
 		<link/>https://geekonomy.net/2021/07/06/geekonomy441/
