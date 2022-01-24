@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 23 Jan 2022 23:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jan 2022 00:49:15 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Multiverse Remix</title>
@@ -4181,7 +4181,7 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
 			<content:encoded>שיחה עם רוג'ר לאב, מאמן קול שעבד עם המון זמרים ושחקנים. מה שמעניין בשיחה איתו (חוץ מזה שהיא מאוד כייפית וזורמת) זה שהוא מדגים איך בעזרת קול אפשר לשנות את המשמעות של המשפט שלנו ואיך הקול משפיע לחלוטין על התפיסה שלנו את עצמינו ואת מי שנמצא מולינו. &lt;br&gt;#סיפורמעניין #אנגלית #שיפורעצמי&lt;br&gt;&lt;br&gt;The Marie Forleo podcast - 219 &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2c2be49-dbaa-48b1-abe4-f46960beb461&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Feel insecure or boring when you speak? America’s top voice coach, Roger Love, has vocal techniques that will improve your voice. Case in point — Bradley Cooper hired Roger to teach him how to sing, and then he won a Grammy. If you want to learn what Roger’s taught Selena Gomez, Gwen Stefani, and Tony Robbins to speak and sing with confidence, this interview is a must-listen. https://www.marieforleo.com/2020/08/roger-love/  We are a world of monotone, we need to use more notes. A piano has 88 keys. @RogerLove1 via @MarieForleo</content:encoded>
 			<enclosure length="54773034" type="audio/mpeg" url="https://traffic.libsyn.com/secure/themarieforleopodcast/219_-_Roger_Love_-_How_to_Speak_Sing_With_Confidence.mp3?dest-id=469726"/>
 			<itunes:duration>37:22</itunes:duration>
-			<itunes:explicit>no</itunes:explicit>
+			<itunes:explicit>false</itunes:explicit>
 			<itunes:keywords/>
 			<itunes:subtitle>Feel insecure or boring when you speak? America’s top voice coach, Roger Love, has vocal techniques that will improve your voice. Case in point — Bradley Cooper hired Roger to teach him how to sing, and then he won a Grammy. If you want to learn what </itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
