@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 26 Jan 2022 06:17:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 07:13:55 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><title>Neil Gaiman, writer</title><description>ראיון כייפי עם הסופר ניל גיימן. בפרק הזה גיימן בוחר את השירים שהיה לוקח לאי בודד, איך הילדות שלו השפיעה על הכתיבה ומי ההשראה שלו לספרי הילדים שהוא כתב. &lt;br&gt;#אנגלית #ראיוןמעניין #ספרות&lt;br&gt;&lt;br&gt;Desert island discs - Neil Gaiman, writer&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/0bwv3y18&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Neil Gaiman is a writer whose list of titles spans many forms from novels, including American Gods, to children’s stories such as Coraline and the comic book the Sandman. 
 
@@ -1942,35 +1942,7 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
             <castbox:episode_premium/>
             <itunes:explicit>no</itunes:explicit>
             
-        </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <title>Cup Runneth</title>
-      <description>סיפורו של עץ מאוד מיוחד - The Chalice Tree, שנמצא באירלנד והוא הגיבור של עלילה הסטורית מרתקת. ודרך סיפורו של העץ גם הצצה לסיפורם של האירים הקתולים והפרוטסטנטיים ב200 השנים האחרונות. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;Stuff the British stole - Cup Runneth&lt;br&gt;&lt;br&gt;https://pca.st/hwlawuc7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
-
-Now that chalice sits in London’s Victoria &amp;amp; Albert Museum.
-
-But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
-
-Season Two is co-produced with CBC Podcasts.</description>
-      <link>https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</link>
-      <guid isPermaLink="false">https://www.abc.net.au/radionational/programs/stuff-the-british-stole/cup-runneth/13572992</guid>
-      <pubDate>Tue, 16 Nov 2021 05:01:02 +0000</pubDate>
-      <itunes:keywords>chalice tree, county cork, ireland, british redcoats, victoria and albert museum</itunes:keywords>
-      <enclosure url="https://media.whooshkaa.com/show/13435/episode/923468.mp3" length="37316276" type="audio/mpeg"/>
-      <itunes:author>ABC Radio</itunes:author>
-      <itunes:subtitle>In County Cork, Ireland, there's a tree that locals call the Chalice Tree. Local lore says it's where British Redcoats disrupted a secret...</itunes:subtitle>
-      <itunes:summary>סיפורו של עץ מאוד מיוחד - The Chalice Tree, שנמצא באירלנד והוא הגיבור של עלילה הסטורית מרתקת. ודרך סיפורו של העץ גם הצצה לסיפורם של האירים הקתולים והפרוטסטנטיים ב200 השנים האחרונות. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;Stuff the British stole - Cup Runneth&lt;br&gt;&lt;br&gt;https://pca.st/hwlawuc7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
-
-Now that chalice sits in London’s Victoria &amp;amp; Albert Museum.
-
-But what happened in the intervening 200 years is now being pieced together by two Irish families: the O’Keeffes and the McAulliffe’s.
-
-Season Two is co-produced with CBC Podcasts.</itunes:summary>
-      <itunes:explicit>No</itunes:explicit>
-      <itunes:duration>00:38:52</itunes:duration>
-      <itunes:image href="https://images.whooshkaa.com/podcasts/podcast_13435/podcast_media/c150d6-12754576-1x1-thumbnail.jpg"/>
-      <itunes:episode>10</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>[הטרנספורמרים]  דודי בלסר, מנהל תחום החדשנות במקורות</title>
       <itunes:title>[הטרנספורמרים]  דודי בלסר, מנהל תחום החדשנות במקורות</itunes:title>
       <description>שיחה מעניינת על חברה שבדרך כלל לא מדברים עליה - מקורות. על חדשנות בחברה ועל התפקיד של מנהל החדשנות בכל התהליכים. &lt;br&gt;#ישראל #שיווק&lt;br&gt;&lt;br&gt;עוד פודקאסט לסטארטפים - הטרנספורמרים - דודי בלסר, מנהל תחום החדשנות במקורות&lt;br&gt;&lt;br&gt;https://pca.st/ql15zklb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה שוחחנו על האתגרים בהובלת חדשנות בחברה תשתיות ממשלתית, על הדרכים בהם ניתן למדוד הצלחה של מנהלי חדשנות, על המתח שבין startup nation ל-implementation nation, ועל הסיכונים והזדמנויות העומדות היום בפני מקורות, אשר יכולות להיפתר באמצעות חדשנות.
@@ -2066,24 +2038,6 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>2628</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d38d8139-7e76-42b4-b3ed-add40168450c/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="42108856" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/213</link>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <guid isPermaLink="false">b80ee208-229e-4379-b0ad-05ecdb0f9f2a</guid>
-      <title>Seth Godin: Marketing god, Blogger, and Author</title>
-      <description>שיחה מרתקת לכל מי שעוסק בשיווק: סת גודין. אחד הגורואים הגדולים ביותר בעולם השיווק מדבר על קהלים, על גידול עסק ולמה הוא לא נמצא ברשתות חברתיות. &lt;br&gt;#שיווק #אנגלית &lt;br&gt;&lt;br&gt;Remarkable people - Seth Godin: Marketing god, Blogger, and Author&lt;br&gt;&lt;br&gt;https://pca.st/ks2fci8j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Join Guy Kawasaki on his 100th episode of the Remarkable People podcast with marketing legend Seth Godin. It's an insightful look into how Seth has built his marketing legacy with plenty of actionable ideas. Get ready to take notes and be inspired by Seth and Guy!</description>
-      <pubDate>Sun, 14 Nov 2021 04:00:37 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Seth Godin, Guy Kawasaki, Peg Fitzpatrick, Jeff Sieh, Shannon Hernandez, Madisun Nuismer, Luis Magana, Alexis Nishimura)</author>
-      <link>https://guykawasaki.com/remarkable-people/</link>
-      <enclosure length="62272985" type="audio/mpeg" url="https://chrt.fm/track/28555/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/f6b16f04-08fe-4c0c-9f5c-78af7e7991e9/audio/e37e4c73-a971-431e-85fb-689b26ec53ad/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
-      <itunes:title>Seth Godin: Marketing god, Blogger, and Author</itunes:title>
-      <itunes:author>Seth Godin, Guy Kawasaki, Peg Fitzpatrick, Jeff Sieh, Shannon Hernandez, Madisun Nuismer, Luis Magana, Alexis Nishimura</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/f5ccff64-c037-42b3-a91a-cdd7cfb15b9d/e9763412-b89c-4468-bc52-ba6b46103a2e/3000x3000/podcast-cover-creator-with-tag-2.jpg?aid=rss_feed"/>
-      <itunes:duration>01:04:05</itunes:duration>
-      <itunes:summary>שיחה מרתקת לכל מי שעוסק בשיווק: סת גודין. אחד הגורואים הגדולים ביותר בעולם השיווק מדבר על קהלים, על גידול עסק ולמה הוא לא נמצא ברשתות חברתיות. &lt;br&gt;#שיווק #אנגלית &lt;br&gt;&lt;br&gt;Remarkable people - Seth Godin: Marketing god, Blogger, and Author&lt;br&gt;&lt;br&gt;https://pca.st/ks2fci8j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Join Guy Kawasaki on his 100th episode of the Remarkable People podcast with marketing legend Seth Godin. It's an insightful look into how Seth has built his marketing legacy with plenty of actionable ideas. Get ready to take notes and be inspired by Seth and Guy!</itunes:summary>
-      <itunes:subtitle>Join Guy Kawasaki on his 100th episode of the Remarkable People podcast with marketing legend Seth Godin. It's an insightful look into how Seth has built his marketing legacy with plenty of actionable ideas. Get ready to take notes and be inspired by Seth and Guy!</itunes:subtitle>
-      <itunes:keywords>marketing expert, guy kawasaki, marketing legends  reply, remarkable people podcast, bloggers, digital marketing, how to build a community, purple cow, tribes, how do i get started in marketing, marketing manager, author, online marketing, seth godin, blogging, remarkable people</itunes:keywords>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>100</itunes:episode>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>#181 Absolutely Devious Lick </title>
       <description>פרק מעניין שבו המפיקה אן פוליי עוקבת אחרי האתגר שירש את אתגר הגניבות Devious Lick. מה היו תגובות המבוגרים אליו ואיך הוא התגלגל ברחבי ארה"ב.&lt;br&gt;#אנגלית #תרבות #פסיכולוגיה #טיקטוק&lt;br&gt;אורך: 41 דק'.&lt;br&gt;Reply All - #181 Absolutely Devious Lick&lt;br&gt;&lt;br&gt;https://pca.st/a5o19xm1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This week, producer Anna Foley investigates a viral prank plaguing schools across the country.
