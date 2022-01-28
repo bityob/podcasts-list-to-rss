@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 28 Jan 2022 13:17:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jan 2022 14:13:33 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>האורים והתומים של ייל</title>
@@ -556,7 +556,7 @@ If you love the show and want to support us, consider joining Slate Plus. With S
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1600</itunes:duration>
       <guid isPermaLink="false">1000542477321</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT4279815274.mp3?updated=1637337567" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT4279815274.mp3?updated=1637337447" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 50 - להרחיב אופקים זה כמו לוחמה בטרור</title>
         <itunes:title>פרק 50 - להרחיב אופקים זה כמו לוחמה בטרור</itunes:title>
