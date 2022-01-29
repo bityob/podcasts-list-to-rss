@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 29 Jan 2022 08:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jan 2022 09:13:55 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>האורים והתומים של ייל</title>
@@ -394,7 +394,32 @@ https://www.ads.ranlevi.com/2021/03/01/overwolf-hatshuva-wellerman/</googleplay:
       <itunes:keywords>מסעדנות, דיכאון, מטבח, מישלן, ריקוד, עסקים, שיטה, רשת, אוכל</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
       <googleplay:explicit>No</googleplay:explicit>
-    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 77 - המחיר של היין</title>
+            <itunes:subtitle>כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או ב…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/77a</link>
+            <pubDate>Tue, 11 Jan 2022 05:31:01 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1179235996</guid>
+            <description>איך נקבע מחיר היין בישראל?  שיחה מאוד מעניינת עם דמויות שונות בעולם היין הישראלי. &lt;br&gt;#ישראל #אוכל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 77 - המחיר של היין&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ijg065yf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או במסעדה?
+ואיך זה שבעולם אפשר למצוא בקבוקי יין ביורו וחצי?
+יצאנו לחקור, לשאול ולברר והזמנו אורחים:
+אלכס הרוני, מנכ"ל ומייסד יקב דלתון - מהיקבים הגדולים בישראל שמוכרים יינות במנעד רחב של מחירים ובמגוון גדול של מקומות.
+גיא בליס, מנהל השיווק של קבוצת חינאווי, Wine and More ואנוטקה - שמייבאים יינות, משווקים ומוכרים אותם בחנויות הרשת ולעסקים נוספים.
+ומור ברנשטיין, סומליירית ותיקה שעומדת מאחורי תפריטי יין רבים.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/faddbec27994a3f93d1037981d1fa6d8df66ca42.mp3?name=wine" length="62623659" type="audio/mpeg"/>
+            <itunes:summary>איך נקבע מחיר היין בישראל?  שיחה מאוד מעניינת עם דמויות שונות בעולם היין הישראלי. &lt;br&gt;#ישראל #אוכל&lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 77 - המחיר של היין&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ijg065yf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כמה עולה לעשות יין? 
+איך מתמחרים בקבוק בחנות או במסעדה?
+ואיך זה שבעולם אפשר למצוא בקבוקי יין ביורו וחצי?
+יצאנו לחקור, לשאול ולברר והזמנו אורחים:
+אלכס הרוני, מנכ"ל ומייסד יקב דלתון - מהיקבים הגדולים בישראל שמוכרים יינות במנעד רחב של מחירים ובמגוון גדול של מקומות.
+גיא בליס, מנהל השיווק של קבוצת חינאווי, Wine and More ואנוטקה - שמייבאים יינות, משווקים ומוכרים אותם בחנויות הרשת ולעסקים נוספים.
+ומור ברנשטיין, סומליירית ותיקה שעומדת מאחורי תפריטי יין רבים.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>01:05:13</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-FB6bUJKllinhU7tn-ztzlXA-t3000x3000.jpg"/>
+        </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Is a Stradivarius just a violin? (Classic)</title>
       <description>הפרק שמזמן חיכיתי לו, רק לא ידעתי את זה :)&lt;br&gt;מבחן נגינה עיוור בין כינור של  סטרדיווריוס לבין כינור חדש יותר. אני לא אהרוס ולא אגלה הצליל של מי נשמע יותר טוב. &lt;br&gt;#מוזיקה #אנגלית&lt;br&gt;&lt;br&gt;Planet money - Is a Stradivarius just a violin? &lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kabnen7l&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Many music aficionados will tell you that violins and violas made by legendary craftsman Antonio Stradivari represent the pinnacle of the instruments. But what if it's all just an example of really good branding? | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
       <pubDate>Tue, 11 Jan 2022 05:30:13 +0000</pubDate>
@@ -904,7 +929,28 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>12</itunes:episode>
       <itunes:season>1</itunes:season>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי</title>
+            <itunes:subtitle>פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושב…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/76a</link>
+            <pubDate>Thu, 23 Dec 2021 05:31:03 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1171182031</guid>
+            <description>שיחה על איך מתארגנים לטעימות יין. אומנם כוונת המשורר כאן זה לעשות טעימות יין ביתיות לחברים אבל יש בשיחה גם עקרונות מועילים לטעימות יין שעושים במסעדות. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ya7p3b53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושבות על לארח חברות לטעימה? משתעשעים בטעימה עיוורת?
+הפרק הזה הוא בשבילכם!
+מה חשוב לדעת ולהכין? איזה כיבוד להגיש ליד (אם בכלל) ואיפה אסור לטעום יין? להתחיל מהיין הלבן או האדום? הצעיר או המבוגר? איך מה שאתם לובשים, עונדים ועוטים על עצמכם עלול להשפיע על הטעימה? ועוד המון תשובות לשאלות שמעניינות את כולם! (או לפחות הרבה אנשים שאנחנו אוהבים)
+זה הולך להיות מהיר, קצר ועם גוף מלא.</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/fb19a37abcecd91967965d71df625d653a88c504.mp3?name=wine" length="22641266" type="audio/mpeg"/>
+            <itunes:summary>שיחה על איך מתארגנים לטעימות יין. אומנם כוונת המשורר כאן זה לעשות טעימות יין ביתיות לחברים אבל יש בשיחה גם עקרונות מועילים לטעימות יין שעושים במסעדות. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 76 - איך להתארגן לטעימת יין? עשי, אל תעשי וכדאי שתנסי&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ya7p3b53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק בזק מלא במידע על איך להתארגן לטעימת יין.
+חושבות על לארח חברות לטעימה? משתעשעים בטעימה עיוורת?
+הפרק הזה הוא בשבילכם!
+מה חשוב לדעת ולהכין? איזה כיבוד להגיש ליד (אם בכלל) ואיפה אסור לטעום יין? להתחיל מהיין הלבן או האדום? הצעיר או המבוגר? איך מה שאתם לובשים, עונדים ועוטים על עצמכם עלול להשפיע על הטעימה? ועוד המון תשובות לשאלות שמעניינות את כולם! (או לפחות הרבה אנשים שאנחנו אוהבים)
+זה הולך להיות מהיר, קצר ועם גוף מלא.</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:23:35</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-8RtAwuLu3ULnktpE-hVeH6g-t3000x3000.jpg"/>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Antitrust: ConstitutionDAO</title>
       <link>https://thepodglomerate.com/shows/rocketship</link>
       <description>המשך הסיפור מלפני כמה שבועות על קבוצת בלוקצ'ין שהתארגנה לרכישה משותפת של אחד העותקים הבודדים שעומדים למכירה - של חוקת ארה"ב. הם הצליחו לגייס סכום דמיוני של 47 מיליון דולר אבל הפסידו במכירה הפומבית. &lt;br&gt;#בלוקצין #כלכלה #אנגלית&lt;br&gt;הפרק שבו דיברו על זה לראשונה: https://t.me/podcastsrec/144&lt;br&gt;&lt;br&gt;Rocketship - Antitrust: ConstitutionDAO&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kw4xj9lg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A consortium of crypto investors pulled together $47 million worth of ether in a week to try to buy a rare, first-edition copy of the U.S. Constitution at a Sotheby’s auction — and lost. Today we cover the auction and aftermath of this historical moment.
