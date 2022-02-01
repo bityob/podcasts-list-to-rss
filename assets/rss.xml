@@ -11,9 +11,54 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 01 Feb 2022 05:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Feb 2022 06:17:15 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>דיסניפיקציה | #26</title>
+      <itunes:title>דיסניפיקציה | #26</itunes:title>
+      <description>לשמוע על היקומים והעובדות שדיסני המציאו זה תמיד כיף.  בפרק הזה השיחה היא על דיסניפיקציה על ההשראות ההסטוריות שדיסני לקח מטירות , פסלים ומקומות באירופה ואיך הוא שילב אותם בתרבות האמריקאית. &lt;br&gt;#תרבות &lt;br&gt;&lt;br&gt;אבק פיות - דיסניפיקציה | #26&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7p5w3enx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הטירות שלא נבנו, הפסלים מימי הביניים שעצבו את דמותה של האם החורגת של שלגיה ומה באמת כתבו האירופאים במעשיות שלהם? בדיסני עשו לאירופה אמריקניזציה ועיצבו את ההיסטוריה כראות עיניהם, ואנחנו כאן כדי לעשות לכם סדר וגם אמת.
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>לשמוע על היקומים והעובדות שדיסני המציאו זה תמיד כיף.  בפרק הזה השיחה היא על דיסניפיקציה על ההשראות ההסטוריות שדיסני לקח מטירות , פסלים ומקומות באירופה ואיך הוא שילב אותם בתרבות האמריקאית. &lt;br&gt;#תרבות &lt;br&gt;&lt;br&gt;אבק פיות - דיסניפיקציה | #26&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7p5w3enx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הטירות שלא נבנו, הפסלים מימי הביניים שעצבו את דמותה של האם החורגת של שלגיה ומה באמת כתבו האירופאים במעשיות שלהם? בדיסני עשו לאירופה אמריקניזציה ועיצבו את ההיסטוריה כראות עיניהם, ואנחנו כאן כדי לעשות לכם סדר וגם אמת.
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>לשמוע על היקומים והעובדות שדיסני המציאו זה תמיד כיף.  בפרק הזה השיחה היא על דיסניפיקציה על ההשראות ההסטוריות שדיסני לקח מטירות , פסלים ומקומות באירופה ואיך הוא שילב אותם בתרבות האמריקאית. &lt;br&gt;#תרבות &lt;br&gt;&lt;br&gt;אבק פיות - דיסניפיקציה | #26&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7p5w3enx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הטירות שלא נבנו, הפסלים מימי הביניים שעצבו את דמותה של האם החורגת של שלגיה ומה באמת כתבו האירופאים במעשיות שלהם? בדיסני עשו לאירופה אמריקניזציה ועיצבו את ההיסטוריה כראות עיניהם, ואנחנו כאן כדי לעשות לכם סדר וגם אמת.
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>2</itunes:season>
+      <itunes:author>ynet</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/5b94608b-b2b2-441e-98e3-ae1500b80c92/image.jpg?t=1641467562&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/5b94608b-b2b2-441e-98e3-ae1500b80c92/audio.mp3?utm_source=Podcast&amp;in_playlist=1888b583-14a3-4665-8e92-aca700cbbb40" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/avak-feyot/26/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/5b94608b-b2b2-441e-98e3-ae1500b80c92/image.jpg?t=1641467562&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">5b94608b-b2b2-441e-98e3-ae1500b80c92</guid>
+      <omny:clipId>5b94608b-b2b2-441e-98e3-ae1500b80c92</omny:clipId>
+      <pubDate>Tue, 01 Feb 2022 06:01:31 +0000</pubDate>
+      <itunes:duration>2164</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/5b94608b-b2b2-441e-98e3-ae1500b80c92/audio.mp3?utm_source=Podcast&amp;in_playlist=1888b583-14a3-4665-8e92-aca700cbbb40" length="34695553" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/avak-feyot/26</link>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">a123747c-232e-4b26-af00-744993c9101d</guid>
+      <title>58. Why Is Richard Thaler Such a ****ing Optimist?</title>
+      <description>שיחה מאוד מעניינת עם ריצ'רד ת'יילר. ריצ'רד הוא כלכלן יהודי-אמריקאי מחלוצי תחום הכלכלה ההתנהגותית וזוכה פרס נובל לכלכלה לשנת 2017. והוא גם אחד המחברים של הספר הפופולארי  Nudge . בשיחה מדברים על הספר על כלכלה התנהגוגתית ועל איך התחום הזה צבר פופולאריות ב20 השנים האחרונות. &lt;br&gt;#פסיכולוגיה #שיווק #אנגלית &lt;br&gt;&lt;br&gt;People I mostly admire - 58. Why Is Richard Thaler Such a ****ing Optimist?&lt;br&gt;משך: 46 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/wwgtz1wf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The Nobel laureate and pioneering behavioral economist spars with Steve over what makes a nudge a nudge, and admits that even economists have plenty of blind spots.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 01 Feb 2022 05:59:01 +0000</pubDate>
+      <author>radio@freakonomics.com (Freakonomics Radio + Stitcher)</author>
+      <link>https://people-i-mostly-admire.simplecast.com/episodes/58-why-is-richard-thaler-such-a-ing-optimist-C1y_ZiVO</link>
+      <content:encoded>שיחה מאוד מעניינת עם ריצ'רד ת'יילר. ריצ'רד הוא כלכלן יהודי-אמריקאי מחלוצי תחום הכלכלה ההתנהגותית וזוכה פרס נובל לכלכלה לשנת 2017. והוא גם אחד המחברים של הספר הפופולארי  Nudge . בשיחה מדברים על הספר על כלכלה התנהגוגתית ועל איך התחום הזה צבר פופולאריות ב20 השנים האחרונות. &lt;br&gt;#פסיכולוגיה #שיווק #אנגלית &lt;br&gt;&lt;br&gt;People I mostly admire - 58. Why Is Richard Thaler Such a ****ing Optimist?&lt;br&gt;משך: 46 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/wwgtz1wf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The Nobel laureate and pioneering behavioral economist spars with Steve over what makes a nudge a nudge, and admits that even economists have plenty of blind spots.&lt;/p&gt;
+</content:encoded>
+      <enclosure length="44924593" type="audio/mpeg" url="https://chtbl.com/track/736CG3/stitcher.simplecastaudio.com/2b111688-246c-4b06-9e6e-c18015cf7bb1/episodes/51059bbd-4a47-4e32-a61f-0a17244f7464/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2b111688-246c-4b06-9e6e-c18015cf7bb1&amp;awEpisodeId=51059bbd-4a47-4e32-a61f-0a17244f7464&amp;feed=rP60Wf24"/>
+      <itunes:title>58. Why Is Richard Thaler Such a ****ing Optimist?</itunes:title>
+      <itunes:author>Freakonomics Radio + Stitcher</itunes:author>
+      <itunes:duration>00:46:48</itunes:duration>
+      <itunes:summary>שיחה מאוד מעניינת עם ריצ'רד ת'יילר. ריצ'רד הוא כלכלן יהודי-אמריקאי מחלוצי תחום הכלכלה ההתנהגותית וזוכה פרס נובל לכלכלה לשנת 2017. והוא גם אחד המחברים של הספר הפופולארי  Nudge . בשיחה מדברים על הספר על כלכלה התנהגוגתית ועל איך התחום הזה צבר פופולאריות ב20 השנים האחרונות. &lt;br&gt;#פסיכולוגיה #שיווק #אנגלית &lt;br&gt;&lt;br&gt;People I mostly admire - 58. Why Is Richard Thaler Such a ****ing Optimist?&lt;br&gt;משך: 46 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/wwgtz1wf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The Nobel laureate and pioneering behavioral economist spars with Steve over what makes a nudge a nudge, and admits that even economists have plenty of blind spots.&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>The Nobel laureate and pioneering behavioral economist spars with Steve over what makes a nudge a nudge, and admits that even economists have plenty of blind spots. </itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">a0f0f62e-6604-402c-a8e3-1d86edb3c9e7</guid>
       <title>The Hardest Beer Test In The World</title>
       <description>סיפור מאוד מעניין על Mandy Naglich שרוצה להשיג את הדרגה הגבוהה ביותר בעולם הבירה - Master Cicerone. האם היא תצליח או לא להפוך לאחת מ19 האנשים בעולם שיש להם את הטייטל? ומה בעצם המבחן כולל. &lt;br&gt;#אוכל #תרבות #אנגלית &lt;br&gt;&lt;br&gt;The sporkful - The Hardest Beer Test In The World&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zq73q1g0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Mandy Naglich is an award-winning home brewer who also writes and teaches about beer. Now she wants to become a &lt;a href="https://www.cicerone.org/us-en/certifications/master-cicerone"&gt;Master Cicerone&lt;/a&gt; — basically the beer equivalent of a master sommelier. There are only 19 in the world, and just three are women. If Mandy wants to be number 20, she’ll need to pass a grueling two-day exam that includes identifying beers by taste and smell, pairing beers with food, and fixing a broken draft line. Dan selflessly offers himself up as Mandy’s beer-tasting study buddy, and we get a glimpse of the depth of her knowledge. But will it be enough for her to become a Master Cicerone?&lt;/p&gt;&lt;p&gt;To sign up for one of Mandy Naglich's virtual beer workshops, go to &lt;a href="https://beerswithmandy.com/"&gt;BeersWithMandy.com&lt;/a&gt;. //&lt;/p&gt;&lt;p&gt;&lt;i&gt;Get 500+ more great Sporkful episodes from our catalog and lots of other Stitcher goodness when you sign up for Stitcher Premium: &lt;/i&gt;&lt;a href="http://www.stitcherpremium.com/Sporkful"&gt;&lt;i&gt;www.StitcherPremium.com/Sporkful&lt;/i&gt;&lt;/a&gt;&lt;i&gt; (promo code: SPORKFUL).&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Transcript available at &lt;/i&gt;&lt;a href="http://www.sporkful.com/"&gt;&lt;i&gt;www.sporkful.com&lt;/i&gt;&lt;/a&gt;&lt;i&gt;.&lt;/i&gt;&lt;/p&gt;
