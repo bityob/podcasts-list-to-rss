@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 09 Feb 2022 14:13:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 15:15:03 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 223: למה כל כך יקר לחייך</title>
@@ -4116,11 +4116,11 @@ Adam also started companies along the way that offered services such as web desi
 
 He currently co-hosts the No Agenda podcast with John Dvorak. Get ready for another great interview on Guy Kawasaki's Remarkable People podcast!</description>
       <pubDate>Wed, 08 Sep 2021 07:04:08 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Guy Kawasaki, Adam Curry, Jeff Sieh, Peg Fitzpatrick)</author>
+      <author>guykawasaki@gmail.com (Adam Curry, Jeff Sieh, Guy Kawasaki, Peg Fitzpatrick)</author>
       <link>https://guykawasaki.com/remarkable-people/</link>
       <enclosure length="68848791" type="audio/mpeg" url="https://chrt.fm/track/28555/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/d7c2314b-a664-441e-9179-e43bc7e7ceda/audio/843bb34c-3f3a-4ed7-825e-d8df1277b877/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
       <itunes:title>Adam Curry: Legendary MTV VJ, OG Podcaster, and Tech Pioneer</itunes:title>
-      <itunes:author>Guy Kawasaki, Adam Curry, Jeff Sieh, Peg Fitzpatrick</itunes:author>
+      <itunes:author>Adam Curry, Jeff Sieh, Guy Kawasaki, Peg Fitzpatrick</itunes:author>
       <itunes:duration>01:10:43</itunes:duration>
       <itunes:summary>שיחה מרתקת עם אדם קורי על ימי הזוהר של MTV ועל איך התחיל עולם הפודקאסטים. הוא היה ממקימי אחד הפודקאסטים הראשונים בעולם  Daily Source Code.&lt;br&gt;#פודקאסטים #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Remarkable people - 92&lt;br&gt;&lt;br&gt;https://pca.st/episode/c623da0e-b8dd-49fe-af33-4c0c0e9f848a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Adam Curry was one of the VJs (video jockeys) of MTV back in the 1980s. In this position, he “interviewed” some of the most popular musicians of the time including Michael Jackson and Paul McCartney.
 
@@ -4586,11 +4586,11 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
 
 “He’s a brilliant writer," Mr. Obama added. “He’s relentless.” Listen in as Guy Kawasaki talks to Cody about his years working at The White House this week on the Remarkable People Podcast.</description>
       <pubDate>Wed, 18 Aug 2021 05:30:36 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Guy Kawasaki, Jeff Sieh, Peg Fitzpatrick, Cody Keenan)</author>
+      <author>guykawasaki@gmail.com (Peg Fitzpatrick, Cody Keenan, Guy Kawasaki, Jeff Sieh)</author>
       <link>https://guykawasaki.com/remarkable-people/</link>
       <enclosure length="57878381" type="audio/mpeg" url="https://chrt.fm/track/28555/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/0fcd1c69-7c31-4cb2-8db3-86dbd2cd138a/audio/759da9fd-10dc-49f6-9836-91948583c7c5/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
       <itunes:title>Cody Keenan: Speech Writer and Former Director of Speechwriting for President Barack Obama</itunes:title>
-      <itunes:author>Guy Kawasaki, Jeff Sieh, Peg Fitzpatrick, Cody Keenan</itunes:author>
+      <itunes:author>Peg Fitzpatrick, Cody Keenan, Guy Kawasaki, Jeff Sieh</itunes:author>
       <itunes:duration>00:59:18</itunes:duration>
       <itunes:summary>שיחה מעניינת עם כותב הנאומים של הנשיא לשעבר ברק אובמה. קודי קינן מדבר על כתיבת נאומים, על דיבור בפני קהל ועל איך זה לכתוב נאומים לאומה. &lt;br&gt;#כתיבה #סיפורמעניין #אנגלית&lt;br&gt;Remarkable people - 88&lt;br&gt;&lt;br&gt;https://pca.st/episode/735b4a87-2612-48b5-8a8b-7d2b8cdf06b9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;You'll be blown away with this interview with speechwriter Cody Keenan, former Director of Speechwriting for President Barack Obama. President Obama said he relied “on Cody not just to share my vision, but to help tell America’s story.”
 
@@ -5300,178 +5300,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2651</itunes:duration>
       <guid isPermaLink="false">3483af52-5031-11eb-80cb-cbd3611b0e30</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/28D492/traffic.megaphone.fm/SLT6176542629.mp3?updated=1634154395" length="0" type="audio/mpeg"/>
-    </item><item>
-		<title>פרק #441 – פרופ' אבי בן-בסט ומדיניות ציבורית כלכלית</title>
-		<link/>https://geekonomy.net/2021/07/06/geekonomy441/
-					<comments>https://geekonomy.net/2021/07/06/geekonomy441/#respond</comments>
-		
-		<creator/>
-		<pubdate>Sun, 11 Jul 2021 18:27:03 +0000</pubdate>
-				<category/>
-		<guid ispermalink="false">http://geekonomy.net/?p=4776</guid>
-
-					<description>דיון מעניין על הכלכלה בישראל. ראם מראיין את אבי בן בסט לשעבר מנכ"ל משרד האוצר על המדיניות הכלכלית של ישראל בהמון תחומים. חלקית דיון הסטורי וחלקית אקטואלי למה שקורה היום. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;גיקונומי - פרק 441&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/utqb3ehv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-<p>
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>על מה דיברנו:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-</p>
-<!-- /wp:paragraph -->
-
-<p><b>נותני החסות שלנו לפרק הזה:<b/></b></p>
-
-<!-- wp:paragraph -->
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F7qsOTHq0fKZWRODtyPCVho&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818913005%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=odeD31xikwaPkJmA2TIUydDLU5RIf%2BvyQLyw0hWnMEA%3D&amp;reserved=0">קבוצת Surface Devices</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://nam06.safelinks.protection.outlook.com/?url=https%3A%2F%2Fopen.spotify.com%2Fepisode%2F5AmRmpymSh3f7iQPTTwz6g&amp;data=04%7C01%7Cv-roavi%40microsoft.com%7Ca34248f326d343cd14bc08d92ff029ab%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637593530818922962%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=GlZgfD3tNEvtXfJVPPkcZOajKnk%2BzHi1TM9rXa0Yuds%3D&amp;reserved=0">קבוצת M365 Security</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><a href="https://streamelements.com/careers">עמוד המשרות של סטרימאלמנטס</a></p>
-<!-- /wp:paragraph -->
-
-
-<!-- wp:paragraph -->
-<p><b>לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*</b></p>
-<!-- /wp:paragraph -->
-
-<p><a href="mailto:pozon10@gmail.com">האימייל של ראם</a></p>]]&gt;</description>
-		
-					<commentrss>https://geekonomy.net/2021/07/06/geekonomy441/feed/</commentrss>
-			<comments>0</comments>
-		
-		<enclosure url="http://mcdn.podbean.com/mf/web/6axmg2/geekonomy441.mp3" length="98240207" type="audio/mpeg"/>
-
-		<author>ReemSherman</author>
-<author>ReemSherman</author>
-<explicit>no</explicit>
-<explicit>no</explicit>
-<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
-<image href="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg?w=780"/>
-<summary>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</summary>
-<description>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</description>
-<subtitle>
-
-אבי בן בסט הוא פרופסור אמריטוס בחוג לכלכלה של האוניברסיטה העברית. בעבר כיהן כמנכ"ל משרד האוצר וכמנהל בכיר בבנק ישראל. מחקריו מתמקדים בנושאי מקרו-כלכלה וכלכלת ישראל. אבי פרסם לאחרונה את ספרו האחרון "המהפכה בשוק ההון, ישראל 1985-2018".
-
-
-
-
-על מה דיברנו:
-
-
-
-תכנית הייצוב, אינפלציה, התערבות ממשלתית, מסים, מערכת הבריאות, מערכת החינוך, שוק ההון, בנימין נתניהו, שמיר, רבין, פואד, כחלון
-
-
-
-נותני החסות שלנו לפרק הזה:
-
-
-קבוצת Surface Devices
-
-
-
-קבוצת M365 Security
-
-
-
-עמוד המשרות של סטרימאלמנטס
-
-
-
-
-לפרטים על הפרויקט בירמיהו 27-29 התקשרו למספר 2729*
-
-
-האימייל של ראם</subtitle>
-
-		<thumbnail url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg"/>
-		<content url="https://geekonomypodcast.files.wordpress.com/2021/07/whatsapp-image-2021-07-06-at-15.44.53.jpeg" medium="image">
-			<title type="html">WhatsApp Image 2021-07-06 at 15.44.53</title>
-		</content>
-
-		<content url="https://0.gravatar.com/avatar/c542d251694789ad035142528ed1492c?s=96&amp;d=retro&amp;r=G" medium="image">
-			<title type="html">reemsherman</title>
-		</content>
-	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ספיישל לאונרד כהן</title>
       <itunes:title>ספיישל לאונרד כהן</itunes:title>
       <description>מוזיקה לשבת: לאונרד כהן באחד האלבומים הפחות מושמעים. 50 שנה ל-Songs of Love and Hate.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות &lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
