@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 11 Feb 2022 00:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Feb 2022 02:02:23 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
             <guid isPermaLink="false">4f4ee62d-6725-444a-9c94-4c6a2a4cbff9</guid>
@@ -734,7 +734,7 @@ Today, Desmond Shum talks about how all of this happens, as well as his personal
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>4259</itunes:duration>
       <guid isPermaLink="false">0d0a0e76-05ad-11ec-8250-5beb7c5c1c02</guid>
-      <enclosure url="https://mgln.ai/track/traffic.megaphone.fm/RSV3212880999.mp3?updated=1638333896" length="0" type="audio/mpeg"/>
+      <enclosure url="https://mgln.ai/track/traffic.megaphone.fm/RSV3212880999.mp3?updated=1638334016" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">3db1268c-818c-4470-a93c-5236414ebead</guid>
       <title>484. “A Fascinating, Sexy, Intellectually Compelling, Unregulated Global Market.”</title>
