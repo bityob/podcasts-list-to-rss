@@ -11,9 +11,55 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 13 Feb 2022 05:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Feb 2022 06:16:23 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+			<title>290 - Behavioral Science is Product Management</title>
+			<pubDate>Sun, 13 Feb 2022 05:31:01 +0000</pubDate>
+			<guid isPermaLink="false">c3452e93-c567-4db3-826d-dfe370db73c9</guid>
+			<link>https://alphaux.libsyn.com/290-behavioral-science-is-product-management</link>
+			<itunes:image href="https://ssl-static.libsyn.com/p/assets/6/3/4/9/63497bd225e0d39c40be95ea3302a6a1/TIPM-ShowArtwork-3000x3000-KristenBerman.jpg"/>
+			<description>שיחה מרתקת על ניהול מוצר.  השפעות של פסיכולוגיה וכלכלה התנהגותית על התורה ועל הפרקטיקה של ניהול מוצר. ואיך  לשאול את הלקוחות שאלות על הרצונות שלהם מבלי להתבלבל עם דברים לא רלוונטיים. &lt;br&gt;ניהולמוצר #פסיכולוגיה #אנגלית&lt;br&gt;&lt;br&gt;This is product management - 290 - Behavioral Science is Product Management&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/0mkwavr0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Kristen Berman CEO and co-founder of Irrational Labs shares her take on how behavioral science can fundamentally change product management, as well as how to conduct behavioral diagnoses — and what Seinfeld has to do with any of it.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style="font-weight: 400;"&gt;TIPM is produced by Feedback Loop, the research platform designed for products teams. Want to sign up for a free Feedback Loop account? Click this link and start testing today: &lt;a href= "https://go.feedbackloop.com/start-free-now-tipm"&gt;https://go.feedbackloop.com/start-free-now-tipm&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</description>
+			<content:encoded>שיחה מרתקת על ניהול מוצר.  השפעות של פסיכולוגיה וכלכלה התנהגותית על התורה ועל הפרקטיקה של ניהול מוצר. ואיך  לשאול את הלקוחות שאלות על הרצונות שלהם מבלי להתבלבל עם דברים לא רלוונטיים. &lt;br&gt;ניהולמוצר #פסיכולוגיה #אנגלית&lt;br&gt;&lt;br&gt;This is product management - 290 - Behavioral Science is Product Management&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/0mkwavr0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;span style="font-weight: 400;"&gt;Kristen Berman CEO and co-founder of Irrational Labs shares her take on how behavioral science can fundamentally change product management, as well as how to conduct behavioral diagnoses — and what Seinfeld has to do with any of it.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style="font-weight: 400;"&gt;TIPM is produced by Feedback Loop, the research platform designed for products teams. Want to sign up for a free Feedback Loop account? Click this link and start testing today: &lt;a href= "https://go.feedbackloop.com/start-free-now-tipm"&gt;https://go.feedbackloop.com/start-free-now-tipm&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;</content:encoded>
+			<enclosure length="25857573" type="audio/mpeg" url="https://traffic.libsyn.com/secure/alphaux/TIPM_Episode_290.mp3?dest-id=247272"/>
+			<itunes:duration>33:29</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>seinfeld,productmanagement,behavioralscience</itunes:keywords>
+			<itunes:subtitle>Kristen Berman CEO and co-founder of Irrational Labs shares her take on how behavioral science can fundamentally change product management, as well as how to conduct behavioral diagnoses — and what Seinfeld has to do with any of it. TIPM is produced...</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>מה אנחנו לא יודעים על אתיופיה? - חלק 1</title>
+      <itunes:title>מה אנחנו לא יודעים על אתיופיה? - חלק 1</itunes:title>
+      <description>סדרה של 3 פרקים על המצב הפוליטי באתיופיה. אישית מצאתי את הפרק האחרון על עולי אתיופיה בישראל הכי מעניין, אבל צריך את ההקדמה של שני הפרקים הראשונים כדי להבין את התמונה כולה.&lt;br&gt;#הסטוריה #תרבות&lt;br&gt;&lt;br&gt;המעבדה - מה אנחנו לא יודעים על אתיופיה?&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/41wjhk0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ארץ במאבק תמידי. סיפורה של החזית העממית וחבל טיגראי עם הד״ר דוד רטנר חוקר אתיופיה וקרן אפריקה  
+
+עורכת ומגישה: רונה גרשון תלמי, תחקיר: ויויאנה דייטש, תמונה: shutterstock
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>סדרה של 3 פרקים על המצב הפוליטי באתיופיה. אישית מצאתי את הפרק האחרון על עולי אתיופיה בישראל הכי מעניין, אבל צריך את ההקדמה של שני הפרקים הראשונים כדי להבין את התמונה כולה.&lt;br&gt;#הסטוריה #תרבות&lt;br&gt;&lt;br&gt;המעבדה - מה אנחנו לא יודעים על אתיופיה?&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/41wjhk0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ארץ במאבק תמידי. סיפורה של החזית העממית וחבל טיגראי עם הד״ר דוד רטנר חוקר אתיופיה וקרן אפריקה  
+
+עורכת ומגישה: רונה גרשון תלמי, תחקיר: ויויאנה דייטש, תמונה: shutterstock
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>סדרה של 3 פרקים על המצב הפוליטי באתיופיה. אישית מצאתי את הפרק האחרון על עולי אתיופיה בישראל הכי מעניין, אבל צריך את ההקדמה של שני הפרקים הראשונים כדי להבין את התמונה כולה.&lt;br&gt;#הסטוריה #תרבות&lt;br&gt;&lt;br&gt;המעבדה - מה אנחנו לא יודעים על אתיופיה?&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/41wjhk0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ארץ במאבק תמידי. סיפורה של החזית העממית וחבל טיגראי עם הד״ר דוד רטנר חוקר אתיופיה וקרן אפריקה  
+
+עורכת ומגישה: רונה גרשון תלמי, תחקיר: ויויאנה דייטש, תמונה: shutterstock
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d2985190-78dc-492e-b22c-ae17012f5d07/image.jpg?t=1641668324&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d2985190-78dc-492e-b22c-ae17012f5d07/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/the-lab/1-781c6a9c-887b-4246-8cdb-71efa8dcd25c/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d2985190-78dc-492e-b22c-ae17012f5d07/image.jpg?t=1641668324&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">d2985190-78dc-492e-b22c-ae17012f5d07</guid>
+      <omny:clipId>d2985190-78dc-492e-b22c-ae17012f5d07</omny:clipId>
+      <pubDate>Sun, 13 Feb 2022 05:30:33 +0000</pubDate>
+      <itunes:duration>2470</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d2985190-78dc-492e-b22c-ae17012f5d07/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="39544922" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/the-lab/1-781c6a9c-887b-4246-8cdb-71efa8dcd25c</link>
+      <itunes:order>19</itunes:order>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
             <guid isPermaLink="false">4f4ee62d-6725-444a-9c94-4c6a2a4cbff9</guid>
             <title>The internet's fight over dinosaur emoji</title>
             <link>http://www.wbur.org/endlessthread/2022/01/14/fight-for-dinosaur-emoji</link>
