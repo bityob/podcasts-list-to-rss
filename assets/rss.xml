@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 18 Feb 2022 05:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Feb 2022 06:18:38 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>The Spider-Man Problem</title>
@@ -618,7 +618,7 @@ This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Mult
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2024</itunes:duration>
       <guid isPermaLink="false">4d6ea570-5050-11eb-a37c-1f768d05a5a5</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV4007934992.mp3?updated=1639416308" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV4007934992.mp3?updated=1639416188" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 36 - אסור להשוות עם חגי אלקיים שלם ואורן ברנשטיין</title>
 <guid isPermaLink="false">https://pinecast.com/guid/b74d866b-050a-4b04-8550-2815221c34a0</guid>
 <pubDate>Sun, 23 Jan 2022 06:00:00 +0000</pubDate>
