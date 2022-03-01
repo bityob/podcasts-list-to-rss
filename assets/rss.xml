@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 01 Mar 2022 20:18:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 21:14:07 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>A SWIFT getaway</title>
@@ -415,7 +415,24 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <castbox:episode_premium/>
             <itunes:explicit>no</itunes:explicit>
             
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>The Spider-Man Problem</title>
+      <description>הסיפור של הבעלות של אולפני סוני על מותג הספיידרמן והנסיון של מרוול להחזיר אותו הביתה. בפועל יוצא סיפור מאוד משעשע על החלטה שבזמנו הייתה כנראה נכונה אבל כיום עולה למרוול הרבה מאוד כסף ויוצרת מצבים מאוד מוזרים. &lt;br&gt;לחובבי מרוול ולחובבי האבסורד.&lt;br&gt;#אנגלית #קולנוע #עסקים&lt;br&gt;https://prnt.sc/26p73g4&lt;br&gt;&lt;br&gt; Planet Money - The Spider-Man Problem&lt;br&gt;משך: 27 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zcce45kw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Spider-Man&lt;/em&gt; isn't the first film franchise to be rebooted over and over again. But the infamous off-screen drama between Marvel Studios and Sony Pictures explains why it happens so frequently. | Subscribe to our weekly newsletter here. </description>
+      <pubDate>Thu, 17 Feb 2022 04:31:01 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">b85424c8-a701-46bc-82bf-7f3988f3deb0</guid>
+      <link>https://www.npr.org/2022/01/28/1076531156/the-spider-man-problem</link>
+      <itunes:title>The Spider-Man Problem</itunes:title>
+      <itunes:episode>1505</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>הסיפור של הבעלות של אולפני סוני על מותג הספיידרמן והנסיון של מרוול להחזיר אותו הביתה. בפועל יוצא סיפור מאוד משעשע על החלטה שבזמנו הייתה כנראה נכונה אבל כיום עולה למרוול הרבה מאוד כסף ויוצרת מצבים מאוד מוזרים. &lt;br&gt;לחובבי מרוול ולחובבי האבסורד.&lt;br&gt;#אנגלית #קולנוע #עסקים&lt;br&gt;https://prnt.sc/26p73g4&lt;br&gt;&lt;br&gt; Planet Money - The Spider-Man Problem&lt;br&gt;משך: 27 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zcce45kw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Spider-Man&lt;/em&gt; isn't the first film franchise to be rebooted over and over again. But the infamous off-screen drama between Marvel Studios and Sony Pictures explains why it happens so frequently. | Subscribe to our weekly newsletter here. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/01/28/gettyimages-805539550_wide-f6419b7296510e3d091d3481603cce076bb7c721.jpg?s=1400"/>
+      <itunes:duration>1541</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>הסיפור של הבעלות של אולפני סוני על מותג הספיידרמן והנסיון של מרוול להחזיר אותו הביתה. בפועל יוצא סיפור מאוד משעשע על החלטה שבזמנו הייתה כנראה נכונה אבל כיום עולה למרוול הרבה מאוד כסף ויוצרת מצבים מאוד מוזרים. &lt;br&gt;לחובבי מרוול ולחובבי האבסורד.&lt;br&gt;#אנגלית #קולנוע #עסקים&lt;br&gt;https://prnt.sc/26p73g4&lt;br&gt;&lt;br&gt; Planet Money - The Spider-Man Problem&lt;br&gt;משך: 27 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zcce45kw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;em&gt;Spider-Man&lt;/em&gt; isn't the first film franchise to be rebooted over and over again. But the infamous off-screen drama between Marvel Studios and Sony Pictures explains why it happens so frequently. | Subscribe to our weekly newsletter here. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/01/20220128_pmoney_pmpod1137.mp3?awCollectionId=510289&amp;awEpisodeId=1076531156&amp;orgId=1&amp;topicId=1006&amp;d=1541&amp;p=510289&amp;story=1076531156&amp;t=podcast&amp;e=1076531156&amp;size=24670546&amp;ft=pod&amp;f=510289" length="24670546" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>המפלצת והאדם: הסיפור האפל מאחורי הגיבן מנוטרדאם | #27</title>
       <itunes:title>המפלצת והאדם: הסיפור האפל מאחורי הגיבן מנוטרדאם | #27</itunes:title>
       <description>שיחה על צרפת בתקופה של הרומן של ויקטור הוגו - הגיבן מנוטרדאם. ופרטים מעניינים על הסיפור המקורי שהשתנו במסגרת העיבוד של וולט דיסני. &lt;br&gt;(פחות דיסני ויותר הוגו).&lt;br&gt;#הסטוריה #ספרות &lt;br&gt;&lt;br&gt;אבק פיות - המפלצת והאדם: הסיפור האפל מאחורי הגיבן מנוטרדאם | #27&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/j0cfkjwb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הגיבן מנוטרדאם, המבוסס על ספרו של ויקטור הוגו מ-1831, הוא לא רק סרט לילדים של חברת וולט דיסני, ואולי, יש יאמרו, הוא בכלל לא סרט לילדים. מאחורי דמותו הפגיעה של קוומזימודו מסתתר סיפור אפל בליבה של תקופה היסטורית אפלה עוד יותר. זהו סיפור על אדם ועל מפלצת. אבל מיהו האדם ומי היא המפלצת?
@@ -441,6 +458,41 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>2141</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/65788fcd-8962-4ca3-ad6c-aca700cba324/7857f4e4-523f-4b64-b9cd-ae1c016f408a/audio.mp3?utm_source=Podcast&amp;in_playlist=1888b583-14a3-4665-8e92-aca700cbbb40" length="34307501" type="audio/mpeg"/>
       <link>https://omny.fm/shows/avak-feyot/27</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>זה לא מצחיק, זה קוריאה</title>
+      <itunes:title>זה לא מצחיק, זה קוריאה</itunes:title>
+      <description>סיפור הרקע זה שתי הקוריאות.  ואחרי הרקע מגיע סיפורן של שתי יחידות מיוחדות שהמטרה שלהן הייתה להתנקש בשליט של הצד השני. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;מנהר הזמן - זה לא מצחיק, זה קוריאה&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ducazupz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;דיקטטור אחד רצה להרוג דיקטטור אחר. הדיקטטור האחר ניסה להרוג את הדיקטטור הראשון. התוצאה: עשרות הרוגים. אורח: ​​ד״ר אלון לבקוביץ׳
+כותב ומגיש: ערן מינהר, עורכת: נעה בן הגיא, מפיק: אור מינהר
+
+
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>סיפור הרקע זה שתי הקוריאות.  ואחרי הרקע מגיע סיפורן של שתי יחידות מיוחדות שהמטרה שלהן הייתה להתנקש בשליט של הצד השני. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;מנהר הזמן - זה לא מצחיק, זה קוריאה&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ducazupz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;דיקטטור אחד רצה להרוג דיקטטור אחר. הדיקטטור האחר ניסה להרוג את הדיקטטור הראשון. התוצאה: עשרות הרוגים. אורח: ​​ד״ר אלון לבקוביץ׳
+כותב ומגיש: ערן מינהר, עורכת: נעה בן הגיא, מפיק: אור מינהר
+
+
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>סיפור הרקע זה שתי הקוריאות.  ואחרי הרקע מגיע סיפורן של שתי יחידות מיוחדות שהמטרה שלהן הייתה להתנקש בשליט של הצד השני. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;מנהר הזמן - זה לא מצחיק, זה קוריאה&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ducazupz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;דיקטטור אחד רצה להרוג דיקטטור אחר. הדיקטטור האחר ניסה להרוג את הדיקטטור הראשון. התוצאה: עשרות הרוגים. אורח: ​​ד״ר אלון לבקוביץ׳
+כותב ומגיש: ערן מינהר, עורכת: נעה בן הגיא, מפיק: אור מינהר
+
+
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>224</itunes:episode>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/af84555f-f720-40f9-a105-ae260004766e/image.jpg?t=1642897097&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/af84555f-f720-40f9-a105-ae260004766e/audio.mp3?utm_source=Podcast&amp;in_playlist=360a2397-d97b-4394-ad3a-a919008d5a16" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/history-with-eran-minhar/af84555f-f720-40f9-a105-ae260004766e/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/af84555f-f720-40f9-a105-ae260004766e/image.jpg?t=1642897097&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">af84555f-f720-40f9-a105-ae260004766e</guid>
+      <omny:clipId>af84555f-f720-40f9-a105-ae260004766e</omny:clipId>
+      <pubDate>Tue, 15 Feb 2022 05:01:30 +0000</pubDate>
+      <itunes:duration>2805</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/85733579-61c7-4032-b009-a919008d5a10/af84555f-f720-40f9-a105-ae260004766e/audio.mp3?utm_source=Podcast&amp;in_playlist=360a2397-d97b-4394-ad3a-a919008d5a16" length="44932406" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/history-with-eran-minhar/af84555f-f720-40f9-a105-ae260004766e</link>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Birds Aren't Real. But Disinformation Is.</title>
       <itunes:episode>21</itunes:episode>
@@ -542,7 +594,22 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
             <media:content url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3978322933.mp3" fileSize="26273564" type="audio/mpeg" medium="audio"/>
             <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3978322933.mp3" length="26273564" type="audio/mpeg"/>
                                         <content:encoded>מאחורי הקלעים של מאבקי האימוג'י. הפעם הדיון הוא סביב אימוג'י הדינוזאור, שמסתבר שיש  לו יותר משמעויות ממה שיכולתי לנחש. &lt;br&gt;#תרבות #טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;https://prnt.sc/26p6qex&lt;br&gt;&lt;br&gt;Endless thread - The internet's fight over dinosaur emoji&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/bsgh55p3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Emoji might not be 66 million years old, but they are pretty much everywhere. Join Ben and Amory as they explore the history of dinosaur emoji in LGBTQ+ communities and their more recent use as an online dog-whistle for anti-trans activists. What happens when one symbol is used for conflicting reasons? And can the dinosaur emoji avoid redefinition — or extinction?&lt;/p&gt;</content:encoded>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1188966811</guid>
+      <title>אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה</title>
+      <pubDate>Thu, 10 Feb 2022 04:40:04 +0000</pubDate>
+      <link>https://soundcloud.com/user-459490827/zr6rxphejcft</link>
+      <itunes:duration>00:32:47</itunes:duration>
+      <itunes:author>חצי שעה של השראה עם ערן גפן</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>שיחה עם מנכ"ל סודה סטרים. על מנהיגות, על אופי החברה אחרי רכישה ע"י פפסיקו ועל האתגרים שבלהיות מנכ"ל. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;&lt;br&gt;חצי שעה של השראה - אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/cht2x4s6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבות. אבל דווקא המנהיגות השקטה של שוחט התאימה יותר אחרי הרכישה של פפסי והובילה את החברה לצמיחה דו–ספרתית ולחציית רף מיליארד הדולר במכירות.
+אתר חברת היעוץ האסטרטגי של ערן גפן, העוזרת לחברות לפתח מנועי צמיחה חדשים www.gteam.org</itunes:summary>
+      <itunes:subtitle>כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבו…</itunes:subtitle>
+      <description>שיחה עם מנכ"ל סודה סטרים. על מנהיגות, על אופי החברה אחרי רכישה ע"י פפסיקו ועל האתגרים שבלהיות מנכ"ל. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;&lt;br&gt;חצי שעה של השראה - אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/cht2x4s6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבות. אבל דווקא המנהיגות השקטה של שוחט התאימה יותר אחרי הרכישה של פפסי והובילה את החברה לצמיחה דו–ספרתית ולחציית רף מיליארד הדולר במכירות.
+אתר חברת היעוץ האסטרטגי של ערן גפן, העוזרת לחברות לפתח מנועי צמיחה חדשים www.gteam.org</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1188966811-user-459490827-zr6rxphejcft.mp3" length="29482937"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Z2r8oduDoLBNqxSg-yk7osg-t3000x3000.jpg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 223: למה כל כך יקר לחייך</title>
       <itunes:title>פרק 223: למה כל כך יקר לחייך</itunes:title>
       <description>טיפולי השיניים נשארו מחוץ לסל הבריאות ורואים את ההשפעה של זה על שהכבות היותר עניות במדינה. הפרק הזה סוקר את ההשתלשלות ההסטורית של איך זה קרה. ומה עשו לאחרונה כדי לנסות מעט לשנות את המצב.&lt;br&gt;#בריאות #כלכלה #הסטוריה &lt;br&gt;&lt;br&gt;חיות כיס - פרק 223: למה כל כך יקר לחייך&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/yumbr2wu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עיניים - כן, אף-אוזן-גרון - כן, אבל שיניים - לא. איך קרה שמדינת ישראל השאירה מחוץ לסל הבריאות דווקא את טיפולי השיניים, ומי מרוויח מזה 
@@ -833,7 +900,110 @@ LUXURY ITEM: A Victorian accounts ledger, a fountain pen and an unlimited supply
 CASTAWAY'S FAVOURITE: Bees in Trees by Michael Nyman  
 
 Presenter: Lauren Laverne
-Producer: Paula McGinley</itunes:summary><pubDate>Tue, 25 Jan 2022 04:30:56 +0000</pubDate><itunes:duration>2099</itunes:duration><enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><guid isPermaLink="false">urn:bbc:podcast:m00120cb</guid><link>http://www.bbc.co.uk/programmes/m00120cb</link><itunes:explicit>clean</itunes:explicit><media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" fileSize="33584000" type="audio/mpeg" medium="audio" expression="full" duration="2099"/><itunes:author>BBC Radio 4</itunes:author><ppg:canonical>/programmes/m00120cb</ppg:canonical></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+Producer: Paula McGinley</itunes:summary><pubDate>Tue, 25 Jan 2022 04:30:56 +0000</pubDate><itunes:duration>2099</itunes:duration><enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0b6hvbt.mp3" length="33584000" type="audio/mpeg"/><guid isPermaLink="false">urn:bbc:podcast:m00120cb</guid><link>http://www.bbc.co.uk/programmes/m00120cb</link><itunes:explicit>clean</itunes:explicit><media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0b6hvbt.mp3" fileSize="33584000" type="audio/mpeg" medium="audio" expression="full" duration="2099"/><itunes:author>BBC Radio 4</itunes:author><ppg:canonical>/programmes/m00120cb</ppg:canonical></item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק #488 - אבישי סאם ביטון והמטהוורס</title>
+        <itunes:title>פרק #488 - אבישי סאם ביטון והמטהוורס</itunes:title>
+        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7488%d7%90%d7%91%d7%99%d7%a9%d7%99-%d7%a1%d7%90%d7%9d%d7%91%d7%99%d7%98%d7%95%d7%9f-%d7%95%d7%94%d7%9e%d7%98%d7%94%d7%95%d7%95%d7%a8/</link>
+        <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7488%d7%90%d7%91%d7%99%d7%a9%d7%99-%d7%a1%d7%90%d7%9d%d7%91%d7%99%d7%98%d7%95%d7%9f-%d7%95%d7%94%d7%9e%d7%98%d7%94%d7%95%d7%95%d7%a8/#comments</comments>
+        <pubDate>Tue, 25 Jan 2022 04:30:00 +0000</pubDate>
+        <guid isPermaLink="false">geekonomy.podbean.com/eb56bd4c-35da-3c5f-a783-398040d92968</guid>
+                      <description>שיחה מעניינת על  טרנדים של web 3.0. הגשה מאוזנת של נק' מבט שונות על הטרנדים החמים, בחינה שלהם ונסיון להבין האם הם מחזיקים מים ... או שהכל זה באז שיחלוף ברגע שיופיע הטרנד הבא. &lt;br&gt;#כלכלה #בלוקצין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #488 - אבישי סאם ביטון והמטהוורס&lt;br&gt;משך: שעה ו27 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7foiwplf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;אבישי סאם ביטון הגיע לדבר על הטרנדים הגדולים בעולם הטק בשנה האחרונה: קריפטו ו-NFT שמתחברים למטהוורס והמון באזז וורדס אחרות.&lt;/p&gt;
+
+
+ 
+
+על מה דיברנו:
+קריפטו, NFT, הפיליפינים, משחקים, כלכלת משחקים, ערך, ספורט, מנויים לספורט, שימושים למטבעות קריפטוגרפיים
+
+ 
+
+נותני החסות של הפרק:
+
+
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.bac.org.il/podcasts/podcast/prk-3-hrdym-50-gvvnym-shl-shhvr-vlbn'&gt;הפודקאסט מפלגת המחשבות&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;a href='https://open.spotify.com/show/15Xf04XGXROOKujzHeAquq?si=BLykXm0tTkysukTc4kHaLw&amp;dl_branch=1'&gt;הפודקאסט ״האקדמיה לקנאביס רפואי״&lt;/a&gt;
+
+ 
+
+
+</description>
+                        <content:encoded>שיחה מעניינת על  טרנדים של web 3.0. הגשה מאוזנת של נק' מבט שונות על הטרנדים החמים, בחינה שלהם ונסיון להבין האם הם מחזיקים מים ... או שהכל זה באז שיחלוף ברגע שיופיע הטרנד הבא. &lt;br&gt;#כלכלה #בלוקצין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #488 - אבישי סאם ביטון והמטהוורס&lt;br&gt;משך: שעה ו27 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7foiwplf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;אבישי סאם ביטון הגיע לדבר על הטרנדים הגדולים בעולם הטק בשנה האחרונה: קריפטו ו-NFT שמתחברים למטהוורס והמון באזז וורדס אחרות.&lt;/p&gt;
+
+
+ 
+
+על מה דיברנו:
+קריפטו, NFT, הפיליפינים, משחקים, כלכלת משחקים, ערך, ספורט, מנויים לספורט, שימושים למטבעות קריפטוגרפיים
+
+ 
+
+נותני החסות של הפרק:
+
+
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.bac.org.il/podcasts/podcast/prk-3-hrdym-50-gvvnym-shl-shhvr-vlbn'&gt;הפודקאסט מפלגת המחשבות&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;a href='https://open.spotify.com/show/15Xf04XGXROOKujzHeAquq?si=BLykXm0tTkysukTc4kHaLw&amp;dl_branch=1'&gt;הפודקאסט ״האקדמיה לקנאביס רפואי״&lt;/a&gt;
+
+ 
+
+
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/bieip5/geekonomy488.mp3" length="83515344" type="audio/mpeg"/>
+        <itunes:subtitle>
+
+אבישי סאם ביטון הגיע לדבר על הטרנדים הגדולים בעולם הטק בשנה האחרונה: קריפטו ו-NFT שמתחברים למטהוורס והמון באזז וורדס אחרות.
+
+ 
+
+על מה דיברנו:
+קריפטו, NFT, הפיליפינים, משחקים, כלכלת משחקים, ערך, ספורט, מנויים לספורט, שימושים למטבעות קריפטוגרפיים
+
+ 
+
+נות...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת על  טרנדים של web 3.0. הגשה מאוזנת של נק' מבט שונות על הטרנדים החמים, בחינה שלהם ונסיון להבין האם הם מחזיקים מים ... או שהכל זה באז שיחלוף ברגע שיופיע הטרנד הבא. &lt;br&gt;#כלכלה #בלוקצין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #488 - אבישי סאם ביטון והמטהוורס&lt;br&gt;משך: שעה ו27 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7foiwplf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+
+&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;אבישי סאם ביטון הגיע לדבר על הטרנדים הגדולים בעולם הטק בשנה האחרונה: קריפטו ו-NFT שמתחברים למטהוורס והמון באזז וורדס אחרות.&lt;/p&gt;
+
+
+ 
+
+על מה דיברנו:
+קריפטו, NFT, הפיליפינים, משחקים, כלכלת משחקים, ערך, ספורט, מנויים לספורט, שימושים למטבעות קריפטוגרפיים
+
+ 
+
+נותני החסות של הפרק:
+
+
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.bac.org.il/podcasts/podcast/prk-3-hrdym-50-gvvnym-shl-shhvr-vlbn'&gt;הפודקאסט מפלגת המחשבות&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;a href='https://open.spotify.com/show/15Xf04XGXROOKujzHeAquq?si=BLykXm0tTkysukTc4kHaLw&amp;dl_branch=1'&gt;הפודקאסט ״האקדמיה לקנאביס רפואי״&lt;/a&gt;
+
+ 
+
+
+</itunes:summary>
+        <itunes:author>ראם שרמן</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:26:59</itunes:duration>
+                <itunes:episode>494</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <media:content url="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2021-12-01_at_224857aq4h3.jpeg" medium="image">
+                            <media:title type="html">פרק #488 - אבישי סאם ביטון והמטהוורס</media:title></media:content>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Multiverse Remix</title>
       <description>כפילים ויקומים נוספים בתרבות ובקולנוע. שני סיפורים קצרים אבל מעניינים על איך כמה סדרות יכולות ליצור יקומים רחבים שבהם אפילו אנחנו קיימים. ועל למה יוצרי סדרות מאוד מחבבים יקומים נוספים. וכל זה בא להגיד שמרוול לא המציאו את היקומים הנוספים, למרות שהם עושים אותם ממש טוב 😉&lt;br&gt;#קצרים #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Imaginary worlds - Multiverse Remix&lt;br&gt;משך: 32 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/m0qr2f3y&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Marvel and DC are jumping into the multiverse with multiple movies and shows crossing over into parallels worlds with different versions of established characters while they’re merging IP from different franchises. It’s a win-win business strategy, but multiverses also bring up intriguing story possibilities of how we could’ve turned out differently if the circumstances of our lives were different, and what it would be like to meet your double. I covered those themes in my episode Doppelgängers 2.0, and I looked into one of the first cinematic multiverses, The Tommy Westphall universe, in my episode Inside the Snow Globe. Both episodes were from 2015, and since a lot of recent listeners probably never heard them, I’m presenting them again as a double feature.
 This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Multitude. If you’re interested in advertising on Imaginary Worlds, you can contact them here.
@@ -871,7 +1041,29 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 &lt;p&gt;music by &lt;a href="https://scottholmesmusic.com" rel="nofollow"&gt;https://scottholmesmusic.com&lt;/a&gt;&lt;/p&gt;</description>
 <itunes:explicit>no</itunes:explicit>
 <enclosure url="https://chtbl.com/track/52DDE2/pinecast.com/listen/b74d866b-050a-4b04-8550-2815221c34a0.mp3?source=rss&amp;aid=8dc7c95a-efdb-4452-b1d2-3d116c29cd79.mp3" length="52626572" type="audio/mpeg"/>
-</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>A Black Musician Takes on the KKK</title>
+      <description>שיחה מעניינת עם Daryl Davis. דריל הוא מוזיקאי שחור שניהל שיחות עם חברי KKK שונים  ויצא מזה בחיים. ואפילו יותר הוא הצליח לגרום לכמות דיי גדולה של אנשים לעזוב את הארגון. &lt;br&gt;#ראיוןמעניין #אנגלית &lt;br&gt;  https://prnt.sc/26cju3y&lt;br&gt;&lt;br&gt;A slight change of plans - A Black Musician Takes on the KKK&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/md6z3x2o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;When Black jazz musician Daryl Davis meets a Klansman at a bar, his life takes a sudden turn. He ends up inspiring hundreds of people to leave white supremacist groups.
+You can follow Maya @DrMayaShankar on Instagram.
+ Learn more about your ad-choices at https://www.iheartpodcastnetwork.com</description>
+      <pubDate>Thu, 20 Jan 2022 05:45:01 +0000</pubDate>
+      <itunes:title>A Black Musician Takes on the KKK</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Pushkin Industries</itunes:author>
+      <itunes:subtitle>When a Black jazz musician meets a Klansman at a bar, his life takes a sudden turn. He ends up inspiring hundreds of people to leave white supremacist groups. </itunes:subtitle>
+      <itunes:summary>שיחה מעניינת עם Daryl Davis. דריל הוא מוזיקאי שחור שניהל שיחות עם חברי KKK שונים  ויצא מזה בחיים. ואפילו יותר הוא הצליח לגרום לכמות דיי גדולה של אנשים לעזוב את הארגון. &lt;br&gt;#ראיוןמעניין #אנגלית &lt;br&gt;  https://prnt.sc/26cju3y&lt;br&gt;&lt;br&gt;A slight change of plans - A Black Musician Takes on the KKK&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/md6z3x2o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;When Black jazz musician Daryl Davis meets a Klansman at a bar, his life takes a sudden turn. He ends up inspiring hundreds of people to leave white supremacist groups.
+You can follow Maya @DrMayaShankar on Instagram.
+ Learn more about your ad-choices at https://www.iheartpodcastnetwork.com</itunes:summary>
+      <content:encoded>שיחה מעניינת עם Daryl Davis. דריל הוא מוזיקאי שחור שניהל שיחות עם חברי KKK שונים  ויצא מזה בחיים. ואפילו יותר הוא הצליח לגרום לכמות דיי גדולה של אנשים לעזוב את הארגון. &lt;br&gt;#ראיוןמעניין #אנגלית &lt;br&gt;  https://prnt.sc/26cju3y&lt;br&gt;&lt;br&gt;A slight change of plans - A Black Musician Takes on the KKK&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/md6z3x2o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;When Black jazz musician Daryl Davis meets a Klansman at a bar, his life takes a sudden turn. He ends up inspiring hundreds of people to leave white supremacist groups.
+You can follow Maya @DrMayaShankar on Instagram.
+ Learn more about your ad-choices at https://www.iheartpodcastnetwork.com</content:encoded>
+      <itunes:duration>2306</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">d245afea-a830-11eb-a063-ef6f0e723213</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/chrt.fm/track/39E17/traffic.megaphone.fm/HSW7786529253.mp3?updated=1637859658" length="0" type="audio/mpeg"/>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>שחר צפריר שותף מנהל בטי אל וי פרטרנרס- איך לנהל דירקטוריון ולהישאר בחיים</title>
 			<description>שיחה מעניינת על דירקטוריונים מנק' מבטו של שחר צפריר שחבר בלא מעט מעט מהם. על איך יזמים צריכים להתנהל אל מול הדירקטוריון וגם מה מאפיין דירקטוריונים מוצלחים. &lt;br&gt;#שיווק #עסקים&lt;br&gt;&lt;br&gt;30 דקות או פחות - שחר צפריר שותף מנהל בטי אל וי פרטרנרס- איך לנהל דירקטוריון ולהישאר בחיים&lt;br&gt;משך: 35 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/i11okx93&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;שחר צפריר הוא שותף מנהל בקרן ההון סיכון TLV Partners, מהקרנות הבולטות באקוסיסטם הישראלי, שמנהלת יותר משמונה מאות מיליוני דולרים על פני ארבע קרנות.חמוץ מהחברות בהן הוא משקיע, שחר הוא אחד הצייצנים הבולטים בפיד ההייטק של טוויטר בעברית, ומכיוון שגם נבות נהיה אושיית טוויטר בחודשים האחרונים, ציוץ מעניין במיוחד גרם לנו להביא את שחר לשיחה על נושא שבקושי מדברים עליו, איך יזמים צריכים לנהל דירקטוריון בצורה יעילה וחכמה. צפריר, שחבר בלא פחות מ-16 בורדים, מספר לנו על הטעויות&amp;nbsp;הנפוצות שיזמים עושים, על חברי דירקטוריון שעלולים להרוס חברות, ומדוע&amp;nbsp; לא צריך יותר מחצי שעה - שעה של ישיבת בורד, בתנאי שאתם מגיעים מוכנים וממוקדים ביעדים שהשגתם&amp;nbsp;ואלה&amp;nbsp;שאתם מתכוונים להשיג ברבעון הבא.&lt;/p&gt;
 &lt;p&gt;שחר בטוויטר&lt;/p&gt;
@@ -1644,7 +1836,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1784</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">61415054-a166-11eb-8a22-f30f0208c7f3</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG8350765432.mp3?updated=1638389568" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG8350765432.mp3?updated=1638389688" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>[כשבגרוש היה חור] הקפיצה הגדולה קדימה</title><link>https://www.spreaker.com/user/pimedia/1-hCBg3h</link><description>"הקפיצה הגדולה קדימה" הייתה תוכנית רפורמה נרחבת שערכה המפלגה הקומוניסטית ברפובליקה העממית של סין בין 1958-1960. בפועל היא לא הייתה קפיצה ולא קדימה אלא משטר טוטאליטרי שחיזק את השלטון שלו באזרחים. אבל הסיפור של זה הוא בהחלט סיפור מאוד מענין. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - הקפיצה הגדולה קדימה&lt;br&gt;משך: 47 דק'&lt;br&gt;&lt;br&gt;זה הפרק המקורי ששודר: &lt;br&gt;https://pca.st/x7f4&lt;br&gt;וזה הפרק החדש שהוא תחילתה של סדרה שנשמעת מאוד מעניינת: &lt;br&gt;https://pca.st/13hsd63k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.&lt;br /&gt;בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.&lt;br /&gt;&lt;br /&gt;תודה ליובל מלחי על שתרם מזמנו והניסיון הרב שלו להפקת הפרק.&lt;br /&gt;&lt;br /&gt;*פרק זה הוא עריכה מחדש של הפרק הראשון והשני, אם שמעתם אותם * אתם מוזמנים להאזין לפרק הבא&lt;br /&gt;&lt;br /&gt;נעימת פתיחה:&lt;br /&gt;&lt;a href="http://www.podcastthemes.com/audio/freetheme5.mp3" rel="noopener"&gt;http://www.podcastthemes.com/audio/freetheme5.mp3&lt;/a&gt;&lt;br /&gt;קטעי מעבר:&lt;br /&gt;AR Sound Effects&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=jgB2JDK4KTA" rel="noopener"&gt;https://www.youtube.com/watch?v=jgB2JDK4KTA&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Music: All The Tea In China by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Music: Voyage Of Discovery by Shane Ivers - &lt;a href="https://www.silvermansound.com" rel="noopener"&gt;https://www.silvermansound.com&lt;/a&gt;&lt;br /&gt;Song: 'Doug Maxwell - Lau Tzu Ehru'&lt;br /&gt;Music promoted by BreakingCopyright: &lt;a href="https://youtu.be/QRF2zzEFu8c" rel="noopener"&gt;https://youtu.be/QRF2zzEFu8c&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;Garden Meditation&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=hUpBbxwWVs8" rel="noopener"&gt;https://www.youtube.com/watch?v=hUpBbxwWVs8&lt;/a&gt;&lt;br /&gt;Chinese Traditional Bamboo Flute Music&lt;br /&gt;&lt;a href="https://www.youtube.com/watch?v=yAHgqDPfaLM" rel="noopener"&gt;https://www.youtube.com/watch?v=yAHgqDPfaLM&lt;/a&gt;</description><guid isPermaLink="false">album-c3bea2429ccd4e7dadeca836e8e82942-e1af36f16aed4454b5b989504e56a7ad</guid><pubDate>Tue, 21 Dec 2021 05:06:02 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/34847412/448ff44856b3158b9c4dfdfc88.mp3" length="44752291" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>הצטרפו אלי למסע אל סין של המאה הקודמת, בה מהפכן קומוניסט סחרר מדינה שלמה בתוכנית כלכלית מדהימה שזכתה לשם 'הקפיצה הגדולה קדימה'.
 בפודקאסט ניקח את הסיפור ההיסטורי המדהים הזה ונחשוף מעט מהעקרונות הכלכליים שמאחוריו.
 
@@ -2111,7 +2303,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1981</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">611ab1ec-a166-11eb-8a22-eb823899e314</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019403" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019523" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</title>
         <itunes:title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</itunes:title>
