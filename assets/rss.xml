@@ -11,9 +11,85 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 01 Mar 2022 04:19:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Mar 2022 05:13:59 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>A SWIFT getaway</title>
+      <description>סיפור מדהים על שוד בנק שאירע בשנת 2016. הגנבים ביצעו שוד כמעט מושלם תוך שהם נעזרים בהאקינג וגניבת זהות. אבל החלק המעניין ביותר זה השימוש שהם עשו באזורי זמן ותרבויות שונות (שכולן לא זזו מהר). &lt;br&gt;#כלכלה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - A SWIFT getaway&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/rgpc1gix&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2016, thieves tried to steal nearly a billion dollars from the Bank of Bangladesh's reserves without ever entering the building. And six years later, justice hasn't been so SWIFT. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Tue, 01 Mar 2022 05:07:00 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">d6bef132-b63b-40ea-8f57-dc243abc126e</guid>
+      <link>https://www.npr.org/2022/02/09/1079528331/a-swift-getaway</link>
+      <itunes:title>A SWIFT getaway</itunes:title>
+      <itunes:episode>1508</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפור מדהים על שוד בנק שאירע בשנת 2016. הגנבים ביצעו שוד כמעט מושלם תוך שהם נעזרים בהאקינג וגניבת זהות. אבל החלק המעניין ביותר זה השימוש שהם עשו באזורי זמן ותרבויות שונות (שכולן לא זזו מהר). &lt;br&gt;#כלכלה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - A SWIFT getaway&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/rgpc1gix&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2016, thieves tried to steal nearly a billion dollars from the Bank of Bangladesh's reserves without ever entering the building. And six years later, justice hasn't been so SWIFT. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/02/09/gettyimages-613473398-edit_wide-5e517df11a4eab74f7a22ebc0ce9cd91f848aaf8.jpg?s=1400"/>
+      <itunes:duration>1290</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפור מדהים על שוד בנק שאירע בשנת 2016. הגנבים ביצעו שוד כמעט מושלם תוך שהם נעזרים בהאקינג וגניבת זהות. אבל החלק המעניין ביותר זה השימוש שהם עשו באזורי זמן ותרבויות שונות (שכולן לא זזו מהר). &lt;br&gt;#כלכלה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - A SWIFT getaway&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/rgpc1gix&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2016, thieves tried to steal nearly a billion dollars from the Bank of Bangladesh's reserves without ever entering the building. And six years later, justice hasn't been so SWIFT. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/02/20220209_pmoney_pmpod_1139.mp3?awCollectionId=510289&amp;awEpisodeId=1079528331&amp;orgId=1&amp;topicId=1006&amp;d=1290&amp;p=510289&amp;story=1079528331&amp;t=podcast&amp;e=1079528331&amp;size=20641420&amp;ft=pod&amp;f=510289" length="20641420" type="audio/mpeg"/>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>איך לעבור משברים  - פופקורן 232 עם רן שביט</title>
+        <itunes:title>איך לעבור משברים  - פופקורן 232 עם רן שביט</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%a2%d7%91%d7%95%d7%a8%d7%9e%d7%a9%d7%91%d7%a8%d7%99%d7%9d%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-232-%d7%a2%d7%9d/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%90%d7%99%d7%9a-%d7%9c%d7%a2%d7%91%d7%95%d7%a8%d7%9e%d7%a9%d7%91%d7%a8%d7%99%d7%9d%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-232-%d7%a2%d7%9d/#comments</comments>
+        <pubDate>Tue, 01 Mar 2022 05:01:51 +0000</pubDate>
+        <guid isPermaLink="false">frnkl.podbean.com/a839ecd3-ce0c-325a-8a09-e314d6da9387</guid>
+                      <description>שיחה מעניינת עם רן שביט על חוסן והתמודדות נפשית עם שינויים. אבל בעיקר זאת שיחה על ניהול ועל איך מנהלים יכולים לנהל את עצמם ואת הצוות בזמני קורונה. &lt;br&gt;גילוי נאות - אני מתנדבת עם רן בתוכנית 8200 לעסקים קטנים. &lt;br&gt;#פסיכולוגיה #שיחהמעניינת #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך לעבור משברים  - פופקורן 232 עם רן שביט&lt;br&gt;משך: שעה ו17 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7pid3x0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך אתם מתמודדים עם שינויים ומשברים בעבודה? איך והאם אפשר לפתח חוסן? איך מכינים את עצמנו ואת העובדים/מנהלים/קולגות שלנו למה שלא יבוא?&lt;/p&gt;
+
+&lt;p&gt;רן שביט הוא סמנכ״ל בכיר לאופרציה ולמידה בג׳ולט, לפני כן היה 15 שנים ב-8200 - שם ניהל מכלולים מודיעיניים מורכבים עם מאות אנשים לספק תמונות מודיעין לצה״ל. בשנים האחרונות בצבא, הקים וניהל את ביה״ס ל- Data Analysts וניהל את ביה״ס לסייבר אנליסט של 8200. לצד ג׳ולט, רן שותף בצוות ההקמה של ״8200 לעסקים קטנים״ - יוזמה שעוזרת לעסקים קטנים להתאושש ממשבר הקורונה. &lt;/p&gt;
+
+&lt;p&gt;רן מציג שיטת ניהול שקופה וכנה, המנסה לחבר בין מטרות החברה לפיתוח האישי של העובדים. אז איך היא עוזרת לו להיות מוכן למשברים?&lt;/p&gt;
+
+&lt;p&gt;איך אפשר לשמור על החוסן שלנו, איך לפעול כמנהלים ברגעי משבר, או איך שרן קורא להם - מאני טיים. ואיך להתמודד עם הפתעות שלא היינו מוכנים אליהן?&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;להאזנה באתר:&lt;/p&gt;
+
+&lt;p&gt;https://frnkl.co/blog-podcast/%D7%90%D7%99%D7%9A-%D7%9C%D7%A2%D7%91%D7%95%D7%A8-%D7%9E%D7%A9%D7%91%D7%A8%D7%99%D7%9D-%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-232-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%A9%D7%91%D7%99%D7%98/&lt;/p&gt;
+</description>
+                        <content:encoded>שיחה מעניינת עם רן שביט על חוסן והתמודדות נפשית עם שינויים. אבל בעיקר זאת שיחה על ניהול ועל איך מנהלים יכולים לנהל את עצמם ואת הצוות בזמני קורונה. &lt;br&gt;גילוי נאות - אני מתנדבת עם רן בתוכנית 8200 לעסקים קטנים. &lt;br&gt;#פסיכולוגיה #שיחהמעניינת #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך לעבור משברים  - פופקורן 232 עם רן שביט&lt;br&gt;משך: שעה ו17 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7pid3x0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך אתם מתמודדים עם שינויים ומשברים בעבודה? איך והאם אפשר לפתח חוסן? איך מכינים את עצמנו ואת העובדים/מנהלים/קולגות שלנו למה שלא יבוא?&lt;/p&gt;
+
+&lt;p&gt;רן שביט הוא סמנכ״ל בכיר לאופרציה ולמידה בג׳ולט, לפני כן היה 15 שנים ב-8200 - שם ניהל מכלולים מודיעיניים מורכבים עם מאות אנשים לספק תמונות מודיעין לצה״ל. בשנים האחרונות בצבא, הקים וניהל את ביה״ס ל- Data Analysts וניהל את ביה״ס לסייבר אנליסט של 8200. לצד ג׳ולט, רן שותף בצוות ההקמה של ״8200 לעסקים קטנים״ - יוזמה שעוזרת לעסקים קטנים להתאושש ממשבר הקורונה. &lt;/p&gt;
+
+&lt;p&gt;רן מציג שיטת ניהול שקופה וכנה, המנסה לחבר בין מטרות החברה לפיתוח האישי של העובדים. אז איך היא עוזרת לו להיות מוכן למשברים?&lt;/p&gt;
+
+&lt;p&gt;איך אפשר לשמור על החוסן שלנו, איך לפעול כמנהלים ברגעי משבר, או איך שרן קורא להם - מאני טיים. ואיך להתמודד עם הפתעות שלא היינו מוכנים אליהן?&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;להאזנה באתר:&lt;/p&gt;
+
+&lt;p&gt;https://frnkl.co/blog-podcast/%D7%90%D7%99%D7%9A-%D7%9C%D7%A2%D7%91%D7%95%D7%A8-%D7%9E%D7%A9%D7%91%D7%A8%D7%99%D7%9D-%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-232-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%A9%D7%91%D7%99%D7%98/&lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/ffaubv/_232_awp8h.mp3" length="101284394" type="audio/mpeg"/>
+        <itunes:subtitle>איך אתם מתמודדים עם שינויים ומשברים בעבודה? איך והאם אפשר לפתח חוסן? איך מכינים את עצמנו ואת העובדים/מנהלים/קולגות שלנו למה שלא יבוא?
+רן שביט הוא סמנכ״ל בכיר לאופרציה ולמידה בג׳ולט, לפני כן היה 15 שנים ב-8200 - שם ניהל מכלולים מודיעיניים מורכבים עם מאות ...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת עם רן שביט על חוסן והתמודדות נפשית עם שינויים. אבל בעיקר זאת שיחה על ניהול ועל איך מנהלים יכולים לנהל את עצמם ואת הצוות בזמני קורונה. &lt;br&gt;גילוי נאות - אני מתנדבת עם רן בתוכנית 8200 לעסקים קטנים. &lt;br&gt;#פסיכולוגיה #שיחהמעניינת #ניהול&lt;br&gt;&lt;br&gt;פופקורן - איך לעבור משברים  - פופקורן 232 עם רן שביט&lt;br&gt;משך: שעה ו17 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7pid3x0j&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך אתם מתמודדים עם שינויים ומשברים בעבודה? איך והאם אפשר לפתח חוסן? איך מכינים את עצמנו ואת העובדים/מנהלים/קולגות שלנו למה שלא יבוא?&lt;/p&gt;
+
+&lt;p&gt;רן שביט הוא סמנכ״ל בכיר לאופרציה ולמידה בג׳ולט, לפני כן היה 15 שנים ב-8200 - שם ניהל מכלולים מודיעיניים מורכבים עם מאות אנשים לספק תמונות מודיעין לצה״ל. בשנים האחרונות בצבא, הקים וניהל את ביה״ס ל- Data Analysts וניהל את ביה״ס לסייבר אנליסט של 8200. לצד ג׳ולט, רן שותף בצוות ההקמה של ״8200 לעסקים קטנים״ - יוזמה שעוזרת לעסקים קטנים להתאושש ממשבר הקורונה. &lt;/p&gt;
+
+&lt;p&gt;רן מציג שיטת ניהול שקופה וכנה, המנסה לחבר בין מטרות החברה לפיתוח האישי של העובדים. אז איך היא עוזרת לו להיות מוכן למשברים?&lt;/p&gt;
+
+&lt;p&gt;איך אפשר לשמור על החוסן שלנו, איך לפעול כמנהלים ברגעי משבר, או איך שרן קורא להם - מאני טיים. ואיך להתמודד עם הפתעות שלא היינו מוכנים אליהן?&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;p&gt;להאזנה באתר:&lt;/p&gt;
+
+&lt;p&gt;https://frnkl.co/blog-podcast/%D7%90%D7%99%D7%9A-%D7%9C%D7%A2%D7%91%D7%95%D7%A8-%D7%9E%D7%A9%D7%91%D7%A8%D7%99%D7%9D-%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-232-%D7%A2%D7%9D-%D7%A8%D7%9F-%D7%A9%D7%91%D7%99%D7%98/&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:17:21</itunes:duration>
+                <itunes:episode>231</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/_232_b6atp.png"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f803c399-5d84-460a-81fb-201a8b2af271</guid>
       <title>474- The Punisher Skull</title>
       <description>סיפורו של סמל הגולגולת של המעניש מתוך הקומיקס של מרוול. איך הסמל הפך מדמות בקומיקס למשהו ששוטרים מרגישים שמייצג אותם גם בעולם האמיתי. &lt;br&gt;#תרבות #אנגלית &lt;br&gt;&lt;br&gt; https://prnt.sc/26p7a03&lt;br&gt;99% Invisible - 474- The Punisher Skull&lt;br&gt;משך: 39 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/0g21g7f1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The Punisher has always been a complicated Marvel antihero: a man whose creator imagined him as a reaction to the failures of government at home and in the Vietnam War. So why is the Punisher’s trademark dripping skull insignia — a menacing image used throughout history to denote imminent death — being painted on police vehicles, adopted by members of the military, and donned by white supremacists?&lt;/p&gt;&lt;p&gt;This episode of &lt;a href="https://www.wbur.org/endlessthread/2021/10/29/memes-punisher"&gt;Endless Thread&lt;/a&gt; explores the story of The Punisher’s symbol&lt;a href="https://www.reddit.com/r/comicbooks/comments/oro4e7/found_in_the_wild_how_i_feel_about_the/"&gt; as a meme&lt;/a&gt;, and looks at how well we understand its origins, its use today, and whether its creator — or Marvel — can take it back.&lt;/p&gt;
@@ -1620,7 +1696,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1857</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">4d69ed64-5050-11eb-a37c-8fdade04ee46</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002027" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002147" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f557294e-9449-44f6-ae58-7a53b256c7ba</guid>
       <title>פרק 12 // צאו מהקיבעון: הכלי האפקטיבי שיפתח בפניכם עוד הזדמנויות</title>
@@ -4448,7 +4524,7 @@ This episode was produced by Creighton DeSimone, Alexander Charles Adams, and An
 Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
       <itunes:duration>3949</itunes:duration>
       <guid isPermaLink="false">7bf8aece-60de-11eb-92cb-abbbce5e07ef</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP9402582477.mp3?updated=1631679590" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP9402582477.mp3?updated=1631679470" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>[התשובה] אירופה היא יבשת?</title><link>https://www.spreaker.com/user/pimedia/guy-goodbye-mst</link><description>פרק גיאוגרפי משעשע. האם אירופה היא יבשת נפרדת או שאולי המצב הנכון הוא אירו-אסיה? &lt;br&gt;ההסבר הוא כרגיל "סיבות הסטוריות" אבל הדרך שבה מגיעים לכל המסקנות היא מעניינת ומשעשעת לפרקים. &lt;br&gt;#הסטוריה #גאוגרפיה&lt;br&gt;&lt;br&gt;התשובה - אירופה היא יבשת?&lt;br&gt;&lt;br&gt;https://pca.st/episode/058cdf1f-0e07-409d-94c3-b5d407ab4a53&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול, קיסרים רוסיים, וכמובן, האירוויזיון.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;דורון פישלר.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/05/31/seker-hatshuva-europe/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/45107644</guid><pubDate>Thu, 23 Sep 2021 08:02:42 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/45107644/guy_goodbye_mst.mp3" length="34658428" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>שאלה שמטרידה את העולם כבר 2500 שנה לפחות: איפה זה אירופה? למה רבים מתעקשים שהיא יבשת, למרות שהיא לא מוקפת בים? ומה הסיבה האמיתית למעמד הזה שלה? התשובה כוללת את נח והמבול, קיסרים רוסיים, וכמובן, האירוויזיון.
 
 האזנה נעימה,
@@ -5824,52 +5900,5 @@ Full show notes and links here.</content:encoded>
       <itunes:duration>2446</itunes:duration>
       <guid isPermaLink="false">e9146352-d8e0-11eb-a29e-8b5692430fd7</guid>
       <enclosure url="https://chrt.fm/track/F1ACE7/traffic.megaphone.fm/MFI7060389489.mp3?updated=1624974786" length="0" type="audio/mpeg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <guid isPermaLink="false">6a7c7888-a10a-4fb7-a045-7a3c5ce4cf49</guid>
-      <title>443- Matters of Time</title>
-      <description>סיפורים קצרים על זמן.&lt;br&gt;#קצרים #סיפורמעניין &lt;br&gt;&lt;br&gt;99% invisible&lt;br&gt;&lt;br&gt;https://pca.st/elk0qjb3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;For the most part, we take time for granted; maybe we don’t have enough of it, but we at least know how it works --- well, most of the time. A lot of what we think about time is relatively recent, and some of what we take for granted isn't quite as universal as one might think. This series of time-centric stories challenges what you know (or think you know) about the way time works around the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37295&amp;post_type=episode"&gt;Matters of Time&lt;/a&gt;&lt;/p&gt;
-</description>
-      <pubDate>Wed, 30 Jun 2021 05:00:39 +0000</pubDate>
-      <author>roman@99pi.org (Vivian Le, Chris Berube, Kurt Kohlstedt, Joe Rosenberg)</author>
-      <link>https://99percentinvisible.org</link>
-      <content:encoded>סיפורים קצרים על זמן.&lt;br&gt;#קצרים #סיפורמעניין &lt;br&gt;&lt;br&gt;99% invisible&lt;br&gt;&lt;br&gt;https://pca.st/elk0qjb3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;For the most part, we take time for granted; maybe we don’t have enough of it, but we at least know how it works --- well, most of the time. A lot of what we think about time is relatively recent, and some of what we take for granted isn't quite as universal as one might think. This series of time-centric stories challenges what you know (or think you know) about the way time works around the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37295&amp;post_type=episode"&gt;Matters of Time&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-      <enclosure length="51599484" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/09d0ffe7-d4ee-4bfa-851f-9f1a6974a2bf/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=09d0ffe7-d4ee-4bfa-851f-9f1a6974a2bf&amp;feed=BqbsxVfO"/>
-      <itunes:title>443- Matters of Time</itunes:title>
-      <itunes:author>Vivian Le, Chris Berube, Kurt Kohlstedt, Joe Rosenberg</itunes:author>
-      <itunes:duration>00:53:37</itunes:duration>
-      <itunes:summary>סיפורים קצרים על זמן.&lt;br&gt;#קצרים #סיפורמעניין &lt;br&gt;&lt;br&gt;99% invisible&lt;br&gt;&lt;br&gt;https://pca.st/elk0qjb3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;For the most part, we take time for granted; maybe we don’t have enough of it, but we at least know how it works --- well, most of the time. A lot of what we think about time is relatively recent, and some of what we take for granted isn't quite as universal as one might think. This series of time-centric stories challenges what you know (or think you know) about the way time works around the world.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37295&amp;post_type=episode"&gt;Matters of Time&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-      <itunes:subtitle>This series of time-centric stories challenges what you know (or think you know) about the way time works around the world.</itunes:subtitle>
-      <itunes:keywords>design, clocks, china, knocker upper, time, daylight saving time</itunes:keywords>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1022121979</guid>
-      <title>153# אמיתי חזן וההיסטוריה של האמנות הישראלית</title>
-      <pubDate>Wed, 30 Jun 2021 04:58:20 +0000</pubDate>
-      <link>https://soundcloud.com/historia-il/153a</link>
-      <itunes:duration>01:41:13</itunes:duration>
-      <itunes:author>היסטוריה גדולה, בקטנה</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>אומנות ישראלית מנק מבט שונה. &lt;br&gt;#אומנות #הסטוריה #ישראל &lt;br&gt;&lt;br&gt;הסטוריה גדולה, בקטנה&lt;br&gt;&lt;br&gt;https://pca.st/77m4r8ho&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אמיתי חזן מנהל את בית המכירות הפומביות תירוש. לכן, הוא יודע דבר או שניים על אמנות ישראלית - מה ההיסטוריה שלה, איך עובד השוק שלה ומה בעצם הביזנס שעומד מאחורי כל הציורים היפים והפסלים הגדולים. ישבנו לדבר איתו על זה.
-
-בית המכירות תירוש: https://www.tiroche.co.il/
-הספר של ניל:  https://bit.ly/300shavim
-
-לתמיכה בנו בפטראון: https://www.patreon.com/historia
-היסטוריה גדולה, בקטנה בפייסבוק: www.facebook.com/Diggstory
-מוזיקת פתיחה וסיום: Scott Holmes / Corporate Innovative</itunes:summary>
-      <itunes:subtitle>אמיתי חזן מנהל את בית המכירות הפומביות תירוש. לכן…</itunes:subtitle>
-      <description>אומנות ישראלית מנק מבט שונה. &lt;br&gt;#אומנות #הסטוריה #ישראל &lt;br&gt;&lt;br&gt;הסטוריה גדולה, בקטנה&lt;br&gt;&lt;br&gt;https://pca.st/77m4r8ho&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אמיתי חזן מנהל את בית המכירות הפומביות תירוש. לכן, הוא יודע דבר או שניים על אמנות ישראלית - מה ההיסטוריה שלה, איך עובד השוק שלה ומה בעצם הביזנס שעומד מאחורי כל הציורים היפים והפסלים הגדולים. ישבנו לדבר איתו על זה.
-
-בית המכירות תירוש: https://www.tiroche.co.il/
-הספר של ניל:  https://bit.ly/300shavim
-
-לתמיכה בנו בפטראון: https://www.patreon.com/historia
-היסטוריה גדולה, בקטנה בפייסבוק: www.facebook.com/Diggstory
-מוזיקת פתיחה וסיום: Scott Holmes / Corporate Innovative</description>
-      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1022121979-historia-il-153a.mp3" length="102166807"/>
-      <itunes:image href="https://i1.sndcdn.com/artworks-vEyTKNFgtmmK6jey-q1QAEw-t3000x3000.jpg"/>
-    <media:content url="https://feeds.soundcloud.com/stream/1022121979-historia-il-153a.mp3" fileSize="102166807" type="audio/mpeg"/></item></channel>
+    </item></channel>
 </rss>
