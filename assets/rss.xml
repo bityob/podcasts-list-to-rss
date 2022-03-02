@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 02 Mar 2022 21:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Mar 2022 22:15:10 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>A SWIFT getaway</title>
@@ -1020,7 +1020,7 @@ This episode is sponsored by Walker Books and BetterHelp. Our ad partner is Mult
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2024</itunes:duration>
       <guid isPermaLink="false">4d6ea570-5050-11eb-a37c-1f768d05a5a5</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV4007934992.mp3?updated=1639416188" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV4007934992.mp3?updated=1639416308" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 36 - אסור להשוות עם חגי אלקיים שלם ואורן ברנשטיין</title>
 <guid isPermaLink="false">https://pinecast.com/guid/b74d866b-050a-4b04-8550-2815221c34a0</guid>
 <pubDate>Sun, 23 Jan 2022 06:00:00 +0000</pubDate>
@@ -1713,7 +1713,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1857</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">4d69ed64-5050-11eb-a37c-8fdade04ee46</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002027" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002147" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f557294e-9449-44f6-ae58-7a53b256c7ba</guid>
       <title>פרק 12 // צאו מהקיבעון: הכלי האפקטיבי שיפתח בפניכם עוד הזדמנויות</title>
@@ -3774,7 +3774,7 @@ This episode is sponsored by Inked Gaming and BetterHelp. Our ad partner is Mult
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1821</itunes:duration>
       <guid isPermaLink="false">4d525d8e-5050-11eb-a37c-df125bc49b88</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV2297610660.mp3?updated=1632947193" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV2297610660.mp3?updated=1632947313" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>לעבוד מכל מקום - מלי אלקובי - פרק 72</title>
         <itunes:title>לעבוד מכל מקום - מלי אלקובי - פרק 72</itunes:title>
