@@ -11,9 +11,55 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 06 Mar 2022 05:13:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Mar 2022 06:17:42 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Soundtracks: John Acuff</title>
+      <description>שיחה קלילה על כתיבה, יצירה ומימוש המטרות שלכם.  שיחה עם Jon Acuff   סופר, מנחה פודקאסט ומרצה בעל סגנון  שיחה ומחשבה מעניין. &lt;br&gt;#אנגלית #שיווק &lt;br&gt;&lt;br&gt;Wisdom from the top: Soundtracks: John Acuff&lt;br&gt;משך: 48 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/t694l1ac&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Jon Acuff is the author of seven best-selling books and the host of the podcast "All It Takes Is A Goal", becoming widely known for his humorous approach to leadership and Christianity. Son of a Baptist minister, Jon worked as a copywriter throughout his twenties, but in 2008 his blog "Stuff Christians Like" caught the attention of personal finance guru Dave Ramsey, who helped Jon launch a new career as an author and speaker. His latest self-help book, released in April 2021, is titled Soundtracks: The Surprising Solution to Overthinking. </description>
+      <pubDate>Sun, 06 Mar 2022 06:01:24 +0000</pubDate>
+      <copyright>Copyright 2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">6b7c6321-fa3f-4700-b9df-e001b7fe1890</guid>
+      <link>https://www.npr.org/2022/03/01/1083690042/soundtracks-john-acuff</link>
+      <itunes:title>Soundtracks: John Acuff</itunes:title>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>שיחה קלילה על כתיבה, יצירה ומימוש המטרות שלכם.  שיחה עם Jon Acuff   סופר, מנחה פודקאסט ומרצה בעל סגנון  שיחה ומחשבה מעניין. &lt;br&gt;#אנגלית #שיווק &lt;br&gt;&lt;br&gt;Wisdom from the top: Soundtracks: John Acuff&lt;br&gt;משך: 48 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/t694l1ac&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Jon Acuff is the author of seven best-selling books and the host of the podcast "All It Takes Is A Goal", becoming widely known for his humorous approach to leadership and Christianity. Son of a Baptist minister, Jon worked as a copywriter throughout his twenties, but in 2008 his blog "Stuff Christians Like" caught the attention of personal finance guru Dave Ramsey, who helped Jon launch a new career as an author and speaker. His latest self-help book, released in April 2021, is titled Soundtracks: The Surprising Solution to Overthinking. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/03/01/wftt_launchgraphics_1920x1080_wide-7bbbdf2819574e46e37b5819d9e99de1ed587239.jpg?s=1400"/>
+      <itunes:duration>2804</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>שיחה קלילה על כתיבה, יצירה ומימוש המטרות שלכם.  שיחה עם Jon Acuff   סופר, מנחה פודקאסט ומרצה בעל סגנון  שיחה ומחשבה מעניין. &lt;br&gt;#אנגלית #שיווק &lt;br&gt;&lt;br&gt;Wisdom from the top: Soundtracks: John Acuff&lt;br&gt;משך: 48 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/t694l1ac&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Jon Acuff is the author of seven best-selling books and the host of the podcast "All It Takes Is A Goal", becoming widely known for his humorous approach to leadership and Christianity. Son of a Baptist minister, Jon worked as a copywriter throughout his twenties, but in 2008 his blog "Stuff Christians Like" caught the attention of personal finance guru Dave Ramsey, who helped Jon launch a new career as an author and speaker. His latest self-help book, released in April 2021, is titled Soundtracks: The Surprising Solution to Overthinking. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510363/edge1.pod.npr.org/anon.npr-mp3/npr/wftt/2022/03/20220302_wftt_ep22_final.mp3?awCollectionId=510363&amp;awEpisodeId=1083690042&amp;orgId=1&amp;d=2804&amp;p=510363&amp;story=1083690042&amp;t=podcast&amp;e=1083690042&amp;size=44878039&amp;ft=pod&amp;f=510363" length="44878039" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>פרק 227: למה יש כל כך מעט פוד-טראקס בישראל</title>
+      <itunes:title>פרק 227: למה יש כל כך מעט פוד-טראקס בישראל</itunes:title>
+      <description>חפירה קלה לתוך תהליך פתיחת פוד טראק בישראל.  לא מעמיק מדיי אבל מעניין לשמוע על רגולציה שהשתנתה ועדיין לא הועילה כמעט לתחום. &lt;br&gt;#כלכלה #אוכל &lt;br&gt;&lt;br&gt;חיות כיס - פרק 227: למה יש כל כך מעט פוד-טראקס בישראל&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/nwit35yo&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;יזמים מספרים שלפתוח פוד-טראק (משאית מזון) זאת משימה בלתי אפשרית. אז ניסינו לעשות את זה. מסע לתוך הרגולציה של הקולינריה
+מגישים: אלון אמיצי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייע בעריכה: נועם ברלחיס
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>חפירה קלה לתוך תהליך פתיחת פוד טראק בישראל.  לא מעמיק מדיי אבל מעניין לשמוע על רגולציה שהשתנתה ועדיין לא הועילה כמעט לתחום. &lt;br&gt;#כלכלה #אוכל &lt;br&gt;&lt;br&gt;חיות כיס - פרק 227: למה יש כל כך מעט פוד-טראקס בישראל&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/nwit35yo&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;יזמים מספרים שלפתוח פוד-טראק (משאית מזון) זאת משימה בלתי אפשרית. אז ניסינו לעשות את זה. מסע לתוך הרגולציה של הקולינריה
+מגישים: אלון אמיצי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייע בעריכה: נועם ברלחיס
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>חפירה קלה לתוך תהליך פתיחת פוד טראק בישראל.  לא מעמיק מדיי אבל מעניין לשמוע על רגולציה שהשתנתה ועדיין לא הועילה כמעט לתחום. &lt;br&gt;#כלכלה #אוכל &lt;br&gt;&lt;br&gt;חיות כיס - פרק 227: למה יש כל כך מעט פוד-טראקס בישראל&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/nwit35yo&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;יזמים מספרים שלפתוח פוד-טראק (משאית מזון) זאת משימה בלתי אפשרית. אז ניסינו לעשות את זה. מסע לתוך הרגולציה של הקולינריה
+מגישים: אלון אמיצי וצליל אברהם, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייע בעריכה: נועם ברלחיס
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>227</itunes:episode>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/81b21aa2-62cb-4ff6-b70f-ae37002e005e/image.jpg?t=1644375934&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/81b21aa2-62cb-4ff6-b70f-ae37002e005e/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/hayot-kiss/227/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/81b21aa2-62cb-4ff6-b70f-ae37002e005e/image.jpg?t=1644375934&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">81b21aa2-62cb-4ff6-b70f-ae37002e005e</guid>
+      <omny:clipId>81b21aa2-62cb-4ff6-b70f-ae37002e005e</omny:clipId>
+      <pubDate>Sun, 06 Mar 2022 06:00:00 +0000</pubDate>
+      <itunes:duration>1509</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/81b21aa2-62cb-4ff6-b70f-ae37002e005e/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="24212866" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/hayot-kiss/227</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>An Imam Blows the Whistle on Muslim Antisemitism</title>
       <description>שיחה עם אימאם Abdullah Antepli שמחזיק בדיעות מאוד רדיקליות יחסית לדת שלו - הוא מנסה להלחם באנטישמיות. בדרך כלל זה לא נושא שתופס אותי אבל הפעם היה מעניין לשמוע על שנות הילדות שלו בטורקיה עם אנטישמיות ממוסדת ואז את תהליך ההתבגרות והעמדה שהוא מחזיק בה כיום שבה הוא מנסה לקרב בין שתי הקהילות. &lt;br&gt;#דת #ראיוןמעניין #אנגלית&lt;br&gt;&lt;br&gt;Honestly - An Imam Blows the Whistle on Muslim Antisemitism&lt;br&gt;משך: שעה ו17 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/ijm4lmg0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;As a boy growing up in Turkey, Abdullah Antepli thought hating Jews was normal. He read Mein Kampf before he was 15. His parents gave him a children's version of The Protocols of the Elders of Zion. He burned Israeli flags.
 
@@ -5912,56 +5958,5 @@ https://frnkl.co/blog-podcast/200-dan-ariely</itunes:summary>
       <itunes:keywords>airplane seats, law, barry bonds, solar panels, baseball, ownership design</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>סוד הקסם של ה-Beatles: חלק 1</title>
-      <itunes:title>סוד הקסם של ה-Beatles: חלק 1</itunes:title>
-      <description>הסיפור של הביטלס. לא משהו חדשני אבל הסיפור כולו, בצורה מסודרת עם הקשרים פוליטיים, חברתיים וסוציאולוגיים. 5 חלקים. &lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;המעבדה&lt;br&gt;&lt;br&gt;https://pca.st/episode/7802bcb2-23dc-4d68-9bd0-9906e1a242e6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נצא למסע ונערוך מבוא להיסטוריה של הלהקה. נבחן את שנות ה50 המשמעותיות באירופה של אחרי המלחמה ואת ההיסטוריה של ליוורפול בה צמחה הלהקה. עם פרופסור עודד היילברונר
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>הסיפור של הביטלס. לא משהו חדשני אבל הסיפור כולו, בצורה מסודרת עם הקשרים פוליטיים, חברתיים וסוציאולוגיים. 5 חלקים. &lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;המעבדה&lt;br&gt;&lt;br&gt;https://pca.st/episode/7802bcb2-23dc-4d68-9bd0-9906e1a242e6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נצא למסע ונערוך מבוא להיסטוריה של הלהקה. נבחן את שנות ה50 המשמעותיות באירופה של אחרי המלחמה ואת ההיסטוריה של ליוורפול בה צמחה הלהקה. עם פרופסור עודד היילברונר
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>הסיפור של הביטלס. לא משהו חדשני אבל הסיפור כולו, בצורה מסודרת עם הקשרים פוליטיים, חברתיים וסוציאולוגיים. 5 חלקים. &lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;המעבדה&lt;br&gt;&lt;br&gt;https://pca.st/episode/7802bcb2-23dc-4d68-9bd0-9906e1a242e6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;נצא למסע ונערוך מבוא להיסטוריה של הלהקה. נבחן את שנות ה50 המשמעותיות באירופה של אחרי המלחמה ואת ההיסטוריה של ליוורפול בה צמחה הלהקה. עם פרופסור עודד היילברונר
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/f84f75c1-6ae0-41b1-a063-ad3c00a76e3a/image.jpg?t=1622715808&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/f84f75c1-6ae0-41b1-a063-ad3c00a76e3a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/the-lab/beatles-1/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/f84f75c1-6ae0-41b1-a063-ad3c00a76e3a/image.jpg?t=1622715808&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">f84f75c1-6ae0-41b1-a063-ad3c00a76e3a</guid>
-      <omny:clipId>f84f75c1-6ae0-41b1-a063-ad3c00a76e3a</omny:clipId>
-      <pubDate>Sun, 04 Jul 2021 14:16:30 +0000</pubDate>
-      <itunes:duration>2553</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/f84f75c1-6ae0-41b1-a063-ad3c00a76e3a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="40887365" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/the-lab/beatles-1</link>
-      <itunes:order>122</itunes:order>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>ירושלים של זהב | שולי נתן</title>
-      <itunes:title>ירושלים של זהב | שולי נתן</itunes:title>
-      <description>קצת מוזיקה לשבת: קפיצה בזמן לשיר שכולנו מכירים והאירועים שהביאו ליצירתו.&lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;שיר אחד&lt;br&gt;&lt;br&gt;https://pca.st/episode/bc56fed6-3988-4edf-a6fa-2fe2f27ff57b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;רגע לפני מלחמת ששת הימים, נעמי שמר ישבה מול הפסנתר בדירה הקטנה שלה בתל אביב, ונאבקה לכתוב שיר על ירושלים. שלושה שבועות אחר כך, חיילים כבר שרו אותו בכותל המערבי. ״ירושלים של זהב״ הפך להמנון על-זמני, לשיר הישראלי המוכר בעולם - אבל הוא גם רדף את נעמי שמר בימים האחרונים של חייה. אז היא כתבה מכתב אחד אחרון
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>קצת מוזיקה לשבת: קפיצה בזמן לשיר שכולנו מכירים והאירועים שהביאו ליצירתו.&lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;שיר אחד&lt;br&gt;&lt;br&gt;https://pca.st/episode/bc56fed6-3988-4edf-a6fa-2fe2f27ff57b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;רגע לפני מלחמת ששת הימים, נעמי שמר ישבה מול הפסנתר בדירה הקטנה שלה בתל אביב, ונאבקה לכתוב שיר על ירושלים. שלושה שבועות אחר כך, חיילים כבר שרו אותו בכותל המערבי. ״ירושלים של זהב״ הפך להמנון על-זמני, לשיר הישראלי המוכר בעולם - אבל הוא גם רדף את נעמי שמר בימים האחרונים של חייה. אז היא כתבה מכתב אחד אחרון
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>קצת מוזיקה לשבת: קפיצה בזמן לשיר שכולנו מכירים והאירועים שהביאו ליצירתו.&lt;br&gt;#מוזיקה #הסטוריה &lt;br&gt;&lt;br&gt;שיר אחד&lt;br&gt;&lt;br&gt;https://pca.st/episode/bc56fed6-3988-4edf-a6fa-2fe2f27ff57b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;רגע לפני מלחמת ששת הימים, נעמי שמר ישבה מול הפסנתר בדירה הקטנה שלה בתל אביב, ונאבקה לכתוב שיר על ירושלים. שלושה שבועות אחר כך, חיילים כבר שרו אותו בכותל המערבי. ״ירושלים של זהב״ הפך להמנון על-זמני, לשיר הישראלי המוכר בעולם - אבל הוא גם רדף את נעמי שמר בימים האחרונים של חייה. אז היא כתבה מכתב אחד אחרון
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0/image.jpg?t=1559411859&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1566200289" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/one-song/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0/image.jpg?t=1559411859&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0</guid>
-      <omny:clipId>e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0</omny:clipId>
-      <pubDate>Sat, 03 Jul 2021 06:09:27 +0000</pubDate>
-      <itunes:duration>2865</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1566200289" length="45857128" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/one-song/e04f1f35-2f0d-4ea4-b173-aa5f0125c0a0</link>
     </item></channel>
 </rss>
