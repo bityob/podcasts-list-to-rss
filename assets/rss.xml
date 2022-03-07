@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 07 Mar 2022 00:59:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 02:15:53 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Soundtracks: John Acuff</title>
@@ -1698,21 +1698,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:duration>01:14:44</itunes:duration>
                 <itunes:episode>11</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-            </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
- <title>755: The Convert</title>
- <link>https://www.thisamericanlife.org/755/the-convert</link>
- <description>סיפור על איך הFBI עוקב אחרי האוכלוסיה המוסלמית בארה"ב. במקרה הזה  שתול שלהם בקהילה מוסלמית  שנחשף מגלה את התהליכים שמעורבים בזה ובסופו של דבר גם משתתף במשפט שקורה בימים אלו על האם מותר לFBI לעשות את זה או לא. &lt;br&gt;#אנגלית #משפט &lt;br&gt;&lt;br&gt;This American life - 755: The Convert&lt;br&gt;משך: שעה ודקה&lt;br&gt;&lt;br&gt;https://pca.st/erj5g9dc&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2006, a new convert showed up at a mosque in Orange County, California. Known as Farouk al-Aziz, the convert was actually an FBI informant named Craig Monteilh. That informant’s infiltration of the mosque is at the heart of FBI v Fazaga, a case heard at the Supreme Court last month. We return to our episode from 2012, which tells the story behind it.
-</description>
- <pubDate>Thu, 30 Dec 2021 06:01:01 +0000</pubDate>
- <guid isPermaLink="false">44940 at https://www.thisamericanlife.org</guid>
- <itunes:author>This American Life</itunes:author>
- <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/8DB4DB/pdst.fm/e/nyt.simplecastaudio.com/bbbcc290-ed3b-44a2-8e5d-5513e38cfe20/episodes/2bb29b15-3fb0-4d28-9882-620d2eb4b888/audio/128/default.mp3?awCollectionId=bbbcc290-ed3b-44a2-8e5d-5513e38cfe20&amp;awEpisodeId=2bb29b15-3fb0-4d28-9882-620d2eb4b888" type="audio/mpeg"/>
- <itunes:duration>01:01:42</itunes:duration>
- <itunes:subtitle>The story of an FBI undercover operation from 2006 that went terribly, and became the heart of a case heard at the Supreme Court.
-</itunes:subtitle>
- <itunes:summary>סיפור על איך הFBI עוקב אחרי האוכלוסיה המוסלמית בארה"ב. במקרה הזה  שתול שלהם בקהילה מוסלמית  שנחשף מגלה את התהליכים שמעורבים בזה ובסופו של דבר גם משתתף במשפט שקורה בימים אלו על האם מותר לFBI לעשות את זה או לא. &lt;br&gt;#אנגלית #משפט &lt;br&gt;&lt;br&gt;This American life - 755: The Convert&lt;br&gt;משך: שעה ודקה&lt;br&gt;&lt;br&gt;https://pca.st/erj5g9dc&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2006, a new convert showed up at a mosque in Orange County, California. Known as Farouk al-Aziz, the convert was actually an FBI informant named Craig Monteilh. That informant’s infiltration of the mosque is at the heart of FBI v Fazaga, a case heard at the Supreme Court last month. We return to our episode from 2012, which tells the story behind it.
-</itunes:summary>
-<dc:creator>This American Life</dc:creator></item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+            </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית</title>
         <itunes:title>פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית</itunes:title>
         <link>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-177%d7%9b%d7%a9%d7%9e%d7%a8%d7%95%d7%91-%d7%91%d7%90%d7%9c%d7%92%d7%9f-%d7%90%d7%99%d7%90%d7%a4%d7%a9%d7%a8%d7%9c%d7%a2%d7%a9%d7%95/</link>
@@ -1796,7 +1782,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1857</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">4d69ed64-5050-11eb-a37c-8fdade04ee46</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002027" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8336499810.mp3?updated=1639002147" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">f557294e-9449-44f6-ae58-7a53b256c7ba</guid>
       <title>פרק 12 // צאו מהקיבעון: הכלי האפקטיבי שיפתח בפניכם עוד הזדמנויות</title>
@@ -2590,7 +2576,7 @@ This episode is sponsored by Realm and BetterHelp. Our ad partner is Multitude. 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1875</itunes:duration>
       <guid isPermaLink="false">4d60baf0-5050-11eb-a37c-9b19282433f5</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8318790788.mp3?updated=1636583643" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8318790788.mp3?updated=1636583763" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 48: לעבור דירה זה כמו תורת הקוונטים</title>
         <itunes:title>פרק 48: לעבור דירה זה כמו תורת הקוונטים</itunes:title>
