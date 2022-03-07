@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 07 Mar 2022 19:12:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Mar 2022 20:16:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Soundtracks: John Acuff</title>
@@ -2035,6 +2035,41 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>1980</itunes:duration>
       <enclosure url="https://chtbl.com/track/288D49/traffic.omny.fm/d/clips/aaea4e69-af51-495e-afc9-a9760146922b/73fd80c2-48d6-433c-817f-aaa4017c3c16/8903588d-24ff-43af-9943-ade301316ec5/audio.mp3?utm_source=Podcast&amp;in_playlist=1c35c947-56d2-49cc-be15-aaa4017c3c1e" length="47582865" type="audio/mpeg"/>
       <link>https://omny.fm/shows/by-the-book/bonus-tracey-lewis-giggetts</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>פרק 217: על השמיטה</title>
+      <itunes:title>פרק 217: על השמיטה</itunes:title>
+      <description>מסתבר שהשנה היא שנת שמיטה ויש לזה משמעויות גם בחיי היום שלנו. הסבר על החוק העתיק ועל ההשלכות הסוציאליות שלו עד ימינו. &lt;br&gt;#ישראל #כלכלה #משפט&lt;br&gt;&lt;br&gt;חיות כיס - פרק 217: על השמיטה&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/3slc2w1m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שנה בלי לעבוד ובלי להחזיר חובות - ככה מצווה התורה. מי האנשים ששומרים על שנת שמיטה
+מגישים: צליל אברהם ומנדי גרוזמן, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, עיבוד תמונה: אור בן אסולי
+
+ 
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>מסתבר שהשנה היא שנת שמיטה ויש לזה משמעויות גם בחיי היום שלנו. הסבר על החוק העתיק ועל ההשלכות הסוציאליות שלו עד ימינו. &lt;br&gt;#ישראל #כלכלה #משפט&lt;br&gt;&lt;br&gt;חיות כיס - פרק 217: על השמיטה&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/3slc2w1m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שנה בלי לעבוד ובלי להחזיר חובות - ככה מצווה התורה. מי האנשים ששומרים על שנת שמיטה
+מגישים: צליל אברהם ומנדי גרוזמן, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, עיבוד תמונה: אור בן אסולי
+
+ 
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>מסתבר שהשנה היא שנת שמיטה ויש לזה משמעויות גם בחיי היום שלנו. הסבר על החוק העתיק ועל ההשלכות הסוציאליות שלו עד ימינו. &lt;br&gt;#ישראל #כלכלה #משפט&lt;br&gt;&lt;br&gt;חיות כיס - פרק 217: על השמיטה&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/3slc2w1m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;שנה בלי לעבוד ובלי להחזיר חובות - ככה מצווה התורה. מי האנשים ששומרים על שנת שמיטה
+מגישים: צליל אברהם ומנדי גרוזמן, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, עיבוד תמונה: אור בן אסולי
+
+ 
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>217</itunes:episode>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/9e83ab65-8e8a-4a45-9bed-adf00144702e/image.jpg?t=1638302384&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/9e83ab65-8e8a-4a45-9bed-adf00144702e/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/hayot-kiss/217/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/9e83ab65-8e8a-4a45-9bed-adf00144702e/image.jpg?t=1638302384&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">9e83ab65-8e8a-4a45-9bed-adf00144702e</guid>
+      <omny:clipId>9e83ab65-8e8a-4a45-9bed-adf00144702e</omny:clipId>
+      <pubDate>Sun, 19 Dec 2021 04:29:01 +0000</pubDate>
+      <itunes:duration>1693</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/9e83ab65-8e8a-4a45-9bed-adf00144702e/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="27157959" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/hayot-kiss/217</link>
     </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Day of the Debt</title>
       <description>פרק מאוד משעשע על איך אפשר להלוות כסף לארה"ב. ותכלס על משמעות הביטחון של הלווים בכך שארה"ב תוכל להחזיר את הכסף הזה ואיך זה הופך אותה להשקעה דיי לא משתלמת. &lt;br&gt;#אנגלית #כלכלה&lt;br&gt;&lt;br&gt;Planet Money - Day of the Debt&lt;br&gt;משך: 21 דק'&lt;br&gt;https://pca.st/8cq3a0p6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We make a loan to the U.S. government, and it does not go the way we thought it would. Plus: the story of that one time the U.S. defaulted. Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
@@ -2337,7 +2372,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1981</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">611ab1ec-a166-11eb-8a22-eb823899e314</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019403" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2897685803.mp3?updated=1639019523" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</title>
         <itunes:title>איך גורמים לעובדים להישאר? - פופקורן 222 עם גיא רוזנוולד</itunes:title>
@@ -2541,7 +2576,7 @@ This episode is sponsored by Realm and BetterHelp. Our ad partner is Multitude. 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1875</itunes:duration>
       <guid isPermaLink="false">4d60baf0-5050-11eb-a37c-9b19282433f5</guid>
-      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8318790788.mp3?updated=1636583763" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/ADV8318790788.mp3?updated=1636583643" length="0" type="audio/mpeg"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 48: לעבור דירה זה כמו תורת הקוונטים</title>
         <itunes:title>פרק 48: לעבור דירה זה כמו תורת הקוונטים</itunes:title>
