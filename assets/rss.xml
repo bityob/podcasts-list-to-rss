@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 20 Mar 2022 10:16:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Mar 2022 11:14:16 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסכם השקעה של 17 מיליון דולר היה חתום, ואז הקרן נעלמה - הסיפור של אסף נבו והסטארטאפ פיקו</title>
@@ -157,6 +157,101 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2204</itunes:duration>
       <guid isPermaLink="false">3c18e4ee-6e4e-11ec-bde4-e3af35510af8</guid>
       <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/MULP1039488540.mp3?updated=1646257487" length="0" type="audio/mpeg"/>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Taco Bell: Mark King</title>
+      <description>סיפורו של מרק קינג, מנכ"ל שכל חייו עסק בחברות ספורט . הסיפור מעניין מנק' מבט של הדרך שהוא עשה, הבחירות שלו (הטעויות שלו) ובעיקר מה הניע אותו להשאר בכל חברה כל כך הרבה שנים. &lt;br&gt;#אנגלית #ניהול&lt;br&gt;&lt;br&gt;Wisdom from the top - Taco Bell: Mark King&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/mr4g5wzj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Mark King has a reputation for turning businesses around by moving fast on innovative, and sometimes expensive, endeavors. Before his current tenure as CEO of Taco Bell, Mark served as president for Adidas' long-stagnant North American division, reinvigorating the brand with major athletic sponsorships and a deal with Kanye West. From 2003 to 2014, King was CEO of TaylorMade, which under his leadership became the most profitable golf company in the world. </description>
+      <pubDate>Thu, 17 Mar 2022 05:01:02 +0000</pubDate>
+      <copyright>Copyright 2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">fa44f72e-2d41-4c44-a3a4-e08ec7bd3b5f</guid>
+      <link>https://www.npr.org/2022/02/22/1082326552/taco-bell-mark-king</link>
+      <itunes:title>Taco Bell: Mark King</itunes:title>
+      <itunes:episode>21</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפורו של מרק קינג, מנכ"ל שכל חייו עסק בחברות ספורט . הסיפור מעניין מנק' מבט של הדרך שהוא עשה, הבחירות שלו (הטעויות שלו) ובעיקר מה הניע אותו להשאר בכל חברה כל כך הרבה שנים. &lt;br&gt;#אנגלית #ניהול&lt;br&gt;&lt;br&gt;Wisdom from the top - Taco Bell: Mark King&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/mr4g5wzj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Mark King has a reputation for turning businesses around by moving fast on innovative, and sometimes expensive, endeavors. Before his current tenure as CEO of Taco Bell, Mark served as president for Adidas' long-stagnant North American division, reinvigorating the brand with major athletic sponsorships and a deal with Kanye West. From 2003 to 2014, King was CEO of TaylorMade, which under his leadership became the most profitable golf company in the world. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/02/22/wftt_launchgraphics_1920x1080_wide-7bbbdf2819574e46e37b5819d9e99de1ed587239.jpg?s=1400"/>
+      <itunes:duration>4411</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפורו של מרק קינג, מנכ"ל שכל חייו עסק בחברות ספורט . הסיפור מעניין מנק' מבט של הדרך שהוא עשה, הבחירות שלו (הטעויות שלו) ובעיקר מה הניע אותו להשאר בכל חברה כל כך הרבה שנים. &lt;br&gt;#אנגלית #ניהול&lt;br&gt;&lt;br&gt;Wisdom from the top - Taco Bell: Mark King&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/mr4g5wzj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Mark King has a reputation for turning businesses around by moving fast on innovative, and sometimes expensive, endeavors. Before his current tenure as CEO of Taco Bell, Mark served as president for Adidas' long-stagnant North American division, reinvigorating the brand with major athletic sponsorships and a deal with Kanye West. From 2003 to 2014, King was CEO of TaylorMade, which under his leadership became the most profitable golf company in the world. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510363/edge1.pod.npr.org/anon.npr-mp3/npr/wftt/2022/02/20220223_wftt_ep21_final.mp3?awCollectionId=510363&amp;awEpisodeId=1082326552&amp;orgId=1&amp;d=4411&amp;p=510363&amp;story=1082326552&amp;t=podcast&amp;e=1082326552&amp;size=70590888&amp;ft=pod&amp;f=510363" length="70590888" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>S5E22: קומרסיישן 99 עם גיא בן-נון, מנכ״ל e-vrit</title>
+      <itunes:title>קומרסיישן 99 עם גיא בן-נון, מנכ״ל e-vrit</itunes:title>
+      <description>שיחה מאוד מעניינת עם גיא בן נון מנכ"ל  e-vrit . הם מדברים על הפעילות הנוכחית של החברה כחלק מקבוצת ידיעות אחרונות, על המחשבות והתכנונים להתפתחות עתידת - ספרים קוליים! וגם על פיצרים מענינים שיש לאפליקציה שלהם.&lt;br&gt;#ישראל #ספרות #ראיוןמעניין&lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 99 עם גיא בן-נון, מנכ״ל e-vrit&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/2k0y41bw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ספרים, סוף סוף ספרים בקומרסיישן. גיא בן-נון, מנכ״ל e-vrit ריתק אותי בשיחה על מהפכת הספרים הדיגיטליים. עדיין ״עם ישראל אוהב ספרים מודפסים וזה לא הולך להיעלם״ גיא מסביר, אך ״השינוי המשמעותי התרחש בשנת הקורונה כשהרבה אנשים עברו לדיגיטל בעת שחנויות הספרים היו סגורות״. ׳עברית׳ מחזיקה מגוון גדול של מעל 20,000 ספרים ומשרתת קהל רחב ומועדון לקוחות של 130,000 קוראים וקוראות, כש-60 אחוז מהן נשים. גיא סיפר לי גם על ה״נטפליקסיות״ בכתיבת הפרק הראשון מצד הסופרים, על עוצמת אלפי הביקורות השבועיות של הקוראים ב׳עברית׳, על תפיסת התחרות בשוק של ׳חברבים׳ (פרנמיז) עם רשתות והוצאות הספרים,  על האפשרות של׳עברית׳ תהיה חנות בקניון ולעתיד הספרות הדיגיטלית בעידן הספרים הקוליים ומשקפי המציאות המדומה והמורחבת ( AR-VR). 
+תודה מיוחדת לאבא שלי עמרם גורדון וללילך רון על הסיוע בהכנת הפרק. תיהנו כמוני!
+
+See omnystudio.com/listener for privacy information.</description>
+      <content:encoded>שיחה מאוד מעניינת עם גיא בן נון מנכ"ל  e-vrit . הם מדברים על הפעילות הנוכחית של החברה כחלק מקבוצת ידיעות אחרונות, על המחשבות והתכנונים להתפתחות עתידת - ספרים קוליים! וגם על פיצרים מענינים שיש לאפליקציה שלהם.&lt;br&gt;#ישראל #ספרות #ראיוןמעניין&lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 99 עם גיא בן-נון, מנכ״ל e-vrit&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/2k0y41bw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ספרים, סוף סוף ספרים בקומרסיישן. גיא בן-נון, מנכ״ל e-vrit ריתק אותי בשיחה על מהפכת הספרים הדיגיטליים. עדיין ״עם ישראל אוהב ספרים מודפסים וזה לא הולך להיעלם״ גיא מסביר, אך ״השינוי המשמעותי התרחש בשנת הקורונה כשהרבה אנשים עברו לדיגיטל בעת שחנויות הספרים היו סגורות״. ׳עברית׳ מחזיקה מגוון גדול של מעל 20,000 ספרים ומשרתת קהל רחב ומועדון לקוחות של 130,000 קוראים וקוראות, כש-60 אחוז מהן נשים. גיא סיפר לי גם על ה״נטפליקסיות״ בכתיבת הפרק הראשון מצד הסופרים, על עוצמת אלפי הביקורות השבועיות של הקוראים ב׳עברית׳, על תפיסת התחרות בשוק של ׳חברבים׳ (פרנמיז) עם רשתות והוצאות הספרים,  על האפשרות של׳עברית׳ תהיה חנות בקניון ולעתיד הספרות הדיגיטלית בעידן הספרים הקוליים ומשקפי המציאות המדומה והמורחבת ( AR-VR). 
+תודה מיוחדת לאבא שלי עמרם גורדון וללילך רון על הסיוע בהכנת הפרק. תיהנו כמוני!
+
+See omnystudio.com/listener for privacy information.</content:encoded>
+      <itunes:summary>שיחה מאוד מעניינת עם גיא בן נון מנכ"ל  e-vrit . הם מדברים על הפעילות הנוכחית של החברה כחלק מקבוצת ידיעות אחרונות, על המחשבות והתכנונים להתפתחות עתידת - ספרים קוליים! וגם על פיצרים מענינים שיש לאפליקציה שלהם.&lt;br&gt;#ישראל #ספרות #ראיוןמעניין&lt;br&gt;&lt;br&gt;Commersation - קומרסיישן 99 עם גיא בן-נון, מנכ״ל e-vrit&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/2k0y41bw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ספרים, סוף סוף ספרים בקומרסיישן. גיא בן-נון, מנכ״ל e-vrit ריתק אותי בשיחה על מהפכת הספרים הדיגיטליים. עדיין ״עם ישראל אוהב ספרים מודפסים וזה לא הולך להיעלם״ גיא מסביר, אך ״השינוי המשמעותי התרחש בשנת הקורונה כשהרבה אנשים עברו לדיגיטל בעת שחנויות הספרים היו סגורות״. ׳עברית׳ מחזיקה מגוון גדול של מעל 20,000 ספרים ומשרתת קהל רחב ומועדון לקוחות של 130,000 קוראים וקוראות, כש-60 אחוז מהן נשים. גיא סיפר לי גם על ה״נטפליקסיות״ בכתיבת הפרק הראשון מצד הסופרים, על עוצמת אלפי הביקורות השבועיות של הקוראים ב׳עברית׳, על תפיסת התחרות בשוק של ׳חברבים׳ (פרנמיז) עם רשתות והוצאות הספרים,  על האפשרות של׳עברית׳ תהיה חנות בקניון ולעתיד הספרות הדיגיטלית בעידן הספרים הקוליים ומשקפי המציאות המדומה והמורחבת ( AR-VR). 
+תודה מיוחדת לאבא שלי עמרם גורדון וללילך רון על הסיוע בהכנת הפרק. תיהנו כמוני!
+
+See omnystudio.com/listener for privacy information.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>22</itunes:episode>
+      <itunes:author>תימור גורדון</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/dc6ef796-5c49-40c8-8c87-ae4a01332950/image.jpg?t=1646073585&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/dc6ef796-5c49-40c8-8c87-ae4a01332950/audio.mp3?utm_source=Podcast&amp;in_playlist=a2cc551a-402a-4e70-9764-aa7600b26534" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/commersation/99-e-vrit/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/dc6ef796-5c49-40c8-8c87-ae4a01332950/image.jpg?t=1646073585&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">dc6ef796-5c49-40c8-8c87-ae4a01332950</guid>
+      <omny:clipId>dc6ef796-5c49-40c8-8c87-ae4a01332950</omny:clipId>
+      <pubDate>Thu, 17 Mar 2022 05:00:26 +0000</pubDate>
+      <itunes:duration>2621</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/dc6ef796-5c49-40c8-8c87-ae4a01332950/audio.mp3?utm_source=Podcast&amp;in_playlist=a2cc551a-402a-4e70-9764-aa7600b26534" length="41969736" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/commersation/99-e-vrit</link>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>Us vs Them: How Binary Thinking is Being Exploited</title>
+      <itunes:episode>24</itunes:episode>
+      <itunes:title>Us vs Them: How Binary Thinking is Being Exploited</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">54116495-1005-4bcb-b3c2-fcb81ed1b5b2</guid>
+      <link>https://share.transistor.fm/s/fd6e8fb4</link>
+      <description>חשיבה בינארית ואיזה שימוש עושים בה כדי למכור לנו מוצרים, פוליטיקאיים וקבוצות ספורט.  אין פה חידוש מטורף, אבל זה כן מסדר בצורה ברורה מאפיינים של חשיבה בינארית ודרכים להמנע  (בעיקר לחשוב על יותר משתי אפשרויות לכל מצב).&lt;br&gt;#פסיכולוגיה #אנגלית&lt;br&gt;&lt;br&gt;Assorted goods - Us vs Them: How Binary Thinking is Being Exploited&lt;br&gt;משך: 42 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zocrj0g9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Coke vs Pepsi, Marvel vs DC, Republicans vs Democrats, Anything vs Damn-Near Anything.
+
+No matter where we go, every issue, big or small, gets boiled down to one side against another side. "Us vs Them". This episode of Assorted Goods, we're taking a look at how "Binary Thinking" is part of who we are as people, and how it gets easily exploited. 
+
+Source List:  https://www.disinformed.ca/ag-sources/us-vs-them-how-binary-thinking-is-being-exploited-february-28th-2022
+
+Show Notes: https://www.disinformed.ca/ag-show-notes/us-vs-them-how-binary-thinking-is-being-exploited
+
+Follow the show on twitter and instagram @disinformeddan
+
+Thoughts? Send an email! Dan@disinformed.ca
+
+Music Produced by: David Felton
+
+</description>
+      <pubDate>Tue, 15 Mar 2022 05:30:07 +0000</pubDate>
+      <author>Disinformed Content Media</author>
+      <enclosure url="https://media.transistor.fm/fd6e8fb4/ed70db97.mp3" length="51412836" type="audio/mpeg"/>
+      <itunes:author>Disinformed Content Media</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/show/23729/full_1636168326-artwork.jpg"/>
+      <itunes:duration>2566</itunes:duration>
+      <itunes:summary>חשיבה בינארית ואיזה שימוש עושים בה כדי למכור לנו מוצרים, פוליטיקאיים וקבוצות ספורט.  אין פה חידוש מטורף, אבל זה כן מסדר בצורה ברורה מאפיינים של חשיבה בינארית ודרכים להמנע  (בעיקר לחשוב על יותר משתי אפשרויות לכל מצב).&lt;br&gt;#פסיכולוגיה #אנגלית&lt;br&gt;&lt;br&gt;Assorted goods - Us vs Them: How Binary Thinking is Being Exploited&lt;br&gt;משך: 42 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/zocrj0g9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Coke vs Pepsi, Marvel vs DC, Republicans vs Democrats, Anything vs Damn-Near Anything.
+
+No matter where we go, every issue, big or small, gets boiled down to one side against another side. "Us vs Them". This episode of Assorted Goods, we're taking a look at how "Binary Thinking" is part of who we are as people, and how it gets easily exploited. 
+
+Source List:  https://www.disinformed.ca/ag-sources/us-vs-them-how-binary-thinking-is-being-exploited-february-28th-2022
+
+Show Notes: https://www.disinformed.ca/ag-show-notes/us-vs-them-how-binary-thinking-is-being-exploited
+
+Follow the show on twitter and instagram @disinformeddan
+
+Thoughts? Send an email! Dan@disinformed.ca
+
+Music Produced by: David Felton
+
+</itunes:summary>
+      <itunes:subtitle>Coke vs Pepsi, Marvel vs DC, Republicans vs Democrats, Anything vs Damn-Near Anything.
+
+No matter where we go, every issue, big or small, gets boiled down to one side against another side. "Us vs Them". This episode of Assorted Goods, we're taking a loo</itunes:subtitle>
+      <itunes:keywords/>
+      <itunes:explicit>No</itunes:explicit>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>גורי כיס: למה אנחנו כל כך מפחדים לדבר על כסף?</title>
       <itunes:title>גורי כיס: למה אנחנו כל כך מפחדים לדבר על כסף?</itunes:title>
