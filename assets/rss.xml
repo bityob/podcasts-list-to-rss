@@ -11,9 +11,50 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 24 Mar 2022 05:14:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Mar 2022 06:19:25 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+            <guid isPermaLink="false">c77697e6-6954-4812-ad2c-a4a6901df47c</guid>
+            <title>Space Heist! (Or, How to Steal a Planet)</title>
+            <link>http://www.wbur.org/endlessthread/2022/02/18/space-heist</link>
+
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">WBUR</dc:creator>
+
+                                    <category>Science</category>
+                        
+            <description>הנה תחום שכמעט לא מופיע בערוץ: אסטרונומיה. סיפור מעניין על איך שני צוותים ממדינות שונות גילו את אותה הפלנטה וכמובן נתנו לה שמות מוזרים כל אחד בדרכו. איך הם גילו אותה, מה התפקיד של טכנולוגיה ואבטחת מידע בסיפור ומי בסוף זכה לבחור את השם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Endless thread - Space Heist! (Or, How to Steal a Planet)&lt;br&gt;משך: 40 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f2n1misz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On December 28, 2004, CalTech astronomer Mike Brown and his colleagues found an unnamed dwarf planet drifting through the far reaches of the solar system. But before they could go public with their finding — as they were dotting their scientific i’s — a little-known team of Spanish astronomers beat them to the punch. José Luis Ortiz Moreno and Pablo Santo-Sanz announced the discovery of what turned out to be the same dwarf planet. Something seemed off, though. Users of an online astronomical message board started to ask: How could two teams on opposite sides of the world simultaneously find the same tiny rock? What they found sparked a philosophical debate that questioned the way science is done and may — or may not — have revealed one of the greatest robberies in modern-day astronomy.&lt;/p&gt;</description>
+            <pubDate>Thu, 24 Mar 2022 05:31:01 +0000</pubDate>
+            <itunes:episodeType>full</itunes:episodeType>
+                        <itunes:author> WBUR </itunes:author>
+            <itunes:title> Space Heist! (Or, How to Steal a Planet) </itunes:title>
+            <itunes:summary>הנה תחום שכמעט לא מופיע בערוץ: אסטרונומיה. סיפור מעניין על איך שני צוותים ממדינות שונות גילו את אותה הפלנטה וכמובן נתנו לה שמות מוזרים כל אחד בדרכו. איך הם גילו אותה, מה התפקיד של טכנולוגיה ואבטחת מידע בסיפור ומי בסוף זכה לבחור את השם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Endless thread - Space Heist! (Or, How to Steal a Planet)&lt;br&gt;משך: 40 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f2n1misz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On December 28, 2004, CalTech astronomer Mike Brown and his colleagues found an unnamed dwarf planet drifting through the far reaches of the solar system. But before they could go public with their finding — as they were dotting their scientific i’s — a little-known team of Spanish astronomers beat them to the punch. José Luis Ortiz Moreno and Pablo Santo-Sanz announced the discovery of what turned out to be the same dwarf planet. Something seemed off, though. Users of an online astronomical message board started to ask: How could two teams on opposite sides of the world simultaneously find the same tiny rock? What they found sparked a philosophical debate that questioned the way science is done and may — or may not — have revealed one of the greatest robberies in modern-day astronomy.&lt;/p&gt;</itunes:summary>
+            <itunes:subtitle>Dwarf planets, data leaks, and (maybe) deception. When two separate astronomy teams took credit for the same discovery, an online message board started asking questions.</itunes:subtitle>
+            <itunes:explicit>no</itunes:explicit>
+
+                        <itunes:image href="https://d279m997dpfwgl.cloudfront.net/wp/2022/02/2003EL61art.jpg"/>
+            <media:content url="https://d279m997dpfwgl.cloudfront.net/wp/2022/02/2003EL61art.jpg" type="image/jpeg" height="839" width="1000" medium="image">
+                                        <media:thumbnail url="https://d279m997dpfwgl.cloudfront.net/wp/2022/02/2003EL61art-200x200.jpg" height="200" width="200"/>
+                <media:description>Artist's impression of Haumea and moons. (A. Field, Space Telescope Science Institute) </media:description>
+                                    </media:content>
+                                    <itunes:duration>00:40:06</itunes:duration>
+            <media:content url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8718449094.mp3" fileSize="38498460" type="audio/mpeg" medium="audio"/>
+            <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR8718449094.mp3" length="38498460" type="audio/mpeg"/>
+                                        <content:encoded>הנה תחום שכמעט לא מופיע בערוץ: אסטרונומיה. סיפור מעניין על איך שני צוותים ממדינות שונות גילו את אותה הפלנטה וכמובן נתנו לה שמות מוזרים כל אחד בדרכו. איך הם גילו אותה, מה התפקיד של טכנולוגיה ואבטחת מידע בסיפור ומי בסוף זכה לבחור את השם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;Endless thread - Space Heist! (Or, How to Steal a Planet)&lt;br&gt;משך: 40 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/f2n1misz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On December 28, 2004, CalTech astronomer Mike Brown and his colleagues found an unnamed dwarf planet drifting through the far reaches of the solar system. But before they could go public with their finding — as they were dotting their scientific i’s — a little-known team of Spanish astronomers beat them to the punch. José Luis Ortiz Moreno and Pablo Santo-Sanz announced the discovery of what turned out to be the same dwarf planet. Something seemed off, though. Users of an online astronomical message board started to ask: How could two teams on opposite sides of the world simultaneously find the same tiny rock? What they found sparked a philosophical debate that questioned the way science is done and may — or may not — have revealed one of the greatest robberies in modern-day astronomy.&lt;/p&gt;</content:encoded>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <itunes:title>פרק 20 | העשור של טיקטוק</itunes:title>
+    <title>פרק 20 | העשור של טיקטוק</title>
+    <description>עם כמה שכולם מדברים על טיקטוק הניתוח הזה של התמונה הגדולה עדיין היה מאוד מעניין. הם סוקרים את ההבדלים בין טיק טוק לרשתות האחרות ועל האתגרים שעומדים בפניי החברה בעתיד הנראה לעין. &lt;br&gt;#טכנולוגיה #שיווק #אסטרטגיה&lt;br&gt;&lt;br&gt;התמונה הגדולה - פרק 20 | העשור של טיקטוק&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/aloatj7e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;בארבע השנים האחרונות כובשת את העולם בסערה אפליקציה חדשה - טיקטוק. ובזמן שרבים מאיתנו משתמשים בה, לא תמיד ברור לכולם מה הסיפור שלה. &lt;br/&gt;זה בדיוק מה שניסינו לעשות בפרק הזה.  &lt;br/&gt;&lt;br/&gt;דיברנו על ההצלחה של טיקטוק, על ההיסטוריה שלה, על האסטרטגיה המוצרית המבריקה וגם על הגישה המיוחדת שלה למוניטיזציה. כמו בכל פרק, דיברנו גם על הצדדים הפחות טובים שעולים להרוס את העניינים בהמשך הדרך. &lt;br/&gt;---&lt;br/&gt;כמו תמיד חשוב לנו למסור תודה גדולה לאנשים שסייעו לנו להרים את הפרק ואת הפוד, ובראש והראשונה לפטרונים שלנו. כל אחד ואחת תומך בנו סכום קטן של דולרים בודדים בחודש וביחד זה מכסה לנו את ההוצאות וגם משאיר לנו קצת כסף לקנות ביטקיון :) &lt;br/&gt;וזה כמובן פחות בגלל הכסף, ויותר בגלל האינדיקציה שאתה נהנים מהתוכן - זה הכי חשוב לנו. &lt;br/&gt;אם אתם רוצים להצטרף - זה הלינק: ל&lt;a href='https://www.patreon.com/techstratpod'&gt;פטריאון&lt;/a&gt;. עוד תודה אחת גם לאסף הוכמן היקר על האינפוטים לגבי טיקטוק. &lt;br/&gt; תודה ענקית לשותפים החדשים שלנו ב-Tech12. לאלעד ויונטה על עריכת הסאונד, למפיקת הפוסט לי שלום, וללירן ארביב על העיצוב הגרפי.  &lt;br/&gt;אתם מוזמנים להכנס ל&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק שלנו&lt;/a&gt; לעוד פרשנויות ותגובות. הפרק יצא ארוך, אבל אנחנו בטוחים שלכם ולכן יהיו עוד המון תובנות מעניינות לגבי טיקטוק שנשמח לשמוע. &lt;br/&gt;&lt;br/&gt;האזנה נעימה!&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/techstratpod"&gt;Support the show&lt;/a&gt; (https://www.patreon.com/techstratpod)</description>
+    <content:encoded>עם כמה שכולם מדברים על טיקטוק הניתוח הזה של התמונה הגדולה עדיין היה מאוד מעניין. הם סוקרים את ההבדלים בין טיק טוק לרשתות האחרות ועל האתגרים שעומדים בפניי החברה בעתיד הנראה לעין. &lt;br&gt;#טכנולוגיה #שיווק #אסטרטגיה&lt;br&gt;&lt;br&gt;התמונה הגדולה - פרק 20 | העשור של טיקטוק&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/aloatj7e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;בארבע השנים האחרונות כובשת את העולם בסערה אפליקציה חדשה - טיקטוק. ובזמן שרבים מאיתנו משתמשים בה, לא תמיד ברור לכולם מה הסיפור שלה. &lt;br/&gt;זה בדיוק מה שניסינו לעשות בפרק הזה.  &lt;br/&gt;&lt;br/&gt;דיברנו על ההצלחה של טיקטוק, על ההיסטוריה שלה, על האסטרטגיה המוצרית המבריקה וגם על הגישה המיוחדת שלה למוניטיזציה. כמו בכל פרק, דיברנו גם על הצדדים הפחות טובים שעולים להרוס את העניינים בהמשך הדרך. &lt;br/&gt;---&lt;br/&gt;כמו תמיד חשוב לנו למסור תודה גדולה לאנשים שסייעו לנו להרים את הפרק ואת הפוד, ובראש והראשונה לפטרונים שלנו. כל אחד ואחת תומך בנו סכום קטן של דולרים בודדים בחודש וביחד זה מכסה לנו את ההוצאות וגם משאיר לנו קצת כסף לקנות ביטקיון :) &lt;br/&gt;וזה כמובן פחות בגלל הכסף, ויותר בגלל האינדיקציה שאתה נהנים מהתוכן - זה הכי חשוב לנו. &lt;br/&gt;אם אתם רוצים להצטרף - זה הלינק: ל&lt;a href='https://www.patreon.com/techstratpod'&gt;פטריאון&lt;/a&gt;. עוד תודה אחת גם לאסף הוכמן היקר על האינפוטים לגבי טיקטוק. &lt;br/&gt; תודה ענקית לשותפים החדשים שלנו ב-Tech12. לאלעד ויונטה על עריכת הסאונד, למפיקת הפוסט לי שלום, וללירן ארביב על העיצוב הגרפי.  &lt;br/&gt;אתם מוזמנים להכנס ל&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק שלנו&lt;/a&gt; לעוד פרשנויות ותגובות. הפרק יצא ארוך, אבל אנחנו בטוחים שלכם ולכן יהיו עוד המון תובנות מעניינות לגבי טיקטוק שנשמח לשמוע. &lt;br/&gt;&lt;br/&gt;האזנה נעימה!&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/techstratpod"&gt;Support the show&lt;/a&gt; (https://www.patreon.com/techstratpod)</content:encoded>
+    <itunes:author/>
+    <enclosure url="https://www.buzzsprout.com/1717514/10121524-20.mp3" length="44731726" type="audio/mpeg"/>
+    <guid isPermaLink="false">Buzzsprout-10121524</guid>
+    <pubDate>Thu, 24 Mar 2022 05:30:26 +0000</pubDate>
+    <itunes:duration>3721</itunes:duration>
+    <itunes:keywords/>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן</title>
         <itunes:title>פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן</itunes:title>
         <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7516%d7%97%d7%99%d7%99%d7%9d%d7%91%d7%98%d7%a7%d7%a1%d7%a1-%d7%a2%d7%9d%d7%92%d7%9c-%d7%9e%d7%93%d7%96%d7%99%d7%a0%d7%99/</link>
@@ -6095,61 +6136,5 @@ http://ranlevi.podbean.com/mf/web/e89hsn/EP108_Running_Rerun.mp3
             <castbox:episode_premium/>
             <itunes:explicit>no</itunes:explicit>
             
-        </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <guid isPermaLink="false">ea4e2ebb-3753-4ee6-ad89-12d208dc50fc</guid>
-      <title>451- Hanko</title>
-      <description>פרק מרתק עם הצצה לתרבות היפנית. הפרק מתאר איך התחיל השימוש בחותמות האנקו ביפן ואיך (ובעיקר למה) עכשיו מנסים להפסיק להשתמש בהן. &lt;br&gt;#תרבות #יפן #הסטוריה #אנגלית&lt;br&gt;&lt;br&gt;99% Invisible - 451&lt;br&gt;&lt;br&gt;https://pca.st/episode/97485695-74ca-4794-8025-f164956d7a1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hanko, sometimes called insho, are the carved stamp seals that people in Japan often use in place of signatures. Hanko seals are made from materials ranging from plastic to jade and are about the size of a tube of lipstick. The end of each hanko is etched with its owner’s name, usually in the kanji pictorial characters used in Japanese writing. This carved end is then dipped in red cinnabar paste and impressed on a document as a form of identification. Hanko seals work like signatures, only instead of signing on a dotted line, you impress your hanko in a small circle to prove your identity. But unlike a signature, which you can make with any old pen or touch screen, in Japan you need to have your own personal hanko with you whenever you stamp something, and you have to stamp it in person.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 28 Jul 2021 15:48:24 +0000</pubDate>
-      <author>roman@99pi.org (Roman Mars)</author>
-      <link>https://99percentinvisible.org</link>
-      <content:encoded>פרק מרתק עם הצצה לתרבות היפנית. הפרק מתאר איך התחיל השימוש בחותמות האנקו ביפן ואיך (ובעיקר למה) עכשיו מנסים להפסיק להשתמש בהן. &lt;br&gt;#תרבות #יפן #הסטוריה #אנגלית&lt;br&gt;&lt;br&gt;99% Invisible - 451&lt;br&gt;&lt;br&gt;https://pca.st/episode/97485695-74ca-4794-8025-f164956d7a1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hanko, sometimes called insho, are the carved stamp seals that people in Japan often use in place of signatures. Hanko seals are made from materials ranging from plastic to jade and are about the size of a tube of lipstick. The end of each hanko is etched with its owner’s name, usually in the kanji pictorial characters used in Japanese writing. This carved end is then dipped in red cinnabar paste and impressed on a document as a form of identification. Hanko seals work like signatures, only instead of signing on a dotted line, you impress your hanko in a small circle to prove your identity. But unlike a signature, which you can make with any old pen or touch screen, in Japan you need to have your own personal hanko with you whenever you stamp something, and you have to stamp it in person.&lt;/p&gt;
-</content:encoded>
-      <enclosure length="37637818" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/3d01cdf9-5d1e-4125-a42d-3fc986f1a9b7/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=3d01cdf9-5d1e-4125-a42d-3fc986f1a9b7&amp;feed=BqbsxVfO"/>
-      <itunes:title>451- Hanko</itunes:title>
-      <itunes:author>Roman Mars</itunes:author>
-      <itunes:duration>00:39:05</itunes:duration>
-      <itunes:summary>פרק מרתק עם הצצה לתרבות היפנית. הפרק מתאר איך התחיל השימוש בחותמות האנקו ביפן ואיך (ובעיקר למה) עכשיו מנסים להפסיק להשתמש בהן. &lt;br&gt;#תרבות #יפן #הסטוריה #אנגלית&lt;br&gt;&lt;br&gt;99% Invisible - 451&lt;br&gt;&lt;br&gt;https://pca.st/episode/97485695-74ca-4794-8025-f164956d7a1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hanko, sometimes called insho, are the carved stamp seals that people in Japan often use in place of signatures. Hanko seals are made from materials ranging from plastic to jade and are about the size of a tube of lipstick. The end of each hanko is etched with its owner’s name, usually in the kanji pictorial characters used in Japanese writing. This carved end is then dipped in red cinnabar paste and impressed on a document as a form of identification. Hanko seals work like signatures, only instead of signing on a dotted line, you impress your hanko in a small circle to prove your identity. But unlike a signature, which you can make with any old pen or touch screen, in Japan you need to have your own personal hanko with you whenever you stamp something, and you have to stamp it in person.&lt;/p&gt;
-</itunes:summary>
-      <itunes:subtitle>Hanko are the carved stamp seals that people in Japan often use in place of signatures. Hanko seals are made from materials ranging from plastic to jade and are about the size of a tube of lipstick</itunes:subtitle>
-      <itunes:keywords>matthew perry, ginkgo-in, jitsu-in, mitome-in, nemawashi, hanko, japan, signature</itunes:keywords>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>מלכודות נגד מעתיקנים</title>
-        <itunes:title>מלכודות נגד מעתיקנים</itunes:title>
-        <link>https://michalporat.podbean.com/e/%d7%9e%d7%9c%d7%9b%d7%95%d7%93%d7%95%d7%aa-%d7%a0%d7%92%d7%93-%d7%9e%d7%a2%d7%aa%d7%99%d7%a7%d7%a0%d7%99%d7%9d/</link>
-        <comments>https://michalporat.podbean.com/e/%d7%9e%d7%9c%d7%9b%d7%95%d7%93%d7%95%d7%aa-%d7%a0%d7%92%d7%93-%d7%9e%d7%a2%d7%aa%d7%99%d7%a7%d7%a0%d7%99%d7%9d/#comments</comments>
-        <pubDate>Wed, 28 Jul 2021 05:09:16 +0000</pubDate>
-        <guid isPermaLink="false">michalporat.podbean.com/100c995d-7ddd-3a61-914d-41cc79f3a69f</guid>
-                      <description>5 דק' על אנשים לא קיימים באניקלופדיות וישובים לא קיימים על המפה. &lt;br&gt;#קצרים &lt;br&gt;&lt;br&gt;דברים שפספסתי בשיעור של 8:30 בבוקר - מלכודות נגד מעתיקנים&lt;br&gt;&lt;br&gt;https://pca.st/episode/0441be4b-3cba-444e-9a62-bb869be12194&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך מצליחים עורכי אינציקלופדיות להגן על מפעל חייהם ממעתיקנים? והאם יכול להיות שהעבודות שכתבנו בכיתה ה׳ התבססו בכלל על מלכודות מתוחכמות? &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;כותב ומגיש הפרק: מיכאל נירגד-גיא&lt;/p&gt;
-</description>
-                        <content:encoded>5 דק' על אנשים לא קיימים באניקלופדיות וישובים לא קיימים על המפה. &lt;br&gt;#קצרים &lt;br&gt;&lt;br&gt;דברים שפספסתי בשיעור של 8:30 בבוקר - מלכודות נגד מעתיקנים&lt;br&gt;&lt;br&gt;https://pca.st/episode/0441be4b-3cba-444e-9a62-bb869be12194&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך מצליחים עורכי אינציקלופדיות להגן על מפעל חייהם ממעתיקנים? והאם יכול להיות שהעבודות שכתבנו בכיתה ה׳ התבססו בכלל על מלכודות מתוחכמות? &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;כותב ומגיש הפרק: מיכאל נירגד-גיא&lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/2c28pf/Fake_Wiki.mp3" length="7500374" type="audio/mpeg"/>
-        <itunes:subtitle>איך מצליחים עורכי אינציקלופדיות להגן על מפעל חייהם ממעתיקנים? והאם יכול להיות שהעבודות שכתבנו בכיתה ה׳ התבססו בכלל על מלכודות מתוחכמות? 
- 
-כותב ומגיש הפרק: מיכאל נירגד-גיא</itunes:subtitle>
-        <itunes:summary>5 דק' על אנשים לא קיימים באניקלופדיות וישובים לא קיימים על המפה. &lt;br&gt;#קצרים &lt;br&gt;&lt;br&gt;דברים שפספסתי בשיעור של 8:30 בבוקר - מלכודות נגד מעתיקנים&lt;br&gt;&lt;br&gt;https://pca.st/episode/0441be4b-3cba-444e-9a62-bb869be12194&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך מצליחים עורכי אינציקלופדיות להגן על מפעל חייהם ממעתיקנים? והאם יכול להיות שהעבודות שכתבנו בכיתה ה׳ התבססו בכלל על מלכודות מתוחכמות? &lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;כותב ומגיש הפרק: מיכאל נירגד-גיא&lt;/p&gt;
-</itunes:summary>
-        <itunes:author>מיכל פורת</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>05:12</itunes:duration>
-                <itunes:episode>25</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/1183190/newlogo_podcast.png"/>    </item></channel>
+        </item></channel>
 </rss>
