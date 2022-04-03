@@ -11,9 +11,67 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 03 Apr 2022 04:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Apr 2022 05:14:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">e31de9f3-84ef-4ea0-9616-7020ad067fbb</guid>
+      <title>477- Call of Duty: Free</title>
+      <description>סיפורו של הדיוטי פרי הראשון. מסתבר שהפורמט נולד באירלנד בתור פתרון לחוסר התעסוקה של האזור. שילוב של יוזמה מקומית ומגבלה שהייתה אז על הטיסות מעל האוקיאנוס יצרו הזדמנות עסקית שהובילה למודל שמאז נפוץ בכל העולם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 477- Call of Duty: Free&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/93z1wuqp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On the west coast of Ireland, on the banks of an estuary dividing county Limerick from county Clare, lies a small town called Shannon. But Shannon is not a quaint fishing village or farming community. Its industry is its airport. And Shannon Airport is big. It handles up to 1.7 million passengers and 20,000 flights a year, most of them from other countries. It looks like a cosmopolitan international airport, but it has a unique claim to fame: the world's first airport duty-free store.&lt;/p&gt;&lt;p&gt;Today, the store has what you would expect -- designer perfumes, jewelry and various fine foods, with a lot of local (in this case Irish) products in particular. But like the area around the airport, the shop started out small, with a local boy from the area who would go on to change the world of tax-free commerce in and beyond Shannon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38763&amp;post_type=episode"&gt;Call of Duty: Free&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 03 Apr 2022 05:01:51 +0000</pubDate>
+      <author>roman@99pi.org (Kevin Caners)</author>
+      <link>https://99percentinvisible.org</link>
+      <content:encoded>סיפורו של הדיוטי פרי הראשון. מסתבר שהפורמט נולד באירלנד בתור פתרון לחוסר התעסוקה של האזור. שילוב של יוזמה מקומית ומגבלה שהייתה אז על הטיסות מעל האוקיאנוס יצרו הזדמנות עסקית שהובילה למודל שמאז נפוץ בכל העולם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 477- Call of Duty: Free&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/93z1wuqp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On the west coast of Ireland, on the banks of an estuary dividing county Limerick from county Clare, lies a small town called Shannon. But Shannon is not a quaint fishing village or farming community. Its industry is its airport. And Shannon Airport is big. It handles up to 1.7 million passengers and 20,000 flights a year, most of them from other countries. It looks like a cosmopolitan international airport, but it has a unique claim to fame: the world's first airport duty-free store.&lt;/p&gt;&lt;p&gt;Today, the store has what you would expect -- designer perfumes, jewelry and various fine foods, with a lot of local (in this case Irish) products in particular. But like the area around the airport, the shop started out small, with a local boy from the area who would go on to change the world of tax-free commerce in and beyond Shannon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38763&amp;post_type=episode"&gt;Call of Duty: Free&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="48017020" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/e28e3d13-cf52-47c1-b3b5-418e73aa8ffa/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=e28e3d13-cf52-47c1-b3b5-418e73aa8ffa&amp;feed=BqbsxVfO"/>
+      <itunes:title>477- Call of Duty: Free</itunes:title>
+      <itunes:author>Kevin Caners</itunes:author>
+      <itunes:duration>00:49:54</itunes:duration>
+      <itunes:summary>סיפורו של הדיוטי פרי הראשון. מסתבר שהפורמט נולד באירלנד בתור פתרון לחוסר התעסוקה של האזור. שילוב של יוזמה מקומית ומגבלה שהייתה אז על הטיסות מעל האוקיאנוס יצרו הזדמנות עסקית שהובילה למודל שמאז נפוץ בכל העולם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 477- Call of Duty: Free&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/93z1wuqp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On the west coast of Ireland, on the banks of an estuary dividing county Limerick from county Clare, lies a small town called Shannon. But Shannon is not a quaint fishing village or farming community. Its industry is its airport. And Shannon Airport is big. It handles up to 1.7 million passengers and 20,000 flights a year, most of them from other countries. It looks like a cosmopolitan international airport, but it has a unique claim to fame: the world's first airport duty-free store.&lt;/p&gt;&lt;p&gt;Today, the store has what you would expect -- designer perfumes, jewelry and various fine foods, with a lot of local (in this case Irish) products in particular. But like the area around the airport, the shop started out small, with a local boy from the area who would go on to change the world of tax-free commerce in and beyond Shannon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38763&amp;post_type=episode"&gt;Call of Duty: Free&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>How an airport in a small town on the west coast of Ireland changed the world economy</itunes:subtitle>
+      <itunes:keywords>sez, tax free, duty free, shannon airport, special economic zone, brendan o'regan, ireland</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>אנתוני שור - האיש שממציא שמות לפרנסתו </title>
+			<description>התקופה שלנו מאפשרת לאנשים לעבוד בתפקידים מאוד מעניינים וכאלו שלא היו שם קודם. והנה הסיפור של האיש שממציא שמות לפרנסתו. אז בהתחלה הוא עשה את זה כשכיר בחברה ובהמשך פתח חברה משל עצמו. ומה שמעניין לשמוע זה את תהליך העבודה שלו, זה לא לשבת ולחשוב על שם מגניב אלא יש לו שם צוות שלם, שימוש בAI ותהליכי עבודה שנועדו להגיע לשם מוצלח לכל חברה ומוצר. &lt;br&gt;#סיפורמעניין &lt;br&gt;&lt;br&gt;30 דקות או פחות - אנתוני שור - האיש שממציא שמות לפרנסתו&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9uihbiev&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בחיים לא הייתם חושבים שקיים מקצוע כזה, ניימר, או בעברית ממציא שמות. אבל האמת שזה מה שאנתוני שור עושה לפרנסתו. אנתוני היה בצוות שבחר את השם Accenture כשענקית הייעוץ רצתה למתג את עצמה מחדש, המציא את השם סנאפדרגון למעבדים של קוואלקום ועבד בחברה שנתנה&amp;nbsp;את השם פנטיום לסדרת המעבדים המפורסמת של אינטל. אנתוני היה מאז ומתמיד פריק של שמות, הוא למד בלשנות באוניברסיטה, ומודעת דרושים הובילה אותו לתפקיד. אז איך בוחרים שם? מה התהליך שאנתוני עושה כשהוא עובד צריך לבחור שם לסטרטאפ&amp;nbsp;או מוצר של חברה גדולה ומה קורה כשלשם הנבחר יש משמעות מצויינת בשפה אחת אבל מייצרת קונוטציה שלילית או מביכה בשפה אחרת.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;רוצים להציע לנו אורח?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://forms.gle/xc3ZMxnpP8Tjqu1J8"&gt;https://forms.gle/xc3ZMxnpP8Tjqu1J8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;הפייסבוק שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/groups/1051848711925857"&gt;https://www.facebook.com/groups/1051848711925857&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;הטוויטר שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/30pod"&gt;https://twitter.com/30pod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;האינסטגרם שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.instagram.com/30orlesspod/"&gt;https://www.instagram.com/30orlesspod/&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/30minutesorless/message</description>
+			<link>https://anchor.fm/30minutesorless/episodes/--e1de2be</link>
+			<guid isPermaLink="false">3f0d242e-d1d5-46da-9c60-c5798986af8b</guid>
+			<dc:creator>נבות וולק ואביב פרנקל</dc:creator>
+			<pubDate>Sun, 03 Apr 2022 05:00:35 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/9ed2e94/podcast/play/46647086/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-0-25%2Fe2813731-8052-5200-ff11-d05ccafc7fcb.mp3" length="27283651" type="audio/mpeg"/>
+			<itunes:summary>התקופה שלנו מאפשרת לאנשים לעבוד בתפקידים מאוד מעניינים וכאלו שלא היו שם קודם. והנה הסיפור של האיש שממציא שמות לפרנסתו. אז בהתחלה הוא עשה את זה כשכיר בחברה ובהמשך פתח חברה משל עצמו. ומה שמעניין לשמוע זה את תהליך העבודה שלו, זה לא לשבת ולחשוב על שם מגניב אלא יש לו שם צוות שלם, שימוש בAI ותהליכי עבודה שנועדו להגיע לשם מוצלח לכל חברה ומוצר. &lt;br&gt;#סיפורמעניין &lt;br&gt;&lt;br&gt;30 דקות או פחות - אנתוני שור - האיש שממציא שמות לפרנסתו&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9uihbiev&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בחיים לא הייתם חושבים שקיים מקצוע כזה, ניימר, או בעברית ממציא שמות. אבל האמת שזה מה שאנתוני שור עושה לפרנסתו. אנתוני היה בצוות שבחר את השם Accenture כשענקית הייעוץ רצתה למתג את עצמה מחדש, המציא את השם סנאפדרגון למעבדים של קוואלקום ועבד בחברה שנתנה&amp;nbsp;את השם פנטיום לסדרת המעבדים המפורסמת של אינטל. אנתוני היה מאז ומתמיד פריק של שמות, הוא למד בלשנות באוניברסיטה, ומודעת דרושים הובילה אותו לתפקיד. אז איך בוחרים שם? מה התהליך שאנתוני עושה כשהוא עובד צריך לבחור שם לסטרטאפ&amp;nbsp;או מוצר של חברה גדולה ומה קורה כשלשם הנבחר יש משמעות מצויינת בשפה אחת אבל מייצרת קונוטציה שלילית או מביכה בשפה אחרת.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;רוצים להציע לנו אורח?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://forms.gle/xc3ZMxnpP8Tjqu1J8"&gt;https://forms.gle/xc3ZMxnpP8Tjqu1J8&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;הפייסבוק שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.facebook.com/groups/1051848711925857"&gt;https://www.facebook.com/groups/1051848711925857&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;הטוויטר שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/30pod"&gt;https://twitter.com/30pod&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;האינסטגרם שלנו&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.instagram.com/30orlesspod/"&gt;https://www.instagram.com/30orlesspod/&lt;/a&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/30minutesorless/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2166</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1565389/1565389-1552999150689-d8c8554641f37.jpg"/>
+			<itunes:episode>252</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>150. The Egg's Warning</title>
       <itunes:title>150. The Egg's Warning</itunes:title>
       <description>זום על ביצת ההפתעה של קינדר ועל נייר האזהרה שמתלווה אליה. האזהרה היא מעיין מצב מוזר בשביל החברה כי היא גם מזהירה מפני שימוש במוצר שלה ומצד שני היא חייבת להזהיר כי היו ילדים שמתו בגלל הצעצועים שבפנים. ומסתבר שיש גם מה ללמוד מהתירגום של האזהרה לשפות שונות (34 שפות ליתר דיוק). &lt;br&gt;#אנגלית #אוכל #שפות&lt;br&gt;&lt;br&gt;The allusionist - 150. The Egg's Warning&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s3q3lox6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;"Warning: read and keep," says the piece of paper inside Kinder Surprise Eggs, in 34 languages; yet most people do neither thing. But sociologist Keith Kahn-Harris did read and keep it, and study what the egg is trying to tell us: about Kinder Egg toy safety, yes, but also about multilingualism, about an object that says 'yes!' but the warning says 'no!', about the signs of human idiosyncracy that show themselves even in a mandatory corporate message.
@@ -3077,32 +3135,7 @@ http://ranlevi.podbean.com/mf/web/e89hsn/EP108_Running_Rerun.mp3
 תודה ל-GoDesk על תמיכתה בעושים היסטוריה.
 ========================================
 לחצ/י כאן כדי להרשם לרשימת התפוצה ולקבל עדכונים על פרקים חדשים.
-התחברו אלינו ברשתות החברתיות: פייסבוק, גוגל+,טוויטר...</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9753a8e67a74acdac57c3db7d4c5e4b3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>ספיישל לאונרד כהן</title>
-      <itunes:title>ספיישל לאונרד כהן</itunes:title>
-      <description>קצת נחת לאוזניים - אני מאוד אוהבת את לאונרד כהן והפרק הזה היה פשוט תענוג.&lt;br&gt;&lt;br&gt;https://prnt.sc/21pmlr5&lt;br&gt;&lt;br&gt;ספיישל של חצות - ספיישל לאונרד כהן&lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>קצת נחת לאוזניים - אני מאוד אוהבת את לאונרד כהן והפרק הזה היה פשוט תענוג.&lt;br&gt;&lt;br&gt;https://prnt.sc/21pmlr5&lt;br&gt;&lt;br&gt;ספיישל של חצות - ספיישל לאונרד כהן&lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>קצת נחת לאוזניים - אני מאוד אוהבת את לאונרד כהן והפרק הזה היה פשוט תענוג.&lt;br&gt;&lt;br&gt;https://prnt.sc/21pmlr5&lt;br&gt;&lt;br&gt;ספיישל של חצות - ספיישל לאונרד כהן&lt;br&gt;&lt;br&gt;https://pca.st/episode/7782f664-7ae5-42f7-b232-6e5fbeeb1e78&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;50 שנה ל-Songs of Love and Hate. עם רוני ורטהיימר ודויד פרץ
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/36c7304b-96fe-46b7-b17f-acf30171ab49/image.jpg?t=1616452023&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/36c7304b-96fe-46b7-b17f-acf30171ab49/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07&amp;t=1616727633" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/midnight-special/36c7304b-96fe-46b7-b17f-acf30171ab49/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/36c7304b-96fe-46b7-b17f-acf30171ab49/image.jpg?t=1616452023&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">36c7304b-96fe-46b7-b17f-acf30171ab49</guid>
-      <omny:clipId>36c7304b-96fe-46b7-b17f-acf30171ab49</omny:clipId>
-      <pubDate>Thu, 09 Dec 2021 06:02:01 +0000</pubDate>
-      <itunes:duration>6770</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/36c7304b-96fe-46b7-b17f-acf30171ab49/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07&amp;t=1616727633" length="108360885" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/midnight-special/36c7304b-96fe-46b7-b17f-acf30171ab49</link>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+התחברו אלינו ברשתות החברתיות: פייסבוק, גוגל+,טוויטר...</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9753a8e67a74acdac57c3db7d4c5e4b3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">4395b2b1-a442-47d3-90b6-20a3d7aa6397</guid>
       <title>449- Mine!</title>
       <description>נמשיך עם מזון למחשבה - בעקבות הפרק הזה הלכתי לקרוא את הספר Mine!: How the Hidden Rules of Ownership Control Our Lives&lt;br&gt;ומאוד ממליצה גם לכם. נושא הבעלות הוא לא טריוויאלי כמו שחושבים והוא בטוח לא נקבע ע"י כוחות הטבע.&lt;br&gt;אנשים מגדירים בעלות על משאבים, חפצים ואנשים אחרים, הכל בהתבסס על כמה חוקי בעלות בסיסיים. &lt;br&gt;#אנגלית&lt;br&gt;https://prnt.sc/21pm11f&lt;br&gt;&lt;br&gt;99% Invisible - 449- Mine!&lt;br&gt;&lt;br&gt;https://pca.st/episode/757853bc-122d-4288-a46d-e8c591c5d175&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Every year, fights break out on airplanes. They happen between the people who lean back in their seats, and the people who get their knees smooshed. Sometimes planes have to be grounded because of these arguments. If you think about it, these arguments are the result of confusion. Both people paid for a seat on the airplane, but it's unclear who owns the space behind it. Jim Salzman and Michael Heller are law professors and the authors of a new book called &lt;a href="https://www.penguinrandomhouse.com/books/601899/mine-by-michael-heller-and-james-salzman/"&gt;&lt;i&gt;Mine! How the Hidden Rules of Ownership Control Our Lives&lt;/i&gt;&lt;/a&gt;. They write about these common instances where ownership is not clear cut. According to Salzman and Heller, confusing ownership rules are often the result of poor ownership &lt;i&gt;design&lt;/i&gt;. This is true not just for airplane seats, but also for battles over digital privacy, climate change, and wealth inequality.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=37675&amp;post_type=episode"&gt;Mine!&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
@@ -3969,31 +4002,6 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:keywords>design, machias, slash, 49th parallel, peace arch, canada, border</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>יום הולדת 80 לפול סיימון | חלק 1 - One Trick Pony</title>
-      <itunes:title>יום הולדת 80 לפול סיימון | חלק 1 - One Trick Pony</itunes:title>
-      <description>קצת מוזיקה לנשמה! לרגל יום הולדת 80 לפול סיימון (ההוא מסיימון וגרפונקל 😉) ספיישל של חצות עשו עליו 4 תוכניות. הרבה מוזיקה טובה, פרשנויות, מאחורי הקלעים וסיפורים שאני לפחות, לא הכרתי. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - יום הולדת 80 לפול סיימון&lt;br&gt;&lt;br&gt;https://pca.st/ml0ck3u8&lt;br&gt;https://pca.st/goohzzwu&lt;br&gt;https://pca.st/4w16j4j2&lt;br&gt;https://pca.st/6amnob4k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;סדרת תכניות על פול סיימון בשנות ה-80 לרגל יום הולדתו ה-80. עם גיל מטוס וירון בן עמי
-
-See omnystudio.com/listener for privacy information.</description>
-      <content:encoded>קצת מוזיקה לנשמה! לרגל יום הולדת 80 לפול סיימון (ההוא מסיימון וגרפונקל 😉) ספיישל של חצות עשו עליו 4 תוכניות. הרבה מוזיקה טובה, פרשנויות, מאחורי הקלעים וסיפורים שאני לפחות, לא הכרתי. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - יום הולדת 80 לפול סיימון&lt;br&gt;&lt;br&gt;https://pca.st/ml0ck3u8&lt;br&gt;https://pca.st/goohzzwu&lt;br&gt;https://pca.st/4w16j4j2&lt;br&gt;https://pca.st/6amnob4k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;סדרת תכניות על פול סיימון בשנות ה-80 לרגל יום הולדתו ה-80. עם גיל מטוס וירון בן עמי
-
-See omnystudio.com/listener for privacy information.</content:encoded>
-      <itunes:summary>קצת מוזיקה לנשמה! לרגל יום הולדת 80 לפול סיימון (ההוא מסיימון וגרפונקל 😉) ספיישל של חצות עשו עליו 4 תוכניות. הרבה מוזיקה טובה, פרשנויות, מאחורי הקלעים וסיפורים שאני לפחות, לא הכרתי. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;ספיישל של חצות 88 - יום הולדת 80 לפול סיימון&lt;br&gt;&lt;br&gt;https://pca.st/ml0ck3u8&lt;br&gt;https://pca.st/goohzzwu&lt;br&gt;https://pca.st/4w16j4j2&lt;br&gt;https://pca.st/6amnob4k&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;סדרת תכניות על פול סיימון בשנות ה-80 לרגל יום הולדתו ה-80. עם גיל מטוס וירון בן עמי
-
-See omnystudio.com/listener for privacy information.</itunes:summary>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/1d7ebe13-d7b6-403d-ac32-adbd00679d18/image.jpg?t=1633846904&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/1d7ebe13-d7b6-403d-ac32-adbd00679d18/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/midnight-special/80-1-one-trick-pony/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/1d7ebe13-d7b6-403d-ac32-adbd00679d18/image.jpg?t=1633846904&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">1d7ebe13-d7b6-403d-ac32-adbd00679d18</guid>
-      <omny:clipId>1d7ebe13-d7b6-403d-ac32-adbd00679d18</omny:clipId>
-      <pubDate>Sun, 07 Nov 2021 06:30:12 +0000</pubDate>
-      <itunes:duration>3379</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/1d7ebe13-d7b6-403d-ac32-adbd00679d18/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" length="54097457" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/midnight-special/80-1-one-trick-pony</link>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>מלחמת הבקלה [כשבגרוש היה חור]</title><link>https://www.spreaker.com/user/pimedia/mstgroosh-fishing</link><description>פרק משעשע על מלחמות בריטניה ואיסלנד. בדרך מסבירים בצורה יפה את מושגי הבעלות של כל מדינה על שטחי המים שלהן. ואיך הבעלות הזאת גדלה עם השנים ואיך זה משפיע עלינו גם היום. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;https://prnt.sc/1xuit4v&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - מלחמת הבקלה &lt;br&gt;&lt;br&gt;https://pca.st/f7u2lfoy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;על שטח דייג פורה אחד מתחרות שתי מדינות. במדינה הראשונה, רוב תושבייה דייגים, ואילו במדינה השנייה יש יותר דייגים מאשר כל אוכלוסיית המדינה הראשונה. מה הפתרון?&lt;br /&gt;איך יצאה בריטניה למלחמה עם איסלנד בשביל להגן על הפיש אנד ציפס שלה - מה היה שם, מי ניצחה ומה זו הטרגדיה של נחלת הכלל?&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/47125056</guid><pubDate>Thu, 04 Nov 2021 10:01:01 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/47125056/mstgroosh_fishing.mp3" length="25744091" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>על שטח דייג פורה אחד מתחרות שתי מדינות. במדינה הראשונה, רוב תושבייה דייגים, ואילו במדינה השנייה יש יותר דייגים מאשר כל אוכלוסיית המדינה הראשונה. מה הפתרון?
 איך יצאה בריטניה למלחמה עם איסלנד בשביל להגן על הפיש אנד ציפס שלה - מה היה שם, מי ניצחה ומה זו...</itunes:subtitle><itunes:summary>פרק משעשע על מלחמות בריטניה ואיסלנד. בדרך מסבירים בצורה יפה את מושגי הבעלות של כל מדינה על שטחי המים שלהן. ואיך הבעלות הזאת גדלה עם השנים ואיך זה משפיע עלינו גם היום. &lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;https://prnt.sc/1xuit4v&lt;br&gt;&lt;br&gt;כשבגרוש היה חור - מלחמת הבקלה &lt;br&gt;&lt;br&gt;https://pca.st/f7u2lfoy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;על שטח דייג פורה אחד מתחרות שתי מדינות. במדינה הראשונה, רוב תושבייה דייגים, ואילו במדינה השנייה יש יותר דייגים מאשר כל אוכלוסיית המדינה הראשונה. מה הפתרון?&lt;br /&gt;איך יצאה בריטניה למלחמה עם איסלנד בשביל להגן על הפיש אנד ציפס שלה - מה היה שם, מי ניצחה ומה זו הטרגדיה של נחלת הכלל?&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;רועי.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/10/24/jerusalem-tizmoret-grush-bakala/&lt;/a&gt;</itunes:summary><itunes:duration>1609</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/24257bca886635c1e152952b693a3ed7.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>רשת עושים היסטוריה</googleplay:author><googleplay:description>על שטח דייג פורה אחד מתחרות שתי מדינות. במדינה הראשונה, רוב תושבייה דייגים, ואילו במדינה השנייה יש יותר דייגים מאשר כל אוכלוסיית המדינה הראשונה. מה הפתרון?
 איך יצאה בריטניה למלחמה עם איסלנד בשביל להגן על הפיש אנד ציפס שלה - מה היה שם, מי ניצחה ומה זו הטרגדיה של נחלת הכלל?
@@ -6219,14 +6227,5 @@ https://www.ads.ranlevi.com/2021/08/15/revopticv-grush-hafret/</googleplay:descr
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>104</itunes:episode>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>למה הכדורגל באולימפיאדה כל כך לא מעניין? [הקיפוד]</title><link>https://www.spreaker.com/user/pimedia/mst-hakipod-olympicsfootball_1</link><description>תשובה לשאלה שלא ידעתי שיש לי. למה הכדורגל באולימפיאדה לא נחשב ?&lt;br&gt;#ספורט #הסטוריה &lt;br&gt;&lt;br&gt;הקיפוד - 66&lt;br&gt;&lt;br&gt;https://pca.st/episode/56c23deb-c922-4d2d-b740-b34f3fb86664&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אירוע הספורט הגדול בעולם פוגש את הענף הפופולרי ביותר - מתכון מושלם להצלחה. ובכן, לא. זה לא מתחבר, אפילו לא קצת. מטורניר שיכול היה להפוך למתחרה, או אפילו ליורשו של המונדיאל, נותרנו עם יצור כלאיים שמעטים אלו שמבינים כיצד הוא מתחיל, מתקיים ונגמר.&lt;br /&gt;&lt;br /&gt;דניאל מקדאואל מספר על רצף האירועים שיצר את חוסר העניין המשווע בטורניר הכדורגל האולימפי לדורותיו. הצטרפו ולימדו על סיפור בן מעל ל-100 שנים של שני עולמות מקבילים שפשוט לא מצליחים להיפגש.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;הקיפוד.&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/46051697</guid><pubDate>Thu, 12 Aug 2021 16:37:26 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/46051697/mst_hakipod_olympicsfootball.mp3" length="17938580" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>אירוע הספורט הגדול בעולם פוגש את הענף הפופולרי ביותר - מתכון מושלם להצלחה. ובכן, לא. זה לא מתחבר, אפילו לא קצת. מטורניר שיכול היה להפוך למתחרה, או אפילו ליורשו של המונדיאל, נותרנו עם יצור כלאיים שמעטים אלו שמבינים כיצד הוא מתחיל, מתקיים ונגמר.
-
-דניאל...</itunes:subtitle><itunes:summary>תשובה לשאלה שלא ידעתי שיש לי. למה הכדורגל באולימפיאדה לא נחשב ?&lt;br&gt;#ספורט #הסטוריה &lt;br&gt;&lt;br&gt;הקיפוד - 66&lt;br&gt;&lt;br&gt;https://pca.st/episode/56c23deb-c922-4d2d-b740-b34f3fb86664&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;אירוע הספורט הגדול בעולם פוגש את הענף הפופולרי ביותר - מתכון מושלם להצלחה. ובכן, לא. זה לא מתחבר, אפילו לא קצת. מטורניר שיכול היה להפוך למתחרה, או אפילו ליורשו של המונדיאל, נותרנו עם יצור כלאיים שמעטים אלו שמבינים כיצד הוא מתחיל, מתקיים ונגמר.&lt;br /&gt;&lt;br /&gt;דניאל מקדאואל מספר על רצף האירועים שיצר את חוסר העניין המשווע בטורניר הכדורגל האולימפי לדורותיו. הצטרפו ולימדו על סיפור בן מעל ל-100 שנים של שני עולמות מקבילים שפשוט לא מצליחים להיפגש.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;הקיפוד.&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/" rel="noopener"&gt;https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/&lt;/a&gt;</itunes:summary><itunes:duration>1122</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e66691a75bde48c0c05f4c5178e241ba.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>רשת עושים היסטוריה</googleplay:author><googleplay:description>אירוע הספורט הגדול בעולם פוגש את הענף הפופולרי ביותר - מתכון מושלם להצלחה. ובכן, לא. זה לא מתחבר, אפילו לא קצת. מטורניר שיכול היה להפוך למתחרה, או אפילו ליורשו של המונדיאל, נותרנו עם יצור כלאיים שמעטים אלו שמבינים כיצד הוא מתחיל, מתקיים ונגמר.
-
-דניאל מקדאואל מספר על רצף האירועים שיצר את חוסר העניין המשווע בטורניר הכדורגל האולימפי לדורותיו. הצטרפו ולימדו על סיפור בן מעל ל-100 שנים של שני עולמות מקבילים שפשוט לא מצליחים להיפגש.
-
-האזנה נעימה,
-הקיפוד.
-
-https://www.ads.ranlevi.com/2021/08/11/panda-hakipod-olympics-soccer/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/e66691a75bde48c0c05f4c5178e241ba.jpg"/><googleplay:explicit>No</googleplay:explicit></item></channel>
+    </item></channel>
 </rss>
