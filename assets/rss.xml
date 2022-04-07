@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 07 Apr 2022 15:15:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Apr 2022 16:21:44 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Artist Spotlight: Exploring the Web1 Genesis of Heaven Computer with Godmin</title>
@@ -55,7 +55,24 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:keywords>דנית בן דוד, אודיובריין, כרמל וייסמן, המצב הפוסט אנושי, פודקאסט, פודקאסט על עקבים, מאחורי המיקרופון</itunes:keywords>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-  </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Grocery delivery wars  </title>
+      <description>סיפורו של סטארטאפ שמתחייב להביא את הזמנת הירקות שלכם תוך 20 דק'. ובפועל חשיבה על האם זה מודל עסקי שיכול להצליח והאם זה מודל שנדרש באמת על ידי הלקוחות?&lt;br&gt;#אנגלית #עסקים &lt;br&gt;&lt;br&gt;Planet money - Grocery delivery wars&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7jd9r8vk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Behind the scenes at a new kind of grocery store that promises delivery in minutes. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </description>
+      <pubDate>Tue, 05 Apr 2022 04:01:01 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">ec219d50-a7ed-4156-897f-c1e16c838c7d</guid>
+      <link>https://www.npr.org/2022/02/18/1081710046/grocery-delivery-wars</link>
+      <itunes:title>Grocery delivery wars  </itunes:title>
+      <itunes:episode>1518</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפורו של סטארטאפ שמתחייב להביא את הזמנת הירקות שלכם תוך 20 דק'. ובפועל חשיבה על האם זה מודל עסקי שיכול להצליח והאם זה מודל שנדרש באמת על ידי הלקוחות?&lt;br&gt;#אנגלית #עסקים &lt;br&gt;&lt;br&gt;Planet money - Grocery delivery wars&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7jd9r8vk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Behind the scenes at a new kind of grocery store that promises delivery in minutes. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/03/11/gettyimages-1235460410_wide-12f2da3bc9309b8eec15300668e12f43ad4c043f.jpg?s=1400"/>
+      <itunes:duration>1040</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפורו של סטארטאפ שמתחייב להביא את הזמנת הירקות שלכם תוך 20 דק'. ובפועל חשיבה על האם זה מודל עסקי שיכול להצליח והאם זה מודל שנדרש באמת על ידי הלקוחות?&lt;br&gt;#אנגלית #עסקים &lt;br&gt;&lt;br&gt;Planet money - Grocery delivery wars&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/7jd9r8vk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Behind the scenes at a new kind of grocery store that promises delivery in minutes. | Subscribe to our weekly newsletter &lt;a href="https://www.npr.org/newsletter/money?utm_source=rss_feed_copy&amp;utm_medium=podcast&amp;utm_term=planet_money"&gt;here&lt;/a&gt;. </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/03/20220311_pmoney_pmpod1147.mp3?awCollectionId=510289&amp;awEpisodeId=1081710046&amp;orgId=1&amp;topicId=1006&amp;d=1040&amp;p=510289&amp;story=1081710046&amp;t=podcast&amp;e=1081710046&amp;size=16654089&amp;ft=pod&amp;f=510289" length="16654089" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">e31de9f3-84ef-4ea0-9616-7020ad067fbb</guid>
       <title>477- Call of Duty: Free</title>
       <description>סיפורו של הדיוטי פרי הראשון. מסתבר שהפורמט נולד באירלנד בתור פתרון לחוסר התעסוקה של האזור. שילוב של יוזמה מקומית ומגבלה שהייתה אז על הטיסות מעל האוקיאנוס יצרו הזדמנות עסקית שהובילה למודל שמאז נפוץ בכל העולם. &lt;br&gt;#סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 477- Call of Duty: Free&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/93z1wuqp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;On the west coast of Ireland, on the banks of an estuary dividing county Limerick from county Clare, lies a small town called Shannon. But Shannon is not a quaint fishing village or farming community. Its industry is its airport. And Shannon Airport is big. It handles up to 1.7 million passengers and 20,000 flights a year, most of them from other countries. It looks like a cosmopolitan international airport, but it has a unique claim to fame: the world's first airport duty-free store.&lt;/p&gt;&lt;p&gt;Today, the store has what you would expect -- designer perfumes, jewelry and various fine foods, with a lot of local (in this case Irish) products in particular. But like the area around the airport, the shop started out small, with a local boy from the area who would go on to change the world of tax-free commerce in and beyond Shannon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=38763&amp;post_type=episode"&gt;Call of Duty: Free&lt;/a&gt;&lt;/p&gt;
@@ -284,7 +301,25 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>3049</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/df7f5bde-fd4c-41b1-986c-aa7600b1fbef/a5bebdfe-ae85-43fd-8532-ae4400e2059f/audio.mp3?utm_source=Podcast&amp;in_playlist=a2cc551a-402a-4e70-9764-aa7600b26534" length="48813823" type="audio/mpeg"/>
       <link>https://omny.fm/shows/commersation/98</link>
-    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>Collector Spotlight: Famed Art Collector Adam Lindemann on Bridging Art Worlds</title>
+      <description>שיחה מעניינת עם Adam Lindemann - אספן אומנות, בעלים של גלריה פופולארית בניו יורק ועכשיו אספן NFT. נקודת מבט של מי שפגש את אנדי וורהול ועסק באומנות הרבה לפני שבלוקצ'יין פרץ לחיינו. &lt;br&gt;#אומנות #אנגלית #בלוקציין &lt;br&gt;&lt;br&gt;Proof - Collector Spotlight: Famed Art Collector Adam Lindemann on Bridging Art Worlds&lt;br&gt;משך: 50 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qkam83l6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor, writer, and art collector Adam Lindemann chats with Kevin about his early social life with icons such as Andy Warhol and the modern traditional art world. Adam gives exciting perspectives on the similarities and differences between traditional and NFT art.</description>
+      <pubDate>Sun, 27 Mar 2022 05:01:01 +0000</pubDate>
+      <itunes:title>Collector Spotlight: Famed Art Collector Adam Lindemann on Bridging Art Worlds</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Kevin Rose</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/c93827fa-8ad6-11ec-9208-afcc6550b8d9/image/proof-cover-adamL-external.png?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle/>
+      <itunes:summary>שיחה מעניינת עם Adam Lindemann - אספן אומנות, בעלים של גלריה פופולארית בניו יורק ועכשיו אספן NFT. נקודת מבט של מי שפגש את אנדי וורהול ועסק באומנות הרבה לפני שבלוקצ'יין פרץ לחיינו. &lt;br&gt;#אומנות #אנגלית #בלוקציין &lt;br&gt;&lt;br&gt;Proof - Collector Spotlight: Famed Art Collector Adam Lindemann on Bridging Art Worlds&lt;br&gt;משך: 50 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qkam83l6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor, writer, and art collector Adam Lindemann chats with Kevin about his early social life with icons such as Andy Warhol and the modern traditional art world. Adam gives exciting perspectives on the similarities and differences between traditional and NFT art.</itunes:summary>
+      <content:encoded>שיחה מעניינת עם Adam Lindemann - אספן אומנות, בעלים של גלריה פופולארית בניו יורק ועכשיו אספן NFT. נקודת מבט של מי שפגש את אנדי וורהול ועסק באומנות הרבה לפני שבלוקצ'יין פרץ לחיינו. &lt;br&gt;#אומנות #אנגלית #בלוקציין &lt;br&gt;&lt;br&gt;Proof - Collector Spotlight: Famed Art Collector Adam Lindemann on Bridging Art Worlds&lt;br&gt;משך: 50 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qkam83l6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Investor, writer, and art collector Adam Lindemann chats with Kevin about his early social life with icons such as Andy Warhol and the modern traditional art world. Adam gives exciting perspectives on the similarities and differences between traditional and NFT art.</content:encoded>
+      <itunes:duration>3073</itunes:duration>
+      <guid isPermaLink="false">c93827fa-8ad6-11ec-9208-afcc6550b8d9</guid>
+      <enclosure url="https://chrt.fm/track/F1ACE7/traffic.megaphone.fm/MFI3322937874.mp3?updated=1644541864" length="0" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom"><title>מי באמת היה הראשון שהקיף את העולם? חלק א' [התשובה]</title><link>https://www.spreaker.com/user/pimedia/d_37</link><description>שני פרקים כיפים של התשובה. מי באמת היה הראשון שהקיף את העולם ? מסתבר שלא רק שזה לא היה מגלן אלא שהיה בסיפור הזה הרבה מעבר לסיפור הבסיסי של לצאת להקיף את העולם בשביל חדוות הגילוי. &lt;br&gt;#גאוגרפיה #הסטוריה &lt;br&gt;&lt;br&gt;התשובה: מי באמת היה הראשון שהקיף את העולם?&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/o9ld9cu0&lt;br&gt;&lt;br&gt;חלק ב':   הצד הרחוק של העולם: מי באמת היה הראשון שהקיף את העולם? &lt;br&gt;משך: 50 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/u9iuqm86&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כולם יודעים שמגלן היה הראשון להקיף את העולם. הם טועים, אבל לא לגמרי: הסיפור של מגלן הוא אכן הסיפור של הקפת העולם הראשונה, אבל הוא כנראה לא הסיפור שחשבתם שהוא. זה סיפור לא רק על תגליות ואומץ, אלא גם על חמדנות, תככים ובגידות בלב ים, וטעויות קריטיות בגאוגרפיה. חלק ראשון מתוך שניים, כי זה סיפור ארוך&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2022/02/14/doors-answer-world/" rel="noopener"&gt;https://www.ads.ranlevi.com/2022/02/14/doors-answer-world/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/48723240</guid><pubDate>Sun, 27 Mar 2022 05:00:16 +0000</pubDate><enclosure url="https://api.spreaker.com/download/episode/48723240/episode_48723240.mp3" length="43185958" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>כולם יודעים שמגלן היה הראשון להקיף את העולם. הם טועים, אבל לא לגמרי: הסיפור של מגלן הוא אכן הסיפור של הקפת העולם הראשונה, אבל הוא כנראה לא הסיפור שחשבתם שהוא. זה סיפור לא רק על תגליות ואומץ, אלא גם על חמדנות, תככים ובגידות בלב ים, וטעויות קריטיות...</itunes:subtitle><itunes:summary>שני פרקים כיפים של התשובה. מי באמת היה הראשון שהקיף את העולם ? מסתבר שלא רק שזה לא היה מגלן אלא שהיה בסיפור הזה הרבה מעבר לסיפור הבסיסי של לצאת להקיף את העולם בשביל חדוות הגילוי. &lt;br&gt;#גאוגרפיה #הסטוריה &lt;br&gt;&lt;br&gt;התשובה: מי באמת היה הראשון שהקיף את העולם?&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/o9ld9cu0&lt;br&gt;&lt;br&gt;חלק ב':   הצד הרחוק של העולם: מי באמת היה הראשון שהקיף את העולם? &lt;br&gt;משך: 50 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/u9iuqm86&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כולם יודעים שמגלן היה הראשון להקיף את העולם. הם טועים, אבל לא לגמרי: הסיפור של מגלן הוא אכן הסיפור של הקפת העולם הראשונה, אבל הוא כנראה לא הסיפור שחשבתם שהוא. זה סיפור לא רק על תגליות ואומץ, אלא גם על חמדנות, תככים ובגידות בלב ים, וטעויות קריטיות בגאוגרפיה. חלק ראשון מתוך שניים, כי זה סיפור ארוך&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2022/02/14/doors-answer-world/" rel="noopener"&gt;https://www.ads.ranlevi.com/2022/02/14/doors-answer-world/&lt;/a&gt;</itunes:summary><itunes:duration>2700</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType><googleplay:author>רשת עושים היסטוריה</googleplay:author><googleplay:description>כולם יודעים שמגלן היה הראשון להקיף את העולם. הם טועים, אבל לא לגמרי: הסיפור של מגלן הוא אכן הסיפור של הקפת העולם הראשונה, אבל הוא כנראה לא הסיפור שחשבתם שהוא. זה סיפור לא רק על תגליות ואומץ, אלא גם על חמדנות, תככים ובגידות בלב ים, וטעויות קריטיות בגאוגרפיה. חלק ראשון מתוך שניים, כי זה סיפור ארוך&#13;
+&#13;
+&#13;
+&#13;
+https://www.ads.ranlevi.com/2022/02/14/doors-answer-world/</googleplay:description><googleplay:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><googleplay:explicit>No</googleplay:explicit></item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
             <guid isPermaLink="false">c77697e6-6954-4812-ad2c-a4a6901df47c</guid>
             <title>Space Heist! (Or, How to Steal a Planet)</title>
             <link>http://www.wbur.org/endlessthread/2022/02/18/space-heist</link>
@@ -325,136 +360,7 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
     <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-  </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן</title>
-        <itunes:title>פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן</itunes:title>
-        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7516%d7%97%d7%99%d7%99%d7%9d%d7%91%d7%98%d7%a7%d7%a1%d7%a1-%d7%a2%d7%9d%d7%92%d7%9c-%d7%9e%d7%93%d7%96%d7%99%d7%a0%d7%99/</link>
-        <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7516%d7%97%d7%99%d7%99%d7%9d%d7%91%d7%98%d7%a7%d7%a1%d7%a1-%d7%a2%d7%9d%d7%92%d7%9c-%d7%9e%d7%93%d7%96%d7%99%d7%a0%d7%99/#comments</comments>
-        <pubDate>Tue, 22 Mar 2022 05:01:41 +0000</pubDate>
-        <guid isPermaLink="false">geekonomy.podbean.com/53aac1a9-7599-33c8-b227-52f5e6ae1482</guid>
-                      <description>פרק מעט שונה של גיקונומי. הפעם ראיון עם שלושה ישראלים שעברו לאוסטין, טקסס ומדברים על המעבר ועל החיים שם. &lt;br&gt;מעניין למי ששוקל לעבור וגם למי שפשוט ררוצה לשמור איך ישראלים חיים לא בעמק הסיליקון. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן&lt;br&gt;משך: שעתיים&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/337nqv07&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;פרק מיוחד שמוקדש כולו לחיים באוסטין טקסס. לפני 9 חודשים דורון ומשפחתו החליטו לעבור מ״עמק הסיליקון״ בקליפורניה לאוסטין, בירת טקסס. מה היו הסיבות ואיך החיים במדינה הכי רפובליקנית באמריקה? לשיחה הצטרפו גל מדזיני, אדריכלית ומעצבת פנים שעברה לאזור לפני ארבע שנים, ונדב ויצמן, מוביל מוצר ב-Epic Games, שעבר לאוסטין מקליפורניה בקיץ האחרון.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;על מה דיברנו:&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;חברים אמריקאים, רובים, הפלות, רפובליקנים, שמרנים, פוליטיקה, מיסים, רמת חיים, אוכל, מזג אויר, בתי ספר ציבוריים, מוסיקה, בתים להשכרה ובתים למכירה, החיים בארץ, הגעגועים למשפחה ועוד המון דברים.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;(הפרק נפתח ב-9 דקות של חפירה אישית, למתעצבנים בקלות מומלץ לדלג)&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;קישורים והמלצות:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='https://3amigosboatrental.com/'&gt;שיט בסירה על האגם&lt;/a&gt;
-&lt;a href='https://ramen-tatsuya.com/'&gt;Ramen Tatsuya&lt;/a&gt;
-&lt;a href='https://uchikoaustin.com/'&gt;Uchiko&lt;/a&gt;
-&lt;a href='https://www.abarestaurants.com/austin/'&gt;Aba Restaurents&lt;/a&gt;
-&lt;a href='https://www.simon.com/mall/the-domain'&gt;The Domain, Austin&lt;/a&gt;
-&lt;a href='https://www.texasrowingcenter.com/'&gt;Texas Rowing Center&lt;/a&gt;
-&lt;a href='https://www.terryblacksbbq.com/'&gt;Terry Black BBQ&lt;/a&gt;
-&lt;a href='https://www.theinterstellarbbq.com/'&gt;Interstellar BBQ&lt;/a&gt;
-&lt;a href='http://www.stilesswitchbbq.com/'&gt;Stiles Switch BBQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt; - חסויות בגיקונומי
-&lt;a href='https://itunes.apple.com/il/podcast/geekonomy-gyqwnwmy-pwdq-st/id1019124387'&gt;הרשמה ב-iTunes &lt;/a&gt;&lt;a href='https://geekonomy.net/category/%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/feed/'&gt;הרשמו ל-RSS שלנו&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</description>
-                        <content:encoded>פרק מעט שונה של גיקונומי. הפעם ראיון עם שלושה ישראלים שעברו לאוסטין, טקסס ומדברים על המעבר ועל החיים שם. &lt;br&gt;מעניין למי ששוקל לעבור וגם למי שפשוט ררוצה לשמור איך ישראלים חיים לא בעמק הסיליקון. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן&lt;br&gt;משך: שעתיים&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/337nqv07&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;פרק מיוחד שמוקדש כולו לחיים באוסטין טקסס. לפני 9 חודשים דורון ומשפחתו החליטו לעבור מ״עמק הסיליקון״ בקליפורניה לאוסטין, בירת טקסס. מה היו הסיבות ואיך החיים במדינה הכי רפובליקנית באמריקה? לשיחה הצטרפו גל מדזיני, אדריכלית ומעצבת פנים שעברה לאזור לפני ארבע שנים, ונדב ויצמן, מוביל מוצר ב-Epic Games, שעבר לאוסטין מקליפורניה בקיץ האחרון.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;על מה דיברנו:&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;חברים אמריקאים, רובים, הפלות, רפובליקנים, שמרנים, פוליטיקה, מיסים, רמת חיים, אוכל, מזג אויר, בתי ספר ציבוריים, מוסיקה, בתים להשכרה ובתים למכירה, החיים בארץ, הגעגועים למשפחה ועוד המון דברים.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;(הפרק נפתח ב-9 דקות של חפירה אישית, למתעצבנים בקלות מומלץ לדלג)&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;קישורים והמלצות:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='https://3amigosboatrental.com/'&gt;שיט בסירה על האגם&lt;/a&gt;
-&lt;a href='https://ramen-tatsuya.com/'&gt;Ramen Tatsuya&lt;/a&gt;
-&lt;a href='https://uchikoaustin.com/'&gt;Uchiko&lt;/a&gt;
-&lt;a href='https://www.abarestaurants.com/austin/'&gt;Aba Restaurents&lt;/a&gt;
-&lt;a href='https://www.simon.com/mall/the-domain'&gt;The Domain, Austin&lt;/a&gt;
-&lt;a href='https://www.texasrowingcenter.com/'&gt;Texas Rowing Center&lt;/a&gt;
-&lt;a href='https://www.terryblacksbbq.com/'&gt;Terry Black BBQ&lt;/a&gt;
-&lt;a href='https://www.theinterstellarbbq.com/'&gt;Interstellar BBQ&lt;/a&gt;
-&lt;a href='http://www.stilesswitchbbq.com/'&gt;Stiles Switch BBQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt; - חסויות בגיקונומי
-&lt;a href='https://itunes.apple.com/il/podcast/geekonomy-gyqwnwmy-pwdq-st/id1019124387'&gt;הרשמה ב-iTunes &lt;/a&gt;&lt;a href='https://geekonomy.net/category/%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/feed/'&gt;הרשמו ל-RSS שלנו&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/gqu6hr/Geekonomy516.mp3" length="114536502" type="audio/mpeg"/>
-        <itunes:subtitle>
-פרק מיוחד שמוקדש כולו לחיים באוסטין טקסס. לפני 9 חודשים דורון ומשפחתו החליטו לעבור מ״עמק הסיליקון״ בקליפורניה לאוסטין, בירת טקסס. מה היו הסיבות ואיך החיים במדינה הכי רפובליקנית באמריקה? לשיחה הצטרפו גל מדזיני, אדריכלית ומעצבת פנים שעברה לאזור לפני ארבע ...</itunes:subtitle>
-        <itunes:summary>פרק מעט שונה של גיקונומי. הפעם ראיון עם שלושה ישראלים שעברו לאוסטין, טקסס ומדברים על המעבר ועל החיים שם. &lt;br&gt;מעניין למי ששוקל לעבור וגם למי שפשוט ררוצה לשמור איך ישראלים חיים לא בעמק הסיליקון. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;גיקונומי - פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן&lt;br&gt;משך: שעתיים&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/337nqv07&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;פרק מיוחד שמוקדש כולו לחיים באוסטין טקסס. לפני 9 חודשים דורון ומשפחתו החליטו לעבור מ״עמק הסיליקון״ בקליפורניה לאוסטין, בירת טקסס. מה היו הסיבות ואיך החיים במדינה הכי רפובליקנית באמריקה? לשיחה הצטרפו גל מדזיני, אדריכלית ומעצבת פנים שעברה לאזור לפני ארבע שנים, ונדב ויצמן, מוביל מוצר ב-Epic Games, שעבר לאוסטין מקליפורניה בקיץ האחרון.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;על מה דיברנו:&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;חברים אמריקאים, רובים, הפלות, רפובליקנים, שמרנים, פוליטיקה, מיסים, רמת חיים, אוכל, מזג אויר, בתי ספר ציבוריים, מוסיקה, בתים להשכרה ובתים למכירה, החיים בארץ, הגעגועים למשפחה ועוד המון דברים.&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;(הפרק נפתח ב-9 דקות של חפירה אישית, למתעצבנים בקלות מומלץ לדלג)&lt;/p&gt;
-
-&lt;p&gt; &lt;/p&gt;
-
-&lt;p&gt;קישורים והמלצות:&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='https://3amigosboatrental.com/'&gt;שיט בסירה על האגם&lt;/a&gt;
-&lt;a href='https://ramen-tatsuya.com/'&gt;Ramen Tatsuya&lt;/a&gt;
-&lt;a href='https://uchikoaustin.com/'&gt;Uchiko&lt;/a&gt;
-&lt;a href='https://www.abarestaurants.com/austin/'&gt;Aba Restaurents&lt;/a&gt;
-&lt;a href='https://www.simon.com/mall/the-domain'&gt;The Domain, Austin&lt;/a&gt;
-&lt;a href='https://www.texasrowingcenter.com/'&gt;Texas Rowing Center&lt;/a&gt;
-&lt;a href='https://www.terryblacksbbq.com/'&gt;Terry Black BBQ&lt;/a&gt;
-&lt;a href='https://www.theinterstellarbbq.com/'&gt;Interstellar BBQ&lt;/a&gt;
-&lt;a href='http://www.stilesswitchbbq.com/'&gt;Stiles Switch BBQ&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt; - חסויות בגיקונומי
-&lt;a href='https://itunes.apple.com/il/podcast/geekonomy-gyqwnwmy-pwdq-st/id1019124387'&gt;הרשמה ב-iTunes &lt;/a&gt;&lt;a href='https://geekonomy.net/category/%D7%A4%D7%A8%D7%A7%D7%99%D7%9D/feed/'&gt;הרשמו ל-RSS שלנו&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</itunes:summary>
-        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>01:59:17</itunes:duration>
-                <itunes:episode>521</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <media:content url="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2022-02-22_at_12_02_19_AM_wsjqjy.jpeg" medium="image">
-                            <media:title type="html">פרק #516 - חיים בטקסס עם גל מדזיני ונדב ויצמן</media:title></media:content>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Product Journeys: Kairos</title>
       <description>סיפורה של חברת Kairos והמנכ"ל שלה. החברה פיתחה תוכנה לזיהוי פנים אבל מה שהיה מיוחד בה זה שהתוכנה לזיהוי הפנים עברה אימון על מאגרי מידע גדולים שהכילו לא רק אנשים לבנים אלא אנשים ממגוון הצבעים והגזעים. זה הפך את התוצאות שלה למדוייקות יותר מרוב התוכנות האחרות בשוק ומצד שני גם הביא אליה הרבה תשומת לב ממשלתית שהיא ממש לא חיפשה. &lt;br&gt;#אנגלית #טכנולוגיה&lt;br&gt;&lt;br&gt;Rocketship - Product Journeys: Kairos&lt;br&gt;משך: 39 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/kz48ncno&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Facial recognition startup Kairos, founded by Brian Brackeen, was one of the only companies in it's space with a black CEO, and it turned out to be their secret weapon... until the Trump Administration came knocking and wanted to use their ability to more accurately recognize illegal immigrants and deport them. Brian refused, but his board revolted and sued him to remove him as CEO. This is the story of a founder who refused to compromise on his values.
 This episode is brought to you by:
