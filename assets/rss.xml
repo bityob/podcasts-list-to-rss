@@ -11,9 +11,173 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 04:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Apr 2022 05:14:18 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>כוחו של הרגל  - פופקורן 233 עם אור רז</title>
+        <itunes:title>כוחו של הרגל  - פופקורן 233 עם אור רז</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%9b%d7%95%d7%97%d7%95%d7%a9%d7%9c-%d7%94%d7%a8%d7%92%d7%9c%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-233-%d7%a2%d7%9d%d7%90%d7%95%d7%a8/</link>
+        <comments>https://frnkl.podbean.com/e/%d7%9b%d7%95%d7%97%d7%95%d7%a9%d7%9c-%d7%94%d7%a8%d7%92%d7%9c%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-233-%d7%a2%d7%9d%d7%90%d7%95%d7%a8/#comments</comments>
+        <pubDate>Sun, 10 Apr 2022 05:01:42 +0000</pubDate>
+        <guid isPermaLink="false">frnkl.podbean.com/a50a4d8d-ae1a-3af2-b199-83c3a0deeb44</guid>
+                      <description>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
+
+&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
+
+&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
+
+&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
+</description>
+                        <content:encoded>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
+
+&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
+
+&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
+
+&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/9tj4ap/_233_a9ogq.mp3" length="120541225" type="audio/mpeg"/>
+        <itunes:subtitle>איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?
+ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן,...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
+
+&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
+
+&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
+
+&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:32:27</itunes:duration>
+                <itunes:episode>232</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/_233_61euj.png"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>#94: Ann Handley [Voice] – How to make your voice a differentiator in your work</title>
+      <link>https://www.creativeelements.fm/ann-handley/</link>
+      <description>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
+Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
+In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
+Learn more about Ann Handley
+Subscribe to Total ANNARCHY
+Read Ann Handley's How To Newsletter PDF
+Follow Jay on Twitter
+Follow Creative Elements on Instagram
+Full transcript and show notes
+***
+SPONSORS
+View all sponsors and offers
+***
+IF YOU LOVE CREATIVE ELEMENTS
+Leave me a voicemail
+Subscribe to weekly episode emails
+Leave a review on Apple Podcasts
+Leave a rating on Spotify
+Buy Me A Coffee
+***
+ABOUT JAY CLOUSE
+Learn more about me
+Subscribe to my newsletter, Creative Companion
+Connect with me on Twitter
+Connect with me on Instagram
+Join #Tweet100
+***
+FOR PODCASTERS
+Enroll in my podcasting workshop
+Enroll in my course on podcasting, Podcast Like The Pros
+Learn more about Podpage
+***
+PODGLOMERATE NETWORK
+This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
+Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Sun, 10 Apr 2022 05:01:01 +0000</pubDate>
+      <itunes:title>Ann Handley [Voice] – How to make your voice a differentiator in your work</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>94</itunes:episode>
+      <itunes:author>Jay Clouse / The Podglomerate</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/46093e8e-3da4-11ec-bb56-1f6e34e4aade/image/94_Ann_Handley.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Ann Handley is a writer, digital marketing pioneer, and Wall Street Journal bestselling author</itunes:subtitle>
+      <itunes:summary>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
+Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
+In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
+Learn more about Ann Handley
+Subscribe to Total ANNARCHY
+Read Ann Handley's How To Newsletter PDF
+Follow Jay on Twitter
+Follow Creative Elements on Instagram
+Full transcript and show notes
+***
+SPONSORS
+View all sponsors and offers
+***
+IF YOU LOVE CREATIVE ELEMENTS
+Leave me a voicemail
+Subscribe to weekly episode emails
+Leave a review on Apple Podcasts
+Leave a rating on Spotify
+Buy Me A Coffee
+***
+ABOUT JAY CLOUSE
+Learn more about me
+Subscribe to my newsletter, Creative Companion
+Connect with me on Twitter
+Connect with me on Instagram
+Join #Tweet100
+***
+FOR PODCASTERS
+Enroll in my podcasting workshop
+Enroll in my course on podcasting, Podcast Like The Pros
+Learn more about Podpage
+***
+PODGLOMERATE NETWORK
+This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
+Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
+Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
+In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
+Learn more about Ann Handley
+Subscribe to Total ANNARCHY
+Read Ann Handley's How To Newsletter PDF
+Follow Jay on Twitter
+Follow Creative Elements on Instagram
+Full transcript and show notes
+***
+SPONSORS
+View all sponsors and offers
+***
+IF YOU LOVE CREATIVE ELEMENTS
+Leave me a voicemail
+Subscribe to weekly episode emails
+Leave a review on Apple Podcasts
+Leave a rating on Spotify
+Buy Me A Coffee
+***
+ABOUT JAY CLOUSE
+Learn more about me
+Subscribe to my newsletter, Creative Companion
+Connect with me on Twitter
+Connect with me on Instagram
+Join #Tweet100
+***
+FOR PODCASTERS
+Enroll in my podcasting workshop
+Enroll in my course on podcasting, Podcast Like The Pros
+Learn more about Podpage
+***
+PODGLOMERATE NETWORK
+This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
+Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>3408</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">46093e8e-3da4-11ec-bb56-1f6e34e4aade</guid>
+      <enclosure url="https://pdst.fm/e/chtbl.com/track/4G278/traffic.megaphone.fm/TPG2138002955.mp3?updated=1646865486" length="0" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Artist Spotlight: Exploring the Web1 Genesis of Heaven Computer with Godmin</title>
       <description>ראיון עם Godmin יוצרת של סדרת NFT חדשה שמשלבת בין web1 לweb3. בעיקר מעניין כדי לראות את הסיפור האישי שלה, איך היא התחילה בתור מתכנתת ועם הזמן מצאה דרך לביטוי עצמי (ונסיון להרוויח כסף) דרך הNFT.&lt;br&gt;#אנגלית #בלוקציין #אומנות&lt;br&gt;&lt;br&gt;Proof - Artist Spotlight: Exploring the Web1 Genesis of Heaven Computer with Godmin&lt;br&gt;משך: 50 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/4j0woh0p&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Kevin is joined by Godmin, creator of Heaven Computer, to discuss the bridge she's created between the worlds of Web1 and Web3.</description>
       <pubDate>Thu, 07 Apr 2022 04:31:01 +0000</pubDate>
@@ -6216,42 +6380,5 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <itunes:duration>3118</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/39be6dbf-c0d6-48fc-99d8-ac2a009b12cb/d555cd96-3785-4e36-8189-ac6e00909948/audio.mp3?utm_source=Podcast&amp;in_playlist=8c31359e-525d-4d36-9eac-ac2a009cc637&amp;t=1605153660" length="49924095" type="audio/mpeg"/>
       <link>https://omny.fm/shows/retrial/d555cd96-3785-4e36-8189-ac6e00909948</link>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-			<title>219: Roger Love: How to Speak (&amp; Sing) With Confidence</title>
-			<pubDate>Sat, 21 Aug 2021 17:08:48 +0000</pubDate>
-			<guid isPermaLink="false">1320295e-1ec6-4ca1-9dc2-ddd855763817</guid>
-			<link>https://www.marieforleo.com/2020/08/roger-love/</link>
-			<itunes:image href="https://ssl-static.libsyn.com/p/assets/e/f/8/a/ef8a9af8a2cf9442/MarieForleoPodcast_2020_NEW_Cover_FINAL.jpg"/>
-			<description>שיחה עם רוג'ר לאב, מאמן קול שעבד עם המון זמרים ושחקנים. מה שמעניין בשיחה איתו (חוץ מזה שהיא מאוד כייפית וזורמת) זה שהוא מדגים איך בעזרת קול אפשר לשנות את המשמעות של המשפט שלנו ואיך הקול משפיע לחלוטין על התפיסה שלנו את עצמינו ואת מי שנמצא מולינו. &lt;br&gt;#סיפורמעניין #אנגלית #שיפורעצמי&lt;br&gt;&lt;br&gt;The Marie Forleo podcast - 219 &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2c2be49-dbaa-48b1-abe4-f46960beb461&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Feel insecure or boring when you speak? America’s top voice coach, Roger Love, has vocal techniques that will improve your voice. Case in point — Bradley Cooper hired Roger to teach him how to sing, and then he won a Grammy. If you want to learn what Roger’s taught Selena Gomez, Gwen Stefani, and Tony Robbins to speak and sing with confidence, this interview is a must-listen. https://www.marieforleo.com/2020/08/roger-love/  We are a world of monotone, we need to use more notes. A piano has 88 keys. @RogerLove1 via @MarieForleo</description>
-			<content:encoded>שיחה עם רוג'ר לאב, מאמן קול שעבד עם המון זמרים ושחקנים. מה שמעניין בשיחה איתו (חוץ מזה שהיא מאוד כייפית וזורמת) זה שהוא מדגים איך בעזרת קול אפשר לשנות את המשמעות של המשפט שלנו ואיך הקול משפיע לחלוטין על התפיסה שלנו את עצמינו ואת מי שנמצא מולינו. &lt;br&gt;#סיפורמעניין #אנגלית #שיפורעצמי&lt;br&gt;&lt;br&gt;The Marie Forleo podcast - 219 &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/episode/c2c2be49-dbaa-48b1-abe4-f46960beb461&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Feel insecure or boring when you speak? America’s top voice coach, Roger Love, has vocal techniques that will improve your voice. Case in point — Bradley Cooper hired Roger to teach him how to sing, and then he won a Grammy. If you want to learn what Roger’s taught Selena Gomez, Gwen Stefani, and Tony Robbins to speak and sing with confidence, this interview is a must-listen. https://www.marieforleo.com/2020/08/roger-love/  We are a world of monotone, we need to use more notes. A piano has 88 keys. @RogerLove1 via @MarieForleo</content:encoded>
-			<enclosure length="54773034" type="audio/mpeg" url="https://traffic.libsyn.com/secure/themarieforleopodcast/219_-_Roger_Love_-_How_to_Speak_Sing_With_Confidence.mp3?dest-id=469726"/>
-			<itunes:duration>37:22</itunes:duration>
-			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords/>
-			<itunes:subtitle>Feel insecure or boring when you speak? America’s top voice coach, Roger Love, has vocal techniques that will improve your voice. Case in point — Bradley Cooper hired Roger to teach him how to sing, and then he won a Grammy. If you want to learn what </itunes:subtitle>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
-      <guid isPermaLink="false">4fcde5d0-d0c3-4267-bb85-271c7e45dc1d</guid>
-      <title>Cody Keenan: Speech Writer and Former Director of Speechwriting for President Barack Obama</title>
-      <description>שיחה מעניינת עם כותב הנאומים של הנשיא לשעבר ברק אובמה. קודי קינן מדבר על כתיבת נאומים, על דיבור בפני קהל ועל איך זה לכתוב נאומים לאומה. &lt;br&gt;#כתיבה #סיפורמעניין #אנגלית&lt;br&gt;Remarkable people - 88&lt;br&gt;&lt;br&gt;https://pca.st/episode/735b4a87-2612-48b5-8a8b-7d2b8cdf06b9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;You'll be blown away with this interview with speechwriter Cody Keenan, former Director of Speechwriting for President Barack Obama. President Obama said he relied “on Cody not just to share my vision, but to help tell America’s story.”
-
-“He’s a brilliant writer," Mr. Obama added. “He’s relentless.” Listen in as Guy Kawasaki talks to Cody about his years working at The White House this week on the Remarkable People Podcast.</description>
-      <pubDate>Wed, 18 Aug 2021 05:30:36 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Guy Kawasaki, Jeff Sieh, Cody Keenan, Peg Fitzpatrick)</author>
-      <link>https://guykawasaki.com/remarkable-people/</link>
-      <enclosure length="57878381" type="audio/mpeg" url="https://chrt.fm/track/55D4D8/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/0fcd1c69-7c31-4cb2-8db3-86dbd2cd138a/audio/759da9fd-10dc-49f6-9836-91948583c7c5/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
-      <itunes:title>Cody Keenan: Speech Writer and Former Director of Speechwriting for President Barack Obama</itunes:title>
-      <itunes:author>Guy Kawasaki, Jeff Sieh, Cody Keenan, Peg Fitzpatrick</itunes:author>
-      <itunes:duration>00:59:18</itunes:duration>
-      <itunes:summary>שיחה מעניינת עם כותב הנאומים של הנשיא לשעבר ברק אובמה. קודי קינן מדבר על כתיבת נאומים, על דיבור בפני קהל ועל איך זה לכתוב נאומים לאומה. &lt;br&gt;#כתיבה #סיפורמעניין #אנגלית&lt;br&gt;Remarkable people - 88&lt;br&gt;&lt;br&gt;https://pca.st/episode/735b4a87-2612-48b5-8a8b-7d2b8cdf06b9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;You'll be blown away with this interview with speechwriter Cody Keenan, former Director of Speechwriting for President Barack Obama. President Obama said he relied “on Cody not just to share my vision, but to help tell America’s story.”
-
-“He’s a brilliant writer," Mr. Obama added. “He’s relentless.” Listen in as Guy Kawasaki talks to Cody about his years working at The White House this week on the Remarkable People Podcast.</itunes:summary>
-      <itunes:subtitle>You'll be blown away with this interview with speechwriter Cody Keenan, former Director of Speechwriting for President Barack Obama. President Obama said he relied “on Cody not just to share my vision, but to help tell America’s story.”
-
-“He’s a brilliant writer," Mr. Obama added. “He’s relentless.” Listen in as Guy Kawasaki talks to Cody about his years working at The White House this week on the Remarkable People Podcast.</itunes:subtitle>
-      <itunes:keywords>speech writer, obama white house, speechwriting, president obama, speeches, white house, guy kawasaki's remarkable people podcast, cody keenan, remarkable people</itunes:keywords>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>88</itunes:episode>
     </item></channel>
 </rss>
