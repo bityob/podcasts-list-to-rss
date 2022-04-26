@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 26 Apr 2022 22:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Apr 2022 23:17:02 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #482 - מאיר פנסטר ועולם הפטנטים</title>
@@ -2444,7 +2444,22 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
             <media:content url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3978322933.mp3" fileSize="26273564" type="audio/mpeg" medium="audio"/>
             <enclosure url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/traffic.megaphone.fm/BUR3978322933.mp3" length="26273564" type="audio/mpeg"/>
                                         <content:encoded>מאחורי הקלעים של מאבקי האימוג'י. הפעם הדיון הוא סביב אימוג'י הדינוזאור, שמסתבר שיש  לו יותר משמעויות ממה שיכולתי לנחש. &lt;br&gt;#תרבות #טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;https://prnt.sc/26p6qex&lt;br&gt;&lt;br&gt;Endless thread - The internet's fight over dinosaur emoji&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/bsgh55p3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Emoji might not be 66 million years old, but they are pretty much everywhere. Join Ben and Amory as they explore the history of dinosaur emoji in LGBTQ+ communities and their more recent use as an online dog-whistle for anti-trans activists. What happens when one symbol is used for conflicting reasons? And can the dinosaur emoji avoid redefinition — or extinction?&lt;/p&gt;</content:encoded>
-        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1188966811</guid>
+      <title>אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה</title>
+      <pubDate>Thu, 10 Feb 2022 04:40:04 +0000</pubDate>
+      <link>https://soundcloud.com/user-459490827/zr6rxphejcft</link>
+      <itunes:duration>00:32:47</itunes:duration>
+      <itunes:author>חצי שעה של השראה עם ערן גפן</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>שיחה עם מנכ"ל סודה סטרים. על מנהיגות, על אופי החברה אחרי רכישה ע"י פפסיקו ועל האתגרים שבלהיות מנכ"ל. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;&lt;br&gt;חצי שעה של השראה - אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/cht2x4s6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבות. אבל דווקא המנהיגות השקטה של שוחט התאימה יותר אחרי הרכישה של פפסי והובילה את החברה לצמיחה דו–ספרתית ולחציית רף מיליארד הדולר במכירות.
+אתר חברת היעוץ האסטרטגי של ערן גפן, העוזרת לחברות לפתח מנועי צמיחה חדשים www.gteam.org</itunes:summary>
+      <itunes:subtitle>כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבו…</itunes:subtitle>
+      <description>שיחה עם מנכ"ל סודה סטרים. על מנהיגות, על אופי החברה אחרי רכישה ע"י פפסיקו ועל האתגרים שבלהיות מנכ"ל. &lt;br&gt;#ראיוןמעניין&lt;br&gt;&lt;br&gt;&lt;br&gt;חצי שעה של השראה - אייל שוחט | מנכ״ל סודה סטרים: על מנהיגות שקטה&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/cht2x4s6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשאייל שוחט מונה למנכ"ל סודהסטרים, הורמו הרבה גבות. אבל דווקא המנהיגות השקטה של שוחט התאימה יותר אחרי הרכישה של פפסי והובילה את החברה לצמיחה דו–ספרתית ולחציית רף מיליארד הדולר במכירות.
+אתר חברת היעוץ האסטרטגי של ערן גפן, העוזרת לחברות לפתח מנועי צמיחה חדשים www.gteam.org</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1188966811-user-459490827-zr6rxphejcft.mp3" length="29482937"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-Z2r8oduDoLBNqxSg-yk7osg-t3000x3000.jpg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 223: למה כל כך יקר לחייך</title>
       <itunes:title>פרק 223: למה כל כך יקר לחייך</itunes:title>
       <description>טיפולי השיניים נשארו מחוץ לסל הבריאות ורואים את ההשפעה של זה על שהכבות היותר עניות במדינה. הפרק הזה סוקר את ההשתלשלות ההסטורית של איך זה קרה. ומה עשו לאחרונה כדי לנסות מעט לשנות את המצב.&lt;br&gt;#בריאות #כלכלה #הסטוריה &lt;br&gt;&lt;br&gt;חיות כיס - פרק 223: למה כל כך יקר לחייך&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/yumbr2wu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;עיניים - כן, אף-אוזן-גרון - כן, אבל שיניים - לא. איך קרה שמדינת ישראל השאירה מחוץ לסל הבריאות דווקא את טיפולי השיניים, ומי מרוויח מזה 
