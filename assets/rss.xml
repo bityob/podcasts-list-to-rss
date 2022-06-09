@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 09 Jun 2022 22:16:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jun 2022 23:15:34 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 				<title>מועדון קרבז 🐱‍💻 סייברסייבר ע05פ01</title>
@@ -716,7 +716,7 @@ Send in a voice message: https://anchor.fm/30minutesorless/message</itunes:summa
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://content.production.cdn.art19.com/images/f5/e6/1b/bc/f5e61bbc-72fb-49f1-9427-e5aa7b85ef22/ece910b7851c1ca30aca1143ca3700199cba94ec8ac64753b448c74005ccf38b526b2b834f06de0554828cd8c0b7c34bfbedbe00c227afc0a41af5456a51a6c1.jpeg"/>
       <itunes:duration>01:20:33</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/e7748281-f52d-46ac-8a0a-988e72920dd3.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" type="audio/mpeg" length="77340421"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/e7748281-f52d-46ac-8a0a-988e72920dd3.mp3" type="audio/mpeg" length="77340421"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #535 - אתגר קרת כותב קצר</title>
         <itunes:title>פרק #535 - אתגר קרת כותב קצר</itunes:title>
@@ -3036,7 +3036,7 @@ See Privacy Policy at https://art19.com/privacy and California Privacy Notice at
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://content.production.cdn.art19.com/images/de/89/0f/1f/de890f1f-c70e-4866-9aa0-982964eb089b/b1336e586a180c18358e6ffb59d8a80dce01be4694f7adf8787d68c99454b0764975e8687c1f9461b88cb1890870e41e3980e947fd6a703c176ba13e392c5234.jpeg"/>
       <itunes:duration>01:09:38</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/018823ee-4aae-408b-90be-22fe3cc1b8c7.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" type="audio/mpeg" length="66861348"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/018823ee-4aae-408b-90be-22fe3cc1b8c7.mp3" type="audio/mpeg" length="66861348"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:title>כל מה שרציתם לדעת על אפיית בצקי שמרים אבל התביישתם לשאול</itunes:title>
     <title>כל מה שרציתם לדעת על אפיית בצקי שמרים אבל התביישתם לשאול</title>
