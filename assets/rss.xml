@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 20 Jun 2022 09:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 10:19:11 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>How the burrito became a sandwich (Classic) </title>
@@ -6045,7 +6045,23 @@ See omnystudio.com/listener for privacy information.</itunes:summary>
       <psc:chapters>
         <psc:chapter start="00:23:35" title="הטיפ של מתי רם מאדסקייל"/>
       </psc:chapters>
-    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:castbox="http://castbox.fm/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+            <title>איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר</title>
+            <description>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </description>
+            <content:encoded>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </content:encoded>
+            <itunes:summary>אני כנראה אמליץ על כל פרק עם מאיה קוסובר כי בנוסף לזה שהיא המגישה והעורכת של "שיר אחד" היא גם מוותיקי יוצרי הפודקאסטים בישראל. בפרק הזה היא מדברת על איך עושים תחקיר ואיך מראיינים כך שיצאו סיפורים מעניינים. &lt;br&gt;#פודקאסטים&lt;br&gt;&lt;br&gt;איך עושים פודקאסט? - איך בונים תחקיר וריאיון? | פרק 14 עם מאיה קוסובר&lt;br&gt;&lt;br&gt;https://pca.st/k7a7fs65&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;  &lt;p&gt;תחקיר וראיון הן אולי אבני הבסיס של פודקאסט – ואין מישהי טובה יותר לדבר איתה על זה מאשר מאיה קוסובר.&lt;/p&gt;&lt;p&gt;מאיה היא "פודקאסטרית במשרה מלאה", כפי שהיא מתארת את זה, והיא מספרת לנו בשיחה כיפית ומרתקת על הדרך שהובילה אותה ליצירת פודקאסטים כפי שהיא עושה, כולל סיפורים שלא שמעתם על מאחורי הקלעים של "שיר אחד", וגם – המון טיפים פרקטיים ומעולים שיעזרו לכם לחשוב אחרת על הפודקאסט הבא שלכם, ואולי גם ימריצו אתכם לעשות פודקאסט נראטיבי. אז&lt;/p&gt;&lt;p&gt;הכינו דף ועט – ובואו נלמד איך עושים פודקאסט!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לכל הפרקים ולמידע נוסף על איך עושים פודקאסט היכנסו לאתר שלנו - howtopodcast.co.il&lt;/p&gt;  </itunes:summary>
+            <itunes:image href="https://s3.castbox.fm/fe/7b/08/dd37a944cb921a3e7f81bfb11d.jpg"/>
+            <enclosure url="https://s3.castbox.fm/70/ea/d9/79f65743289d9c49d938d05ace.mp3" type="audio/mp3" length="89659430"/>
+            <itunes:duration>01:02:15</itunes:duration>
+            <guid>album-061c31349f5a4cdd9bd7353ac6d2d3d6-7d81e007c78b4398953317fac9cccfec</guid>
+            <pubDate>Thu, 18 Nov 2021 06:30:29 +0000</pubDate>
+            <author/>
+            <author_picture/>
+            <castbox:tid>440132394</castbox:tid>
+            <castbox:episode_premium/>
+            <itunes:explicit>no</itunes:explicit>
+            
+        </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <title>Cup Runneth</title>
       <description>סיפורו של עץ מאוד מיוחד - The Chalice Tree, שנמצא באירלנד והוא הגיבור של עלילה הסטורית מרתקת. ודרך סיפורו של העץ גם הצצה לסיפורם של האירים הקתולים והפרוטסטנטיים ב200 השנים האחרונות. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;Stuff the British stole - Cup Runneth&lt;br&gt;&lt;br&gt;https://pca.st/hwlawuc7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In County Cork, Ireland, there’s a tree that locals call the Chalice Tree. Local lore says it’s where British Redcoats disrupted a secret Catholic mass, killed two priests and took a sacred chalice.
 
