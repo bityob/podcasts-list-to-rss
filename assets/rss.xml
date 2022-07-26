@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 26 Jul 2022 19:13:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jul 2022 20:17:38 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><title>Classic Desert Island Discs - George Michael</title><description>ראיון מעניין עם ג'ורג' מייקל ז"ל שנערך ב2007. איזו מוזיקה הוא היה לוקח לאי בודד (מסתבר שלא את שלו) ובין לבין קצת על סיפור החיים שלו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/y029ACjaPZIn&lt;br&gt;Desert Island Discs - George Michael&lt;br&gt;משך: 36 דק' &lt;br&gt;https://pca.st/2x45sagk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Kirsty Young's castaway this week is George Michael, in a programme first broadcast in 2007. As a singer and songwriter he has enjoyed massive global success for a quarter of a century. He's sold more than 100 million records, won two Grammy awards and notched up countless number one hits.
 
@@ -1752,27 +1752,7 @@ Send in a voice message: https://anchor.fm/30minutesorless/message</itunes:summa
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo400/1565389/1565389-1552999150689-d8c8554641f37.jpg"/>
 			<itunes:episode>257</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-      <title>WordPress &amp; Automattic: Matt Mullenweg</title>
-      <description>סיפור הקמתה של חברת וודרפרס. ויותר מדוייק איך Matt Mullenweg חשב עליה ואז הקים את Automattic שבבעלותה נמצאת וורדפרס. &lt;br&gt;היום החברה שווה ביליונים ומנהלת מספר חברות מאוד מוכרות שביניהן טמבלר וגם האפליקציה שדרכה אני מקשיבה לפודקאסטים -  Pocket. &lt;br&gt;#טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;How I built this - WordPress &amp; Automattic: Matt Mullenweg&lt;br&gt;משך: שעה ו24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ofk85jgu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Matt Mullenweg turned his early passion for blogging into a flourishing business and an unshakeable idea: that users should be able to share and tweak the code that powers their&amp;nbsp;websites, and that most of those tools should be free to use.&amp;nbsp;As far back as college,&amp;nbsp;Matt was collaborating with far-flung fellow-coders to make blogging less clunky and more elegant and intuitive. Around 2005, he pitched the idea for WordPress.com to his bosses at CNET, but they turned him down, so he launched the idea on his own, eventually tucking the service into a nascent umbrella company called Automattic.&amp;nbsp;Today—after many twists and turns—the company has nearly 2000 employees and a valuation of&amp;nbsp;$7 billion;&amp;nbsp;and WordPress powers more than 40% of the websites on the internet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
-      </description>
-      <itunes:title>WordPress &amp; Automattic: Matt Mullenweg</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>397</itunes:episode>
-      <itunes:summary>סיפור הקמתה של חברת וודרפרס. ויותר מדוייק איך Matt Mullenweg חשב עליה ואז הקים את Automattic שבבעלותה נמצאת וורדפרס. &lt;br&gt;היום החברה שווה ביליונים ומנהלת מספר חברות מאוד מוכרות שביניהן טמבלר וגם האפליקציה שדרכה אני מקשיבה לפודקאסטים -  Pocket. &lt;br&gt;#טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;How I built this - WordPress &amp; Automattic: Matt Mullenweg&lt;br&gt;משך: שעה ו24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ofk85jgu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Matt Mullenweg turned his early passion for blogging into a flourishing business and an unshakeable idea: that users should be able to share and tweak the code that powers their&amp;nbsp;websites, and that most of those tools should be free to use.&amp;nbsp;As far back as college,&amp;nbsp;Matt was collaborating with far-flung fellow-coders to make blogging less clunky and more elegant and intuitive. Around 2005, he pitched the idea for WordPress.com to his bosses at CNET, but they turned him down, so he launched the idea on his own, eventually tucking the service into a nascent umbrella company called Automattic.&amp;nbsp;Today—after many twists and turns—the company has nearly 2000 employees and a valuation of&amp;nbsp;$7 billion;&amp;nbsp;and WordPress powers more than 40% of the websites on the internet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
-      </itunes:summary>
-      <content:encoded>סיפור הקמתה של חברת וודרפרס. ויותר מדוייק איך Matt Mullenweg חשב עליה ואז הקים את Automattic שבבעלותה נמצאת וורדפרס. &lt;br&gt;היום החברה שווה ביליונים ומנהלת מספר חברות מאוד מוכרות שביניהן טמבלר וגם האפליקציה שדרכה אני מקשיבה לפודקאסטים -  Pocket. &lt;br&gt;#טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;How I built this - WordPress &amp; Automattic: Matt Mullenweg&lt;br&gt;משך: שעה ו24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ofk85jgu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Matt Mullenweg turned his early passion for blogging into a flourishing business and an unshakeable idea: that users should be able to share and tweak the code that powers their&amp;nbsp;websites, and that most of those tools should be free to use.&amp;nbsp;As far back as college,&amp;nbsp;Matt was collaborating with far-flung fellow-coders to make blogging less clunky and more elegant and intuitive. Around 2005, he pitched the idea for WordPress.com to his bosses at CNET, but they turned him down, so he launched the idea on his own, eventually tucking the service into a nascent umbrella company called Automattic.&amp;nbsp;Today—after many twists and turns—the company has nearly 2000 employees and a valuation of&amp;nbsp;$7 billion;&amp;nbsp;and WordPress powers more than 40% of the websites on the internet.&amp;nbsp;&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
-      </content:encoded>
-      <guid isPermaLink="false">gid://art19-episode-locator/V0/PDM7O7U9dVtVcIC_ig6W4xlnf0ozEkPzw-SVoPdIVds</guid>
-      <pubDate>Thu, 12 May 2022 05:00:49 +0000</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://content.production.cdn.art19.com/images/f5/e6/1b/bc/f5e61bbc-72fb-49f1-9427-e5aa7b85ef22/ece910b7851c1ca30aca1143ca3700199cba94ec8ac64753b448c74005ccf38b526b2b834f06de0554828cd8c0b7c34bfbedbe00c227afc0a41af5456a51a6c1.jpeg"/>
-      <itunes:duration>01:17:53</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/e7748281-f52d-46ac-8a0a-988e72920dd3.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" type="audio/mpeg" length="74777494"/>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #535 - אתגר קרת כותב קצר</title>
         <itunes:title>פרק #535 - אתגר קרת כותב קצר</itunes:title>
         <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-535-%d7%90%d7%aa%d7%92%d7%a8-%d7%a7%d7%a8%d7%aa-%d7%9b%d7%95%d7%aa%d7%91-%d7%a7%d7%a6%d7%a8/</link>
@@ -4027,32 +4007,6 @@ Producer  Paula McGinley</itunes:summary><pubDate>Thu, 10 Mar 2022 04:30:42 +000
       <itunes:subtitle>גיא זוארץ כנראה מנחה הטלווזיה העסוק בישראל מספר על אורח החיים המורכב של המקצוע, המרחק והגעגוע למשפחה בהישרדות, הריגוש לפני עליה שידורת,  ואיך במה מתקשרת לספורט.</itunes:subtitle>
       <itunes:keywords>ג'ודו, אולימפי, התמודדות, מנטלי</itunes:keywords>
       <itunes:explicit>No</itunes:explicit>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-      <title>Goodreads: Otis and Elizabeth  Chandler</title>
-      <description>הסיפור של מקימי אתר דירוג הספרים Goodreads. התקופה הייתה תקופה שבה הקימו אתרים מהסוג אבל האתר הזה שרד מעבר לתקופה שבה הוא נולד, נרכש ע"י אמזון והמקימים שלו המשיכו לעבוד בו עוד שנים ארוכות. אז זה הסיפור שלהם וגם קצת על מה שהם מתכוונים לעשות עכשיו אחרי שהם סוף סוף התפטרו. &lt;br&gt;#אנגלית #ספרות #טכנולוגיה&lt;br&gt;&lt;br&gt;How I built this - Goodreads: Otis and Elizabeth Chandler&lt;br&gt;משך: שעה ו9 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/8hdx9exx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        As a young programmer in the mid-2000s, Otis Chandler watched as dozens of niche web sites began to take off. When he decided to launch his own site just for book lovers, a respected colleague told him there was "probably not a very big market there." Otis figured he might prove him wrong, and in 2007, launched Goodreads, a book catalog and review site that he coded from his LA apartment. His soon-to-be-wife Elizabeth joined the project, and they slowly built a following—without an office, a business model, or a single employee. In 2013, Goodreads sold to Amazon for an undisclosed sum; and today, it's the world's largest site for readers, with 125 million users.
-
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-      </description>
-      <itunes:title>Goodreads: Otis and Elizabeth  Chandler</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>391</itunes:episode>
-      <itunes:summary>הסיפור של מקימי אתר דירוג הספרים Goodreads. התקופה הייתה תקופה שבה הקימו אתרים מהסוג אבל האתר הזה שרד מעבר לתקופה שבה הוא נולד, נרכש ע"י אמזון והמקימים שלו המשיכו לעבוד בו עוד שנים ארוכות. אז זה הסיפור שלהם וגם קצת על מה שהם מתכוונים לעשות עכשיו אחרי שהם סוף סוף התפטרו. &lt;br&gt;#אנגלית #ספרות #טכנולוגיה&lt;br&gt;&lt;br&gt;How I built this - Goodreads: Otis and Elizabeth Chandler&lt;br&gt;משך: שעה ו9 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/8hdx9exx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        As a young programmer in the mid-2000s, Otis Chandler watched as dozens of niche web sites began to take off. When he decided to launch his own site just for book lovers, a respected colleague told him there was "probably not a very big market there." Otis figured he might prove him wrong, and in 2007, launched Goodreads, a book catalog and review site that he coded from his LA apartment. His soon-to-be-wife Elizabeth joined the project, and they slowly built a following—without an office, a business model, or a single employee. In 2013, Goodreads sold to Amazon for an undisclosed sum; and today, it's the world's largest site for readers, with 125 million users.
-
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-      </itunes:summary>
-      <content:encoded>הסיפור של מקימי אתר דירוג הספרים Goodreads. התקופה הייתה תקופה שבה הקימו אתרים מהסוג אבל האתר הזה שרד מעבר לתקופה שבה הוא נולד, נרכש ע"י אמזון והמקימים שלו המשיכו לעבוד בו עוד שנים ארוכות. אז זה הסיפור שלהם וגם קצת על מה שהם מתכוונים לעשות עכשיו אחרי שהם סוף סוף התפטרו. &lt;br&gt;#אנגלית #ספרות #טכנולוגיה&lt;br&gt;&lt;br&gt;How I built this - Goodreads: Otis and Elizabeth Chandler&lt;br&gt;משך: שעה ו9 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/8hdx9exx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        As a young programmer in the mid-2000s, Otis Chandler watched as dozens of niche web sites began to take off. When he decided to launch his own site just for book lovers, a respected colleague told him there was "probably not a very big market there." Otis figured he might prove him wrong, and in 2007, launched Goodreads, a book catalog and review site that he coded from his LA apartment. His soon-to-be-wife Elizabeth joined the project, and they slowly built a following—without an office, a business model, or a single employee. In 2013, Goodreads sold to Amazon for an undisclosed sum; and today, it's the world's largest site for readers, with 125 million users.
-
-See Privacy Policy at https://art19.com/privacy and California Privacy Notice at https://art19.com/privacy#do-not-sell-my-info.
-      </content:encoded>
-      <guid isPermaLink="false">8a749056-e4c0-40d4-94c1-40a6146865e7</guid>
-      <pubDate>Tue, 08 Mar 2022 05:30:22 +0000</pubDate>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://content.production.cdn.art19.com/images/de/89/0f/1f/de890f1f-c70e-4866-9aa0-982964eb089b/b1336e586a180c18358e6ffb59d8a80dce01be4694f7adf8787d68c99454b0764975e8687c1f9461b88cb1890870e41e3980e947fd6a703c176ba13e392c5234.jpeg"/>
-      <itunes:duration>01:09:38</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/pdst.fm/e/rss.art19.com/episodes/018823ee-4aae-408b-90be-22fe3cc1b8c7.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" type="audio/mpeg" length="66861348"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:title>כל מה שרציתם לדעת על אפיית בצקי שמרים אבל התביישתם לשאול</itunes:title>
     <title>כל מה שרציתם לדעת על אפיית בצקי שמרים אבל התביישתם לשאול</title>
@@ -5593,16 +5547,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
                     <comments>https://posthum.podbean.com/e/ep39/#comments</comments>        <pubDate>Sun, 02 Jan 2022 06:00:29 +0000</pubDate>
         <guid isPermaLink="false">posthum.podbean.com/1bd38f65-6e13-3d79-9457-a22adf4bfce4</guid>
                       <description>ניתוח של דמות הזומבי בתרבות שלנו.  קודם כל ההבדל בין דמות הזומבי בסרטים הקלאסיים ואז השינויי שחל בו בסרטים של 20 השנים האחרונות.  וכמובן אי אפשר לדבר על זומבים בלי להזכיר את הערפדים 🧛‍♂️🧛‍♀️&lt;br&gt;#תרבות #קולנוע&lt;br&gt;&lt;br&gt;המצב הפוסט אנושי - פרק 39. האם זומבים חולמים על מוחות דיגיטליים? פוליטיקה אפוקליפטית עם ד”ר מורי רם&lt;br&gt;משך: 39 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1th95t2u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;הזומבי הוא דימוי פוליטי מרתק, ובכל עידן, גופתו המרקיבה נושאת מסר אחר עבורנו. הסיפור בסרטי הזומבים אינו הזומבים, אלא הקונפליקטים החברתיים שנדמה לנו שאין להם מוצא. סרט זומבים קלאסי הוא נרטיב של כישלון המדינה להגן עלינו ותזכורת לכמה פריך הסדר החברתי. אך במאה ה-21 הזומבים מייצגים לא רק את הגוף הפוליטי של דור הזד שיורש עולם המאיים לקרוס, אלא גם את גוף היחיד, הנאבק לשמור על אנושיות אל מול הטכנולוגיה, ותוהה אם אפשר להשיב לעצמו את מה שאבד בתוך המסכים. הזומבי מציע שהמפלצת האמיתית היא אולי האדם, ומסמן אפשרויות של סדר חדש לאחר ההרס. ד"ר מורי רם מספר את ההיסטוריה הפתלתלה של הזומבים הנכרכת שוב ושוב גם בסיפורם של הערפדים, ומפרש את הסרטים בהתאם. &lt;a href='https://absolutecarmel.com/?p=2548'&gt;לתמלול של הפרק, קישורים ומקורות להרחבה&lt;/a&gt; שם ניתן גם להרשם לעדכון במייל כאשר מתפרסם פרק חדש&lt;/p&gt;
-
  </description>
                         <content:encoded>ניתוח של דמות הזומבי בתרבות שלנו.  קודם כל ההבדל בין דמות הזומבי בסרטים הקלאסיים ואז השינויי שחל בו בסרטים של 20 השנים האחרונות.  וכמובן אי אפשר לדבר על זומבים בלי להזכיר את הערפדים 🧛‍♂️🧛‍♀️&lt;br&gt;#תרבות #קולנוע&lt;br&gt;&lt;br&gt;המצב הפוסט אנושי - פרק 39. האם זומבים חולמים על מוחות דיגיטליים? פוליטיקה אפוקליפטית עם ד”ר מורי רם&lt;br&gt;משך: 39 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1th95t2u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;הזומבי הוא דימוי פוליטי מרתק, ובכל עידן, גופתו המרקיבה נושאת מסר אחר עבורנו. הסיפור בסרטי הזומבים אינו הזומבים, אלא הקונפליקטים החברתיים שנדמה לנו שאין להם מוצא. סרט זומבים קלאסי הוא נרטיב של כישלון המדינה להגן עלינו ותזכורת לכמה פריך הסדר החברתי. אך במאה ה-21 הזומבים מייצגים לא רק את הגוף הפוליטי של דור הזד שיורש עולם המאיים לקרוס, אלא גם את גוף היחיד, הנאבק לשמור על אנושיות אל מול הטכנולוגיה, ותוהה אם אפשר להשיב לעצמו את מה שאבד בתוך המסכים. הזומבי מציע שהמפלצת האמיתית היא אולי האדם, ומסמן אפשרויות של סדר חדש לאחר ההרס. ד"ר מורי רם מספר את ההיסטוריה הפתלתלה של הזומבים הנכרכת שוב ושוב גם בסיפורם של הערפדים, ומפרש את הסרטים בהתאם. &lt;a href='https://absolutecarmel.com/?p=2548'&gt;לתמלול של הפרק, קישורים ומקורות להרחבה&lt;/a&gt; שם ניתן גם להרשם לעדכון במייל כאשר מתפרסם פרק חדש&lt;/p&gt;
-
  </content:encoded>
                     
         <enclosure url="https://mcdn.podbean.com/mf/web/fbx8ua/posthuman39.mp3" length="37421795" type="audio/mpeg"/>
         <itunes:subtitle>הזומבי הוא דימוי פוליטי מרתק, ובכל עידן, גופתו המרקיבה נושאת מסר אחר עבורנו. הסיפור בסרטי הזומבים אינו הזומבים, אלא הקונפליקטים החברתיים שנדמה לנו שאין להם מוצא. סרט זומבים קלאסי הוא נרטיב של כישלון המדינה להגן עלינו ותזכורת לכמה פריך הסדר החברתי. אך במא...</itunes:subtitle>
         <itunes:summary>ניתוח של דמות הזומבי בתרבות שלנו.  קודם כל ההבדל בין דמות הזומבי בסרטים הקלאסיים ואז השינויי שחל בו בסרטים של 20 השנים האחרונות.  וכמובן אי אפשר לדבר על זומבים בלי להזכיר את הערפדים 🧛‍♂️🧛‍♀️&lt;br&gt;#תרבות #קולנוע&lt;br&gt;&lt;br&gt;המצב הפוסט אנושי - פרק 39. האם זומבים חולמים על מוחות דיגיטליים? פוליטיקה אפוקליפטית עם ד”ר מורי רם&lt;br&gt;משך: 39 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1th95t2u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;הזומבי הוא דימוי פוליטי מרתק, ובכל עידן, גופתו המרקיבה נושאת מסר אחר עבורנו. הסיפור בסרטי הזומבים אינו הזומבים, אלא הקונפליקטים החברתיים שנדמה לנו שאין להם מוצא. סרט זומבים קלאסי הוא נרטיב של כישלון המדינה להגן עלינו ותזכורת לכמה פריך הסדר החברתי. אך במאה ה-21 הזומבים מייצגים לא רק את הגוף הפוליטי של דור הזד שיורש עולם המאיים לקרוס, אלא גם את גוף היחיד, הנאבק לשמור על אנושיות אל מול הטכנולוגיה, ותוהה אם אפשר להשיב לעצמו את מה שאבד בתוך המסכים. הזומבי מציע שהמפלצת האמיתית היא אולי האדם, ומסמן אפשרויות של סדר חדש לאחר ההרס. ד"ר מורי רם מספר את ההיסטוריה הפתלתלה של הזומבים הנכרכת שוב ושוב גם בסיפורם של הערפדים, ומפרש את הסרטים בהתאם. &lt;a href='https://absolutecarmel.com/?p=2548'&gt;לתמלול של הפרק, קישורים ומקורות להרחבה&lt;/a&gt; שם ניתן גם להרשם לעדכון במייל כאשר מתפרסם פרק חדש&lt;/p&gt;
-
  </itunes:summary>
         <itunes:author>Carmel Vaisman</itunes:author>
         <itunes:explicit>no</itunes:explicit>
@@ -5618,29 +5569,18 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
                     <comments>https://khalifachief.podbean.com/e/%d7%9e%d7%94-%d7%9c%d7%9e%d7%93%d7%aa%d7%99-%d7%9e%d7%9b%d7%99%d7%a1%d7%95%d7%99%d7%90%d7%96%d7%95%d7%a8%d7%99-%d7%9e%d7%9c%d7%97%d7%9e%d7%94-%d7%a8/#comments</comments>        <pubDate>Thu, 30 Dec 2021 06:01:19 +0000</pubDate>
         <guid isPermaLink="false">khalifachief.podbean.com/e2ae6c98-25d4-3dc8-9205-fa522d9953a5</guid>
                       <description>ראיון מעניין עם איתי אנגל. ראיון עם עיתונאי מלחמות שהיה בהרבה מאוד אזורי סיכסוך מסביב לעולם - על הפחד שהוא מרגיש לפני כל משימה, על המשותף לאזורים שונים ועל האמונות שלו של איך אמור להראות עיתונאי. &lt;br&gt;#אקטואליה &lt;br&gt;&lt;br&gt;מרד החליפים - למה בחרתי להיות עיתונאי מלחמות? ראיון עם איתי אנגל&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1gbox31m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;שלום וברוכים הבאים לפרק ה#7 של מרד החליפים, &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; הפעם בפודקאסט שמחתי לארח את &lt;a href='https://www.facebook.com/itai.anghel'&gt;איתי אנגל&lt;/a&gt;,  &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;איתי הוא עיתונאי שמסקר אזורי מלחמות מעל לשלושה עשורים, בשיחה דיברנו על מה מביא אדם שפוי להיכנס לאזורים הכי מסוכנים על פני כדור הארץ ומה מושך אותו בעבודה בשטח רחוק מאזורי הנוחות?&lt;/p&gt;
-
 &lt;p&gt;שיחה עם איתי היא חוויה מיוחדת, ניסיון החיים והמקצוע שבחר לעצמו מביא איתו המון חוכמת חיים ותפיסת עולם מעניינת במיוחד. &lt;/p&gt;
-
 &lt;p&gt;בשיחה דיברנו על הנסיגה האמריקאית מאפגניסטן אחרי 20 שנות לחימה וההשלכות של האירוע עלינו בעיניו,&lt;/p&gt;
-
 &lt;p&gt;אני ממליץ גם לראות את הסרט הדוקומנטרי הנפלא &lt;a href='https://www.netflix.com/il/title/81315804'&gt;הזה &lt;/a&gt;בנושא,&lt;/p&gt;
 
 
-
 &lt;p&gt;לתמיכה בפודקאסט דרך אפליקציית פייבוקס:&lt;/p&gt;
-
 &lt;p&gt;&lt;a href='https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/'&gt;https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
 האזנה נעימה,
 דרוויש 
@@ -5654,9 +5594,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
  
 
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
  
 
@@ -5664,29 +5602,18 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
  
 </description>
                         <content:encoded>ראיון מעניין עם איתי אנגל. ראיון עם עיתונאי מלחמות שהיה בהרבה מאוד אזורי סיכסוך מסביב לעולם - על הפחד שהוא מרגיש לפני כל משימה, על המשותף לאזורים שונים ועל האמונות שלו של איך אמור להראות עיתונאי. &lt;br&gt;#אקטואליה &lt;br&gt;&lt;br&gt;מרד החליפים - למה בחרתי להיות עיתונאי מלחמות? ראיון עם איתי אנגל&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1gbox31m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;שלום וברוכים הבאים לפרק ה#7 של מרד החליפים, &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; הפעם בפודקאסט שמחתי לארח את &lt;a href='https://www.facebook.com/itai.anghel'&gt;איתי אנגל&lt;/a&gt;,  &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;איתי הוא עיתונאי שמסקר אזורי מלחמות מעל לשלושה עשורים, בשיחה דיברנו על מה מביא אדם שפוי להיכנס לאזורים הכי מסוכנים על פני כדור הארץ ומה מושך אותו בעבודה בשטח רחוק מאזורי הנוחות?&lt;/p&gt;
-
 &lt;p&gt;שיחה עם איתי היא חוויה מיוחדת, ניסיון החיים והמקצוע שבחר לעצמו מביא איתו המון חוכמת חיים ותפיסת עולם מעניינת במיוחד. &lt;/p&gt;
-
 &lt;p&gt;בשיחה דיברנו על הנסיגה האמריקאית מאפגניסטן אחרי 20 שנות לחימה וההשלכות של האירוע עלינו בעיניו,&lt;/p&gt;
-
 &lt;p&gt;אני ממליץ גם לראות את הסרט הדוקומנטרי הנפלא &lt;a href='https://www.netflix.com/il/title/81315804'&gt;הזה &lt;/a&gt;בנושא,&lt;/p&gt;
 
 
-
 &lt;p&gt;לתמיכה בפודקאסט דרך אפליקציית פייבוקס:&lt;/p&gt;
-
 &lt;p&gt;&lt;a href='https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/'&gt;https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
 האזנה נעימה,
 דרוויש 
@@ -5700,9 +5627,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
  
 
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
  
 
@@ -5717,29 +5642,18 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
  
 איתי הוא עיתונאי שמסקר אזורי מלחמות מעל לשלושה עשורים, בשיחה דיברנו על מה מביא אדם שפוי להיכנס לאזורים הכי מסוכנים על פני כדור הארץ ומה מושך אותו בעבודה בשטח רחוק ...</itunes:subtitle>
         <itunes:summary>ראיון מעניין עם איתי אנגל. ראיון עם עיתונאי מלחמות שהיה בהרבה מאוד אזורי סיכסוך מסביב לעולם - על הפחד שהוא מרגיש לפני כל משימה, על המשותף לאזורים שונים ועל האמונות שלו של איך אמור להראות עיתונאי. &lt;br&gt;#אקטואליה &lt;br&gt;&lt;br&gt;מרד החליפים - למה בחרתי להיות עיתונאי מלחמות? ראיון עם איתי אנגל&lt;br&gt;משך: שעה ו14 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/1gbox31m&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;שלום וברוכים הבאים לפרק ה#7 של מרד החליפים, &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; הפעם בפודקאסט שמחתי לארח את &lt;a href='https://www.facebook.com/itai.anghel'&gt;איתי אנגל&lt;/a&gt;,  &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt;איתי הוא עיתונאי שמסקר אזורי מלחמות מעל לשלושה עשורים, בשיחה דיברנו על מה מביא אדם שפוי להיכנס לאזורים הכי מסוכנים על פני כדור הארץ ומה מושך אותו בעבודה בשטח רחוק מאזורי הנוחות?&lt;/p&gt;
-
 &lt;p&gt;שיחה עם איתי היא חוויה מיוחדת, ניסיון החיים והמקצוע שבחר לעצמו מביא איתו המון חוכמת חיים ותפיסת עולם מעניינת במיוחד. &lt;/p&gt;
-
 &lt;p&gt;בשיחה דיברנו על הנסיגה האמריקאית מאפגניסטן אחרי 20 שנות לחימה וההשלכות של האירוע עלינו בעיניו,&lt;/p&gt;
-
 &lt;p&gt;אני ממליץ גם לראות את הסרט הדוקומנטרי הנפלא &lt;a href='https://www.netflix.com/il/title/81315804'&gt;הזה &lt;/a&gt;בנושא,&lt;/p&gt;
 
 
-
 &lt;p&gt;לתמיכה בפודקאסט דרך אפליקציית פייבוקס:&lt;/p&gt;
-
 &lt;p&gt;&lt;a href='https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/'&gt;https://web.payboxapp.com/?v=pm&amp;u=5405b7aa9e5caa08035ac29b&amp;is_business=true#/&lt;/a&gt;&lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
 האזנה נעימה,
 דרוויש 
@@ -5753,9 +5667,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
  
 
 &lt;p&gt; &lt;/p&gt;
-
 &lt;p&gt; &lt;/p&gt;
-
 
  
 
@@ -5775,19 +5687,13 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
                     <comments>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-177%d7%9b%d7%a9%d7%9e%d7%a8%d7%95%d7%91-%d7%91%d7%90%d7%9c%d7%92%d7%9f-%d7%90%d7%99%d7%90%d7%a4%d7%a9%d7%a8%d7%9c%d7%a2%d7%a9%d7%95/#comments</comments>        <pubDate>Tue, 28 Dec 2021 05:30:06 +0000</pubDate>
         <guid isPermaLink="false">regulator.podbean.com/e30082b7-3cc3-3a40-b3ad-71f5093230d6</guid>
                       <description>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
-
 &lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-
 &lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
-
 &lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
 </description>
                         <content:encoded>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
-
 &lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-
 &lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
-
 &lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
 </content:encoded>
                     
@@ -5797,11 +5703,8 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 עורך ומגיש: גיא מור \ 
 עריכת סאונד: עומר קרן</itunes:subtitle>
         <itunes:summary>כלי רגולטורי שנקרא הגליוטינה הרגולטורית. כלי מעניין שנועד לעזור לצאת מתסבוכות חוקיות מורכבות על ידי מינוי מבוגר אחראי אחד שינהל את כל התסבוכת. ובדרך סיפור מאוד משעשע על רוסיה ועל התסבוכת הרגולטורית שלה.&lt;br&gt;#משפט &lt;br&gt;&lt;br&gt;הרגולטור: פרק 177 - כשמרוב באלגן אי אפשר לעשות סדר \ הגיליוטינה הרגולטורית&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/iihjp2a9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;רוסיה לא מצליחה לבטל חוקים כי אף אחד לא מוצא את המסמך המקורי &lt;/p&gt;
-
 &lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-
 &lt;p&gt;עורך ומגיש: גיא מור \ &lt;/p&gt;
-
 &lt;p&gt;עריכת סאונד: עומר קרן&lt;/p&gt;
 </itunes:summary>
         <itunes:author>גיא מור</itunes:author>
