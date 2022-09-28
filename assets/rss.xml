@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 28 Sep 2022 06:07:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Sep 2022 07:32:54 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>יעל ארד - מטרות מתחדשות</title>
@@ -4365,7 +4365,29 @@ Producer  Paula McGinley</itunes:summary><pubDate>Thu, 21 Apr 2022 05:01:01 +000
       <itunes:keywords>grid, enron, power, texas, electricity, blizzard, ercot</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 35 - שנשב לקפה? עם ליאת נתנאל</title>
+<guid isPermaLink="false">https://pinecast.com/guid/4cab9cb5-976e-444a-a1cd-677ebe3ce4bf</guid>
+<pubDate>Sun, 17 Apr 2022 04:01:45 +0000</pubDate>
+
+<itunes:duration>00:43:36</itunes:duration>
+<itunes:image href="https://storage.pinecast.net/podcasts/a7c707bf-39e8-4e3d-abba-d318ca0904f0/artwork/080279f4-ce87-4771-8583-85a1e93dbe12/e35.jpg"/>
+<description>שיחה מעניינת על פגישות לקפה עם אנשים שאנחנו רוצים ללמוד מהם. ליאת נתנאל מספרת על דרכים לקבוע את הפגישות ובעיקר איזה ערך צריך להביא לשולחן כדי שהפגישה תהיה מועילה לשני הצדדים. &lt;br&gt;#שיפורעצמי #עסקים&lt;br&gt;&lt;br&gt;Skills - פרק 35 - שנשב לקפה? עם ליאת נתנאל&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5lfhtg79&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;לכולנו יש בראש כמה שמות של אנשים שהיינו מאוד רוצים לפגוש, להכיר וללמוד מהם, ולפעמים שעה של "אחד על אחד" עם אותם אנשים היא בגדר חלום. כי האנשים האלה עסוקים מאוד לפעמים, כי למה שהם ירצו להיפגש דווקא איתנו, ואולי בעיקר כי אנחנו לא יודעים איך לפנות אליהם באופן אפקטיבי.&lt;/p&gt;
+&lt;p&gt;ליאת נתנאל, מנהלת פיתוח עסקי בלינקדאין, מאמנת ריצה, אולטרה מרתוניסטית ומרצה, הגיעה כדי להסביר לנו בפשטות איך אפשר לפנות ולקבוע פגישת קפה דווקא עם האנשים שאנחנו הכי רוצים לפגוש, באופן שיגדיל את הסיכויים לא רק לפגישה המיוחלת, אלא גם אולי לחברות מתמשכת. הכל תלוי בגישה, באותנטיות, ובחוק המספרים הגדולים.&lt;/p&gt;
+&lt;p&gt;אל תתביישו לפנות, בסוף זה יעבוד 😊&lt;/p&gt;
+&lt;p&gt;לסיכום המלא של הפרק והאזנה באפליקציות נוספות: &lt;a href="https://tmosko.com/e35" rel="nofollow"&gt;https://tmosko.com/e35&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ששש הקבוצה הסודית שיודעת הכל ראשונה ומשפיעה על הפרקים הבאים &lt;a href="https://t.me/tmoskocom" rel="nofollow"&gt;https://t.me/tmoskocom&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;צרו קשר עם ליאת נתנאל:&lt;/p&gt;
+&lt;p&gt;בלינקדאין &lt;a href="https://www.linkedin.com/in/liat-netanel/" rel="nofollow"&gt;https://www.linkedin.com/in/liat-netanel/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;בבלוג &lt;a href="https://www.liatnetanel.com/" rel="nofollow"&gt;https://www.liatnetanel.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;צרו איתי קשר:&lt;/p&gt;
+&lt;p&gt;בלינקדאין &lt;a href="https://www.linkedin.com/in/tmosko/" rel="nofollow"&gt;https://www.linkedin.com/in/tmosko/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;בפייסבוק &lt;a href="https://www.facebook.com/talmosko" rel="nofollow"&gt;https://www.facebook.com/talmosko&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;באינסטגרם &lt;a href="https://www.instagram.com/tmosko_com/" rel="nofollow"&gt;https://www.instagram.com/tmosko_com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;בשיחת טלפון &lt;a href="https://tmosko.com/jtt" rel="nofollow"&gt;https://tmosko.com/jtt&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;music by &lt;a href="https://scottholmesmusic.com" rel="nofollow"&gt;https://scottholmesmusic.com&lt;/a&gt;&lt;/p&gt;</description>
+<itunes:explicit>no</itunes:explicit>
+<enclosure url="https://chtbl.com/track/52DDE2/pinecast.com/listen/4cab9cb5-976e-444a-a1cd-677ebe3ce4bf.mp3?source=rss&amp;aid=53a41f3c-8b3f-41f1-b683-667f6e312de9.mp3" length="42256698" type="audio/mpeg"/>
+</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">6c0bb9e3-a715-41d6-97f2-1546861101d8</guid>
       <title>Chris Messina: Tech Pioneer and Inventor of the Hashtag</title>
       <description>שיחה עם ממציא ההאשטאג של טוויטר. השיחה אומנם מתחילה מההאשטאג אבל מהר מאוד עוברת לעולמות של יזמות ולעבודה של כריס מסינה (לא השחקן) עם סטאטאפים ויזמים .&lt;br&gt;#טכנולוגיה #עסקים #אנגלית&lt;br&gt;&lt;br&gt;Remarkable people - Chris Messina: Tech Pioneer and Inventor of the Hashtag&lt;br&gt;משך: שעה ו14 דק'&lt;br&gt;&lt;br&gt;https://pca.st/7ognqpe1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Tech and innovation lovers - this one's for you! Listen in as Guy Kawasaki interviews Chris Messina, inventor of the hashtag and star of The Social Dilemma, about being the number one Hunter on Product Hunt and how he feels about open source technology. So many interesting nuggets!</description>
