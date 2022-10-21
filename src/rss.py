@@ -55,6 +55,10 @@ class RssGenerator:
                     print(f"Ignoring message {message.id}, text: {message.text} no url found")
                     continue
 
+                # TODO: Add logic to use RssConnector based on the message
+                #   If link from "pca.st" use PocketsCasts
+                #   If audio file attached, take it from there,
+                #   and add the description and episode details from the message itself
                 connector = PocketCasts(found_url)
 
                 print(f"title={connector.item_title}")
