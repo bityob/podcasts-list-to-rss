@@ -3,3 +3,5 @@ requests_html
 podgen
 requests-xml
 pytest
+envparse
+ipython

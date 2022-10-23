@@ -8,26 +8,21 @@ from base import Message
 from pocket_casts import PocketCasts
 from requests_xml import XML
 
+from src.settings import RSS_NAME, RSS_DESCRIPTION, RSS_WEBSITE, RSS_IMAGE_URL
+from src.telegram import TelegramReader
+
+
 CLOSING_CHANNEL_TAG = "</channel>"
-
-name = "פודקאסט פלייליסט"
-description = """ערוץ עידכוני הפרקים של יוליה שנרר. כאן תמצאו המלצות על פרקים מפודקאסטים שונים. אין סדר או העדפה מסוימים, מה שנשמע מעניין באותו שבוע.
-
-
-דברו איתי כאן:
-https://www.linkedin.com/in/yuliashnerer"""
-website = "https://t.me/podcastsrec"
-image_url = "https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"
 
 
 class RssGenerator:
     def __init__(self, messages: List[Message]):
         self.p = Podcast(
-            name=name,
-            description=description,
-            website=website,
+            name=RSS_NAME,
+            description=RSS_DESCRIPTION,
+            website=RSS_WEBSITE,
             explicit=False,
-            image=image_url,
+            image=RSS_IMAGE_URL,
         )
         self.messages = messages
 
@@ -50,6 +45,11 @@ class RssGenerator:
                 found_url = next((url for url in all_urls if PocketCasts.is_valid_url(url)), None)
 
                 print(f"Found url={found_url}")
+
+                if message.audio:
+                    print(f"Found audio attached to message: {message.audio}")
+                    TelegramReader.get_download_url(message)
+                    continue
 
                 if found_url is None:
                     print(f"Ignoring message {message.id}, text: {message.text} no url found")
