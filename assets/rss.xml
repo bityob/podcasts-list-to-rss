@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 21:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Oct 2022 22:17:28 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
             <title>All Request Show #3 - Part 1</title>
@@ -2936,7 +2936,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <itunes:subtitle>Since the dawn of the internet, cyberwitches have traded in their broomsticks and cauldrons for floppy disks and smartphones. This week on Endless Thread, we go into the history of cyberwitches, attend a Zoom ritual, and talk to members of a cyber coven. </itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-e1652301889159.png"/>
+            	    <itunes:image href="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-e1652301889159.png"/>
             <media:content url="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-e1652301889159.png" type="image/jpeg" height="563" width="1000" medium="image">
                                         <media:thumbnail url="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-200x200.png" height="200" width="200"/>
                 <media:description>(Matt Milton for WBUR. Courtesy of www.miltonxdesign.com) </media:description>
@@ -3611,7 +3611,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <itunes:subtitle>After its first successful iteration in 2017, r/place returned on April 1, 2022 for four days of battling fandoms vying for space inside a pixelated canvas. We talk to two Redditors who recount the challenges of claiming their stake in r/place—despite being vastly outnumbered. </itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/04/r-placebannertosize-e1651608344789.jpg"/>
+            	    <itunes:image href="https://media.wbur.org/wp/2022/04/r-placebannertosize-e1651608344789.jpg"/>
             <media:content url="https://media.wbur.org/wp/2022/04/r-placebannertosize-e1651608344789.jpg" type="image/jpeg" height="563" width="1000" medium="image">
                                         <media:thumbnail url="https://media.wbur.org/wp/2022/04/r-placebannertosize-200x200.jpg" height="200" width="200"/>
                 <media:description>(Courtesy of Reddit) </media:description>
@@ -5771,7 +5771,7 @@ Send in a voice message: https://anchor.fm/30minutesorless/message</itunes:summa
             <itunes:subtitle>Dwarf planets, data leaks, and (maybe) deception. When two separate astronomy teams took credit for the same discovery, an online message board started asking questions.</itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/02/2003EL61art.jpg"/>
+            	    <itunes:image href="https://media.wbur.org/wp/2022/02/2003EL61art.jpg"/>
             <media:content url="https://media.wbur.org/wp/2022/02/2003EL61art.jpg" type="image/jpeg" height="839" width="1000" medium="image">
                                         <media:thumbnail url="https://media.wbur.org/wp/2022/02/2003EL61art-200x200.jpg" height="200" width="200"/>
                 <media:description>Artist's impression of Haumea and moons. (A. Field, Space Telescope Science Institute) </media:description>
