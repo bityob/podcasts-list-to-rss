@@ -10,7 +10,6 @@ from src.rss import RssGenerator
 from src.settings import RSS_FILE_NAME
 
 
-
 async def main():
     print("Starting...")
     reader = TelegramReader()
