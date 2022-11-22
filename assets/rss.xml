@@ -11,9 +11,49 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 05:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Nov 2022 06:20:46 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>פרק 252: חידון כיס</title>
+      <itunes:title>פרק 252: חידון כיס</itunes:title>
+      <description>הבחירות נגמרו אבל חיות כיס עשו פרק מאוד משעשע על עובדות כלכליות מסקרנות ומוזרות בהיסטוריה של ישראל. הם קראו לזה משחק טריוויה אבל זה יותר אוסף טרוויה מעניין עם קטעי חיבור משעשעים.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 252: חידון כיס&lt;br&gt;משך: 40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/be5pvmrj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;ספיישל בחירות - שאול אמסטרדמסקי נגד יואב רבינוביץ במשחק הטריוויה הפוליטית-כלכלית של חיות כיס. פרק סיום העונה&lt;br&gt;מגיש: אלון אמיצי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט&lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>הבחירות נגמרו אבל חיות כיס עשו פרק מאוד משעשע על עובדות כלכליות מסקרנות ומוזרות בהיסטוריה של ישראל. הם קראו לזה משחק טריוויה אבל זה יותר אוסף טרוויה מעניין עם קטעי חיבור משעשעים.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 252: חידון כיס&lt;br&gt;משך: 40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/be5pvmrj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;ספיישל בחירות - שאול אמסטרדמסקי נגד יואב רבינוביץ במשחק הטריוויה הפוליטית-כלכלית של חיות כיס. פרק סיום העונה&lt;br&gt;מגיש: אלון אמיצי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט&lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>252</itunes:episode>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/image.jpg?t=1667255435&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/hayot-kiss/252/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/image.jpg?t=1667255435&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">716aaee5-ace6-4ca2-9edb-af3f0171cacc</guid>
+      <omny:clipId>716aaee5-ace6-4ca2-9edb-af3f0171cacc</omny:clipId>
+      <pubDate>Tue, 22 Nov 2022 05:21:00 +0000</pubDate>
+      <itunes:duration>2421</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="38809125" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/hayot-kiss/252</link>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <guid isPermaLink="false">ba648be6-fbc5-4b19-be30-ba0eda6e2197</guid>
+      <title>517. Are M.B.A.s to Blame for Wage Stagnation?</title>
+      <description>דיון מעניין על מחקר שבדק את ההיפותזה שמנהלים בוגרי תואר שני במנהל עסקים משלמים פחות לעובדים שלהם. אין פה מסקנות מאוד חד משמעיות אבל הדיון עצמו בהחלט מעניין. &lt;br&gt;#אנגלית #כלכלה #עסקים &lt;br&gt;&lt;br&gt;Freakonomics - 517. Are M.B.A.s to Blame for Wage Stagnation?&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1y3jqwsl&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;New research finds that bosses who went to business school pay their workers less. So what are M.B.A. programs teaching — and should they stop? &lt;/p&gt;
+</description>
+      <pubDate>Tue, 22 Nov 2022 05:20:03 +0000</pubDate>
+      <author>editor@freakonomics.com (Freakonomics Radio + Stitcher)</author>
+      <link>http://freakonomics.com/</link>
+      <content:encoded>דיון מעניין על מחקר שבדק את ההיפותזה שמנהלים בוגרי תואר שני במנהל עסקים משלמים פחות לעובדים שלהם. אין פה מסקנות מאוד חד משמעיות אבל הדיון עצמו בהחלט מעניין. &lt;br&gt;#אנגלית #כלכלה #עסקים &lt;br&gt;&lt;br&gt;Freakonomics - 517. Are M.B.A.s to Blame for Wage Stagnation?&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1y3jqwsl&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;New research finds that bosses who went to business school pay their workers less. So what are M.B.A. programs teaching — and should they stop? &lt;/p&gt;
+</content:encoded>
+      <enclosure length="45681017" type="audio/mpeg" url="https://chtbl.com/track/736CG3/pdst.fm/e/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/d1acd5ad-b535-475d-9359-543dc7b76296/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&amp;awEpisodeId=d1acd5ad-b535-475d-9359-543dc7b76296&amp;feed=Y8lFbOT4"/>
+      <itunes:title>517. Are M.B.A.s to Blame for Wage Stagnation?</itunes:title>
+      <itunes:author>Freakonomics Radio + Stitcher</itunes:author>
+      <itunes:duration>00:47:35</itunes:duration>
+      <itunes:summary>דיון מעניין על מחקר שבדק את ההיפותזה שמנהלים בוגרי תואר שני במנהל עסקים משלמים פחות לעובדים שלהם. אין פה מסקנות מאוד חד משמעיות אבל הדיון עצמו בהחלט מעניין. &lt;br&gt;#אנגלית #כלכלה #עסקים &lt;br&gt;&lt;br&gt;Freakonomics - 517. Are M.B.A.s to Blame for Wage Stagnation?&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1y3jqwsl&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;New research finds that bosses who went to business school pay their workers less. So what are M.B.A. programs teaching — and should they stop? &lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>New research finds that bosses who went to business school pay their workers less. So what are M.B.A. programs teaching — and should they stop? </itunes:subtitle>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Econ's Brush with the Law</title>
       <description>הנה שילוב מסקרן - שופטים וכלכלה. מסתבר שאי שם לפני כ40 שנה כלכלנים פתאום הבינו ששופטים לא ממש מבינים בכלכלה וקשה להם לחרוץ משפט בנושא. מכאן נולדה יוזמה מעניינת של ריטריטים לשופטים בהם מלמדים אותם קורס מזורז בכלכלה. בפרק הזה בודקים את המשמעויות של אותם על הלימודים על השופטים שעברו אותם. &lt;br&gt;#כלכלה #משפט #אנגלית &lt;br&gt;&lt;br&gt;Planet money - Econ's Brush with the Law&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;https://pca.st/2s9nfy4f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;What happens when you take some of the most powerful people in America — federal judges — and teach them economics? We look at the swanky econ retreats that may have changed American law forever.&lt;br/&gt;&lt;br/&gt;Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="https://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;.</description>
       <pubDate>Sun, 20 Nov 2022 06:01:09 +0000</pubDate>
@@ -5935,159 +5975,5 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
 &lt;p&gt;&lt;em&gt;Special thanks to Georgina Kleege, Julia Bascom, Desiree Kocis, Peter C. Kunze, Andrew Leland, Sara Luterman, Alexander Richey, Will Healy, Nate Jones, Nate Peereboom, and Pamela Sabaugh (who was our voice of Helen Keller).&lt;br&gt;&lt;br&gt;&lt;strong&gt;ASL TRANSCRIPTION&lt;/strong&gt;&lt;br&gt;&lt;div class="user-embedded-video"&gt;&lt;div id="videoplayer_idm13986554064694477d36871-2b21-415a-9eeb-554dc0edb741"&gt;&lt;iframe width="620" height="349" src="https://www.youtube.com/embed/P1L5Dn-LQ8c?wmode=transparent&amp;amp;autohide=1&amp;amp;rel=0&amp;amp;showinfo=0&amp;amp;feature=oembed&amp;amp;enablejsapi=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" title="The Helen Keller Exorcism (ASL Translation) | Radiolab Podcast" id="a9158495047396415481" class="youtube_video" mozallowfullscreen="mozallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" data-original-url="https://youtu.be/P1L5Dn-LQ8c"&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;&lt;br&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Support Radiolab by becoming a member of &lt;a href="https://www.wnycstudios.org/podcasts/radiolab/membership"&gt;&lt;strong&gt;The Lab&lt;/strong&gt;&lt;/a&gt; today.    &lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCaum_fMDGgFQCmKHUBPq_xg"&gt;&lt;strong&gt;Radiolab is on YouTube!&lt;/strong&gt;&lt;/a&gt; &lt;span&gt;Catch up with new episodes and hear classics from our archive. Plus, find other cool things we did in the past — like miniseries, music videos, short films and animations, behind-the-scenes features, Radiolab live shows, and more. Take a look, explore and subscribe!&lt;br&gt;&lt;br&gt;&lt;a href="https://drive.google.com/file/d/1Qw4-eXnmBDEEZeF2z5KTGioz5O40vqQj/view?usp=sharing"&gt;DOWNLOAD BRAILLE READY FILE HERE&lt;/a&gt; (&lt;span data-sheets-value='{"1":2,"2":"https://zpr.io/s23JtuYxyrNA"}' data-sheets-userformat='{"2":513,"3":{"1":0},"12":0}' data-sheets-hyperlink="https://zpr.io/s23JtuYxyrNA"&gt;&lt;a class="in-cell-link" href="https://zpr.io/s23JtuYxyrNA" target="_blank"&gt;https://zpr.io/s23JtuYxyrNA&lt;/a&gt;&lt;/span&gt;)&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Citations in this episode&lt;br&gt;&lt;br&gt;Books:&lt;br&gt;&lt;/strong&gt;&lt;span&gt;Elsa Sjunneson, &lt;/span&gt;&lt;a href="https://www.goodreads.com/book/show/56650715-being-seen?ref=nav_sb_ss_2_10"&gt;&lt;em&gt;&lt;span&gt;Being Seen&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;span&gt;Kim Nielsen, &lt;/span&gt;&lt;a href="https://www.goodreads.com/book/show/74519.The_Radical_Lives_of_Helen_Keller?ref=nav_sb_ss_1_22"&gt;&lt;em&gt;&lt;span&gt;The Radical Lives of Helen Keller&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;span&gt;Georgina Kleege, &lt;/span&gt;&lt;a href="https://www.goodreads.com/book/show/316581.Blind_Rage?ref=nav_sb_ss_3_10"&gt;&lt;em&gt;&lt;span&gt;Blind Rage: Letters to Helen Keller&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;span&gt;Katie Booth, &lt;/span&gt;&lt;a href="https://www.goodreads.com/book/show/54737718-the-invention-of-miracles?ref=nav_sb_ss_1_21"&gt;&lt;em&gt;&lt;span&gt;The Invention of Miracles: language, power, and Alexander Graham Bell’s quest to end deafness&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;span&gt;Haben Girma, &lt;/span&gt;&lt;a href="https://www.goodreads.com/book/show/43211952-haben?ref=nav_sb_ss_1_6"&gt;&lt;em&gt;&lt;span&gt;Haben: The Deafblind Woman Who Conquered Harvard Law&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;/a&gt;&lt;span&gt;&lt;strong&gt;&lt;br&gt;Articles:&lt;/strong&gt;&lt;br&gt;Susan Crutchfield, “&lt;/span&gt;&lt;a href="https://dsq-sds.org/article/view/577/754"&gt;&lt;span&gt;Play[ing] her part correctly: Helen Keller as Vaudevillian Freak&lt;/span&gt;&lt;/a&gt;&lt;span&gt;,” &lt;/span&gt;&lt;em&gt;&lt;span&gt;Disability Studies Quarterly&lt;/span&gt;&lt;/em&gt;&lt;span&gt;.&lt;br&gt;&lt;/span&gt;&lt;span&gt;Desiree Kocis, “&lt;/span&gt;&lt;a href="https://www.planeandpilotmag.com/news/pilot-talk/did-helen-keller-fly-plane/"&gt;&lt;span&gt;Did Helen Keller Fly A Plane?&lt;/span&gt;&lt;/a&gt;&lt;span&gt;” (she did), &lt;/span&gt;&lt;em&gt;&lt;span&gt;Plane &amp;amp; Pilot Magazine.&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;span&gt;Peter C. Kunze, “&lt;/span&gt;&lt;a href="https://www.academia.edu/4493150/What_We_Talk_about_When_We_Talk_about_Helen_Keller_Disabilities_in_Children_s_Biographies"&gt;&lt;span&gt;What We Talk about When We Talk about Helen Keller&lt;/span&gt;&lt;/a&gt;&lt;span&gt;,” &lt;/span&gt;&lt;em&gt;&lt;span&gt;Children’s Literature Association Quarterly&lt;br&gt;&lt;/span&gt;&lt;/em&gt;&lt;span&gt;The archives of the &lt;/span&gt;&lt;a href="https://www.afb.org/"&gt;&lt;span&gt;American Foundation for the Blind&lt;/span&gt;&lt;/a&gt;&lt;span&gt; (AFB)&lt;/span&gt;&lt;/p&gt;
-</itunes:summary><itunes:episodeType>full</itunes:episodeType><author>wnycdigital@gmail.com (WNYC Studios)</author><itunes:explicit>no</itunes:explicit><itunes:subtitle>Fantasy writer Elsa Sjunneson has been haunted by Helen Keller for nearly her entire life. Like Helen, Elsa is Deafblind, and growing up she was constantly compared to her. But for a million different reasons she hated that, because she felt different from her in a million different ways. Then, a year ago, an online conspiracy theory claiming Helen was a fraud exploded on TikTok, and suddenly Elsa found herself drawing her sword and jumping to Helen’s defense, setting off a chain of events that would bring her closer to the disability icon than she ever dreamt. For over a year, Elsa, Lulu and the Radiolab team dug through primary sources, talked to experts, even visited Helen’s birthplace Ivy Green, and discovered the real story of Helen Keller is far more complicated, mysterious and confounding than the simple myth of a young Deafblind girl rescued by her teacher Annie Sullivan. It’s a story of ghosts, surprises, a few tears, a bit of romance, some hard conversations, and a possibly psychic dog. This episode was reported by Elsa Sjunneson and Lulu Miller. It was produced by Sindhu Gnanasambandan and Rachel Cusick, with help from Sarah Qari, Tanya Chawla, and Carolyn McClusker. Jeremy Bloom contributed music and sound design. Additional Mixing by Arianne Wack. Special thanks to Georgina Kleege, Julia Bascom, Desiree Kocis, Peter C. Kunze, Andrew Leland, Sara Luterman, Alexander Richey, Will Healy, Nate Jones, Nate Peereboom, and Pamela Sabaugh (who was our voice of Helen Keller). ASL TRANSCRIPTION Support Radiolab by becoming a member of The Lab today.     Radiolab is on YouTube! Catch up with new episodes and hear classics from our archive. Plus, find other cool things we did in the past — like miniseries, music videos, short films and animations, behind-the-scenes features, Radiolab live shows, and more. Take a look, explore and subscribe! DOWNLOAD BRAILLE READY FILE HERE (https://zpr.io/s23JtuYxyrNA) Citations in this episode Books: Elsa Sjunneson, Being Seen Kim Nielsen, The Radical Lives of Helen Keller Georgina Kleege, Blind Rage: Letters to Helen Keller Katie Booth, The Invention of Miracles: language, power, and Alexander Graham Bell’s quest to end deafness Haben Girma, Haben: The Deafblind Woman Who Conquered Harvard Law Articles: Susan Crutchfield, “Play[ing] her part correctly: Helen Keller as Vaudevillian Freak,” Disability Studies Quarterly. Desiree Kocis, “Did Helen Keller Fly A Plane?” (she did), Plane &amp;amp; Pilot Magazine. Peter C. Kunze, “What We Talk about When We Talk about Helen Keller,” Children’s Literature Association Quarterly The archives of the American Foundation for the Blind (AFB)</itunes:subtitle><itunes:author>WNYC Studios</itunes:author><itunes:keywords>Science,Technology,Philosophy,Education,radiolab,jad,abumrad,krulwich,Radio,Lab,wnyc,studios</itunes:keywords></item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>כוחו של הרגל  - פופקורן 233 עם אור רז</title>
-        <itunes:title>כוחו של הרגל  - פופקורן 233 עם אור רז</itunes:title>
-        <link>https://frnkl.podbean.com/e/%d7%9b%d7%95%d7%97%d7%95%d7%a9%d7%9c-%d7%94%d7%a8%d7%92%d7%9c%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-233-%d7%a2%d7%9d%d7%90%d7%95%d7%a8/</link>
-                    <comments>https://frnkl.podbean.com/e/%d7%9b%d7%95%d7%97%d7%95%d7%a9%d7%9c-%d7%94%d7%a8%d7%92%d7%9c%c2%a0%d7%a4%d7%95%d7%a4%d7%a7%d7%95%d7%a8%d7%9f-233-%d7%a2%d7%9d%d7%90%d7%95%d7%a8/#comments</comments>        <pubDate>Sun, 10 Apr 2022 05:01:42 +0000</pubDate>
-        <guid isPermaLink="false">frnkl.podbean.com/a50a4d8d-ae1a-3af2-b199-83c3a0deeb44</guid>
-                      <description>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
-&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
-&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
-&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
-</description>
-                        <content:encoded>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
-&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
-&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
-&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/9tj4ap/_233_a9ogq.mp3" length="120541225" type="audio/mpeg"/>
-        <itunes:subtitle>איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?
-ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר א...</itunes:subtitle>
-        <itunes:summary>שיחה מעניינת על הקניית הרגלים והתמדה. יש בשיחה דוגמאות מעניינות ופרקטיקות (שאומנם לא מחדשות הרבה) שחוזרות על תהליכים נכונים לבניית הרגלים.&lt;br&gt;#פסיכולוגיה #שיפורעצמי&lt;br&gt;&lt;br&gt;פופקורן - כוחו של הרגל  - 233 עם אור רז&lt;br&gt;משך: שעה ו32 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/w2gc56k0&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך ניפטר מהרגלים מזיקים? איך ונאמץ הרגלים שהיינו רוצים? מה הקשר בין Growth mindset לזהות שלנו?  מהו עיקרון הפירמידה ההפוכה? ואיך כל זה רלוונטי לקריירה שלנו? ומה יכולים לספר לנו המחקרים והספרים בנושא?&lt;/p&gt;
-&lt;p&gt;ישבתי עם אור רז, דוקטורנט לניהול באוניברסיטת בר אילן, ומומחה להרגלים, כדי לדבר על מתודות פרקטיות שיכולות לעזור לכל אחד לאמץ הרגל שהיה רוצה, ולהפסיק עם הרגלים מזיקים. אור סקר המון מחקרים בשיחה, והשתמש בדוגמאות אמיתיות מהמנהלים איתם הוא עובד, ומהחיים האישיים שלנו - כעובדים, כמנהלים, וכיזמים.&lt;/p&gt;
-&lt;p&gt;אור הוא מנכ״ל ובעלים של קבוצת לדעת, קבוצה לפיתוח הדרכה ופיתוח ארגוני, שם הם מפתחים אסטרטגיות ניהוליות ומעניקים ליווי אישי למנהלים.&lt;/p&gt;
-&lt;p&gt;הפרק בחסות: &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס&lt;/a&gt;&lt;/p&gt;
-</itunes:summary>
-        <itunes:author>ליאור פרנקל</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>01:32:27</itunes:duration>
-                <itunes:episode>232</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog13368673/_233_61euj.png"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>#94: Ann Handley [Voice] – How to make your voice a differentiator in your work</title>
-      <link>https://www.creativeelements.fm/ann-handley/</link>
-      <description>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
-Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
-In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
-Learn more about Ann Handley
-Subscribe to Total ANNARCHY
-Read Ann Handley's How To Newsletter PDF
-Follow Jay on Twitter
-Follow Creative Elements on Instagram
-Full transcript and show notes
-***
-SPONSORS
-View all sponsors and offers
-***
-IF YOU LOVE CREATIVE ELEMENTS
-Leave me a voicemail
-Subscribe to weekly episode emails
-Leave a review on Apple Podcasts
-Leave a rating on Spotify
-Buy Me A Coffee
-***
-ABOUT JAY CLOUSE
-Learn more about me
-Subscribe to my newsletter, Creative Companion
-Connect with me on Twitter
-Connect with me on Instagram
-Join #Tweet100
-***
-FOR PODCASTERS
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-Learn more about Podpage
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Sun, 10 Apr 2022 05:01:01 +0000</pubDate>
-      <itunes:title>Ann Handley [Voice] – How to make your voice a differentiator in your work</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>94</itunes:episode>
-      <itunes:author>Jay Clouse</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/46093e8e-3da4-11ec-bb56-1f6e34e4aade/image/94_Ann_Handley.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Ann Handley is a writer, digital marketing pioneer, and Wall Street Journal bestselling author</itunes:subtitle>
-      <itunes:summary>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
-Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
-In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
-Learn more about Ann Handley
-Subscribe to Total ANNARCHY
-Read Ann Handley's How To Newsletter PDF
-Follow Jay on Twitter
-Follow Creative Elements on Instagram
-Full transcript and show notes
-***
-SPONSORS
-View all sponsors and offers
-***
-IF YOU LOVE CREATIVE ELEMENTS
-Leave me a voicemail
-Subscribe to weekly episode emails
-Leave a review on Apple Podcasts
-Leave a rating on Spotify
-Buy Me A Coffee
-***
-ABOUT JAY CLOUSE
-Learn more about me
-Subscribe to my newsletter, Creative Companion
-Connect with me on Twitter
-Connect with me on Instagram
-Join #Tweet100
-***
-FOR PODCASTERS
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-Learn more about Podpage
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>שיחה מעניינת עם יוצרת וכותבת Ann Handley. יש לה את כל הטייטלים - משפיענית ברשתות חברתיות, כותבת ספרים ומעבירה הרצאות. אבל בשיחה הזאת מדברים על הקול הייחודי שלה, מה גרם לה לכתוב כמו שהיא כותבת ומה השגרה שאליה היא נצמדת. &lt;br&gt;#אנגלית #יצירתיות #כתיבה&lt;br&gt;&lt;br&gt;Creative elements - Ann Handley [Voice] – How to make your voice a differentiator in your work&lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tgfa9ez8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ann Handley is a writer, digital marketing pioneer, and author of the Wall Street Journal bestsellers Everybody Writes: Your Go-To Guide to Creating Ridiculously Good Content and co-author of Content Rules: How to Create Killer Blogs, Podcasts, Videos, Ebooks, Webinars (and More) That Engage Customers and Ignite Your Business.
-Her company, MarketingProfs, is a marketing training and education company with more than 600,000 subscribers. She is a LinkedIn Influencer with more than 420,000 followers on Twitter. She is consistently named one of the most influential marketers on social media.
-In this episode, we’re exploring how Ann got into writing, how Ann thinks about the audience she is writing to, her unique metric for measuring the success of her newsletter, and how you can find and hone your own unique voice.
-Learn more about Ann Handley
-Subscribe to Total ANNARCHY
-Read Ann Handley's How To Newsletter PDF
-Follow Jay on Twitter
-Follow Creative Elements on Instagram
-Full transcript and show notes
-***
-SPONSORS
-View all sponsors and offers
-***
-IF YOU LOVE CREATIVE ELEMENTS
-Leave me a voicemail
-Subscribe to weekly episode emails
-Leave a review on Apple Podcasts
-Leave a rating on Spotify
-Buy Me A Coffee
-***
-ABOUT JAY CLOUSE
-Learn more about me
-Subscribe to my newsletter, Creative Companion
-Connect with me on Twitter
-Connect with me on Instagram
-Join #Tweet100
-***
-FOR PODCASTERS
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-Learn more about Podpage
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>3408</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">46093e8e-3da4-11ec-bb56-1f6e34e4aade</guid>
-      <enclosure url="https://pdst.fm/e/chrt.fm/track/28555/traffic.megaphone.fm/TPG2138002955.mp3?updated=1646865486" length="0" type="audio/mpeg"/>
-    </item></channel>
+</itunes:summary><itunes:episodeType>full</itunes:episodeType><author>wnycdigital@gmail.com (WNYC Studios)</author><itunes:explicit>no</itunes:explicit><itunes:subtitle>Fantasy writer Elsa Sjunneson has been haunted by Helen Keller for nearly her entire life. Like Helen, Elsa is Deafblind, and growing up she was constantly compared to her. But for a million different reasons she hated that, because she felt different from her in a million different ways. Then, a year ago, an online conspiracy theory claiming Helen was a fraud exploded on TikTok, and suddenly Elsa found herself drawing her sword and jumping to Helen’s defense, setting off a chain of events that would bring her closer to the disability icon than she ever dreamt. For over a year, Elsa, Lulu and the Radiolab team dug through primary sources, talked to experts, even visited Helen’s birthplace Ivy Green, and discovered the real story of Helen Keller is far more complicated, mysterious and confounding than the simple myth of a young Deafblind girl rescued by her teacher Annie Sullivan. It’s a story of ghosts, surprises, a few tears, a bit of romance, some hard conversations, and a possibly psychic dog. This episode was reported by Elsa Sjunneson and Lulu Miller. It was produced by Sindhu Gnanasambandan and Rachel Cusick, with help from Sarah Qari, Tanya Chawla, and Carolyn McClusker. Jeremy Bloom contributed music and sound design. Additional Mixing by Arianne Wack. Special thanks to Georgina Kleege, Julia Bascom, Desiree Kocis, Peter C. Kunze, Andrew Leland, Sara Luterman, Alexander Richey, Will Healy, Nate Jones, Nate Peereboom, and Pamela Sabaugh (who was our voice of Helen Keller). ASL TRANSCRIPTION Support Radiolab by becoming a member of The Lab today.     Radiolab is on YouTube! Catch up with new episodes and hear classics from our archive. Plus, find other cool things we did in the past — like miniseries, music videos, short films and animations, behind-the-scenes features, Radiolab live shows, and more. Take a look, explore and subscribe! DOWNLOAD BRAILLE READY FILE HERE (https://zpr.io/s23JtuYxyrNA) Citations in this episode Books: Elsa Sjunneson, Being Seen Kim Nielsen, The Radical Lives of Helen Keller Georgina Kleege, Blind Rage: Letters to Helen Keller Katie Booth, The Invention of Miracles: language, power, and Alexander Graham Bell’s quest to end deafness Haben Girma, Haben: The Deafblind Woman Who Conquered Harvard Law Articles: Susan Crutchfield, “Play[ing] her part correctly: Helen Keller as Vaudevillian Freak,” Disability Studies Quarterly. Desiree Kocis, “Did Helen Keller Fly A Plane?” (she did), Plane &amp;amp; Pilot Magazine. Peter C. Kunze, “What We Talk about When We Talk about Helen Keller,” Children’s Literature Association Quarterly The archives of the American Foundation for the Blind (AFB)</itunes:subtitle><itunes:author>WNYC Studios</itunes:author><itunes:keywords>Science,Technology,Philosophy,Education,radiolab,jad,abumrad,krulwich,Radio,Lab,wnyc,studios</itunes:keywords></item></channel>
 </rss>
