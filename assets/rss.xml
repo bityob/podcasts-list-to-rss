@@ -11,9 +11,43 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 11 Dec 2022 05:13:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2022 06:17:32 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>How the cookie became a monster</title>
+      <description>סיפור יצירתן של "העוגיות" ששומרות את ההסטוריה שלנו במחשבים השונים. ראיון עם Lou Montulli שלפני 30 שנה ניסה לפתור את בעיית האנשים שלא השתמשו באינטרנט ובדרך יצר טכנולוגיה שאי אפשר בעולם השיווק ואיקומרס של ימיינו. &lt;br&gt;מעניין לשמוע מה הוא חושב על ההמצאה שלו היום עם היכולת להסתכל לאחור ולהעריך את כל המשמעויות שהעוגיות הביאו לחיינו. &lt;br&gt;#אנגלית #טכנולוגיה &lt;br&gt;&lt;br&gt;Planet money - How the cookie became a monster&lt;br&gt;משך: 26 דק'&lt;br&gt;&lt;br&gt;https://pca.st/1huixfo6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;30 years ago, Lou Montulli set out to solve a fundamental problem with the internet, and accidentally created an entirely different one. On today's show, how the cookie went from an obscure piece of code designed to protect anonymity, to an online advertiser's dream, to a privacy advocate's nightmare.&lt;br/&gt;&lt;br/&gt;Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;</description>
+      <pubDate>Sun, 11 Dec 2022 06:01:23 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">74743610-a4ce-4cdd-94d6-6f4c8a68f2fa</guid>
+      <link>https://www.npr.org/2022/11/18/1137657496/third-party-cookie-data-tracking-internet-user-privacy</link>
+      <itunes:title>How the cookie became a monster</itunes:title>
+      <itunes:episode>1592</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>סיפור יצירתן של "העוגיות" ששומרות את ההסטוריה שלנו במחשבים השונים. ראיון עם Lou Montulli שלפני 30 שנה ניסה לפתור את בעיית האנשים שלא השתמשו באינטרנט ובדרך יצר טכנולוגיה שאי אפשר בעולם השיווק ואיקומרס של ימיינו. &lt;br&gt;מעניין לשמוע מה הוא חושב על ההמצאה שלו היום עם היכולת להסתכל לאחור ולהעריך את כל המשמעויות שהעוגיות הביאו לחיינו. &lt;br&gt;#אנגלית #טכנולוגיה &lt;br&gt;&lt;br&gt;Planet money - How the cookie became a monster&lt;br&gt;משך: 26 דק'&lt;br&gt;&lt;br&gt;https://pca.st/1huixfo6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;30 years ago, Lou Montulli set out to solve a fundamental problem with the internet, and accidentally created an entirely different one. On today's show, how the cookie went from an obscure piece of code designed to protect anonymity, to an online advertiser's dream, to a privacy advocate's nightmare.&lt;br/&gt;&lt;br/&gt;Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;</itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2022/11/18/chocolate-chunk-cookies-new-york_wide-cfca744987cbe2e701bc69148dac6b3c8b5af78e.jpeg?s=1400"/>
+      <itunes:duration>1604</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפור יצירתן של "העוגיות" ששומרות את ההסטוריה שלנו במחשבים השונים. ראיון עם Lou Montulli שלפני 30 שנה ניסה לפתור את בעיית האנשים שלא השתמשו באינטרנט ובדרך יצר טכנולוגיה שאי אפשר בעולם השיווק ואיקומרס של ימיינו. &lt;br&gt;מעניין לשמוע מה הוא חושב על ההמצאה שלו היום עם היכולת להסתכל לאחור ולהעריך את כל המשמעויות שהעוגיות הביאו לחיינו. &lt;br&gt;#אנגלית #טכנולוגיה &lt;br&gt;&lt;br&gt;Planet money - How the cookie became a monster&lt;br&gt;משך: 26 דק'&lt;br&gt;&lt;br&gt;https://pca.st/1huixfo6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;30 years ago, Lou Montulli set out to solve a fundamental problem with the internet, and accidentally created an entirely different one. On today's show, how the cookie went from an obscure piece of code designed to protect anonymity, to an online advertiser's dream, to a privacy advocate's nightmare.&lt;br/&gt;&lt;br/&gt;Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;</content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/11/20221118_pmoney_0be4b167-20fb-476d-8067-8169aa6dc231.mp3?awCollectionId=510289&amp;awEpisodeId=1137657496&amp;orgId=1&amp;topicId=1019&amp;aggIds=94427042&amp;d=1604&amp;p=510289&amp;story=1137657496&amp;t=podcast&amp;e=1137657496&amp;size=25666082&amp;ft=pod&amp;f=510289" length="25666082" type="audio/mpeg"/>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>פרק 110 - מתעסקות במונופול</title>
+			<description>ההסטוריה של היצירה של משחק המונופול. בפרק יש סקירה של משחקים מסוגים שונים וגם של המשחק המקורי והמתחרה שלו ומי מהם שרד (ספויילר: קפיטליזם). &lt;br&gt;מסתבר שיש תחרויות מונופול מתחת למים וגם כאלו שנמשות הרבה מאוד זמן.&lt;br&gt;#משחקים #הסטוריה&lt;br&gt;&lt;br&gt;מתעסקות בעיקר - פרק 110 - מתעסקות במונופול&lt;br&gt;משך: 45 דק' &lt;br&gt;&lt;br&gt;https://pca.st/kqb2abdz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק חדש באיחור של שבוע, אבל הנה אנחנו כאן. רגע לפני הבחירות פולי מצאה דרך לא פוליטית להתייחס לנושא דרך חקירת ההיסטוריה של משחק המונופול.
+</description>
+			<link>https://anchor.fm/abby--poli/episodes/110---e1pv8g6</link>
+			<guid isPermaLink="false">f214539e-40d0-48a9-8257-4294dd60e455</guid>
+			<dc:creator>Abby &amp; Poli</dc:creator>
+			<pubDate>Sun, 11 Dec 2022 06:01:01 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/2eedd2ac/podcast/play/59793350/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-30%2Fb63a308b-cd2d-52ab-06fc-ee6b72966c6e.mp3" length="33812755" type="audio/mpeg"/>
+			<itunes:summary>ההסטוריה של היצירה של משחק המונופול. בפרק יש סקירה של משחקים מסוגים שונים וגם של המשחק המקורי והמתחרה שלו ומי מהם שרד (ספויילר: קפיטליזם). &lt;br&gt;מסתבר שיש תחרויות מונופול מתחת למים וגם כאלו שנמשות הרבה מאוד זמן.&lt;br&gt;#משחקים #הסטוריה&lt;br&gt;&lt;br&gt;מתעסקות בעיקר - פרק 110 - מתעסקות במונופול&lt;br&gt;משך: 45 דק' &lt;br&gt;&lt;br&gt;https://pca.st/kqb2abdz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק חדש באיחור של שבוע, אבל הנה אנחנו כאן. רגע לפני הבחירות פולי מצאה דרך לא פוליטית להתייחס לנושא דרך חקירת ההיסטוריה של משחק המונופול.
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:45:22</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/7773379/7773379-1667115443519-ace16e44faae3.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>110</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק מיוחד: גיל ההצבעה בבחירות</title>
         <itunes:title>פרק מיוחד: גיל ההצבעה בבחירות</itunes:title>
         <link>https://knessetmmm.podbean.com/e/election25/</link>
@@ -5586,134 +5620,5 @@ Disclaimer</content:encoded>
     <itunes:episode>6</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
-  </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>#74: Bad Bunnies NFT [Design] – From idea to sold-out NFT project in less than 3 months</title>
-      <link>https://jayclouse.com/podcast/bad-bunnies-nft/</link>
-      <description>סיפור היצירה של פרוייקט NFT סופר מצליח - Bad Bunnies. מה שמעניין פה זה איך היוצרים הגו את הרעיון ואז ביצעו אותו ע"פ תוכנית עסקית כך שהפרוייקט יהיה מוכן בזמן שיא של 3 חודשים. זהו מעיין מדריך לאיך משיקים פרוייקט  NFT מצליח אבל בו זמנית גם הצצה למחשבות של יוצרים מצליחים בתחום.🐰🐰🐰&lt;br&gt;#אנגלית #בלוקציין #טכנולוגיה&lt;br&gt;&lt;br&gt;https://prnt.sc/FCZdLpRGrRbw&lt;br&gt;&lt;br&gt;Creative elements - Bad Bunnies NFT [Design] – From idea to sold-out NFT project in less than 3 months&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hervkmrd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;c4nopener is one of the creators of the Bad Bunnies NFT project. Bad Bunnies are 5,500 randomly generated, gamified NFTs, released from captivity to the Ethereum blockchain.
-The project was created by c4nopener, a product designer bunny with 15 years experience in the industry, his brother poopli, and their friend bdub.
-The project opened to the public for minting on Sept. 18 at a price of 0.0275 ETH and sold out in a matter of 48 hours.
-In this episode, we talk about the origins of Bad Bunnies, their sold-out launch, a step-by-step guide for how you can launch your own NFT, the role of hype in an NFT project, and why the Bad Bunnies team valued Design over all else.
-Visit the Bad Bunnies website
-Visit the Bad Bunnies collection on OpenSea
-Join the Bad Bunnies Discord
-Follow Bad Bunnies NFT on Twitter
-View my collection on OpenSea
-Full transcript and show notes
-***
-ABOUT JAY CLOUSE
-Subscribe to my weekly newsletter
-Find me on Twitter
-Find me on Instagram
-Join #Tweet100
-***
-LISTENER SUPPORT
-Support this show through Buy Me A Coffee
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-***
-SPONSORS
-Try Podia and save 15% for life as a Creative Elements listener
-Start your free trial of SavvyCal and get your first month free using promo code ELEMENTS
-Get a free month of Blinkist Premium
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 28 Apr 2022 04:01:43 +0000</pubDate>
-      <itunes:title>Bad Bunnies NFT [Design] – From idea to sold-out NFT project in less than 3 months</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>74</itunes:episode>
-      <itunes:author>Jay Clouse</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/eec55e24-ad9c-11eb-b55d-8b6b9362e35d/image/74_Bad_Bunnies_NFT.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>Bad Bunnies are 5,500 randomly generated, gamified NFTs, released from captivity to the Ethereum blockchain.</itunes:subtitle>
-      <itunes:summary>סיפור היצירה של פרוייקט NFT סופר מצליח - Bad Bunnies. מה שמעניין פה זה איך היוצרים הגו את הרעיון ואז ביצעו אותו ע"פ תוכנית עסקית כך שהפרוייקט יהיה מוכן בזמן שיא של 3 חודשים. זהו מעיין מדריך לאיך משיקים פרוייקט  NFT מצליח אבל בו זמנית גם הצצה למחשבות של יוצרים מצליחים בתחום.🐰🐰🐰&lt;br&gt;#אנגלית #בלוקציין #טכנולוגיה&lt;br&gt;&lt;br&gt;https://prnt.sc/FCZdLpRGrRbw&lt;br&gt;&lt;br&gt;Creative elements - Bad Bunnies NFT [Design] – From idea to sold-out NFT project in less than 3 months&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hervkmrd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;c4nopener is one of the creators of the Bad Bunnies NFT project. Bad Bunnies are 5,500 randomly generated, gamified NFTs, released from captivity to the Ethereum blockchain.
-The project was created by c4nopener, a product designer bunny with 15 years experience in the industry, his brother poopli, and their friend bdub.
-The project opened to the public for minting on Sept. 18 at a price of 0.0275 ETH and sold out in a matter of 48 hours.
-In this episode, we talk about the origins of Bad Bunnies, their sold-out launch, a step-by-step guide for how you can launch your own NFT, the role of hype in an NFT project, and why the Bad Bunnies team valued Design over all else.
-Visit the Bad Bunnies website
-Visit the Bad Bunnies collection on OpenSea
-Join the Bad Bunnies Discord
-Follow Bad Bunnies NFT on Twitter
-View my collection on OpenSea
-Full transcript and show notes
-***
-ABOUT JAY CLOUSE
-Subscribe to my weekly newsletter
-Find me on Twitter
-Find me on Instagram
-Join #Tweet100
-***
-LISTENER SUPPORT
-Support this show through Buy Me A Coffee
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-***
-SPONSORS
-Try Podia and save 15% for life as a Creative Elements listener
-Start your free trial of SavvyCal and get your first month free using promo code ELEMENTS
-Get a free month of Blinkist Premium
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>סיפור היצירה של פרוייקט NFT סופר מצליח - Bad Bunnies. מה שמעניין פה זה איך היוצרים הגו את הרעיון ואז ביצעו אותו ע"פ תוכנית עסקית כך שהפרוייקט יהיה מוכן בזמן שיא של 3 חודשים. זהו מעיין מדריך לאיך משיקים פרוייקט  NFT מצליח אבל בו זמנית גם הצצה למחשבות של יוצרים מצליחים בתחום.🐰🐰🐰&lt;br&gt;#אנגלית #בלוקציין #טכנולוגיה&lt;br&gt;&lt;br&gt;https://prnt.sc/FCZdLpRGrRbw&lt;br&gt;&lt;br&gt;Creative elements - Bad Bunnies NFT [Design] – From idea to sold-out NFT project in less than 3 months&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hervkmrd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;c4nopener is one of the creators of the Bad Bunnies NFT project. Bad Bunnies are 5,500 randomly generated, gamified NFTs, released from captivity to the Ethereum blockchain.
-The project was created by c4nopener, a product designer bunny with 15 years experience in the industry, his brother poopli, and their friend bdub.
-The project opened to the public for minting on Sept. 18 at a price of 0.0275 ETH and sold out in a matter of 48 hours.
-In this episode, we talk about the origins of Bad Bunnies, their sold-out launch, a step-by-step guide for how you can launch your own NFT, the role of hype in an NFT project, and why the Bad Bunnies team valued Design over all else.
-Visit the Bad Bunnies website
-Visit the Bad Bunnies collection on OpenSea
-Join the Bad Bunnies Discord
-Follow Bad Bunnies NFT on Twitter
-View my collection on OpenSea
-Full transcript and show notes
-***
-ABOUT JAY CLOUSE
-Subscribe to my weekly newsletter
-Find me on Twitter
-Find me on Instagram
-Join #Tweet100
-***
-LISTENER SUPPORT
-Support this show through Buy Me A Coffee
-Enroll in my podcasting workshop
-Enroll in my course on podcasting, Podcast Like The Pros
-***
-SPONSORS
-Try Podia and save 15% for life as a Creative Elements listener
-Start your free trial of SavvyCal and get your first month free using promo code ELEMENTS
-Get a free month of Blinkist Premium
-***
-PODGLOMERATE NETWORK
-This show is a part of the Podglomerate network, a company that produces, distributes, and monetizes podcasts. We encourage you to visit the website and sign up for our newsletter for more information about our shows, launches, and events. For more information on how The Podglomerate treats data, please see our Privacy Policy. 
-Since you're listening to Creative Elements, we'd like to suggest you also try other Podglomerate shows surrounding entrepreneurship, business, and careers like Rocketship.fm and Freelance to Founder.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>3652</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">eec55e24-ad9c-11eb-b55d-8b6b9362e35d</guid>
-      <enclosure url="https://pdst.fm/e/chrt.fm/track/28555/traffic.megaphone.fm/TPG4922624253.mp3?updated=1632773333" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>מיסים</title>
-      <itunes:title>מיסים</itunes:title>
-      <description>פרק קצר על מיסים בישראל. הסבר על נקודות זיכוי, החזר מס ומס הכנסה שלילי  - ואיך להשתמש בהם לטובתינו. &lt;br&gt;#כלכלה #שיפורעצמי&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - מיסים&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;https://pca.st/u31eeos4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה ננסה, לעזור לכם לשלם פחות מסים (על פי החוק כמובן). חלק מזה שאנחנו משלמים יותר מסים ממה שצריך זה שאנחנו לא מכירים מספיק טוב את מערכת המס. 
-&lt;br&gt;ולכן היום נרצה לתת לכם טיפים בשלושה תחומים שונים: נקודות זיכוי, החזר מס ומס הכנסה שלילי (הידוע גם כמענק עבודה).&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>פרק קצר על מיסים בישראל. הסבר על נקודות זיכוי, החזר מס ומס הכנסה שלילי  - ואיך להשתמש בהם לטובתינו. &lt;br&gt;#כלכלה #שיפורעצמי&lt;br&gt;&lt;br&gt;ערך מוסף בשבילי - מיסים&lt;br&gt;משך: 15 דק' &lt;br&gt;&lt;br&gt;https://pca.st/u31eeos4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק זה ננסה, לעזור לכם לשלם פחות מסים (על פי החוק כמובן). חלק מזה שאנחנו משלמים יותר מסים ממה שצריך זה שאנחנו לא מכירים מספיק טוב את מערכת המס. 
-&lt;br&gt;ולכן היום נרצה לתת לכם טיפים בשלושה תחומים שונים: נקודות זיכוי, החזר מס ומס הכנסה שלילי (הידוע גם כמענק עבודה).&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן חינוכית</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/c05b0939-2c0e-43b6-8f59-a92f00999d36/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115539" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/valueadded/c05b0939-2c0e-43b6-8f59-a92f00999d36/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/playlist/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/2798d8d4-3347-40f6-b519-a92f009305bd/image.jpg?t=1537937734&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">bd98f67637ea325ef4dd7b8d7204e559</guid>
-      <omny:clipId>c05b0939-2c0e-43b6-8f59-a92f00999d36</omny:clipId>
-      <pubDate>Thu, 28 Apr 2022 04:01:01 +0000</pubDate>
-      <itunes:duration>902</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/c05b0939-2c0e-43b6-8f59-a92f00999d36/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115539" length="14472742" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/valueadded/c05b0939-2c0e-43b6-8f59-a92f00999d36</link>
-      <itunes:order>15</itunes:order>
-    </item></channel>
+  </item></channel>
 </rss>
