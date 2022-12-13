@@ -11,9 +11,31 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 13 Dec 2022 05:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 06:19:12 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/">
+      <guid isPermaLink="false">prx_315_43140306-8be7-4884-9690-a71cbf2ea7bc</guid>
+      <title>Best of Design Matters: Roman Mars</title>
+      <pubDate>Tue, 13 Dec 2022 05:30:15 +0000</pubDate>
+      <link>https://beta.prx.org/stories/396026</link>
+      <description>ראיון מרתק עם אחד הפודקאסטרים האהובים עליי - Roman Mars. רומן הוא מי שעומד מאחורי הפודקאסט 99% Ivisible שבו הוא מאיר את הפינות הלא מודעות של הקיום שלנו. הוא מדבר על המון נושאים שונים שנראים מובנים מעליהם, לפני שהוא מסביר למה הם בעצם עובדים כמו שהם עובדים. &lt;br&gt;בראיון הוא מספר על איך הוא הקים את הפודקאסט ואיך הוא בכלל הגיע לתחום. &lt;br&gt;#ראיוןמעניין #פודקאסטים #אנגלית&lt;br&gt;https://prnt.sc/LmdNXzmYJPFZ&lt;br&gt;&lt;br&gt;Design matters - Best of Design Matters: Roman Mars&lt;br&gt;משך: 43 דק'&lt;br&gt;&lt;br&gt;https://pca.st/ozxuqzrb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Roman Mars is the host and creator of 99% Invisible, a sound-rich, narrative podcast about the unnoticed architecture and design that shape our world.&lt;/p&gt;
+      </description>
+      <enclosure length="25830510" type="audio/mpeg" url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/chtbl.com/track/48D18/dovetail.prxu.org/315/43140306-8be7-4884-9690-a71cbf2ea7bc/From_the_Archive_Roman_Mars_A.mp3"/>
+      <itunes:subtitle>Roman Mars is the host and creator of 99% Invisible, a sound-rich, narrative podcast about the unnoticed architecture and design that shape our world.</itunes:subtitle>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:duration>43:03</itunes:duration>
+      <author>podcasts@ted.com (Design Matters Media)</author>
+      <itunes:author>Design Matters Media</itunes:author>
+      <itunes:summary>ראיון מרתק עם אחד הפודקאסטרים האהובים עליי - Roman Mars. רומן הוא מי שעומד מאחורי הפודקאסט 99% Ivisible שבו הוא מאיר את הפינות הלא מודעות של הקיום שלנו. הוא מדבר על המון נושאים שונים שנראים מובנים מעליהם, לפני שהוא מסביר למה הם בעצם עובדים כמו שהם עובדים. &lt;br&gt;בראיון הוא מספר על איך הוא הקים את הפודקאסט ואיך הוא בכלל הגיע לתחום. &lt;br&gt;#ראיוןמעניין #פודקאסטים #אנגלית&lt;br&gt;https://prnt.sc/LmdNXzmYJPFZ&lt;br&gt;&lt;br&gt;Design matters - Best of Design Matters: Roman Mars&lt;br&gt;משך: 43 דק'&lt;br&gt;&lt;br&gt;https://pca.st/ozxuqzrb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Roman Mars is the host and creator of 99% Invisible, a sound-rich, narrative podcast about the unnoticed architecture and design that shape our world.&lt;/p&gt;
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/315/43140306-8be7-4884-9690-a71cbf2ea7bc/images/b6b7678a-9e81-4612-a195-dc85b19a2a8e/Roman_Mars.jpg"/>
+      <media:content fileSize="25830510" type="audio/mpeg" url="https://pdst.fm/e/dts.podtrac.com/redirect.mp3/chtbl.com/track/48D18/dovetail.prxu.org/315/43140306-8be7-4884-9690-a71cbf2ea7bc/From_the_Archive_Roman_Mars_A.mp3"/>
+      <content:encoded>ראיון מרתק עם אחד הפודקאסטרים האהובים עליי - Roman Mars. רומן הוא מי שעומד מאחורי הפודקאסט 99% Ivisible שבו הוא מאיר את הפינות הלא מודעות של הקיום שלנו. הוא מדבר על המון נושאים שונים שנראים מובנים מעליהם, לפני שהוא מסביר למה הם בעצם עובדים כמו שהם עובדים. &lt;br&gt;בראיון הוא מספר על איך הוא הקים את הפודקאסט ואיך הוא בכלל הגיע לתחום. &lt;br&gt;#ראיוןמעניין #פודקאסטים #אנגלית&lt;br&gt;https://prnt.sc/LmdNXzmYJPFZ&lt;br&gt;&lt;br&gt;Design matters - Best of Design Matters: Roman Mars&lt;br&gt;משך: 43 דק'&lt;br&gt;&lt;br&gt;https://pca.st/ozxuqzrb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Roman Mars is the host and creator of 99% Invisible, a sound-rich, narrative podcast about the unnoticed architecture and design that shape our world.&lt;/p&gt;
+      </content:encoded>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>How the cookie became a monster</title>
       <description>סיפור יצירתן של "העוגיות" ששומרות את ההסטוריה שלנו במחשבים השונים. ראיון עם Lou Montulli שלפני 30 שנה ניסה לפתור את בעיית האנשים שלא השתמשו באינטרנט ובדרך יצר טכנולוגיה שאי אפשר בלעדיה בעולם השיווק ואיקומרס של ימיינו. &lt;br&gt;מעניין לשמוע מה הוא חושב על ההמצאה שלו היום עם היכולת להסתכל לאחור ולהעריך את כל המשמעויות שהעוגיות הביאו לחיינו. &lt;br&gt;#אנגלית #טכנולוגיה &lt;br&gt;&lt;br&gt;Planet money - How the cookie became a monster&lt;br&gt;משך: 26 דק'&lt;br&gt;&lt;br&gt;https://pca.st/1huixfo6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;30 years ago, Lou Montulli set out to solve a fundamental problem with the internet, and accidentally created an entirely different one. On today's show, how the cookie went from an obscure piece of code designed to protect anonymity, to an online advertiser's dream, to a privacy advocate's nightmare.&lt;br/&gt;&lt;br/&gt;Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;</description>
       <pubDate>Sun, 11 Dec 2022 06:01:23 +0000</pubDate>
@@ -5444,181 +5466,5 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
         <itunes:duration>01:25:33</itunes:duration>
                 <itunes:episode>233</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog13368673/_234_9kcg1.png"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction | Episode 39</title>
-      <link>https://hubermanlab.com/controlling-your-dopamine-for-motivation-focus-and-satisfaction/</link>
-      <description>חקירה מעמיקה אל תוך הסיפור של דופמינים. מה הם עושים לגוף ולמצב רוח ואיך אפשר לנהל אורח חיים בריא בעזרת ההבנה של מנגנון ההפרשה של הדופמינים. ההתחלה מאוד ממוקדת ביולוגיה, אבל בהמשך הפרק הוא עובר לדוגמאות פרקטיות ושיטות לשליטה או לפחות בקרה של הדופמינים. &lt;br&gt;#אנגלית #בריאות &lt;br&gt;&lt;br&gt;Huberman lab - Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction&lt;br&gt;משך: שעתיים ו16 דק' &lt;br&gt;&lt;br&gt;https://pca.st/8x7l3v91&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This episode serves as a sort of “Dopamine Masterclass”. I discuss the immensely powerful chemical that we all make in our brain and body: dopamine. I describe what it does and the neural circuits involved. I explain dopamine peaks and baselines, and the cell biology of dopamine depletion. I include 14 tools for how to control your dopamine release for sake of motivation, focus, avoiding and combating addiction and depression, and I explain why dopamine stacking with chemicals and behaviors inevitably leads to states of underwhelm and poor performance. I explain how to achieve sustained increases in baseline dopamine, compounds that injure and protect dopamine neurons including caffeine from specific sources. I describe non-prescription supplements for increasing dopamine—both their benefits and risks—and synergy of pro-dopamine supplements with those that increase acetylcholine. 
-Thank you to our sponsors
-AG1 (Athletic Greens): https://athleticgreens.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Thesis: https://takethesis.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
-For the full show notes, visit hubermanlab.com
-Timestamps
-(00:00:00) Introduction &amp; Tool 1 to Induce Lasting Dopamine
-(00:04:48) Sponsors
-(00:09:10) Upcoming (Zero-Cost) Neuroplasticity Seminar for Educators
-(00:09:58) What Dopamine (Really) Does
-(00:15:30) Two Main Neural Circuits for Dopamine 
-(00:18:14) How Dopamine Is Released: Locally and Broadly
-(00:22:03) Fast and Slow Effects of Dopamine
-(00:25:03) Dopamine Neurons Co-Release Glutamate
-(00:28:00) Your Dopamine History Really Matters 
-(00:30:30) Parkinson’s &amp; Drugs That Kill Dopamine Neurons. My Dopamine Experience 
-(00:36:58) Tool 3 Controlling Dopamine Peaks &amp; Baselines
-(00:40:06) Chocolate, Sex (Pursuit &amp; Behavior), Nicotine, Cocaine, Amphetamine, Exercise
-(00:46:46) Tool 4 Caffeine Increases Dopamine Receptors
-(00:49:54) Pursuit, Excitement &amp; Your “Dopamine Setpoint”
-(00:56:46) Your Pleasure-Pain Balance &amp; Defining “Pain”
-(01:00:00) Addiction, Dopamine Depletion, &amp; Replenishing Dopamine
-(01:07:50) Tool 5 Ensure Your Best (Healthy) Dopamine Release
-(01:15:28) Smart Phones: How They Alter Our Dopamine Circuits
-(01:19:45) Stimulants &amp; Spiking Dopamine: Counterproductive for Work, Exercise &amp; Attention
-(01:22:20) Caffeine Sources Matter: Yerba Mate &amp; Dopamine Neuron Protection
-(01:24:20) Caffeine &amp; Neurotoxicity of MDMA
-(01:26:15) Amphetamine, Cocaine &amp; Detrimental Rewiring of Dopamine Circuits
-(01:27:57) Ritalin, Adderall, (Ar)Modafinil: ADHD versus non-Prescription Uses
-(01:28:45) Tool 6 Stimulating Long-Lasting Increases in Baseline Dopamine 
-(01:37:55) Tool 7 Tuning Your Dopamine for Ongoing Motivation
-(01:47:40) Tool 8 Intermittent Fasting: Effects on Dopamine 
-(01:53:09) Validation of Your Pre-Existing Beliefs Increases Dopamine
-(01:53:50) Tool 9 Quitting Sugar &amp; Highly Palatable Foods: 48 Hours
-(01:55:36) Pornography
-(01:56:50) Wellbutrin &amp; Depression &amp; Anxiety
-(01:58:30) Tool 10 Mucuna Pruriens, Prolactin, Sperm, Crash Warning
-(02:01:45) Tool 11 L-Tyrosine: Dosages, Duration of Effects &amp; Specificity
-(02:05:20) Tool 12 Avoiding Melatonin Supplementation, &amp; Avoiding Light 10pm-4am
-(02:07:00) Tool 13 Phenylethylamine (with Alpha-GPC) For Dopamine Focus/Energy
-(02:08:20) Tool 14 Huperzine A
-(02:10:02) Social Connections, Oxytocin &amp; Dopamine Release
-(02:12:20) Direct &amp; Indirect Effects: e.g., Maca; Synthesis &amp; Application
-(02:14:22) Zero-Cost &amp; Other Ways To Support Podcast &amp; Research
-Title Card Photo Credit: Mike Blabac
-Disclaimer</description>
-      <pubDate>Sun, 01 May 2022 03:31:01 +0000</pubDate>
-      <itunes:title>Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>39</itunes:episode>
-      <itunes:author>Scicomm Media</itunes:author>
-      <itunes:subtitle>This episode serves as a sort of “Dopamine Masterclass”. I discuss the immensely powerful chemical that we all make in our brain and body: dopamine. I describe what it does and the neural circuits involved. I explain dopamine peaks and baselines,...</itunes:subtitle>
-      <itunes:summary>חקירה מעמיקה אל תוך הסיפור של דופמינים. מה הם עושים לגוף ולמצב רוח ואיך אפשר לנהל אורח חיים בריא בעזרת ההבנה של מנגנון ההפרשה של הדופמינים. ההתחלה מאוד ממוקדת ביולוגיה, אבל בהמשך הפרק הוא עובר לדוגמאות פרקטיות ושיטות לשליטה או לפחות בקרה של הדופמינים. &lt;br&gt;#אנגלית #בריאות &lt;br&gt;&lt;br&gt;Huberman lab - Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction&lt;br&gt;משך: שעתיים ו16 דק' &lt;br&gt;&lt;br&gt;https://pca.st/8x7l3v91&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This episode serves as a sort of “Dopamine Masterclass”. I discuss the immensely powerful chemical that we all make in our brain and body: dopamine. I describe what it does and the neural circuits involved. I explain dopamine peaks and baselines, and the cell biology of dopamine depletion. I include 14 tools for how to control your dopamine release for sake of motivation, focus, avoiding and combating addiction and depression, and I explain why dopamine stacking with chemicals and behaviors inevitably leads to states of underwhelm and poor performance. I explain how to achieve sustained increases in baseline dopamine, compounds that injure and protect dopamine neurons including caffeine from specific sources. I describe non-prescription supplements for increasing dopamine—both their benefits and risks—and synergy of pro-dopamine supplements with those that increase acetylcholine. 
-Thank you to our sponsors
-AG1 (Athletic Greens): https://athleticgreens.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Thesis: https://takethesis.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
-For the full show notes, visit hubermanlab.com
-Timestamps
-(00:00:00) Introduction &amp; Tool 1 to Induce Lasting Dopamine
-(00:04:48) Sponsors
-(00:09:10) Upcoming (Zero-Cost) Neuroplasticity Seminar for Educators
-(00:09:58) What Dopamine (Really) Does
-(00:15:30) Two Main Neural Circuits for Dopamine 
-(00:18:14) How Dopamine Is Released: Locally and Broadly
-(00:22:03) Fast and Slow Effects of Dopamine
-(00:25:03) Dopamine Neurons Co-Release Glutamate
-(00:28:00) Your Dopamine History Really Matters 
-(00:30:30) Parkinson’s &amp; Drugs That Kill Dopamine Neurons. My Dopamine Experience 
-(00:36:58) Tool 3 Controlling Dopamine Peaks &amp; Baselines
-(00:40:06) Chocolate, Sex (Pursuit &amp; Behavior), Nicotine, Cocaine, Amphetamine, Exercise
-(00:46:46) Tool 4 Caffeine Increases Dopamine Receptors
-(00:49:54) Pursuit, Excitement &amp; Your “Dopamine Setpoint”
-(00:56:46) Your Pleasure-Pain Balance &amp; Defining “Pain”
-(01:00:00) Addiction, Dopamine Depletion, &amp; Replenishing Dopamine
-(01:07:50) Tool 5 Ensure Your Best (Healthy) Dopamine Release
-(01:15:28) Smart Phones: How They Alter Our Dopamine Circuits
-(01:19:45) Stimulants &amp; Spiking Dopamine: Counterproductive for Work, Exercise &amp; Attention
-(01:22:20) Caffeine Sources Matter: Yerba Mate &amp; Dopamine Neuron Protection
-(01:24:20) Caffeine &amp; Neurotoxicity of MDMA
-(01:26:15) Amphetamine, Cocaine &amp; Detrimental Rewiring of Dopamine Circuits
-(01:27:57) Ritalin, Adderall, (Ar)Modafinil: ADHD versus non-Prescription Uses
-(01:28:45) Tool 6 Stimulating Long-Lasting Increases in Baseline Dopamine 
-(01:37:55) Tool 7 Tuning Your Dopamine for Ongoing Motivation
-(01:47:40) Tool 8 Intermittent Fasting: Effects on Dopamine 
-(01:53:09) Validation of Your Pre-Existing Beliefs Increases Dopamine
-(01:53:50) Tool 9 Quitting Sugar &amp; Highly Palatable Foods: 48 Hours
-(01:55:36) Pornography
-(01:56:50) Wellbutrin &amp; Depression &amp; Anxiety
-(01:58:30) Tool 10 Mucuna Pruriens, Prolactin, Sperm, Crash Warning
-(02:01:45) Tool 11 L-Tyrosine: Dosages, Duration of Effects &amp; Specificity
-(02:05:20) Tool 12 Avoiding Melatonin Supplementation, &amp; Avoiding Light 10pm-4am
-(02:07:00) Tool 13 Phenylethylamine (with Alpha-GPC) For Dopamine Focus/Energy
-(02:08:20) Tool 14 Huperzine A
-(02:10:02) Social Connections, Oxytocin &amp; Dopamine Release
-(02:12:20) Direct &amp; Indirect Effects: e.g., Maca; Synthesis &amp; Application
-(02:14:22) Zero-Cost &amp; Other Ways To Support Podcast &amp; Research
-Title Card Photo Credit: Mike Blabac
-Disclaimer</itunes:summary>
-      <content:encoded>חקירה מעמיקה אל תוך הסיפור של דופמינים. מה הם עושים לגוף ולמצב רוח ואיך אפשר לנהל אורח חיים בריא בעזרת ההבנה של מנגנון ההפרשה של הדופמינים. ההתחלה מאוד ממוקדת ביולוגיה, אבל בהמשך הפרק הוא עובר לדוגמאות פרקטיות ושיטות לשליטה או לפחות בקרה של הדופמינים. &lt;br&gt;#אנגלית #בריאות &lt;br&gt;&lt;br&gt;Huberman lab - Controlling Your Dopamine For Motivation, Focus &amp; Satisfaction&lt;br&gt;משך: שעתיים ו16 דק' &lt;br&gt;&lt;br&gt;https://pca.st/8x7l3v91&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;This episode serves as a sort of “Dopamine Masterclass”. I discuss the immensely powerful chemical that we all make in our brain and body: dopamine. I describe what it does and the neural circuits involved. I explain dopamine peaks and baselines, and the cell biology of dopamine depletion. I include 14 tools for how to control your dopamine release for sake of motivation, focus, avoiding and combating addiction and depression, and I explain why dopamine stacking with chemicals and behaviors inevitably leads to states of underwhelm and poor performance. I explain how to achieve sustained increases in baseline dopamine, compounds that injure and protect dopamine neurons including caffeine from specific sources. I describe non-prescription supplements for increasing dopamine—both their benefits and risks—and synergy of pro-dopamine supplements with those that increase acetylcholine. 
-Thank you to our sponsors
-AG1 (Athletic Greens): https://athleticgreens.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Thesis: https://takethesis.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
-For the full show notes, visit hubermanlab.com
-Timestamps
-(00:00:00) Introduction &amp; Tool 1 to Induce Lasting Dopamine
-(00:04:48) Sponsors
-(00:09:10) Upcoming (Zero-Cost) Neuroplasticity Seminar for Educators
-(00:09:58) What Dopamine (Really) Does
-(00:15:30) Two Main Neural Circuits for Dopamine 
-(00:18:14) How Dopamine Is Released: Locally and Broadly
-(00:22:03) Fast and Slow Effects of Dopamine
-(00:25:03) Dopamine Neurons Co-Release Glutamate
-(00:28:00) Your Dopamine History Really Matters 
-(00:30:30) Parkinson’s &amp; Drugs That Kill Dopamine Neurons. My Dopamine Experience 
-(00:36:58) Tool 3 Controlling Dopamine Peaks &amp; Baselines
-(00:40:06) Chocolate, Sex (Pursuit &amp; Behavior), Nicotine, Cocaine, Amphetamine, Exercise
-(00:46:46) Tool 4 Caffeine Increases Dopamine Receptors
-(00:49:54) Pursuit, Excitement &amp; Your “Dopamine Setpoint”
-(00:56:46) Your Pleasure-Pain Balance &amp; Defining “Pain”
-(01:00:00) Addiction, Dopamine Depletion, &amp; Replenishing Dopamine
-(01:07:50) Tool 5 Ensure Your Best (Healthy) Dopamine Release
-(01:15:28) Smart Phones: How They Alter Our Dopamine Circuits
-(01:19:45) Stimulants &amp; Spiking Dopamine: Counterproductive for Work, Exercise &amp; Attention
-(01:22:20) Caffeine Sources Matter: Yerba Mate &amp; Dopamine Neuron Protection
-(01:24:20) Caffeine &amp; Neurotoxicity of MDMA
-(01:26:15) Amphetamine, Cocaine &amp; Detrimental Rewiring of Dopamine Circuits
-(01:27:57) Ritalin, Adderall, (Ar)Modafinil: ADHD versus non-Prescription Uses
-(01:28:45) Tool 6 Stimulating Long-Lasting Increases in Baseline Dopamine 
-(01:37:55) Tool 7 Tuning Your Dopamine for Ongoing Motivation
-(01:47:40) Tool 8 Intermittent Fasting: Effects on Dopamine 
-(01:53:09) Validation of Your Pre-Existing Beliefs Increases Dopamine
-(01:53:50) Tool 9 Quitting Sugar &amp; Highly Palatable Foods: 48 Hours
-(01:55:36) Pornography
-(01:56:50) Wellbutrin &amp; Depression &amp; Anxiety
-(01:58:30) Tool 10 Mucuna Pruriens, Prolactin, Sperm, Crash Warning
-(02:01:45) Tool 11 L-Tyrosine: Dosages, Duration of Effects &amp; Specificity
-(02:05:20) Tool 12 Avoiding Melatonin Supplementation, &amp; Avoiding Light 10pm-4am
-(02:07:00) Tool 13 Phenylethylamine (with Alpha-GPC) For Dopamine Focus/Energy
-(02:08:20) Tool 14 Huperzine A
-(02:10:02) Social Connections, Oxytocin &amp; Dopamine Release
-(02:12:20) Direct &amp; Indirect Effects: e.g., Maca; Synthesis &amp; Application
-(02:14:22) Zero-Cost &amp; Other Ways To Support Podcast &amp; Research
-Title Card Photo Credit: Mike Blabac
-Disclaimer</content:encoded>
-      <itunes:duration>8110</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">082b9b40-a641-4d69-8af1-f1500e307da3</guid>
-      <enclosure url="https://traffic.megaphone.fm/SCIM6449668176.mp3?updated=1659667405" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>שמת מלח? - פרק ב</itunes:title>
-    <title>שמת מלח? - פרק ב</title>
-    <description>מה עושה המלח באוכל שלנו? זאת שיחה שמסבירה הרבה מאוד שימושים של מלח וההשפעה שלו על סוגי אוכל שונים - בשרים, אפיה, דגים וכו...&lt;br&gt;מאוד שימושי לכל מי שמבלה לפחות קצת במטבח. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;אנזל ולוקסי - שמת מלח? - פרק ב&lt;br&gt;משך: שעה ו13 דק' &lt;br&gt;&lt;br&gt;https://pca.st/d2i3m3d6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;קיבלנו כל כך הרבה תגובות על החלק הראשון של פרק המלח שממש שמחנו שהקדשנו לו עוד שעה שלמה&lt;br/&gt;ובשעה השנייה אנחנו נכנסים למטבח ומדברים על כל האספקטים והשימושים של מלח בבישול&lt;br/&gt;&lt;br/&gt;אז מה תפקידו של המלח באוכל מלבד פשוט לעשות אותו מלוח?&lt;br/&gt;ואיך כובשים ירקות עם מלח? ולמה אפרת ממליחה את החצילים שלה?&lt;br/&gt;כמה מלח צריך לשים באורז, וכמה בפסטה?&lt;br/&gt;מתי ממליחים סלט ואיך כובשים דגים במהירות?&lt;br/&gt;איך אופים דג או עוף במעטפת מלח&lt;br/&gt;ומה הסיפור של הבריינינג הזה והאם הוא באמת הופך את הבשר ליותר עסיסי?&lt;br/&gt;ולא פחות חשוב - מה הסיפור של בשר &amp;quot;מוכשר&amp;quot;, ומה ההבדל בינו לבין בשר &amp;quot;כשר&amp;quot;&lt;br/&gt;&lt;br/&gt;שוחחנו עם &lt;a href='https://www.facebook.com/urischeft'&gt;&lt;b&gt;אורי שפט&lt;/b&gt;&lt;/a&gt;, הבעלים של &lt;a href='https://www.lehamim.co.il/'&gt;&lt;b&gt;מאפיית לחמים&lt;/b&gt;&lt;/a&gt;, שסיפר לנו כמה המלח חשוב בלחם וכמה חשוב להוסיף מלח גם לכל מאפה מתוק שאתם מכינים&lt;br/&gt;&lt;br/&gt;ועם השף &lt;a href='https://www.facebook.com/mattan.abrahams'&gt;&lt;b&gt;מתן אברהמס&lt;/b&gt;&lt;/a&gt; ממסעדת הבשר &lt;a href='https://hudson-tlv.com/'&gt;&lt;b&gt;האדסון&lt;/b&gt;&lt;/a&gt; הנפלאה, שסיפר לנו מתי באמת צריך להמליח סטייק, והאם צריך או לא צריך לשים מלח במסה של ההמבורגר או הקבב.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;אינסטגרם:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;      &lt;a href='https://www.instagram.com/urischeft/'&gt;אורי שפט&lt;/a&gt;         |        &lt;a href='https://www.instagram.com/mattan77/'&gt;מתן  אברהמס&lt;/a&gt;      |       &lt;a href='https://www.instagram.com/efrat_enzel/'&gt;אפרת אנזל&lt;/a&gt;       |       &lt;a href='https://www.instagram.com/orenluxy'&gt;אורן לוקסנבורג&lt;/a&gt;      &lt;/p&gt;&lt;p&gt;&lt;br/&gt;את המתכונים שדיברנו עליהם ניתן לראות באתר של אפרת &lt;a href='http://www.efratenzel.com/'&gt;www.efratenzel.com&lt;/a&gt;&lt;br/&gt;חפשו אותנו בפייסבוק של &lt;a href='https://www.facebook.com/Enzel.Efrat/'&gt;אפרת &lt;/a&gt;או של &lt;a href='https://www.facebook.com/orenluxy'&gt;אורן &lt;/a&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;@efrat_enzel&lt;/a&gt; &lt;a href='https://www.instagram.com/orenluxy/'&gt;@orenluxy&lt;/a&gt; או באינסטגרם&lt;br/&gt;יש לכם שאלות? רוצים להציע הצעות? שלחו לנו מייל &lt;a href='mailto:enzel.luxy@gmail.com'&gt;enzel.luxy@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Music: &lt;a href='https://www.purple-planet.com/'&gt;https://www.purple-planet.com&lt;/a&gt;&lt;br/&gt;Sound effects: &lt;a href='http://www.soundeffectsplus.com/'&gt;http://www.soundeffectsplus.com&lt;/a&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/bePatron?u=17525717"&gt;Support the show&lt;/a&gt; (https://www.patreon.com/bePatron?u=17525717)</description>
-    <content:encoded>מה עושה המלח באוכל שלנו? זאת שיחה שמסבירה הרבה מאוד שימושים של מלח וההשפעה שלו על סוגי אוכל שונים - בשרים, אפיה, דגים וכו...&lt;br&gt;מאוד שימושי לכל מי שמבלה לפחות קצת במטבח. &lt;br&gt;#אוכל &lt;br&gt;&lt;br&gt;אנזל ולוקסי - שמת מלח? - פרק ב&lt;br&gt;משך: שעה ו13 דק' &lt;br&gt;&lt;br&gt;https://pca.st/d2i3m3d6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;קיבלנו כל כך הרבה תגובות על החלק הראשון של פרק המלח שממש שמחנו שהקדשנו לו עוד שעה שלמה&lt;br/&gt;ובשעה השנייה אנחנו נכנסים למטבח ומדברים על כל האספקטים והשימושים של מלח בבישול&lt;br/&gt;&lt;br/&gt;אז מה תפקידו של המלח באוכל מלבד פשוט לעשות אותו מלוח?&lt;br/&gt;ואיך כובשים ירקות עם מלח? ולמה אפרת ממליחה את החצילים שלה?&lt;br/&gt;כמה מלח צריך לשים באורז, וכמה בפסטה?&lt;br/&gt;מתי ממליחים סלט ואיך כובשים דגים במהירות?&lt;br/&gt;איך אופים דג או עוף במעטפת מלח&lt;br/&gt;ומה הסיפור של הבריינינג הזה והאם הוא באמת הופך את הבשר ליותר עסיסי?&lt;br/&gt;ולא פחות חשוב - מה הסיפור של בשר &amp;quot;מוכשר&amp;quot;, ומה ההבדל בינו לבין בשר &amp;quot;כשר&amp;quot;&lt;br/&gt;&lt;br/&gt;שוחחנו עם &lt;a href='https://www.facebook.com/urischeft'&gt;&lt;b&gt;אורי שפט&lt;/b&gt;&lt;/a&gt;, הבעלים של &lt;a href='https://www.lehamim.co.il/'&gt;&lt;b&gt;מאפיית לחמים&lt;/b&gt;&lt;/a&gt;, שסיפר לנו כמה המלח חשוב בלחם וכמה חשוב להוסיף מלח גם לכל מאפה מתוק שאתם מכינים&lt;br/&gt;&lt;br/&gt;ועם השף &lt;a href='https://www.facebook.com/mattan.abrahams'&gt;&lt;b&gt;מתן אברהמס&lt;/b&gt;&lt;/a&gt; ממסעדת הבשר &lt;a href='https://hudson-tlv.com/'&gt;&lt;b&gt;האדסון&lt;/b&gt;&lt;/a&gt; הנפלאה, שסיפר לנו מתי באמת צריך להמליח סטייק, והאם צריך או לא צריך לשים מלח במסה של ההמבורגר או הקבב.&lt;br/&gt;&lt;br/&gt;&lt;b&gt;אינסטגרם:&lt;/b&gt;&lt;/p&gt;&lt;p&gt;      &lt;a href='https://www.instagram.com/urischeft/'&gt;אורי שפט&lt;/a&gt;         |        &lt;a href='https://www.instagram.com/mattan77/'&gt;מתן  אברהמס&lt;/a&gt;      |       &lt;a href='https://www.instagram.com/efrat_enzel/'&gt;אפרת אנזל&lt;/a&gt;       |       &lt;a href='https://www.instagram.com/orenluxy'&gt;אורן לוקסנבורג&lt;/a&gt;      &lt;/p&gt;&lt;p&gt;&lt;br/&gt;את המתכונים שדיברנו עליהם ניתן לראות באתר של אפרת &lt;a href='http://www.efratenzel.com/'&gt;www.efratenzel.com&lt;/a&gt;&lt;br/&gt;חפשו אותנו בפייסבוק של &lt;a href='https://www.facebook.com/Enzel.Efrat/'&gt;אפרת &lt;/a&gt;או של &lt;a href='https://www.facebook.com/orenluxy'&gt;אורן &lt;/a&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;@efrat_enzel&lt;/a&gt; &lt;a href='https://www.instagram.com/orenluxy/'&gt;@orenluxy&lt;/a&gt; או באינסטגרם&lt;br/&gt;יש לכם שאלות? רוצים להציע הצעות? שלחו לנו מייל &lt;a href='mailto:enzel.luxy@gmail.com'&gt;enzel.luxy@gmail.com&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Music: &lt;a href='https://www.purple-planet.com/'&gt;https://www.purple-planet.com&lt;/a&gt;&lt;br/&gt;Sound effects: &lt;a href='http://www.soundeffectsplus.com/'&gt;http://www.soundeffectsplus.com&lt;/a&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/bePatron?u=17525717"&gt;Support the show&lt;/a&gt; (https://www.patreon.com/bePatron?u=17525717)</content:encoded>
-    <itunes:image href="https://storage.buzzsprout.com/variants/mfx5zt47p9nhz0io46tx8x2sym1s/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg"/>
-    <itunes:author>אפרת אנזל אורן לוקסנבורג</itunes:author>
-    <enclosure url="https://chtbl.com/track/1ED83/www.buzzsprout.com/258472/4088654-.mp3" length="52929317" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-4088654</guid>
-    <pubDate>Sun, 01 May 2022 03:30:00 +0000</pubDate>
-    <itunes:duration>4407</itunes:duration>
-    <itunes:keywords>אוכל יהודי, יהודים,  בישול, בישולים, טיולים, מסעות, המלצות, אוכל, מסעדה, מסעדות, קולינריה, בילויים, כיף, יציאות, אנזל, לוקסי, תבשיל, ללמוד, זיכרונות, נוסטלגיה, שיווק, שטראוס, עלית, ממתק, חטיף, מלח, מלחים, מלח הארץ, אורי שפט, לחמים, האדסון, מתן אברהמס, </itunes:keywords>
-    <itunes:season>3</itunes:season>
-    <itunes:episode>6</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item></channel>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog13368673/_234_9kcg1.png"/>    </item></channel>
 </rss>
