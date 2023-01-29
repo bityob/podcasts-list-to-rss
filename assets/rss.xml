@@ -11,9 +11,145 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 29 Jan 2023 05:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Jan 2023 06:16:27 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>ממלכת דיסני: עבר, הווה ועתיד</title>
+      <itunes:title>ממלכת דיסני: עבר, הווה ועתיד</itunes:title>
+      <description>פרק סקירה על העסקים של דיסני. הטריגר לסקירה הוא החלפת המנכ"ל שקרתה בחברה. &lt;br&gt;אין פה חידוש משמעותי אבל יש את כל תהליך הצמיחה של האימפריה ואז הנפילה אחרי הקורונה. &lt;br&gt;#עסקים &lt;br&gt;&lt;br&gt;בזמן שעבדתם - ממלכת דיסני: עבר, הווה ועתיד&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/j5942czq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פרק 109: בשנה הבאה מותג העל 'דיסני' יחגוג 100, אבל דווקא עכשיו, החברה נמצאת באחד מהמשברים הגדולים שידעה בכל 99 שנותיה. בעקבות כך היא עושה סוויץ' מפתיע ואגרסיבי: מחליפה את המנכ"ל הנוכחי (בוב צ'אפק) במנכ"ל הקודם (בוב אייגר). נקודת המפנה הזאת היא קריטית בהיסטוריה של דיסני, אבל כדי להבין אותה צריך קודם להבין: איך הגענו עד לכאן, מה התקלקל בממלכה וההערכה שלנו: האם בוב יצליח לשקם? &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק סקירה על העסקים של דיסני. הטריגר לסקירה הוא החלפת המנכ"ל שקרתה בחברה. &lt;br&gt;אין פה חידוש משמעותי אבל יש את כל תהליך הצמיחה של האימפריה ואז הנפילה אחרי הקורונה. &lt;br&gt;#עסקים &lt;br&gt;&lt;br&gt;בזמן שעבדתם - ממלכת דיסני: עבר, הווה ועתיד&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/j5942czq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פרק 109: בשנה הבאה מותג העל 'דיסני' יחגוג 100, אבל דווקא עכשיו, החברה נמצאת באחד מהמשברים הגדולים שידעה בכל 99 שנותיה. בעקבות כך היא עושה סוויץ' מפתיע ואגרסיבי: מחליפה את המנכ"ל הנוכחי (בוב צ'אפק) במנכ"ל הקודם (בוב אייגר). נקודת המפנה הזאת היא קריטית בהיסטוריה של דיסני, אבל כדי להבין אותה צריך קודם להבין: איך הגענו עד לכאן, מה התקלקל בממלכה וההערכה שלנו: האם בוב יצליח לשקם? &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>109</itunes:episode>
+      <itunes:author>mako מאקו</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/image.jpg?t=1614858000&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/ac3cc798-c8bc-4f4f-8bba-af5c01669df4/audio.mp3?utm_source=Podcast&amp;in_playlist=0ab18f83-1327-4f4e-9d7a-ace100c0411f" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/program-51/ac3cc798-c8bc-4f4f-8bba-af5c01669df4/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/0ab18f83-1327-4f4e-9d7a-ace100c0411f/image.jpg?t=1614858000&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">ac3cc798-c8bc-4f4f-8bba-af5c01669df4</guid>
+      <omny:clipId>ac3cc798-c8bc-4f4f-8bba-af5c01669df4</omny:clipId>
+      <pubDate>Sun, 29 Jan 2023 05:31:02 +0000</pubDate>
+      <itunes:duration>2198</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/a5d4b51f-5b9e-43db-84da-ace100c04108/ac3cc798-c8bc-4f4f-8bba-af5c01669df4/audio.mp3?utm_source=Podcast&amp;in_playlist=0ab18f83-1327-4f4e-9d7a-ace100c0411f" length="35225740" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/program-51/ac3cc798-c8bc-4f4f-8bba-af5c01669df4</link>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>REPOD S4E9 - Ukrainian Resilience: Tasha Tarkhanova, creator of Project Avatar, Ukraine</title>
+        <itunes:title>REPOD S4E9 - Ukrainian Resilience: Tasha Tarkhanova, creator of Project Avatar, Ukraine</itunes:title>
+        <link>https://realityescapepod.podbean.com/e/repod-s4e9-ukrainian-resilience-tasha-tarkhanova-creator-of-project-avatar-ukraine/</link>
+                    <comments>https://realityescapepod.podbean.com/e/repod-s4e9-ukrainian-resilience-tasha-tarkhanova-creator-of-project-avatar-ukraine/#comments</comments>        <pubDate>Sun, 29 Jan 2023 05:30:05 +0000</pubDate>
+        <guid isPermaLink="false">realityescapepod.podbean.com/6940f135-e26d-336e-9e56-bbd210098d9d</guid>
+                      <description>המלחמה באוקראינה מזוית שונה - שיחה עם Tasha Tarkhanova שבנתה את אחד מחדרי הבריחה הוירטואליים המצליחים בעולם בתקופת הקורונה. &lt;br&gt;טשה יצרה את פרוייקט אווטר, חדר בריחה שמשחקים מהבית ובו מנהלים אווטר אנושי שהולך ועושה דברים. &lt;br&gt;אז השיחה מכסה את ההפתחות של המשחק ואיך המלחמה השפיעה עליו. &lt;br&gt;ובנוסף גם את החיים של טשה ומשפחתה שלבסוף ברחו מאוקראינה לפולין כדי לנהל חיים סמי שפויים. &lt;br&gt;#אנגלית #חדריבריחה #מלחמה&lt;br&gt;&lt;br&gt;Reality escape pod -  S4E9 Ukrainian Resilience: Tasha Tarkhanova, creator of Project Avatar, Ukraine&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;https://pca.st/cvcnw2vb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href='https://www.directrelief.org/'&gt;Please consider donating to Direct Relief&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In Season 4, Episode 9, we share stories from Ukraine. We talk to Nataliya (Tasha) Tarkhanova of Hypno Dive, creator of the Project Avatar series of virtual escape room games. Project Avatar is an incredible virtual experience that plays like a live-action video game, where you are directing a live actor (the Avatar) through an enormous abandoned warehouse. With stylish, acrobatic moves and impressive special effects, tech and visuals, Project Avatar was a high point in quarantine-era virtual escape rooms.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Then war happened. On February 24, 2022, Russia invaded Ukraine in a major escalation of the &lt;a href='https://en.wikipedia.org/wiki/Russo-Ukrainian_War'&gt;Russo-Ukrainian War&lt;/a&gt;, which began in 2014. This episode is a bit of a departure for us, but we wanted to share Tasha's story. We begin with discussion of Project Avatar and escape rooms, but in the second half of this episode, we dive into how the invasion has turned Tasha's life upside-down. It's a heavy episode. It's not graphic and there are no explicit depictions of death or violence, but Tasha candidly shares stories of the upheaval in her life and business. There is an emotional story of the war's impact on her daughter that brought both David and Peih-Gee to tears.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The stories that you're going to hear are tragic and hilarious and kind of off-the-wall. Tasha is resilient, creative, and captivating. We think that this is a really important story to tell.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We are donating all of REPOD's income from this episode to Direct Relief, earmarked for the crisis in Ukraine. If this episode touches you, scroll to the end of the show notes and click the button to donate.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/29/repod-s4e9-ukrainian-resilience-tasha-tarkhanova-creator-of-project-avatar-ukraine/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+Episode Sponsors
+&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Reality Escape Convention - RECON
+&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
+Music Credits 
+&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
+&lt;/ul&gt;
+Production Credits
+&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</description>
+                        <content:encoded>המלחמה באוקראינה מזוית שונה - שיחה עם Tasha Tarkhanova שבנתה את אחד מחדרי הבריחה הוירטואליים המצליחים בעולם בתקופת הקורונה. &lt;br&gt;טשה יצרה את פרוייקט אווטר, חדר בריחה שמשחקים מהבית ובו מנהלים אווטר אנושי שהולך ועושה דברים. &lt;br&gt;אז השיחה מכסה את ההפתחות של המשחק ואיך המלחמה השפיעה עליו. &lt;br&gt;ובנוסף גם את החיים של טשה ומשפחתה שלבסוף ברחו מאוקראינה לפולין כדי לנהל חיים סמי שפויים. &lt;br&gt;#אנגלית #חדריבריחה #מלחמה&lt;br&gt;&lt;br&gt;Reality escape pod -  S4E9 Ukrainian Resilience: Tasha Tarkhanova, creator of Project Avatar, Ukraine&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;https://pca.st/cvcnw2vb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href='https://www.directrelief.org/'&gt;Please consider donating to Direct Relief&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In Season 4, Episode 9, we share stories from Ukraine. We talk to Nataliya (Tasha) Tarkhanova of Hypno Dive, creator of the Project Avatar series of virtual escape room games. Project Avatar is an incredible virtual experience that plays like a live-action video game, where you are directing a live actor (the Avatar) through an enormous abandoned warehouse. With stylish, acrobatic moves and impressive special effects, tech and visuals, Project Avatar was a high point in quarantine-era virtual escape rooms.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Then war happened. On February 24, 2022, Russia invaded Ukraine in a major escalation of the &lt;a href='https://en.wikipedia.org/wiki/Russo-Ukrainian_War'&gt;Russo-Ukrainian War&lt;/a&gt;, which began in 2014. This episode is a bit of a departure for us, but we wanted to share Tasha's story. We begin with discussion of Project Avatar and escape rooms, but in the second half of this episode, we dive into how the invasion has turned Tasha's life upside-down. It's a heavy episode. It's not graphic and there are no explicit depictions of death or violence, but Tasha candidly shares stories of the upheaval in her life and business. There is an emotional story of the war's impact on her daughter that brought both David and Peih-Gee to tears.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The stories that you're going to hear are tragic and hilarious and kind of off-the-wall. Tasha is resilient, creative, and captivating. We think that this is a really important story to tell.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We are donating all of REPOD's income from this episode to Direct Relief, earmarked for the crisis in Ukraine. If this episode touches you, scroll to the end of the show notes and click the button to donate.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/29/repod-s4e9-ukrainian-resilience-tasha-tarkhanova-creator-of-project-avatar-ukraine/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+Episode Sponsors
+&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Reality Escape Convention - RECON
+&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
+Music Credits 
+&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
+&lt;/ul&gt;
+Production Credits
+&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/xn5n5a/REPOD-S4E9-Ukraine.mp3" length="94163405" type="audio/mpeg"/>
+        <itunes:subtitle>Please consider donating to Direct Relief
+ 
+In Season 4, Episode 9, we share stories from Ukraine. We talk to Nataliya (Tasha) Tarkhanova of Hypno Dive, creator of the Project Avatar series of virtual escape room games. Project Avatar is an incredibl...</itunes:subtitle>
+        <itunes:summary>המלחמה באוקראינה מזוית שונה - שיחה עם Tasha Tarkhanova שבנתה את אחד מחדרי הבריחה הוירטואליים המצליחים בעולם בתקופת הקורונה. &lt;br&gt;טשה יצרה את פרוייקט אווטר, חדר בריחה שמשחקים מהבית ובו מנהלים אווטר אנושי שהולך ועושה דברים. &lt;br&gt;אז השיחה מכסה את ההפתחות של המשחק ואיך המלחמה השפיעה עליו. &lt;br&gt;ובנוסף גם את החיים של טשה ומשפחתה שלבסוף ברחו מאוקראינה לפולין כדי לנהל חיים סמי שפויים. &lt;br&gt;#אנגלית #חדריבריחה #מלחמה&lt;br&gt;&lt;br&gt;Reality escape pod -  S4E9 Ukrainian Resilience: Tasha Tarkhanova, creator of Project Avatar, Ukraine&lt;br&gt;משך: שעה ו5 דק' &lt;br&gt;&lt;br&gt;https://pca.st/cvcnw2vb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href='https://www.directrelief.org/'&gt;Please consider donating to Direct Relief&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;In Season 4, Episode 9, we share stories from Ukraine. We talk to Nataliya (Tasha) Tarkhanova of Hypno Dive, creator of the Project Avatar series of virtual escape room games. Project Avatar is an incredible virtual experience that plays like a live-action video game, where you are directing a live actor (the Avatar) through an enormous abandoned warehouse. With stylish, acrobatic moves and impressive special effects, tech and visuals, Project Avatar was a high point in quarantine-era virtual escape rooms.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Then war happened. On February 24, 2022, Russia invaded Ukraine in a major escalation of the &lt;a href='https://en.wikipedia.org/wiki/Russo-Ukrainian_War'&gt;Russo-Ukrainian War&lt;/a&gt;, which began in 2014. This episode is a bit of a departure for us, but we wanted to share Tasha's story. We begin with discussion of Project Avatar and escape rooms, but in the second half of this episode, we dive into how the invasion has turned Tasha's life upside-down. It's a heavy episode. It's not graphic and there are no explicit depictions of death or violence, but Tasha candidly shares stories of the upheaval in her life and business. There is an emotional story of the war's impact on her daughter that brought both David and Peih-Gee to tears.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;The stories that you're going to hear are tragic and hilarious and kind of off-the-wall. Tasha is resilient, creative, and captivating. We think that this is a really important story to tell.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;We are donating all of REPOD's income from this episode to Direct Relief, earmarked for the crisis in Ukraine. If this episode touches you, scroll to the end of the show notes and click the button to donate.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/29/repod-s4e9-ukrainian-resilience-tasha-tarkhanova-creator-of-project-avatar-ukraine/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+Episode Sponsors
+&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+Reality Escape Convention - RECON
+&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
+Music Credits 
+&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
+&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
+&lt;/ul&gt;
+Production Credits
+&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+</itunes:summary>
+        <itunes:author>David Spira &amp; Peih-Gee Law</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:05:23</itunes:duration>
+        <itunes:season>4</itunes:season>
+        <itunes:episode>9</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/10831216/reality-escape-pod_square.png"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:title>פרק 19 – מאחורי הפודקאסט "נולדנו להשפיע" עם רוזין רוזנבלום</itunes:title>
     <title>פרק 19 – מאחורי הפודקאסט "נולדנו להשפיע" עם רוזין רוזנבלום</title>
     <description>שיחה עם רוזין רוזנבלום על שיווק ועל איך פודקאסט הוא כלי שיווקי אפקטיבי בשביל עסק קטן. &lt;br&gt;רוזין היא משווקת עם הרבה מאוד שנים של נסיון והשיחה איתה הייתה מעניינת כשלעצמה ובנוסף גם מלאה בטיפים שימושיים. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;מאחורי המיקרופון - פרק 19 – מאחורי הפודקאסט "נולדנו להשפיע" עם רוזין רוזנבלום&lt;br&gt;משך: שעה ו1 דק' &lt;br&gt;&lt;br&gt;https://pca.st/f503h85w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;בפרק הזה אירחתי את רוזין רוזנבלום, מומחית לשיווק, מייסדת אוצר תוכניות הפעולה והשיווק לעסקים קטנים.&lt;/p&gt;&lt;p dir='rtl'&gt;רוזין היא גם היוצרת של הפודקאסט &amp;quot;נולדנו להשפיע&amp;quot;, פודקאסט על תוכן שיווקי אפקטיבי ויצירתי.&lt;br/&gt;&lt;br/&gt;זהו פרק חובה בפודקאסט לבעלי עסקים שיש להם פודקאסט או שחושבים האם להתחיל אחד.&lt;/p&gt;&lt;p dir='rtl'&gt;&lt;b&gt;בפרק דיברנו בין היתר על הנושאים הבאים:&lt;/b&gt;&lt;/p&gt;&lt;ul dir='rtl'&gt;&lt;li&gt;במה עוסקת רוזין, במה עוסק הפודקאסט שלה ולמה החליטה להקים פודקאסט&lt;/li&gt;&lt;li&gt;למה התאהבה רוזין בפלטפורמת הפודקאסטים והפכה אותו לכלי שיווקי שעובד עבודה בצורה מופלאה&lt;/li&gt;&lt;li&gt;איזה שינוי מהותי עשתה  רוזין בפורמט של הפודקאסט בתקופת הקורונה, פורמט לו קראה &amp;quot;סיבוב על המטאטא&amp;quot;, והוא פורמט שגם מכניס לה כסף באופן ישר מהפודקאסט וגם מביא לה המון לקוחות בקלות רבה&lt;/li&gt;&lt;li&gt;איך הולך תהליך בחירת המרואיינים ב&amp;quot;סיבוב על המטאטא&amp;quot;, איך היא מתכוננת לראיונות, איך עובד התהליך מההתחלה ועד הסוף&lt;/li&gt;&lt;li&gt;ועוד המון המון נושאים מרתקים ובעלי ערך רב לכל בעל עסק באשר הוא!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;b&gt;ליצירת קשר עם רוזין רוזנבלום:&lt;/b&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href='https://rozin.co.il/'&gt;לאתר הבית של רוזין רוזנבלום&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href='https://rozin.co.il/blog/'&gt;לפודקאסט &amp;quot;נולדנו להשפיע&amp;quot;&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;b&gt;ליצירת קשר עם דנית בן דוד:&lt;/b&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href='https://audiobrain.co.il/podcasting-info'&gt;מדריכים ותכני וידאו על הקמת, הפצת ושיווק פודקאסט&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href='https://audiobrain.co.il/podcast-production-consulting/'&gt;ייעוץ וליווי אישי להפקת פודקאסט&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href='https://podcastonheels.co.il/'&gt;לפודקאסט על עקבים - פודקאסט על יזמות ואימהות&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;</description>
@@ -5909,26 +6045,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:duration>01:00:10</itunes:duration>
                 <itunes:episode>80</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog4040835/b5mr9.jpg"/>    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית</title>
-        <itunes:title>הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית</itunes:title>
-        <link>https://dannyorbach.podbean.com/e/%d7%94%d7%92%d7%95%d7%a4%d7%94%d7%a9%d7%a8%d7%99%d7%9e%d7%aa%d7%94-%d7%90%d7%aa%d7%94%d7%99%d7%98%d7%9c%d7%a8-%d7%9e%d7%91%d7%a6%d7%a2-%d7%91%d7%a9/</link>
-                    <comments>https://dannyorbach.podbean.com/e/%d7%94%d7%92%d7%95%d7%a4%d7%94%d7%a9%d7%a8%d7%99%d7%9e%d7%aa%d7%94-%d7%90%d7%aa%d7%94%d7%99%d7%98%d7%9c%d7%a8-%d7%9e%d7%91%d7%a6%d7%a2-%d7%91%d7%a9/#comments</comments>        <pubDate>Thu, 16 Jun 2022 04:01:01 +0000</pubDate>
-        <guid isPermaLink="false">dannyorbach.podbean.com/a91d29b9-4cb3-3625-9e26-62d87bb4e701</guid>
-                      <description>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </description>
-                        <content:encoded>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/kz5eqd/_22a8t05.mp3" length="54481796" type="audio/mpeg"/>
-        <itunes:subtitle>ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סי...</itunes:subtitle>
-        <itunes:summary>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </itunes:summary>
-        <itunes:author>dannyorbach</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>49:02</itunes:duration>
-                <itunes:episode>23</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/8107163/_2_9rprw.jpg"/>    </item></channel>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog4040835/b5mr9.jpg"/>    </item></channel>
 </rss>
