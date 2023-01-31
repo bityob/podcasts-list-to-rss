@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 31 Jan 2023 07:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Jan 2023 08:18:26 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 61: ההלוואות הסיניות בעולם</title>
@@ -1362,7 +1362,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Helen Zaltzman</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/image.jpg?t=1666468945&amp;size=Large"/>
-      <media:content url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" type="audio/mpeg">
+      <media:content url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/chrt.fm/track/18859/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/allusionist/rhino/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/image.jpg?t=1666468945&amp;size=Large" type="image/jpeg"/>
@@ -1370,7 +1370,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <omny:clipId>7a80d236-548e-4a83-a97b-af360141fa15</omny:clipId>
       <pubDate>Sun, 18 Dec 2022 05:20:02 +0000</pubDate>
       <itunes:duration>2177</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" length="34900321" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/chrt.fm/track/18859/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/7a80d236-548e-4a83-a97b-af360141fa15/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" length="34900321" type="audio/mpeg"/>
       <link>https://omny.fm/shows/allusionist/rhino</link>
       <itunes:explicit>clean</itunes:explicit>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -4242,7 +4242,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>Helen Zaltzman</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/image.jpg?t=1659754363&amp;size=Large"/>
-      <media:content url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" type="audio/mpeg">
+      <media:content url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/chrt.fm/track/18859/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/allusionist/creaturequiz/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/image.jpg?t=1659754363&amp;size=Large" type="image/jpeg"/>
@@ -4250,7 +4250,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <omny:clipId>eed40d63-bb86-4175-84dc-aee9002f65fe</omny:clipId>
       <pubDate>Thu, 01 Sep 2022 03:31:02 +0000</pubDate>
       <itunes:duration>1468</itunes:duration>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" length="23552957" type="audio/mpeg"/>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/32EG/chrt.fm/track/18859/traffic.omny.fm/d/clips/3aeeb75f-3358-42d4-8232-acad017ea3bd/dac5a742-0a1b-4f4b-b917-acb7015564f7/eed40d63-bb86-4175-84dc-aee9002f65fe/audio.mp3?utm_source=Podcast&amp;in_playlist=e7e10a67-651c-4ddf-9c47-acb70155651d" length="23552957" type="audio/mpeg"/>
       <link>https://omny.fm/shows/allusionist/creaturequiz</link>
       <itunes:explicit>clean</itunes:explicit>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
