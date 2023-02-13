@@ -11,7 +11,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 13 Feb 2023 15:15:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 16:20:15 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="https://podlove.org/simple-chapters/">
       <title>מדוע יכול להיות שגם ריבית של 5% לא תספיק</title>
@@ -1725,7 +1725,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:season>1</itunes:season>
       <itunes:episode>126</itunes:episode>
       <itunes:author>Jack Rhysider</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/fad89d78-ec1d-11ec-94f3-5b3587a76d52/image/87da8a.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/fad89d78-ec1d-11ec-94f3-5b3587a76d52/image/87da8a.jpg?ixlib=rails-4.2.0&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
       <itunes:subtitle>REvil</itunes:subtitle>
       <itunes:summary>סיפורם של כנופיית REvil, האקרים רוסים שעסקו בהדבקת מערכות בתוכנות זדוניות למטרות סחיטה וכופר. הסיפור מספר על ה"מכות" הראשונות שלהם ועל איך המודל העיסקי שלהם התגלה בתור אחד הרווחיים ביותר וכתוצאה מכך הם הצליחו לגדול מהר יותר מרוב המתחרים שלהם. וכמובן הסיפור של איך הם "נתפסו" על ידי הרשויות ברוסיה, רק כדי יום למחרת כנראה להשתתף במתקפות על אוקראינה. &lt;br&gt;#אנגלית #סיפורמעניין #טכנולוגיה&lt;br&gt;&lt;br&gt;Darknet diaries - REvil &lt;br&gt;משך: שעה ו6 דק' &lt;br&gt;&lt;br&gt;https://pca.st/95rj3s1o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;REvil is the name of a ransomware service as well as a group of criminals inflicting ransomware onto the world. Hear how this ransomware shook the world.
 
@@ -3018,7 +3018,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:season>1</itunes:season>
       <itunes:episode>123</itunes:episode>
       <itunes:author>Jack Rhysider</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/f68edf02-e20e-11ec-af8e-1b7a86ad2064/image/livewires_thumbnails.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/f68edf02-e20e-11ec-af8e-1b7a86ad2064/image/livewires_thumbnails.jpg?ixlib=rails-4.2.0&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
       <itunes:subtitle>Newswires</itunes:subtitle>
       <itunes:summary>סיפור מרתק על קבוצת פריצה שעבדה יחד עם אנשי כספים והשקעות כדי לפרוץ לעידכונים שחברות מוציאות למשקיעים שלהן. יש פה אופרציה שלמה שמתחילה מפריצת סייבר, ממשיכה בהשקעה ע"ב מידע פנימי ונגמרת ברמאות סטנדרטית.&lt;br&gt;#סיפורמעניין #סייבר #אנגלית&lt;br&gt;&lt;br&gt;Darknet diaries - Newswires&lt;br&gt;משך: 51 דק' &lt;br&gt;&lt;br&gt;https://pca.st/uq6y60kk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Investing in the stock market can be very profitable. Especially if you can see into the future. This is a story of how a group of traders and hackers got together to figure out a way to see into the future and make a lot of money from that.
 
@@ -5075,7 +5075,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:season>1</itunes:season>
       <itunes:episode>119</itunes:episode>
       <itunes:author>Jack Rhysider</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/dd795768-9f47-11ec-8a63-c75f6eeb8964/image/Hotwallet.jpg?ixlib=rails-4.2.0&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/dd795768-9f47-11ec-8a63-c75f6eeb8964/image/Hotwallet.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
       <itunes:subtitle>Hot Wallets</itunes:subtitle>
       <itunes:summary>שיחה על תופעת שוד הקריפטו שהולכת וגדלה מיום ליום. בפרק הזה יש התמקדות בצפון קוריאה ובנסיונות שלה שהולכים ומתגברים (ונהיים יצירתיים יותר ויותר) לגנוב כמה שיותר מהכסף הזה כדי להכניס הון למדינה. &lt;br&gt;סיפור מרתק בהחלט של קבוצת "לזרוס" שכבר מזמן לא רק פורצים, אלא מחדירים סוכנים, מנסים להתקבל לעבודה ולפעמים יוצרים פרוייקטים משלהם.&lt;br&gt;#סיפורמעניין #בלוקציין #אנגלית&lt;br&gt;&lt;br&gt;Darknet diaries - Hot Wallets&lt;br&gt;משך: שעה &lt;br&gt;&lt;br&gt;https://pca.st/86v7w0d2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In this episode we interview journalist Geoff White to discuss some of the recent crypto currency heists that have been happening. Geoff has been tracking a certain group of thieves for some time and shares his knowledge of what he’s found.
 
@@ -6049,7 +6049,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</descriptio
       <itunes:season>1</itunes:season>
       <itunes:episode>92</itunes:episode>
       <itunes:author>Jack Rhysider</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/e207d01a-6c27-11eb-9d03-b76304f28107/image/PIRATE.jpg?ixlib=rails-2.1.2&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/e207d01a-6c27-11eb-9d03-b76304f28107/image/PIRATE.jpg?ixlib=rails-4.2.0&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
       <itunes:subtitle>The Pirate Bay</itunes:subtitle>
       <itunes:summary>סיפורו של אתר ההורדות המפורסם בעולם Pirate Bay .&lt;br&gt; תראו זה פרק ארוך ויש בו חלקים של המשנה האידיאולוגית של אחד ממקימי Pirate Bay (שבעיניי לא היו הכרחיים). אבל הוא כל כך שווה רק בשביל לשמוע את כל הדרכים שבהן ניסו לסגור את האתר (ולא הצליחו). וכדי להבין איך היכרות עם חוקים בינלאומיים ובעיקר עם חוקים ששונים מאלו של ארה"ב מאפשרת התנהלות מאוד שונה בעולם. &lt;br&gt;#טכנולוגיה #משפט #אנגלית &lt;br&gt;&lt;br&gt;Darknet diaries - The Pirate Bay&lt;br&gt;משך: שעה ו47 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5tvvvbsh&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The Pirate Bay is a website, a search engine, which has an index of torrent files. A lot of copyrighted material is listed on the site, but the site doesn’t store any of the copyrighted material. It just points the user to where you can download it from. So for a while The Pirate Bay has been the largest places you can find pirated movies, music, games, and apps. But this site first came up 2003. And is still up and operation now, 18 years later! You would think someone would shut this place down by now. How does the biggest source for copyrighted material stay up and online for that long? Listen to this episode to find out.
 Sponsors
