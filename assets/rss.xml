@@ -11,9 +11,91 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 19 Feb 2023 04:17:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 05:13:16 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:fireside="http://fireside.fm/modules/rss/fireside">
+      <title>177. Insights: What does AML and regulation look like in web3?</title>
+      <link>https://bi.11fs.com/195</link>
+      <guid isPermaLink="false">008002ba-dcec-4a85-a2c7-2096864313fb</guid>
+      <pubDate>Sun, 19 Feb 2023 05:11:03 +0000</pubDate>
+      <author>11:FS</author>
+      <enclosure url="https://media.blubrry.com/blockchain_insider_by_11fs/aphid.fireside.fm/d/1437767933/15282c4c-43ab-46da-88a8-c58178b868b6/008002ba-dcec-4a85-a2c7-2096864313fb.mp3" length="46976000" type="audio/mpeg"/>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>11:FS</itunes:author>
+      <itunes:subtitle>EL. EF. GEE. Today we bring you: a very exciting Insights show on all things AML and regulation. Join us while we take a look at how regulation can be a solution, what the industry is currently doing to prevent illicit financing, and what we can expect from the future based off of recent developments. All this and much more on today's Blockchain Insider!</itunes:subtitle>
+      <itunes:duration>48:55</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <description>שיחה מעניינת על רגולציה ונסיונות למנוע הלבנת כספים בעולם הפיננסי המסורתי ועל ההבדל בינו לבין עולם הקריפטו החדש. &lt;br&gt;הצורך למנוע פעולות לא חוקיות קיים גם בתעשיה המסורתית של הבנקים אבל גם בקריפטו, בלוקצ'יין ונכסים דיגיטליים מהעולם החדש. אבל האפקטיביות משתנה מתחום לתחום גם כי חלק מהם חדשים מדיי וגם כי יש צורך לשנות פרדיגמות חשיבה בדרך. &lt;br&gt;#כלכלה #אנגלית #בלוקציין&lt;br&gt;&lt;br&gt;Blockchain insider - 177. Insights: What does AML and regulation look like in web3?&lt;br&gt;משך: 48 דק' &lt;br&gt;&lt;br&gt;https://pca.st/x4i0o6pw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;gm. Mauricio Magaldi and Cuy Sheffield are back this week for another deep dive. 
+In this Insights episode, we will be focusing on AML and how regulation can be a solution. We explore how the industry is preventing money laundering and illicit financing, looking at recent developments and what we hope the future can bring in this sector. 
+Join us while we unpack what AML is in traditional finance, and how it differs from AML in crypto, blockchains and digital assets, what's working and what's not, and of course - what we hope to see in the near future.
+We are also joined by some amazing guests:
+Ari Redbord, Head of Legal and Government Affairs at TRM Labs
+Jessica Cath, Head of Financial Crime Project Delivery, Fintrail
+This episode is sponsored by Visa.
+This episode is brought to you by Visa, one of the world’s leaders in digital payments.
+Crypto has opened up a new world of possibility. And Visa is helping everyone take part.
+Visa enables commerce across their network and crypto networks through solutions like Fintech Fast Track, a quick and easy way for crypto innovators to issue payment credentials.  
+Join us in this new money movement. Learn more at visa.com/crypto (https://partner.visa.com/homepage.html?utm_source=partner&amp;utm_medium=affiliate&amp;utm_content=sponsored-podcast_english_60min0sec&amp;utm_campaign=us_fintech_q3-fy21-11fs-fintechinsider&amp;utm_creative=awareness_11fs-fintech-insider). 
+If you enjoyed the show, don't forget to subscribe and leave a review!
+Want to join the conversation on all the topics discussed? Tweet the show at: www.twitter.com/bchaininsider Special Guests: Ari Redbord and Jessica Cath.
+</description>
+      <content:encoded>שיחה מעניינת על רגולציה ונסיונות למנוע הלבנת כספים בעולם הפיננסי המסורתי ועל ההבדל בינו לבין עולם הקריפטו החדש. &lt;br&gt;הצורך למנוע פעולות לא חוקיות קיים גם בתעשיה המסורתית של הבנקים אבל גם בקריפטו, בלוקצ'יין ונכסים דיגיטליים מהעולם החדש. אבל האפקטיביות משתנה מתחום לתחום גם כי חלק מהם חדשים מדיי וגם כי יש צורך לשנות פרדיגמות חשיבה בדרך. &lt;br&gt;#כלכלה #אנגלית #בלוקציין&lt;br&gt;&lt;br&gt;Blockchain insider - 177. Insights: What does AML and regulation look like in web3?&lt;br&gt;משך: 48 דק' &lt;br&gt;&lt;br&gt;https://pca.st/x4i0o6pw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;gm. Mauricio Magaldi and Cuy Sheffield are back this week for another deep dive. 
+In this Insights episode, we will be focusing on AML and how regulation can be a solution. We explore how the industry is preventing money laundering and illicit financing, looking at recent developments and what we hope the future can bring in this sector. 
+Join us while we unpack what AML is in traditional finance, and how it differs from AML in crypto, blockchains and digital assets, what's working and what's not, and of course - what we hope to see in the near future.
+We are also joined by some amazing guests:
+Ari Redbord, Head of Legal and Government Affairs at TRM Labs
+Jessica Cath, Head of Financial Crime Project Delivery, Fintrail
+This episode is sponsored by Visa.
+This episode is brought to you by Visa, one of the world’s leaders in digital payments.
+Crypto has opened up a new world of possibility. And Visa is helping everyone take part.
+Visa enables commerce across their network and crypto networks through solutions like Fintech Fast Track, a quick and easy way for crypto innovators to issue payment credentials.  
+Join us in this new money movement. Learn more at visa.com/crypto (https://partner.visa.com/homepage.html?utm_source=partner&amp;utm_medium=affiliate&amp;utm_content=sponsored-podcast_english_60min0sec&amp;utm_campaign=us_fintech_q3-fy21-11fs-fintechinsider&amp;utm_creative=awareness_11fs-fintech-insider). 
+If you enjoyed the show, don't forget to subscribe and leave a review!
+Want to join the conversation on all the topics discussed? Tweet the show at: www.twitter.com/bchaininsider Special Guests: Ari Redbord and Jessica Cath.
+</content:encoded>
+      <itunes:summary>שיחה מעניינת על רגולציה ונסיונות למנוע הלבנת כספים בעולם הפיננסי המסורתי ועל ההבדל בינו לבין עולם הקריפטו החדש. &lt;br&gt;הצורך למנוע פעולות לא חוקיות קיים גם בתעשיה המסורתית של הבנקים אבל גם בקריפטו, בלוקצ'יין ונכסים דיגיטליים מהעולם החדש. אבל האפקטיביות משתנה מתחום לתחום גם כי חלק מהם חדשים מדיי וגם כי יש צורך לשנות פרדיגמות חשיבה בדרך. &lt;br&gt;#כלכלה #אנגלית #בלוקציין&lt;br&gt;&lt;br&gt;Blockchain insider - 177. Insights: What does AML and regulation look like in web3?&lt;br&gt;משך: 48 דק' &lt;br&gt;&lt;br&gt;https://pca.st/x4i0o6pw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;gm. Mauricio Magaldi and Cuy Sheffield are back this week for another deep dive. 
+In this Insights episode, we will be focusing on AML and how regulation can be a solution. We explore how the industry is preventing money laundering and illicit financing, looking at recent developments and what we hope the future can bring in this sector. 
+Join us while we unpack what AML is in traditional finance, and how it differs from AML in crypto, blockchains and digital assets, what's working and what's not, and of course - what we hope to see in the near future.
+We are also joined by some amazing guests:
+Ari Redbord, Head of Legal and Government Affairs at TRM Labs
+Jessica Cath, Head of Financial Crime Project Delivery, Fintrail
+This episode is sponsored by Visa.
+This episode is brought to you by Visa, one of the world’s leaders in digital payments.
+Crypto has opened up a new world of possibility. And Visa is helping everyone take part.
+Visa enables commerce across their network and crypto networks through solutions like Fintech Fast Track, a quick and easy way for crypto innovators to issue payment credentials.  
+Join us in this new money movement. Learn more at visa.com/crypto (https://partner.visa.com/homepage.html?utm_source=partner&amp;utm_medium=affiliate&amp;utm_content=sponsored-podcast_english_60min0sec&amp;utm_campaign=us_fintech_q3-fy21-11fs-fintechinsider&amp;utm_creative=awareness_11fs-fintech-insider). 
+If you enjoyed the show, don't forget to subscribe and leave a review!
+Want to join the conversation on all the topics discussed? Tweet the show at: www.twitter.com/bchaininsider Special Guests: Ari Redbord and Jessica Cath.
+</itunes:summary>
+      <fireside:playerURL>https://fireside.fm/player/v2/Fs_9V6FE+MW2tqhuW</fireside:playerURL>
+      <fireside:playerEmbedCode>
+        &lt;iframe src="https://fireside.fm/player/v2/Fs_9V6FE+MW2tqhuW" width="740" height="200" frameborder="0" scrolling="no"&gt;
+      </fireside:playerEmbedCode>
+      <podcast:person email="" href="https://www.11fs.com/" role="host">Mauricio Magaldi</podcast:person>
+      <podcast:person email="" href="https://usa.visa.com/" role="host">Cuy Sheffield</podcast:person>
+      <podcast:person email="" href="" role="guest">Jessica Cath</podcast:person>
+      <podcast:person email="" href="" role="guest">Ari Redbord</podcast:person>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>פרק 253: אמא של שאול יוצאת לפנסיה</title>
+      <itunes:title>פרק 253: אמא של שאול יוצאת לפנסיה</itunes:title>
+      <description>סיפור אמיתי על אמא של שאול אמסטרדמסקי שפרשה לפנסיה ותהליך שהיא עברה בדרך. &lt;br&gt;מציג בצורה חיה ומציאותית את הקשיים שרוב האוכלוסייה נתקל בהם כשהם צריכים לפרוש את הקושי הנוסף שחוו כל מי שהיה צריך לפרוש בתחילת הקורונה כשהשווקים נפלו. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 253: אמא של שאול יוצאת לפנסיה&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ql1pb70a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;אחרי כמעט 45 שנה של עבודה כאחות ומורה בבית ספר, רעיה תגר פורשת לפנסיה ולא יודעת איזה סבך בירוקרטי מצפה לה. העובדה שבנה עוסק ב״כלכלה כתובה״ עוזרת לה קצת בהתמודדות עם הטופוסלוגיה, אבל מסתבר שהקושי האמיתי הוא המעבר מאחד לאפס&lt;/p&gt;
+&lt;p dir="rtl"&gt;מגיש: שאול אמסטרדמסקי, עורכים: תומר מיכלזון וניר גורלי, מיקס ועיצוב סאונד: אסף רפופורט, טכנאי: שרון לרנר&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>סיפור אמיתי על אמא של שאול אמסטרדמסקי שפרשה לפנסיה ותהליך שהיא עברה בדרך. &lt;br&gt;מציג בצורה חיה ומציאותית את הקשיים שרוב האוכלוסייה נתקל בהם כשהם צריכים לפרוש את הקושי הנוסף שחוו כל מי שהיה צריך לפרוש בתחילת הקורונה כשהשווקים נפלו. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 253: אמא של שאול יוצאת לפנסיה&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ql1pb70a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;אחרי כמעט 45 שנה של עבודה כאחות ומורה בבית ספר, רעיה תגר פורשת לפנסיה ולא יודעת איזה סבך בירוקרטי מצפה לה. העובדה שבנה עוסק ב״כלכלה כתובה״ עוזרת לה קצת בהתמודדות עם הטופוסלוגיה, אבל מסתבר שהקושי האמיתי הוא המעבר מאחד לאפס&lt;/p&gt;
+&lt;p dir="rtl"&gt;מגיש: שאול אמסטרדמסקי, עורכים: תומר מיכלזון וניר גורלי, מיקס ועיצוב סאונד: אסף רפופורט, טכנאי: שרון לרנר&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/fba49130-613d-4f50-8d52-af9b00b4754a/image.jpg?t=1675171888&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/fba49130-613d-4f50-8d52-af9b00b4754a/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/hayot-kiss/253/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/fba49130-613d-4f50-8d52-af9b00b4754a/image.jpg?t=1675171888&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">fba49130-613d-4f50-8d52-af9b00b4754a</guid>
+      <omny:clipId>fba49130-613d-4f50-8d52-af9b00b4754a</omny:clipId>
+      <pubDate>Sun, 19 Feb 2023 05:10:01 +0000</pubDate>
+      <itunes:duration>2024</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/fba49130-613d-4f50-8d52-af9b00b4754a/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="32421460" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/hayot-kiss/253</link>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #660 - ניצן דוד פוקס וגיאופוליטקה</title>
         <itunes:title>פרק #660 - ניצן דוד פוקס וגיאופוליטקה</itunes:title>
         <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7660%d7%a0%d7%99%d7%a6%d7%9f%d7%93%d7%95%d7%93%d7%a4%d7%95%d7%a7%d7%a1%d7%95%d7%92%d7%99%d7%90%d7%95%d7%a4%d7%95%d7%9c%d7%99%d7%98/</link>
@@ -6273,41 +6355,5 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:keywords>betsy ross, hopkinson, flag, grand union, us</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>The Sideways Effect</title>
-      <description>סיפור מאוד מעניין של קומדיה קלילה שנחשבת לאחת שהשפיעה על כל עולם היין. בשנת 2004 יצא הסרט Sideways שבו חלק מהגיבורים בעלי דיעות מאוד מוצקות על סוגיי יין שונים. ומאז נטען שהסרט הזה השפיע על צריכת היין בכל ארה"ב.&lt;br&gt;#סיפורמעניין #אוכל #אנגלית #תרבות&lt;br&gt;https://prnt.sc/PC9c2ePlErW-&lt;br&gt;&lt;br&gt;Decoder ring - The Sideways Effect&lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mmsbz5g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2004, the indie flick Sideways was released in just four theaters, but it had a big impact, earning five Oscar nominations and $110 million worldwide. “I thought it was just going to be a nice little comedy,” filmmaker Alexander Payne tells us. Instead, the movie became known for something else so notable that it has a name: The Sideways Effect. 
-In this episode, we explore all the outsized effects of this one little movie on the huge wine industry. Did a single line of dialogue really tank merlot sales for decades? Did an ode to pinot noir jumpstart demand for this expensive grape? Did Paul Giamatti’s sad sack character change our relationship to yet another wine, one that was barely mentioned in the film?
-Today on Decoder Ring, all of these questions and this one: Is it long past time to start drinking merlot?
-Some of the voices in this episode include Laura Lippmann, crime novelist; Tim Farrell, wine buyer for Brooklyn Wine Exchange; Rex Pickett, novelist and author of ‘Sideways,’ Alexander Payne, director, screenwriter, and producer; Jeff Bundschu, owner of Gundlach Bundschu; Steve Cuellar, professor of economics at Sonoma State University; and Kathy Joseph, owner of Fiddlehead Cellars. We also mention Travis Lybbert’s paper corroborating the “Sideways Effect,” which you can find here.
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com.
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Tue, 05 Jul 2022 04:01:59 +0000</pubDate>
-      <itunes:title>The Sideways Effect</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Slate Podcasts</itunes:author>
-      <itunes:subtitle>How one movie changed Americans’ wine drinking habits.</itunes:subtitle>
-      <itunes:summary>סיפור מאוד מעניין של קומדיה קלילה שנחשבת לאחת שהשפיעה על כל עולם היין. בשנת 2004 יצא הסרט Sideways שבו חלק מהגיבורים בעלי דיעות מאוד מוצקות על סוגיי יין שונים. ומאז נטען שהסרט הזה השפיע על צריכת היין בכל ארה"ב.&lt;br&gt;#סיפורמעניין #אוכל #אנגלית #תרבות&lt;br&gt;https://prnt.sc/PC9c2ePlErW-&lt;br&gt;&lt;br&gt;Decoder ring - The Sideways Effect&lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mmsbz5g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2004, the indie flick Sideways was released in just four theaters, but it had a big impact, earning five Oscar nominations and $110 million worldwide. “I thought it was just going to be a nice little comedy,” filmmaker Alexander Payne tells us. Instead, the movie became known for something else so notable that it has a name: The Sideways Effect. 
-In this episode, we explore all the outsized effects of this one little movie on the huge wine industry. Did a single line of dialogue really tank merlot sales for decades? Did an ode to pinot noir jumpstart demand for this expensive grape? Did Paul Giamatti’s sad sack character change our relationship to yet another wine, one that was barely mentioned in the film?
-Today on Decoder Ring, all of these questions and this one: Is it long past time to start drinking merlot?
-Some of the voices in this episode include Laura Lippmann, crime novelist; Tim Farrell, wine buyer for Brooklyn Wine Exchange; Rex Pickett, novelist and author of ‘Sideways,’ Alexander Payne, director, screenwriter, and producer; Jeff Bundschu, owner of Gundlach Bundschu; Steve Cuellar, professor of economics at Sonoma State University; and Kathy Joseph, owner of Fiddlehead Cellars. We also mention Travis Lybbert’s paper corroborating the “Sideways Effect,” which you can find here.
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com.
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>סיפור מאוד מעניין של קומדיה קלילה שנחשבת לאחת שהשפיעה על כל עולם היין. בשנת 2004 יצא הסרט Sideways שבו חלק מהגיבורים בעלי דיעות מאוד מוצקות על סוגיי יין שונים. ומאז נטען שהסרט הזה השפיע על צריכת היין בכל ארה"ב.&lt;br&gt;#סיפורמעניין #אוכל #אנגלית #תרבות&lt;br&gt;https://prnt.sc/PC9c2ePlErW-&lt;br&gt;&lt;br&gt;Decoder ring - The Sideways Effect&lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mmsbz5g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 2004, the indie flick Sideways was released in just four theaters, but it had a big impact, earning five Oscar nominations and $110 million worldwide. “I thought it was just going to be a nice little comedy,” filmmaker Alexander Payne tells us. Instead, the movie became known for something else so notable that it has a name: The Sideways Effect. 
-In this episode, we explore all the outsized effects of this one little movie on the huge wine industry. Did a single line of dialogue really tank merlot sales for decades? Did an ode to pinot noir jumpstart demand for this expensive grape? Did Paul Giamatti’s sad sack character change our relationship to yet another wine, one that was barely mentioned in the film?
-Today on Decoder Ring, all of these questions and this one: Is it long past time to start drinking merlot?
-Some of the voices in this episode include Laura Lippmann, crime novelist; Tim Farrell, wine buyer for Brooklyn Wine Exchange; Rex Pickett, novelist and author of ‘Sideways,’ Alexander Payne, director, screenwriter, and producer; Jeff Bundschu, owner of Gundlach Bundschu; Steve Cuellar, professor of economics at Sonoma State University; and Kathy Joseph, owner of Fiddlehead Cellars. We also mention Travis Lybbert’s paper corroborating the “Sideways Effect,” which you can find here.
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com.
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>2362</itunes:duration>
-      <guid isPermaLink="false">1000559397259</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/chtbl.com/track/28D492/traffic.megaphone.fm/SLT1234915450.mp3?updated=1651548570" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>אבן קיסר – מקצרים את הדרך אל הצרכן הסופי [פורצים דרך]</title><link>https://www.spreaker.com/user/pimedia/1-Xz3djP</link><description>חדשנות באבן קיסר. שיחה עם יזהר גלעד על חדשנות טכנולוגית ועל מוצרים חדשים שהם לא בהכרח שייש בחברה שכולם בישראל מכירים. &lt;br&gt;גילוי נאות - אני מכירה אישית את יזהר. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פורצים דרך - אבן קיסר &lt;br&gt;משך: 35 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1w37y7ms&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כאשר אנחנו רוצים לקנות מטבח חדש ובפרט משטח למטבח, זו תחילתה של שרשרת ערך ארוכה של בעלי תפקידים ביננו כצרכנים, לבין היצרן עצמו (חנות מטבחים, מעבד שיש, קבלן ועוד).&lt;br /&gt;&lt;br /&gt;באבן קיסר, הלא היא היצרן, רוצים לקצר וליעל את השרשרת הזו, להתקרב ולעזור לצרכן במסע הלא פשוט הזה; תוך מתן ערך מוסף ויצירת מערכות יחסים שלwin-win  עם השחקנים האחרים בשרשרת.&lt;br /&gt;&lt;br /&gt;יזהר גלעד, סמנכ"ל מיזמים דיגיטליים בחברת אבן קיסר, הסביר לנו איך מנהלים שינוי כזה.</description><guid isPermaLink="false">https://api.spreaker.com/episode/50038839</guid><pubDate>Tue, 05 Jul 2022 04:01:02 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/50038839/episode_50038839.mp3" length="34214182" type="audio/mpeg"/><itunes:author>Salesforce</itunes:author><itunes:subtitle>כאשר אנחנו רוצים לקנות מטבח חדש ובפרט משטח למטבח, זו תחילתה של שרשרת ערך ארוכה של בעלי תפקידים ביננו כצרכנים, לבין היצרן עצמו (חנות מטבחים, מעבד שיש, קבלן ועוד).&#13;
-&#13;
-באבן קיסר, הלא היא היצרן, רוצים לקצר וליעל את השרשרת הזו, להתקרב ולעזור לצרכן במסע הלא...</itunes:subtitle><itunes:summary>חדשנות באבן קיסר. שיחה עם יזהר גלעד על חדשנות טכנולוגית ועל מוצרים חדשים שהם לא בהכרח שייש בחברה שכולם בישראל מכירים. &lt;br&gt;גילוי נאות - אני מכירה אישית את יזהר. &lt;br&gt;#חדשנות #טכנולוגיה &lt;br&gt;&lt;br&gt;פורצים דרך - אבן קיסר &lt;br&gt;משך: 35 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1w37y7ms&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כאשר אנחנו רוצים לקנות מטבח חדש ובפרט משטח למטבח, זו תחילתה של שרשרת ערך ארוכה של בעלי תפקידים ביננו כצרכנים, לבין היצרן עצמו (חנות מטבחים, מעבד שיש, קבלן ועוד).&lt;br /&gt;&lt;br /&gt;באבן קיסר, הלא היא היצרן, רוצים לקצר וליעל את השרשרת הזו, להתקרב ולעזור לצרכן במסע הלא פשוט הזה; תוך מתן ערך מוסף ויצירת מערכות יחסים שלwin-win  עם השחקנים האחרים בשרשרת.&lt;br /&gt;&lt;br /&gt;יזהר גלעד, סמנכ"ל מיזמים דיגיטליים בחברת אבן קיסר, הסביר לנו איך מנהלים שינוי כזה.</itunes:summary><itunes:duration>2139</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/7e487c0216c8b37c9894b46396c844c2.jpg"/><itunes:episodeType>full</itunes:episodeType></item></channel>
+    </item></channel>
 </rss>
