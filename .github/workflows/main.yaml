@@ -2,7 +2,7 @@ name: RSS
 
 on:
   schedule:
-    - cron:  '0 * * * *' # Each 1 hour
+    - cron:  '0 4 * * *' # Every 4am (9am in IST time)
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -16,13 +16,18 @@ jobs:
       - name: Decrypt session secret
         env:
           SESSION_SECRET_PASSPHRASE: ${{ secrets.SESSION_SECRET_PASSPHRASE }}
-        run: bash decrypt_session.sh
+        run: |
+          make decrypt
+
       - name: Run docker container
         env:
           TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
           TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
           TELEGRAM_PUBLIC_CHANNEL_NAME: ${{ secrets.TELEGRAM_PUBLIC_CHANNEL_NAME }}
-        run: bash build.sh
+        run: |
+          make build
+          make run
+
       - name: Add & Commit
         uses: EndBug/add-and-commit@v7.4.0
         with:

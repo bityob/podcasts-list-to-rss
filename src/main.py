@@ -21,7 +21,7 @@ async def main():
 
     rss_text = rss.create_rss()
 
-    with open(f'assets/{RSS_FILE_NAME}', 'wt', encoding='utf-8') as writer:
+    with open(f'/opt/assets/{RSS_FILE_NAME}', 'wt', encoding='utf-8') as writer:
         writer.write(rss_text)
 
 
