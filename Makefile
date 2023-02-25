@@ -26,3 +26,9 @@ run-with-mount:
 
 ipython:
 	docker run -it podcasts-list-to-rss bash
+
+gh-run-rss:
+	gh workflow run main.yaml --ref $$(git rev-parse --abbrev-ref HEAD)
+
+gh-watch-last-run:
+	gh run watch $$(gh run list --workflow main.yaml -L 1 --json databaseId --jq ".[0].databaseId")
