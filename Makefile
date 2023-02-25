@@ -5,7 +5,7 @@ create-env-file:
 	echo "TELEGRAM_APP_ID=${TELEGRAM_APP_ID}" > .env
 	echo "TELEGRAM_APP_HASH=${TELEGRAM_APP_HASH}" >> .env
 	echo "CHANNEL_NAME=${CHANNEL_NAME}" >> .env
-	echo "RSS_NAME=${RSS_NAME}" >> .env
+	echo 'RSS_NAME="${RSS_NAME}"' >> .env
 	echo "RSS_DESCRIPTION=${RSS_DESCRIPTION}" >> .env
 	echo "RSS_WEBSITE=${RSS_WEBSITE}" >> .env
 	echo "RSS_IMAGE_URL=${RSS_IMAGE_URL}" >> .env
