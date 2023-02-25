@@ -21,10 +21,21 @@ jobs:
 
       - name: Run docker container
         env:
-          TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
-          TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
-          TELEGRAM_PUBLIC_CHANNEL_NAME: ${{ secrets.TELEGRAM_PUBLIC_CHANNEL_NAME }}
+#          TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
+#          TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
+#          TELEGRAM_PUBLIC_CHANNEL_NAME: ${{ secrets.TELEGRAM_PUBLIC_CHANNEL_NAME }}
+          TELEGRAM_APP_ID:
+          TELEGRAM_APP_HASH:
+          CHANNEL_NAME:
+          RSS_NAME: ${{ secrets.RSS_NAME }}
+          RSS_DESCRIPTION:
+          RSS_WEBSITE:
+          RSS_IMAGE_URL:
+          RSS_FILE_NAME:
+          RSS_MAX_MESSAGES:
         run: |
+          make create-env-file
+          cp .env ./src/.env
           make build
           make run
 
