@@ -12,6 +12,7 @@ from src.settings import RSS_FILE_NAME
 
 async def main():
     print("Starting...")
+
     reader = TelegramReader()
 
     messages = [m async for m in reader.gen_messages()]

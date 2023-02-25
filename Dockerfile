@@ -11,7 +11,7 @@ RUN --mount=type=cache,mode=0755,target=/root/.cache/pip \
 
 ENV PYTHONPATH=/opt
 COPY src /opt/src
-COPY user.session /opt/src/
+#COPY user.session /opt/src/
 
 
 CMD ["python", "main.py"]

@@ -24,10 +24,10 @@ class TelegramReader:
         return None
 
     async def gen_messages(self) -> Iterable[Message]:
-        async with TelegramClient('user', TELEGRAM_APP_ID, TELEGRAM_APP_HASH) as client:
+        async with TelegramClient('user', TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
             await client.start()
 
-            async for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES):
+            async for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
                 print(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
