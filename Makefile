@@ -1,5 +1,5 @@
 build:
-	DOCKER_SCAN_SUGGEST=false docker build . -t podcasts-list-to-rss
+	DOCKER_BUILDKIT=1 DOCKER_SCAN_SUGGEST=false docker build . -t podcasts-list-to-rss
 
 create-env-file:
 	echo "TELEGRAM_APP_ID=${TELEGRAM_APP_ID}" > .env
