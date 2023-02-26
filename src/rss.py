@@ -1,4 +1,5 @@
 from typing import List
+import traceback
 
 from lxml import etree
 from podgen import Podcast, Episode
@@ -68,6 +69,7 @@ class RssGenerator:
 
             except Exception as ex:
                 print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
+                traceback.print_exc()
 
         return rss_string
 
