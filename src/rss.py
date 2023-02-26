@@ -62,9 +62,10 @@ class RssGenerator:
 
                 print(f"Valid urls: {valid_urls}")
 
-                # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
-                # and we add the episodes on DESC order here (from the newest to the oldest)
-                for curr_url in reversed(valid_urls):
+                # We iterate over the urls in regular mode, since usually the urls are in ASC order,
+                # and we add the episodes on DESC order here (from the newest to the oldest),
+                # so no need to reverse the order, to keep the last one first and first one earlier
+                for curr_url in valid_urls:
                     print(f"Converting url={curr_url} to rss item")
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
