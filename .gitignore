@@ -102,7 +102,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
+src/.env
+*.env
 .venv
 env/
 venv/
@@ -129,3 +130,7 @@ dmypy.json
 .pyre/
 *.session
 *.ipynb
+
+
+.idea
+.tool-versions

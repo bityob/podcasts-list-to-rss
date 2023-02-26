@@ -1,8 +1,9 @@
 from functools import cached_property
 from dataclasses import dataclass
 from datetime import datetime
-from typing import List
+from typing import List, Any
 
+from telethon.tl.types import Document
 from requests_html import HTMLSession, Element
 
 session = HTMLSession()
@@ -51,3 +52,4 @@ class Message:
     url: str
     date: datetime
     urls: List[str]
+    audio: Document

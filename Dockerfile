@@ -1,21 +1,15 @@
-FROM python:3.10.0
+# syntax=docker/dockerfile:1
+FROM python:3.10 as base
 
-ARG TELEGRAM_APP_ID
-ARG TELEGRAM_APP_HASH
-ARG TELEGRAM_PUBLIC_CHANNEL_NAME
-
-ENV TELEGRAM_APP_ID=$TELEGRAM_APP_ID
-ENV TELEGRAM_APP_HASH=$TELEGRAM_APP_HASH
-ENV TELEGRAM_PUBLIC_CHANNEL_NAME=$TELEGRAM_PUBLIC_CHANNEL_NAME
-
-WORKDIR /app
-RUN mkdir assets
+WORKDIR /opt/assets
+WORKDIR /opt/src
 
 COPY requirments.txt .
 
-RUN pip install -r requirments.txt --trusted-host pypi.org --trusted-host files.pythonhosted.org
+RUN --mount=type=cache,mode=0755,target=/root/.cache/pip \
+    pip install -r requirments.txt --trusted-host pypi.org --trusted-host files.pythonhosted.org
 
-COPY src /app
-COPY user.session /app
+ENV PYTHONPATH=/opt
+COPY src /opt/src
 
-CMD ["python", "main.py"] 
+CMD ["python", "main.py"]

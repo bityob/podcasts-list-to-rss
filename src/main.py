@@ -5,11 +5,14 @@ urllib3.disable_warnings()
 from podgen import Podcast, Episode
 
 from telegram import TelegramReader
-from rss import RssGenerator
 
+from src.rss import RssGenerator
+from src.settings import RSS_FILE_NAME
 
 
 async def main():
+    print("Starting...")
+
     reader = TelegramReader()
 
     messages = [m async for m in reader.gen_messages()]
@@ -18,7 +21,7 @@ async def main():
 
     rss_text = rss.create_rss()
 
-    with open('assets/rss.xml', 'wt', encoding='utf-8') as writer:
+    with open(f'/opt/assets/{RSS_FILE_NAME}', 'wt', encoding='utf-8') as writer:
         writer.write(rss_text)
 
 
