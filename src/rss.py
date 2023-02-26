@@ -40,11 +40,11 @@ class RssGenerator:
             try:
                 print(f"Message id={message.id}...")
 
-                all_urls = [message.url] + message.urls
+                all_urls = message.urls
 
-                valid_urls_gen = (url for url in all_urls if PocketCasts.is_valid_url(url))
+                valid_urls = [url for url in all_urls if PocketCasts.is_valid_url(url)]
 
-                found_url = next(valid_urls_gen, None)
+                found_url = valid_urls[0] if valid_urls else None
 
                 print(f"Found url={found_url}")
 
@@ -58,14 +58,11 @@ class RssGenerator:
                     print(f"Ignoring message {message.id}, text: {message.text} no url found")
                     continue
 
-                valid_urls = list(set([found_url] + list(valid_urls_gen)))
-
                 print(f"Valid urls: {valid_urls}")
 
-                # We iterate over the urls in regular mode, since usually the urls are in ASC order,
-                # and we add the episodes on DESC order here (from the newest to the oldest),
-                # so no need to reverse the order, to keep the last one first and first one earlier
-                for curr_url in valid_urls:
+                # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
+                # and we add the episodes on DESC order here (from the newest to the oldest)
+                for curr_url in reversed(valid_urls):
                     print(f"Converting url={curr_url} to rss item")
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
