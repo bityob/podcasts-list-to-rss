@@ -2,7 +2,7 @@ name: RSS
 
 on:
   schedule:
-    - cron:  '0 4 * * *' # Every 4am (9am in IST time)
+    - cron:  '0 6 * * *' # Every 4am (9am in IST time)
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
