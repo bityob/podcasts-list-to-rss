@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 17 Mar 2023 06:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Mar 2023 06:39:00 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 254: סוגרים את הפינגווין</title>
@@ -1112,9 +1112,9 @@ Credits: This episode was written and produced by Amory Sivertson and Quincy Wal
             <itunes:subtitle>“Goosebumps” book fans and musical theater fans, unite! In this episode, Amory and producer Quincy introduce you to “Goosebumps The Musical” and find out what it might take to get it to Broadway (hint: you can help!)</itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/12/Goosebumps-The-Musical-version-without-credits-e1671643049795.jpg"/>
-            <media:content url="https://media.wbur.org/wp/2022/12/Goosebumps-The-Musical-version-without-credits-e1671643049795.jpg" type="image/jpeg" height="1000" width="1000" medium="image">
-                                        <media:thumbnail url="https://media.wbur.org/wp/2022/12/Goosebumps-The-Musical-version-without-credits-200x200.jpg" height="200" width="200"/>
+                        <itunes:image href="https://wordpress.wbur.org/wp-content/uploads/2022/12/Goosebumps-The-Musical-version-without-credits-e1671643049795.jpg"/>
+            <media:content url="https://wordpress.wbur.org/wp-content/uploads/2022/12/Goosebumps-The-Musical-version-without-credits-e1671643049795.jpg" type="image/jpeg" height="1000" width="1000" medium="image">
+                                        <media:thumbnail url="https://wordpress.wbur.org/wp-content/uploads/2022/12/Goosebumps-The-Musical-version-without-credits-200x200.jpg" height="200" width="200"/>
                 <media:description>(Courtesy Danny Abosch)</media:description>
                                     </media:content>
                                     <itunes:duration>00:38:29</itunes:duration>
@@ -2166,9 +2166,9 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
             <itunes:subtitle>Olga of Kiev executed one of the most bone-chilling revenge tours in history after her husband, Igor, was murdered. Then, with a burning city in her wake, she converted to Christianity and became a saint. This episode was originally released on October 18, 2019. </itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/10/olga-of-kiev-2-1.jpg"/>
-            <media:content url="https://media.wbur.org/wp/2022/10/olga-of-kiev-2-1.jpg" type="image/jpeg" height="1128" width="1000" medium="image">
-                                        <media:thumbnail url="https://media.wbur.org/wp/2022/10/olga-of-kiev-2-1-200x200.jpg" height="200" width="200"/>
+                        <itunes:image href="https://wordpress.wbur.org/wp-content/uploads/2022/10/olga-of-kiev-2-1.jpg"/>
+            <media:content url="https://wordpress.wbur.org/wp-content/uploads/2022/10/olga-of-kiev-2-1.jpg" type="image/jpeg" height="1128" width="1000" medium="image">
+                                        <media:thumbnail url="https://wordpress.wbur.org/wp-content/uploads/2022/10/olga-of-kiev-2-1-200x200.jpg" height="200" width="200"/>
                 <media:description/>
                                     </media:content>
                                     <itunes:duration>00:30:36</itunes:duration>
@@ -3224,7 +3224,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz!
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
 Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
@@ -3242,7 +3242,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz!
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
 Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
@@ -3254,7 +3254,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz!
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
 Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
@@ -3265,7 +3265,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1657</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">24fdfc00-3f3a-11ed-aa35-b3192663b57f</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH8582745503.mp3?updated=1664898283" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH8582745503.mp3?updated=1679085170" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 252: חידון כיס</title>
       <itunes:title>פרק 252: חידון כיס</itunes:title>
@@ -3947,7 +3947,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Subscribe to History Daily wherever you get your podcasts.
 To learn more about immersive audio production, visit pro.focusrite.com.
@@ -3966,7 +3966,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Subscribe to History Daily wherever you get your podcasts.
 To learn more about immersive audio production, visit pro.focusrite.com.
@@ -3979,7 +3979,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Subscribe to History Daily wherever you get your podcasts.
 To learn more about immersive audio production, visit pro.focusrite.com.
@@ -3991,7 +3991,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1752</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">09d10350-24a0-11ed-bbab-a777f3cd67e1</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH6405148630.mp3?updated=1662480398" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH6405148630.mp3?updated=1679085172" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">09ef046f-c292-4372-84de-d9b2d7ea75db</guid>
       <title>25: ״חדשנות פסיכולוגית״ עם אליאב אללוף</title>
@@ -4400,7 +4400,7 @@ https://www.ads.ranlevi.com/2022/10/03/doors-answer-simulation/</itunes:subtitle
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel here.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Listen to Ahead of Its Time, a new podcast by Setapp, on all of your favorite platforms.
 Get a $75 credit to upgrade your job post at indeed.com/hertz.
@@ -4417,7 +4417,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel here.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Listen to Ahead of Its Time, a new podcast by Setapp, on all of your favorite platforms.
 Get a $75 credit to upgrade your job post at indeed.com/hertz.
@@ -4428,7 +4428,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 
 Follow the show on Twitter, Facebook, &amp; Reddit.
 Subscribe to our Youtube channel here.
-Sign up for Twenty Thousand Hertz+ to get our entire catalog ad-free + our bonus show MicroHertz.
+Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
 If you know what this week's mystery sound is, tell us at mystery.20k.org.
 Listen to Ahead of Its Time, a new podcast by Setapp, on all of your favorite platforms.
 Get a $75 credit to upgrade your job post at indeed.com/hertz.
@@ -4438,7 +4438,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1953</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">04d61812-1a47-11ed-956e-a37c49d329dd</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH8464384769.mp3?updated=1670346323" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH8464384769.mp3?updated=1679085224" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">41d21faa-325a-47fb-9c34-97b2059257f8</guid>
       <title>513. Should Public Transit Be Free?</title>
@@ -6951,7 +6951,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 &lt;p style="text-align:right;"&gt; &lt;/p&gt;
 &lt;p style="text-align:right;"&gt;Tchaikovsky serenade for strings is played in this episode courtesy of "a far cry" orchestra. &lt;/p&gt;
 </description>
-                        <content:encoded>ועוד סיפור על מקצוע מעניין - מנצחת על תזמורת. שיחה עם בר אבני מנצחת ישראלית שעובדת כרגע באירופה ומספרת את הסיפור שלה. מסבירה חלק מהבחירות המקצועיות שלה ונותנת הצצה אישית למקצוע שאין בו הרבה נשים. &lt;br&gt;#סיפורמעניין #מוזיקה &lt;br&gt;&lt;br&gt;זה קלאסי - פרק 41 - מנצחת בגדול&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;https://pca.st/obkhovkr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;בר אבני היא מנצחת צעירה הנמצאת עוד בדרכה להגיע לפסגה, לפי הגדרתה. פגשתי אישה מרשימה, לא הולכת סחור סחור אלא אומרת את הדברים בצורה מדויקת. היא הצליחה להפתיע אותי אפילו בכמה אמירות שלה. שוחחנו על תחילת הדרך ואיך מגיעה נערה צעיאה לעולם הניצוח. שוחחנו גם על תקרת הזכוכית של השנים בעולם המוזיקה ואיך היא למדה לאט לאט שהסיווג שלה כאישה , ישראלית וצעירה יכול להיות חיובי עבור המשך הקריירה שלה.&lt;/p&gt;
+                      <content:encoded>ועוד סיפור על מקצוע מעניין - מנצחת על תזמורת. שיחה עם בר אבני מנצחת ישראלית שעובדת כרגע באירופה ומספרת את הסיפור שלה. מסבירה חלק מהבחירות המקצועיות שלה ונותנת הצצה אישית למקצוע שאין בו הרבה נשים. &lt;br&gt;#סיפורמעניין #מוזיקה &lt;br&gt;&lt;br&gt;זה קלאסי - פרק 41 - מנצחת בגדול&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;https://pca.st/obkhovkr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;בר אבני היא מנצחת צעירה הנמצאת עוד בדרכה להגיע לפסגה, לפי הגדרתה. פגשתי אישה מרשימה, לא הולכת סחור סחור אלא אומרת את הדברים בצורה מדויקת. היא הצליחה להפתיע אותי אפילו בכמה אמירות שלה. שוחחנו על תחילת הדרך ואיך מגיעה נערה צעיאה לעולם הניצוח. שוחחנו גם על תקרת הזכוכית של השנים בעולם המוזיקה ואיך היא למדה לאט לאט שהסיווג שלה כאישה , ישראלית וצעירה יכול להיות חיובי עבור המשך הקריירה שלה.&lt;/p&gt;
 &lt;p style="text-align:right;"&gt; &lt;/p&gt;
 &lt;p style="text-align:right;"&gt;לתגובות ושאלות, עמוד הפייסבוק ״זה קלאסי:&lt;/p&gt;
 &lt;p style="text-align:right;"&gt;&lt;a href='https://www.facebook.com/its.classical/'&gt;https://www.facebook.com/its.classical/&lt;/a&gt;&lt;/p&gt;
@@ -7195,9 +7195,9 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <itunes:subtitle>Since the dawn of the internet, cyberwitches have traded in their broomsticks and cauldrons for floppy disks and smartphones. This week on Endless Thread, we go into the history of cyberwitches, attend a Zoom ritual, and talk to members of a cyber coven. </itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-e1652301889159.png"/>
-            <media:content url="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-e1652301889159.png" type="image/jpeg" height="563" width="1000" medium="image">
-                                        <media:thumbnail url="https://media.wbur.org/wp/2022/05/Cyber_Witches_V3-01-200x200.png" height="200" width="200"/>
+                        <itunes:image href="https://wordpress.wbur.org/wp-content/uploads/2022/05/Cyber_Witches_V3-01-e1652301889159.png"/>
+            <media:content url="https://wordpress.wbur.org/wp-content/uploads/2022/05/Cyber_Witches_V3-01-e1652301889159.png" type="image/jpeg" height="563" width="1000" medium="image">
+                                        <media:thumbnail url="https://wordpress.wbur.org/wp-content/uploads/2022/05/Cyber_Witches_V3-01-200x200.png" height="200" width="200"/>
                 <media:description>(Matt Milton for WBUR. Courtesy of www.miltonxdesign.com) </media:description>
                                     </media:content>
                                     <itunes:duration>00:33:24</itunes:duration>
@@ -8004,9 +8004,9 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <itunes:subtitle>After its first successful iteration in 2017, r/place returned on April 1, 2022 for four days of battling fandoms vying for space inside a pixelated canvas. We talk to two Redditors who recount the challenges of claiming their stake in r/place—despite being vastly outnumbered. </itunes:subtitle>
             <itunes:explicit>no</itunes:explicit>
 
-                        <itunes:image href="https://media.wbur.org/wp/2022/04/r-placebannertosize-e1651608344789.jpg"/>
-            <media:content url="https://media.wbur.org/wp/2022/04/r-placebannertosize-e1651608344789.jpg" type="image/jpeg" height="563" width="1000" medium="image">
-                                        <media:thumbnail url="https://media.wbur.org/wp/2022/04/r-placebannertosize-200x200.jpg" height="200" width="200"/>
+                        <itunes:image href="https://wordpress.wbur.org/wp-content/uploads/2022/04/r-placebannertosize-e1651608344789.jpg"/>
+            <media:content url="https://wordpress.wbur.org/wp-content/uploads/2022/04/r-placebannertosize-e1651608344789.jpg" type="image/jpeg" height="563" width="1000" medium="image">
+                                        <media:thumbnail url="https://wordpress.wbur.org/wp-content/uploads/2022/04/r-placebannertosize-200x200.jpg" height="200" width="200"/>
                 <media:description>(Courtesy of Reddit) </media:description>
                                     </media:content>
                                     <itunes:duration>00:23:08</itunes:duration>
