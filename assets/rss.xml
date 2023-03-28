@@ -10,9 +10,29 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 27 Mar 2023 06:39:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Mar 2023 06:39:37 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>מה השעה (ואיפה?) [התשובה]</title><link>https://www.spreaker.com/user/pimedia/timezone-mst_1</link><description>פרק מסקרן על אזורי זמן ומקרי הקצה המוזרים שקורים בעולם. מה המדינה הקטנה ביותר עם כמה אזורי זמן, למי יש אזורי זמן שהם לא שעות עגולות ומי המדינה הכי גדולה עם אזור זמן אחד?&lt;br&gt;עובדות מסקרנות שמוגשות בצורה כייפית.&lt;br&gt;#סיפורמעניין #גאוגרפיה &lt;br&gt;&lt;br&gt;התשובה - מה השעה (ואיפה?)&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fso8sqth&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</description><guid isPermaLink="false">https://api.spreaker.com/episode/52854985</guid><pubDate>Tue, 28 Mar 2023 04:01:44 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52854985/timezone_mst.mp3" length="36185559" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</itunes:subtitle><itunes:summary>פרק מסקרן על אזורי זמן ומקרי הקצה המוזרים שקורים בעולם. מה המדינה הקטנה ביותר עם כמה אזורי זמן, למי יש אזורי זמן שהם לא שעות עגולות ומי המדינה הכי גדולה עם אזור זמן אחד?&lt;br&gt;עובדות מסקרנות שמוגשות בצורה כייפית.&lt;br&gt;#סיפורמעניין #גאוגרפיה &lt;br&gt;&lt;br&gt;התשובה - מה השעה (ואיפה?)&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fso8sqth&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</itunes:summary><itunes:duration>2262</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+      <title>The Fortuitous Arrests of the Great Brink’s Robbers</title>
+      <description>סיפור על ריב בין שודדים שהוביל לכך שהFBI הצליחו לתפוס את כל המשתתפים רק ימים ספורים לפני שחוק ההתיישנות חל הפשע שלהם. הם כמעט הצליחו לבצע את הפשע המושלם אבל בסופו של דבר חוסר אמון בין חברי הקבוצה הובילו לזה שהFBI קיבלו את המידע שהם נזקקו לו כשזה עוד היה רלוונטי. &lt;br&gt;#אנגלית #סיפרמעניין #הסטוריה &lt;br&gt;&lt;br&gt;History daily - The Fortuitous Arrests of the Great Brink’s Robbers&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sqewbedx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;January 12, 1956. After years of dead ends, the FBI solves one of the largest heists in US history, arresting the perpetrators of the Great Brink's Robbery just five days before the statute of limitations runs out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Go to &lt;a href="http://historydaily.com/" rel="noopener noreferrer" target="_blank"&gt;HistoryDaily.com&lt;/a&gt; for more history, daily.&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
+      </description>
+      <itunes:title>The Fortuitous Arrests of the Great Brink’s Robbers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>355</itunes:episode>
+      <itunes:summary>סיפור על ריב בין שודדים שהוביל לכך שהFBI הצליחו לתפוס את כל המשתתפים רק ימים ספורים לפני שחוק ההתיישנות חל הפשע שלהם. הם כמעט הצליחו לבצע את הפשע המושלם אבל בסופו של דבר חוסר אמון בין חברי הקבוצה הובילו לזה שהFBI קיבלו את המידע שהם נזקקו לו כשזה עוד היה רלוונטי. &lt;br&gt;#אנגלית #סיפרמעניין #הסטוריה &lt;br&gt;&lt;br&gt;History daily - The Fortuitous Arrests of the Great Brink’s Robbers&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sqewbedx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;January 12, 1956. After years of dead ends, the FBI solves one of the largest heists in US history, arresting the perpetrators of the Great Brink's Robbery just five days before the statute of limitations runs out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Go to &lt;a href="http://historydaily.com/" rel="noopener noreferrer" target="_blank"&gt;HistoryDaily.com&lt;/a&gt; for more history, daily.&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
+      </itunes:summary>
+      <content:encoded>סיפור על ריב בין שודדים שהוביל לכך שהFBI הצליחו לתפוס את כל המשתתפים רק ימים ספורים לפני שחוק ההתיישנות חל הפשע שלהם. הם כמעט הצליחו לבצע את הפשע המושלם אבל בסופו של דבר חוסר אמון בין חברי הקבוצה הובילו לזה שהFBI קיבלו את המידע שהם נזקקו לו כשזה עוד היה רלוונטי. &lt;br&gt;#אנגלית #סיפרמעניין #הסטוריה &lt;br&gt;&lt;br&gt;History daily - The Fortuitous Arrests of the Great Brink’s Robbers&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sqewbedx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;January 12, 1956. After years of dead ends, the FBI solves one of the largest heists in US history, arresting the perpetrators of the Great Brink's Robbery just five days before the statute of limitations runs out.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Go to &lt;a href="http://historydaily.com/" rel="noopener noreferrer" target="_blank"&gt;HistoryDaily.com&lt;/a&gt; for more history, daily.&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/wJUz4yU_AK7Y2jxYCxQfsOboQL6uM2vzaskn7gAi1PE</guid>
+      <pubDate>Tue, 28 Mar 2023 04:01:01 +0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/c3/8e/32/08/c38e3208-da26-4008-9afa-2f441c081c75/426a0802b360a9dda32a7b3dd85e611370ccafef1e5495943ee5074e8cda7a4a07a4a617f5aa95da9fafa13f5a4db818df1021f33de15796c6ed51db68eb21e7.jpeg"/>
+      <itunes:duration>00:17:11</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/9EE2G/rss.art19.com/episodes/0a43083a-3b3d-4658-87f5-82a01a7887c8.mp3?rss_browser=BAhJIgtTYWZhcmkGOgZFVA%3D%3D--e8daa48e4e049c2293a0ad1663b4a762c475e386" type="audio/mpeg" length="16504790"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>What happened to the NFT's?</title>
       <link>https://thepodglomerate.com/shows/rocketship</link>
       <description>מה מצב פרוייקטי הNFT המפורסמים בעולם?&lt;br&gt;בפרק הזה המנחים עוברים פרוייקט פרוייקט ובגדול מתארים את הנפילות שהוא חווה אבל גם מציירים מגמה כללית לגביי השוק. אין בכך כדי להגיד שכל השוק הזה נסגר, אבל זה בהחלט מעניין לעשות פולו אפ לשמות המוכרים ולראות איפה הם עומדים עכשיו גם מבחינת הכסף וגם מבחינת ההבטחות שלהם להתפתחות. &lt;br&gt;#בלוקציין #אנגלית #NFT&lt;br&gt;&lt;br&gt;Rocketship - What happened to the NFT's?&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;https://pca.st/foove3d3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A lot has changed since our season on Web3. We've seen blue chip projects fade and valuations for NFT projects cascade. Today we'll look at why NFT values have dropped, look at specific projects we covered during the Web3 season, and think about the future of NFT's.
@@ -1236,8 +1256,8 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 
 --- 
 
-Send in a voice message: https://anchor.fm/polyamcast/message</description>
-			<link>https://anchor.fm/polyamcast/episodes/19---e1rb52u</link>
+Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/message</description>
+			<link>https://podcasters.spotify.com/pod/show/polyamcast/episodes/19---e1rb52u</link>
 			<guid isPermaLink="false">3e8542b2-4703-4ebe-9ce6-e17cd9f7b098</guid>
 			<dc:creator>נועה פז</dc:creator>
 			<pubDate>Tue, 14 Feb 2023 05:30:21 +0000</pubDate>
@@ -1255,7 +1275,7 @@ Send in a voice message: https://anchor.fm/polyamcast/message</description>
 
 --- 
 
-Send in a voice message: https://anchor.fm/polyamcast/message</itunes:summary>
+Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/message</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>01:19:42</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20239985/20239985-1642323202953-51f23fd672e81.jpg"/>
@@ -1857,7 +1877,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<description>ראיון מעניין עם היוטיובר הטכנולוגי - אלון גרעיני. אלון מספר איך הוא התחיל ומה הטעויות שהוא עשה בסרטונים הראשונים. עובר משם למסלול הצמיחה ומסיים במתודולוגיית העבודה שלו, איך הוא בוחר שיתופי פעולה, נושאים לסיקור ודעתו על עירוב נושאים אישיים בערוץ. &lt;br&gt;#טנולוגיה #יוטיוב #ישראל &lt;br&gt;https://prnt.sc/P_rtHPInyugB&lt;br&gt;&lt;br&gt;Antimarketing - פרק 39: אלון גרעיני, היוטיובר הטכנולוגי המוביל בישראל&lt;br&gt;משך: 54 דק' &lt;br&gt;&lt;br&gt;https://pca.st/v72biim8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק ה-39, נראיין את אלון גרעיני, היוטיובר הטכנולוגי המוביל בישראל. נדבר על איך מנהלים ערוץ יוטיוב מצליח, יצירת תוכן מרתק ועבודה עם משפיעני רשת. האזנה נעימה!&lt;/p&gt;
 &lt;p&gt;לפרקים נוספים ומידע על סוכנות השיווק אנטימרקטינג, ניתן להיכנס לקישור הבא: &lt;a href="https://www.antimarketing.co.il/" rel="ugc noopener noreferrer" target="_blank"&gt;https://www.antimarketing.co.il/&lt;/a&gt;&lt;/p&gt;
 </description>
-			<link>https://anchor.fm/antimarketing/episodes/39-e1rfilb</link>
+			<link>https://podcasters.spotify.com/pod/show/antimarketing/episodes/39-e1rfilb</link>
 			<guid isPermaLink="false">25e8ad9c-0939-48fd-ae77-0a4e9c9191d8</guid>
 			<dc:creator>Lior Barkan</dc:creator>
 			<pubDate>Tue, 24 Jan 2023 05:00:42 +0000</pubDate>
@@ -9845,45 +9865,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">91639b3c-b11b-11ec-b317-2f815a37c53a</guid>
       <enclosure url="https://pdst.fm/e/chrt.fm/track/28555/traffic.megaphone.fm/TPG8471043155.mp3?updated=1648750333" length="0" type="audio/mpeg"/>
-    </item><item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><title>Baroness Hale of Richmond, former judge.</title><description>ראיון נהדר עם ברנדה הייל, שופטת בריטית, שכיהנה כנשיאת בית המשפט העליון של הממלכה המאוחדת. על החיים ועל הדרך המקצועית שלה שכללה ניפוץ כמה וכמה תיקרות זכוכית. וכמובן איזו מוזיקה היא תיקח לאי בודד. &lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית &lt;br&gt;https://prnt.sc/l1VDowC7iIRq&lt;br&gt;&lt;br&gt; Desert island discs - Baroness Hale of Richmond, former judge.&lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/m00ld0ef&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Brenda Hale, Baroness Hale of Richmond, is a former judge who served as the first female president of the Supreme Court.   In 2019 she announced the court’s judgement that the prorogation of Parliament was ‘unlawful, void and of no effect’.  The twinkling spider brooch she wore that day caused a sensation and set social media aflame. She was the first woman and the youngest person to be appointed to the Law Commission and in 2004 became the UK’s first woman law lord.
-
-Lady Hale was born in Yorkshire and read law at the University of Cambridge where she graduated top of her class. She spent almost 20 years in academia and also practised as a barrister. Later at the Law commission she led the work on what became the 1989 Children Act. 
-
-Lady Hale retired as a judge in January 2020.
-
-DISC ONE:  Messiah - Part 1: O Thou That Tellest Good Tidings To Zion, composed by Georg Friedrich Händel, performed by Kathleen Ferrier and The London Philharmonic Orchestra, conducted by Sir Adrian Boult
-DISC TWO:  Love Me Do by The Beatles
-DISC THREE: Move Him Into The Sun. Composed and conducted by Benjamin Britten. Performed by Peter Pears (tenor) and Galina Vishnevskaya (soprano) with the Bach Choir and the London Symphony Orchestra 
-DISC FOUR: Part 1 Nos 4 &amp; 5: Gloria in excelsis Deo – Et in terra pax. Composed by Johann Sebastian Bach, performed by The Monteverdi Choir and The English Baroque Soloists and conducted by Sir John Eliot Gardiner 
-DISC FIVE: The Marriage of Figaro), K. 492 Sull'Aria. Composed by Wolfgang Amadeus Mozart, performed by sopranos Charlotte Margiono and Barbara Bonney, Netherlands Opera Chorus and the Concertgebouw Orchestra
-DISC SIX: Hand in Hand by Glória (Ireland’s Gay and Lesbian Choir)   
-DISC SEVEN: Parry: I Was Glad, composed by Hubert Parry, performed by Westminster Abbey Choir, Simon Preston (organ) and conducted by William McKinney
-DISC EIGHT:  Dies Irae. Composed by Giuseppe Verdi, performed by Swedish Radio Choir and the Eric Ericson Chamber Choir, with the Berlin Philharmonic, conducted by Claudio Abbado
-
-BOOK CHOICE:  A Desert Island survival manual 
-LUXURY ITEM: A solar-powered computer with sudoku puzzles and a writing application  
-CASTAWAY'S FAVOURITE: Part 1 Nos 4 &amp; 5: Gloria in excelsis Deo – Et in terra pax, composed by Johann Sebastian Bach, performed by The Monteverdi Choir and The English Baroque Soloists, conducted by Sir John Eliot Gardiner  
-
-Presenter Lauren Laverne
-Producer  Paula McGinley</description><itunes:subtitle>Baroness Hale of Richmond shares the soundtrack of her life with Lauren Laverne.</itunes:subtitle><itunes:summary>ראיון נהדר עם ברנדה הייל, שופטת בריטית, שכיהנה כנשיאת בית המשפט העליון של הממלכה המאוחדת. על החיים ועל הדרך המקצועית שלה שכללה ניפוץ כמה וכמה תיקרות זכוכית. וכמובן איזו מוזיקה היא תיקח לאי בודד. &lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית &lt;br&gt;https://prnt.sc/l1VDowC7iIRq&lt;br&gt;&lt;br&gt; Desert island discs - Baroness Hale of Richmond, former judge.&lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/m00ld0ef&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Brenda Hale, Baroness Hale of Richmond, is a former judge who served as the first female president of the Supreme Court.   In 2019 she announced the court’s judgement that the prorogation of Parliament was ‘unlawful, void and of no effect’.  The twinkling spider brooch she wore that day caused a sensation and set social media aflame. She was the first woman and the youngest person to be appointed to the Law Commission and in 2004 became the UK’s first woman law lord.
-
-Lady Hale was born in Yorkshire and read law at the University of Cambridge where she graduated top of her class. She spent almost 20 years in academia and also practised as a barrister. Later at the Law commission she led the work on what became the 1989 Children Act. 
-
-Lady Hale retired as a judge in January 2020.
-
-DISC ONE:  Messiah - Part 1: O Thou That Tellest Good Tidings To Zion, composed by Georg Friedrich Händel, performed by Kathleen Ferrier and The London Philharmonic Orchestra, conducted by Sir Adrian Boult
-DISC TWO:  Love Me Do by The Beatles
-DISC THREE: Move Him Into The Sun. Composed and conducted by Benjamin Britten. Performed by Peter Pears (tenor) and Galina Vishnevskaya (soprano) with the Bach Choir and the London Symphony Orchestra 
-DISC FOUR: Part 1 Nos 4 &amp; 5: Gloria in excelsis Deo – Et in terra pax. Composed by Johann Sebastian Bach, performed by The Monteverdi Choir and The English Baroque Soloists and conducted by Sir John Eliot Gardiner 
-DISC FIVE: The Marriage of Figaro), K. 492 Sull'Aria. Composed by Wolfgang Amadeus Mozart, performed by sopranos Charlotte Margiono and Barbara Bonney, Netherlands Opera Chorus and the Concertgebouw Orchestra
-DISC SIX: Hand in Hand by Glória (Ireland’s Gay and Lesbian Choir)   
-DISC SEVEN: Parry: I Was Glad, composed by Hubert Parry, performed by Westminster Abbey Choir, Simon Preston (organ) and conducted by William McKinney
-DISC EIGHT:  Dies Irae. Composed by Giuseppe Verdi, performed by Swedish Radio Choir and the Eric Ericson Chamber Choir, with the Berlin Philharmonic, conducted by Claudio Abbado
-
-BOOK CHOICE:  A Desert Island survival manual 
-LUXURY ITEM: A solar-powered computer with sudoku puzzles and a writing application  
-CASTAWAY'S FAVOURITE: Part 1 Nos 4 &amp; 5: Gloria in excelsis Deo – Et in terra pax, composed by Johann Sebastian Bach, performed by The Monteverdi Choir and The English Baroque Soloists, conducted by Sir John Eliot Gardiner  
-
-Presenter Lauren Laverne
-Producer  Paula McGinley</itunes:summary><pubDate>Thu, 21 Apr 2022 05:01:01 +0000</pubDate><itunes:duration>2286</itunes:duration><enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09w7fbw.mp3" length="36576000" type="audio/mpeg"/><ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09w7fbw.mp3" length="36576000" type="audio/mpeg"/><ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p09w7fbw.mp3" length="36576000" type="audio/mpeg"/><guid isPermaLink="false">urn:bbc:podcast:m000zt7b</guid><link>http://www.bbc.co.uk/programmes/m000zt7b</link><itunes:explicit>clean</itunes:explicit><media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p09w7fbw.mp3" fileSize="36576000" type="audio/mpeg" medium="audio" expression="full" duration="2286"/><itunes:author>BBC Radio 4</itunes:author><ppg:canonical>/programmes/m000zt7b</ppg:canonical></item></channel>
+    </item></channel>
 </rss>
