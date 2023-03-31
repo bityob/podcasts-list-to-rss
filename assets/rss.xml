@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 30 Mar 2023 06:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Mar 2023 06:39:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">abeac70e-6a83-49b7-96f2-d64da77ac908</guid>
@@ -34,16 +34,28 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:episodeType>full</itunes:episodeType>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>הביטלס במדים - חלק ב': תור הזהב של הלהקות הצבאיות</title>
-			<description>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בהשפעת להקות הרוק והפופ בארה"ב ובאירופה, הגיטרות החשמליות נכנסו גם אל תוך שירי הלהקות הצבאיות בסוף שנות השישים ושינו לחלוטין את הצלילים שהיו מקובלים עד אז.&lt;/p&gt;
+			<description>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בהשפעת להקות הרוק והפופ בארה&amp;quot;ב ובאירופה, הגיטרות החשמליות נכנסו גם אל תוך שירי הלהקות הצבאיות בסוף שנות השישים ושינו לחלוטין את הצלילים שהיו מקובלים עד אז.&lt;/p&gt;
 &lt;p&gt;האזינו לשיחה עם המוזיקאי, המלחין והזמר גיא מזיג שמסביר איך שירי הלהקות משפיעים עד היום על המוזיקה הישראלית ועל יצירתו שלו במיוחד, וגם על חשיבותו ותרומתו של יאיר רוזנבלום למהפכה המוזיקלית של שנות השישים והשבעים.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;עורכת ומגישה: ורד ליון ירושלמי&lt;/p&gt;
+&lt;p&gt;הפקה: רז חסון KeyPod&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
 </description>
-			<link>https://anchor.fm/hasafranim/episodes/--e1tck7t</link>
+			<link>https://podcasters.spotify.com/pod/show/hasafranim/episodes/--e1tck7t</link>
 			<guid isPermaLink="false">df5d1341-b038-49ec-9844-93a1f9b2f30a</guid>
 			<dc:creator>הספרייה הלאומית</dc:creator>
 			<pubDate>Thu, 30 Mar 2023 04:25:04 +0000</pubDate>
 			<enclosure url="https://anchor.fm/s/ab9d2f50/podcast/play/63377085/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-12%2F5fd2c252-56ae-c91c-4452-9defd82011aa.mp3" length="57398202" type="audio/mpeg"/>
-			<itunes:summary>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בהשפעת להקות הרוק והפופ בארה"ב ובאירופה, הגיטרות החשמליות נכנסו גם אל תוך שירי הלהקות הצבאיות בסוף שנות השישים ושינו לחלוטין את הצלילים שהיו מקובלים עד אז.&lt;/p&gt;
+			<itunes:summary>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בהשפעת להקות הרוק והפופ בארה&amp;quot;ב ובאירופה, הגיטרות החשמליות נכנסו גם אל תוך שירי הלהקות הצבאיות בסוף שנות השישים ושינו לחלוטין את הצלילים שהיו מקובלים עד אז.&lt;/p&gt;
 &lt;p&gt;האזינו לשיחה עם המוזיקאי, המלחין והזמר גיא מזיג שמסביר איך שירי הלהקות משפיעים עד היום על המוזיקה הישראלית ועל יצירתו שלו במיוחד, וגם על חשיבותו ותרומתו של יאיר רוזנבלום למהפכה המוזיקלית של שנות השישים והשבעים.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;עורכת ומגישה: ורד ליון ירושלמי&lt;/p&gt;
+&lt;p&gt;הפקה: רז חסון KeyPod&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:39:51</itunes:duration>
@@ -53,18 +65,30 @@ https://www.linkedin.com/in/yuliashnerer</description>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>הביטלס במדים - חלק א': תור הזהב של הלהקות הצבאיות</title>
-			<description>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הישגי מלחמת ששת הימים והערצה לצה"ל הביאה גם למאבקי אגו בין הגנרלים - למי תהיה להקה צבאית טובה יותר.&amp;nbsp;&lt;/p&gt;
+			<description>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הישגי מלחמת ששת הימים והערצה לצה&amp;quot;ל הביאה גם למאבקי אגו בין הגנרלים - למי תהיה להקה צבאית טובה יותר. &lt;/p&gt;
 &lt;p&gt;הם התחרו ביניהם על הכותבים והמלחינים וחלקם אף ניסו להשפיע על התכנים והטקסטים של השירים.&lt;/p&gt;
-&lt;p&gt;האזינו לסיפורן של הלהקות הצבאיות בתקופת 'תור הזהב' שלהן בין מלחמת ששת הימים למלחמת יום הכיפורים.&lt;/p&gt;
+&lt;p&gt;האזינו לסיפורן של הלהקות הצבאיות בתקופת &amp;#39;תור הזהב&amp;#39; שלהן בין מלחמת ששת הימים למלחמת יום הכיפורים.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;עורכת ומגישה: ורד ליון ירושלמי&lt;/p&gt;
+&lt;p&gt;הפקה: רז חסון KeyPod&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
 </description>
-			<link>https://anchor.fm/hasafranim/episodes/--e1ss3gc</link>
+			<link>https://podcasters.spotify.com/pod/show/hasafranim/episodes/--e1ss3gc</link>
 			<guid isPermaLink="false">d8a90de0-69ce-450d-9c6b-451d19aba56a</guid>
 			<dc:creator>הספרייה הלאומית</dc:creator>
 			<pubDate>Thu, 30 Mar 2023 04:25:04 +0000</pubDate>
 			<enclosure url="https://anchor.fm/s/ab9d2f50/podcast/play/62835660/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-29%2F4585f730-5f6d-bba0-5dc3-caf7d9c1a6e0.mp3" length="67875939" type="audio/mpeg"/>
-			<itunes:summary>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הישגי מלחמת ששת הימים והערצה לצה"ל הביאה גם למאבקי אגו בין הגנרלים - למי תהיה להקה צבאית טובה יותר.&amp;nbsp;&lt;/p&gt;
+			<itunes:summary>סדרה קצרה לסופ"ש - הלהקות הצבאיות בישראל. אחרי מלחמת ששת הימים הלהקות הצבאיות היו בשיאן ומפקדים רק חיפשו להאדיר את הלהקה שלהם. בשני הפרקים יש סקירה של עלייתן ואז היעלמותן וטייק מודרני על המוזיקה שלהן. &lt;br&gt;#מוזיקה #ישראל #הסטוריה #סדרה&lt;br&gt;&lt;br&gt;הספרנים - הביטלס במדים -  תור הזהב של הלהקות הצבאיות&lt;br&gt;&lt;br&gt;חלק א':&lt;br&gt;https://pca.st/b2atce98&lt;br&gt;חלק ב':&lt;br&gt;https://pca.st/vib5daxy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הישגי מלחמת ששת הימים והערצה לצה&amp;quot;ל הביאה גם למאבקי אגו בין הגנרלים - למי תהיה להקה צבאית טובה יותר. &lt;/p&gt;
 &lt;p&gt;הם התחרו ביניהם על הכותבים והמלחינים וחלקם אף ניסו להשפיע על התכנים והטקסטים של השירים.&lt;/p&gt;
-&lt;p&gt;האזינו לסיפורן של הלהקות הצבאיות בתקופת 'תור הזהב' שלהן בין מלחמת ששת הימים למלחמת יום הכיפורים.&lt;/p&gt;
+&lt;p&gt;האזינו לסיפורן של הלהקות הצבאיות בתקופת &amp;#39;תור הזהב&amp;#39; שלהן בין מלחמת ששת הימים למלחמת יום הכיפורים.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;עורכת ומגישה: ורד ליון ירושלמי&lt;/p&gt;
+&lt;p&gt;הפקה: רז חסון KeyPod&lt;/p&gt;
+&lt;p&gt;
+
+&lt;/p&gt;
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:47:08</itunes:duration>
@@ -8950,7 +8974,7 @@ https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/</itunes:subtitle><itu
 			<title>מסעות ותגליות על דרך המשי</title>
 			<description>סיפורם של הסוחרים היהודים לאורך דרך המשי ומה גילו במגילות של הגניזה האפגנית. מעולם לא שמעתי על הגניזה האפגנית אז היה מאוד מעניין לשמוע עליה ועל התקופה שבה היהודים חיו ושלטו על דרכי המסחר העיקריות.&lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;הספרנים - מסעות ותגליות על דרך המשי&lt;br&gt;משך: 33 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vou8hyzx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;חשבתם שמרקו פולו היה הראשון שתיעד את המסחר המשגשג על דרך המשי?&lt;/p&gt;&lt;p dir='rtl'&gt;אז לא. סוחרים יהודים פעלו ושלטו מאות שנים קודם לכן על דרכי המסחר בין המזרח והמערב. ובאחת מערי המסחר התגלתה אחת העדויות ההיסטוריות החשובות ביותר מאז ומעולם - הגניזה האפגנית.&lt;/p&gt;&lt;p dir='rtl'&gt;האזינו לסיפורם המרתק של היהודים שעקבותיהם נעלמו בפלישה המונוגלית והתגלו רק לאחרונה.&lt;/p&gt;
 </description>
-			<link>https://anchor.fm/hasafranim/episodes/ep-e1loe5m</link>
+			<link>https://podcasters.spotify.com/pod/show/hasafranim/episodes/ep-e1loe5m</link>
 			<guid isPermaLink="false">Buzzsprout-10388348</guid>
 			<dc:creator>הספרייה הלאומית</dc:creator>
 			<pubDate>Tue, 17 May 2022 04:01:01 +0000</pubDate>
