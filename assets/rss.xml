@@ -10,9 +10,46 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 01 Apr 2023 06:36:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Apr 2023 06:36:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>1990 | מארינה מקסימיליאן</title>
+      <itunes:title>1990 | מארינה מקסימיליאן</itunes:title>
+      <description>סיפורו של שיר וסיפורה של משפחה שעלתה מאוקראינה יחד עם פסנתר. &lt;br&gt;מארינה מקסימיליאן ואמא שלה מספרות על העליה לארץ, על התפתחות היצירה של מרינה ועל איך היא מצאה את המילים האחרונות שהתאימו בול לשיר 1990 &lt;br&gt;#מוזיקה #ישראל&lt;br&gt;&lt;br&gt;שיר אחד - 1990 | מארינה מקסימיליאן&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1or7ad5f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;זו השנה שבה המשפחה של מארינה מקסימיליאן הגיעה מאוקראינה לישראל והשיר הזה הוא מבט של אמא ובת על הגירה ועל הניסיון למצוא שפה ובית. מאחוריו יש גם סיפור על זמרת שאיבדה את הקול שלה ובדרך לגלות אותו מחדש מצאה אהבה&lt;/p&gt;
+&lt;p dir="rtl"&gt;מגישה ועורכת: מאיה קוסובר, עורך: ניר גורלי, עיצוב סאונד ומיקס: אסף רפפורט ומור סיון, סייעו בהפקה: עמרי קפלן אניה קלזון, תומר פישר ונעם פלג, צילום: דניאל קמינסקי &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>סיפורו של שיר וסיפורה של משפחה שעלתה מאוקראינה יחד עם פסנתר. &lt;br&gt;מארינה מקסימיליאן ואמא שלה מספרות על העליה לארץ, על התפתחות היצירה של מרינה ועל איך היא מצאה את המילים האחרונות שהתאימו בול לשיר 1990 &lt;br&gt;#מוזיקה #ישראל&lt;br&gt;&lt;br&gt;שיר אחד - 1990 | מארינה מקסימיליאן&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1or7ad5f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;זו השנה שבה המשפחה של מארינה מקסימיליאן הגיעה מאוקראינה לישראל והשיר הזה הוא מבט של אמא ובת על הגירה ועל הניסיון למצוא שפה ובית. מאחוריו יש גם סיפור על זמרת שאיבדה את הקול שלה ובדרך לגלות אותו מחדש מצאה אהבה&lt;/p&gt;
+&lt;p dir="rtl"&gt;מגישה ועורכת: מאיה קוסובר, עורך: ניר גורלי, עיצוב סאונד ומיקס: אסף רפפורט ומור סיון, סייעו בהפקה: עמרי קפלן אניה קלזון, תומר פישר ונעם פלג, צילום: דניאל קמינסקי &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b888cc1f-ae4d-4841-8f76-af990154d28b/image.jpg?t=1675024998&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b888cc1f-ae4d-4841-8f76-af990154d28b/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/one-song/1990/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b888cc1f-ae4d-4841-8f76-af990154d28b/image.jpg?t=1675024998&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">b888cc1f-ae4d-4841-8f76-af990154d28b</guid>
+      <omny:clipId>b888cc1f-ae4d-4841-8f76-af990154d28b</omny:clipId>
+      <pubDate>Sun, 02 Apr 2023 04:31:04 +0000</pubDate>
+      <itunes:duration>2075</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/b888cc1f-ae4d-4841-8f76-af990154d28b/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="33220666" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/one-song/1990</link>
+    </item><item xmlns:npr="https://www.npr.org/rss/" xmlns:nprml="https://api.npr.org/nprml" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Meow Money Meow Problems</title>
+      <description>מה קורה כשגברת שאוהבת חתולים מתה? ניחשתם נכון, היא מורישה את כל הכסף שלה לחתולים. ובנקודה הזאת בדיוק מתחיל הפרק. איך בעצם עובדת הירושה הזאת, מי מממש את הרצון האחרון של המנוחה ומה הדרך הכי טובה להעביר את הכסף לטובת החתולים. &lt;br&gt;#כלכלה #אנגלית&lt;br&gt;https://prnt.sc/3SSt25VLDKnq&lt;br&gt;&lt;br&gt;Planet money - Meow Money Meow Problems&lt;br&gt;משך: 28 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s12n7mg2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;More than 20 years ago, something unusual happened in the small town of Dixfield, Maine. A lady named Barbara Thorpe had left almost all of her money—$200,000—to benefit the cats of her hometown. When Barbara died in 2002, those cats suddenly got very, very rich. And that is when all the trouble began.&lt;br/&gt;&lt;br/&gt;Barbara's gift set off a sprawling legal battle that drew in a crew of crusading cat ladies, and eventually, the town of Dixfield itself. It made national news. But after all these years, no one seemed to know where that money had ended up. Did the Dixfield cat fortune just...vanish?&lt;br/&gt;&lt;br/&gt;In this episode, host Jeff Guo travels to Maine to track down the money. To figure out how Barbara's plans went awry. And to understand something about this strange form of economic immortality called a charitable trust.&lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was produced by Willa Rubin with help from Dave Blanchard. It was engineered by Josh Newell. Sally Helm edited the show and Sierra Juarez checked the facts. Jess Jiang is Planet Money's acting Executive Producer.&lt;br/&gt;&lt;br/&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ in &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;</description>
+      <pubDate>Sun, 02 Apr 2023 04:31:01 +0000</pubDate>
+      <copyright>Copyright 2015-2021 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">9ae4c868-596b-4a70-a406-2bad97df4aba</guid>
+      <link>https://www.npr.org/2023/02/22/1158865140/stray-cats-dixfield-maine-trust-inheritance-will</link>
+      <itunes:title>Meow Money Meow Problems</itunes:title>
+      <itunes:episode>1618</itunes:episode>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>מה קורה כשגברת שאוהבת חתולים מתה? ניחשתם נכון, היא מורישה את כל הכסף שלה לחתולים. ובנקודה הזאת בדיוק מתחיל הפרק. איך בעצם עובדת הירושה הזאת, מי מממש את הרצון האחרון של המנוחה ומה הדרך הכי טובה להעביר את הכסף לטובת החתולים. &lt;br&gt;#כלכלה #אנגלית&lt;br&gt;https://prnt.sc/3SSt25VLDKnq&lt;br&gt;&lt;br&gt;Planet money - Meow Money Meow Problems&lt;br&gt;משך: 28 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s12n7mg2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;More than 20 years ago, something unusual happened in the small town of Dixfield, Maine. A lady named Barbara Thorpe had left almost all of her money—$200,000—to benefit the cats of her hometown. When Barbara died in 2002, those cats suddenly got very, very rich. And that is when all the trouble began.&lt;br/&gt;&lt;br/&gt;Barbara's gift set off a sprawling legal battle that drew in a crew of crusading cat ladies, and eventually, the town of Dixfield itself. It made national news. But after all these years, no one seemed to know where that money had ended up. Did the Dixfield cat fortune just...vanish?&lt;br/&gt;&lt;br/&gt;In this episode, host Jeff Guo travels to Maine to track down the money. To figure out how Barbara's plans went awry. And to understand something about this strange form of economic immortality called a charitable trust.&lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was produced by Willa Rubin with help from Dave Blanchard. It was engineered by Josh Newell. Sally Helm edited the show and Sierra Juarez checked the facts. Jess Jiang is Planet Money's acting Executive Producer.&lt;br/&gt;&lt;br/&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ in &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;</itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2023/02/24/brenda-jarvis-cat-feline-dixfield-maine-will-fortune-inheritance-trust_wide-bc553ac34b6e197ff162faa7f8877dea99cc9e75.jpeg?s=1400"/>
+      <itunes:duration>1671</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>מה קורה כשגברת שאוהבת חתולים מתה? ניחשתם נכון, היא מורישה את כל הכסף שלה לחתולים. ובנקודה הזאת בדיוק מתחיל הפרק. איך בעצם עובדת הירושה הזאת, מי מממש את הרצון האחרון של המנוחה ומה הדרך הכי טובה להעביר את הכסף לטובת החתולים. &lt;br&gt;#כלכלה #אנגלית&lt;br&gt;https://prnt.sc/3SSt25VLDKnq&lt;br&gt;&lt;br&gt;Planet money - Meow Money Meow Problems&lt;br&gt;משך: 28 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s12n7mg2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;More than 20 years ago, something unusual happened in the small town of Dixfield, Maine. A lady named Barbara Thorpe had left almost all of her money—$200,000—to benefit the cats of her hometown. When Barbara died in 2002, those cats suddenly got very, very rich. And that is when all the trouble began.&lt;br/&gt;&lt;br/&gt;Barbara's gift set off a sprawling legal battle that drew in a crew of crusading cat ladies, and eventually, the town of Dixfield itself. It made national news. But after all these years, no one seemed to know where that money had ended up. Did the Dixfield cat fortune just...vanish?&lt;br/&gt;&lt;br/&gt;In this episode, host Jeff Guo travels to Maine to track down the money. To figure out how Barbara's plans went awry. And to understand something about this strange form of economic immortality called a charitable trust.&lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was produced by Willa Rubin with help from Dave Blanchard. It was engineered by Josh Newell. Sally Helm edited the show and Sierra Juarez checked the facts. Jess Jiang is Planet Money's acting Executive Producer.&lt;br/&gt;&lt;br/&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ in &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;</content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2023/02/20230224_pmoney_33adb65c-c120-449a-8c13-9f9ff697e392.mp3?awCollectionId=510289&amp;awEpisodeId=1158865140&amp;orgId=1&amp;topicId=1018&amp;aggIds=94427042&amp;d=1671&amp;p=510289&amp;story=1158865140&amp;t=podcast&amp;e=1158865140&amp;size=26736894&amp;ft=pod&amp;f=510289" length="26736894" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
       <guid isPermaLink="false">abeac70e-6a83-49b7-96f2-d64da77ac908</guid>
       <title>526- Orange Alternative</title>
       <description>סיפור על מחאה כשזה מסוכן מדיי למחות בגלוי. לא, לא מדובר באזרחי רוסיה שרוצים למחות נגד המשטר ולא יכולים. אלא באירועים שקרו לפני כ40 שנה לקראת סופה של ברית המועצות כשאזרחי פולין ניסו למחות נגד המשטר ששלט במדינה שלהם אבל גם להם זה היה מסוכן מדיי. או אז תפס תאוצה הגמד הכתום שייצג את אזרחי פולין ושבשמו הם יכלו לצאת לרחובות ולמחות בפומבי.  מצד אחד זכויות הגמדים זה דיי נלעג ומצד שני התנגדות למשטר שמבוצעת בפומבי זה מאוד אמיץ. &lt;br&gt;#הסטוריה #אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;https://prnt.sc/ZK5VNs7bw1_1&lt;br&gt;&lt;br&gt;99% Invisible - 526- Orange Alternative&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;https://pca.st/2so3wsvf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the 1980s a Polish anti-communist group called the Orange Alternative used cute images of a mythical creature with a tiny pointed hat to spread its anti-authoritarian message. That innocent symbol of an impish dwarf amplified a powerful political message to the world, which ultimately contributed to the fall of the Soviet Union. This approach is being used in creative and clever ways today by people protesting Russia's invasion of Ukraine. &lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=39851&amp;post_type=episode"&gt;Orange Alternative&lt;/a&gt;&lt;/p&gt;
@@ -9664,137 +9701,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/90500138-9f9b-4703-9016-a92f009305bd/c05b0939-2c0e-43b6-8f59-a92f00999d36/audio.mp3?utm_source=Podcast&amp;in_playlist=2798d8d4-3347-40f6-b519-a92f009305bd&amp;t=1533115539" length="14472742" type="audio/mpeg"/>
       <link>https://omny.fm/shows/valueadded/c05b0939-2c0e-43b6-8f59-a92f00999d36</link>
       <itunes:order>15</itunes:order>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>פרק #482 - מאיר פנסטר ועולם הפטנטים</title>
-        <itunes:title>פרק #482 - מאיר פנסטר ועולם הפטנטים</itunes:title>
-        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7482%d7%9e%d7%90%d7%99%d7%a8%d7%a4%d7%a0%d7%a1%d7%98%d7%a8-%d7%95%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%a4%d7%98%d7%a0%d7%98%d7%99%d7%9d/</link>
-                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7482%d7%9e%d7%90%d7%99%d7%a8%d7%a4%d7%a0%d7%a1%d7%98%d7%a8-%d7%95%d7%a2%d7%95%d7%9c%d7%9d-%d7%94%d7%a4%d7%98%d7%a0%d7%98%d7%99%d7%9d/#comments</comments>        <pubDate>Tue, 26 Apr 2022 05:01:43 +0000</pubDate>
-        <guid isPermaLink="false">geekonomy.podbean.com/d97442ad-24ea-3898-baab-7006ef85f1e7</guid>
-                      <description>ראיון עם מאיר פנסטר שעומד בראש משרד פטנטים מהמובילים בישראל. בשיחה מגלים המון על פטנטים, על הגישות השונות במדינות בעולם ועל המשמעות של ניהול פטנט בימינו. שיחה מאוד מעניינת על שמירה על קניין רוחני בעולם ענקיות הטק. &lt;br&gt;#ראיוןמעניין #טכנולוגיה #משפט &lt;br&gt;&lt;br&gt;גיקונומי - פרק #482 - מאיר פנסטר ועולם הפטנטים&lt;br&gt;משך: שעה ו8 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zmt6gyda&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;מאיר פנסטר עומד בראש פעילות משרדי עורכי הפטנטנים ״ארליך ופנסטר״. הם מתמקדים בנושאי מכשור רפואי, מערכות אלקטרוניות, חברות אינטרנט ועוד. בשנת 1989 סיים תואר במתמטיקה ופיזיקה באונ׳ ירושלים במסגרת תכנית תלפיות ובשנת 1994 סיים את התואר שלו במדעי המחשב. מאז 2006 הוא מהמובילים של ״ארליך ופנסטר״, שנחשבת למשרד עורכי הפטנטים מהמובילים בישראל.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-מעליות, גורדי שחקים, פטנטים, ונציה, זכוכית, טבע, ארצות הברית, סין, החשיבות של הגשת פטנטים ושמירה על קניין רוחני
-
- 
-
-&lt;a href='https://www.ipatent.co.il/'&gt;האתר של ארליך ופנסטר&lt;/a&gt;</description>
-                      <content:encoded>ראיון עם מאיר פנסטר שעומד בראש משרד פטנטים מהמובילים בישראל. בשיחה מגלים המון על פטנטים, על הגישות השונות במדינות בעולם ועל המשמעות של ניהול פטנט בימינו. שיחה מאוד מעניינת על שמירה על קניין רוחני בעולם ענקיות הטק. &lt;br&gt;#ראיוןמעניין #טכנולוגיה #משפט &lt;br&gt;&lt;br&gt;גיקונומי - פרק #482 - מאיר פנסטר ועולם הפטנטים&lt;br&gt;משך: שעה ו8 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zmt6gyda&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;מאיר פנסטר עומד בראש פעילות משרדי עורכי הפטנטנים ״ארליך ופנסטר״. הם מתמקדים בנושאי מכשור רפואי, מערכות אלקטרוניות, חברות אינטרנט ועוד. בשנת 1989 סיים תואר במתמטיקה ופיזיקה באונ׳ ירושלים במסגרת תכנית תלפיות ובשנת 1994 סיים את התואר שלו במדעי המחשב. מאז 2006 הוא מהמובילים של ״ארליך ופנסטר״, שנחשבת למשרד עורכי הפטנטים מהמובילים בישראל.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-מעליות, גורדי שחקים, פטנטים, ונציה, זכוכית, טבע, ארצות הברית, סין, החשיבות של הגשת פטנטים ושמירה על קניין רוחני
-
- 
-
-&lt;a href='https://www.ipatent.co.il/'&gt;האתר של ארליך ופנסטר&lt;/a&gt;</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/yxgdw2/geekonomy482.mp3" length="65473690" type="audio/mpeg"/>
-        <itunes:subtitle>מאיר פנסטר עומד בראש פעילות משרדי עורכי הפטנטנים ״ארליך ופנסטר״. הם מתמקדים בנושאי מכשור רפואי, מערכות אלקטרוניות, חברות אינטרנט ועוד. בשנת 1989 סיים תואר במתמטיקה ופיזיקה באונ׳ ירושלים במסגרת תכנית תלפיות ובשנת 1994 סיים את התואר שלו במדעי המחשב. מא...</itunes:subtitle>
-        <itunes:summary>ראיון עם מאיר פנסטר שעומד בראש משרד פטנטים מהמובילים בישראל. בשיחה מגלים המון על פטנטים, על הגישות השונות במדינות בעולם ועל המשמעות של ניהול פטנט בימינו. שיחה מאוד מעניינת על שמירה על קניין רוחני בעולם ענקיות הטק. &lt;br&gt;#ראיוןמעניין #טכנולוגיה #משפט &lt;br&gt;&lt;br&gt;גיקונומי - פרק #482 - מאיר פנסטר ועולם הפטנטים&lt;br&gt;משך: שעה ו8 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zmt6gyda&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;מאיר פנסטר עומד בראש פעילות משרדי עורכי הפטנטנים ״ארליך ופנסטר״. הם מתמקדים בנושאי מכשור רפואי, מערכות אלקטרוניות, חברות אינטרנט ועוד. בשנת 1989 סיים תואר במתמטיקה ופיזיקה באונ׳ ירושלים במסגרת תכנית תלפיות ובשנת 1994 סיים את התואר שלו במדעי המחשב. מאז 2006 הוא מהמובילים של ״ארליך ופנסטר״, שנחשבת למשרד עורכי הפטנטים מהמובילים בישראל.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-מעליות, גורדי שחקים, פטנטים, ונציה, זכוכית, טבע, ארצות הברית, סין, החשיבות של הגשת פטנטים ושמירה על קניין רוחני
-
- 
-
-&lt;a href='https://www.ipatent.co.il/'&gt;האתר של ארליך ופנסטר&lt;/a&gt;</itunes:summary>
-        <itunes:author>ראם שרמן</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>01:08:11</itunes:duration>
-                <itunes:episode>488</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2021-11-09_at_1258066s5bu.jpeg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>John Carreyrou’s final chapter on the Theranos scandal</title>
-      <description>שיחה מאוד מעניינת עם John Carreyrou , הכתב שפוצץ את פרשת תראנוס ואליזבת הולמס. בשיחה הם עוברים על כל הסיפור מההתחלה כולל המאחורי הקלעים של מה עבר עליו כעיתונאי שבהתחלה ניסו להשתיק אותו. ועכשיו הוא כבר מושקע בסיפור 5-6 שנים עם משפט, פודקאסט וספר. אם הפרשה עניינה אתכם בזמנו, אז כדאי מאוד להקשיב למי שהיה בלב העניינים.&lt;br&gt;#אנגלית #סיפורמעניין #טכנולוגיה&lt;br&gt;https://prnt.sc/TXt_N4NlXEtc&lt;br&gt;&lt;br&gt;Decoder - John Carreyrou’s final chapter on the Theranos scandal&lt;br&gt;משך: 58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mbmbo49&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Nilay Patel talks to John Carreyrou about his reporting on Theranos from his Wall Street Journal articles that broke the scandal in 2015 to his podcast covering the trial of Elizabeth Holmes today.
-
-Links:
-Bad Blood: The Final Chapter https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174
-
-Theranos’ greatest invention was Elizabeth Holmes https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth
-
-Elizabeth Holmes is on trial for fraud over her time at Theranos https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos
-
-Apple Podcasts launches in-app subscriptions https://www.theverge.com/2021/4/20/22381980/apple-podcasts-app-subscriptions-new-design
-
-Hot startup Theranos has struggled with its blood-test technology https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901
-
-*Tesla’s Autopilot was engaged when Model 3 crashed into truck, report states https://www.theverge.com/2019/5/16/18627766/tesla-autopilot-fatal-crash-delray-florida-ntsb-model-3
- 
-Uber halts self-driving tests after pedestrian killed in Arizona https://www.theverge.com/2018/3/19/17139518/uber-self-driving-car-fatal-crash-tempe-arizona
- 
-Elizabeth Holmes “was in charge” of Theranos, says Gen. Mattis https://www.theverge.com/2021/9/22/22689083/elizabeth-holmes-trial-james-mattis-testimony-theranos-fraud
- 
-Theranos reaches settlement with investor Partner Fund Management https://techcrunch.com/2017/05/01/theranos-reaches-settlement-with-investor-partner-fund-management/
- 
-Transcript:
-https://www.theverge.com/e/22461304
-
-Decoder is a production of The Verge, and part of the Vox Media Podcast Network. Today’s episode was produced by Creighton DeSimone, Alexander Charles Adams, and Andrew Marino. And we are edited by Callie Wright. Our music is by Breakmaster Cylinder. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
-      <pubDate>Tue, 26 Apr 2022 05:00:56 +0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>The Verge</itunes:author>
-      <itunes:subtitle>Nilay Patel talks to John Carreyrou about Theranos </itunes:subtitle>
-      <itunes:summary>שיחה מאוד מעניינת עם John Carreyrou , הכתב שפוצץ את פרשת תראנוס ואליזבת הולמס. בשיחה הם עוברים על כל הסיפור מההתחלה כולל המאחורי הקלעים של מה עבר עליו כעיתונאי שבהתחלה ניסו להשתיק אותו. ועכשיו הוא כבר מושקע בסיפור 5-6 שנים עם משפט, פודקאסט וספר. אם הפרשה עניינה אתכם בזמנו, אז כדאי מאוד להקשיב למי שהיה בלב העניינים.&lt;br&gt;#אנגלית #סיפורמעניין #טכנולוגיה&lt;br&gt;https://prnt.sc/TXt_N4NlXEtc&lt;br&gt;&lt;br&gt;Decoder - John Carreyrou’s final chapter on the Theranos scandal&lt;br&gt;משך: 58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mbmbo49&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Nilay Patel talks to John Carreyrou about his reporting on Theranos from his Wall Street Journal articles that broke the scandal in 2015 to his podcast covering the trial of Elizabeth Holmes today.
-
-Links:
-Bad Blood: The Final Chapter https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174
-
-Theranos’ greatest invention was Elizabeth Holmes https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth
-
-Elizabeth Holmes is on trial for fraud over her time at Theranos https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos
-
-Apple Podcasts launches in-app subscriptions https://www.theverge.com/2021/4/20/22381980/apple-podcasts-app-subscriptions-new-design
-
-Hot startup Theranos has struggled with its blood-test technology https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901
-
-*Tesla’s Autopilot was engaged when Model 3 crashed into truck, report states https://www.theverge.com/2019/5/16/18627766/tesla-autopilot-fatal-crash-delray-florida-ntsb-model-3
- 
-Uber halts self-driving tests after pedestrian killed in Arizona https://www.theverge.com/2018/3/19/17139518/uber-self-driving-car-fatal-crash-tempe-arizona
- 
-Elizabeth Holmes “was in charge” of Theranos, says Gen. Mattis https://www.theverge.com/2021/9/22/22689083/elizabeth-holmes-trial-james-mattis-testimony-theranos-fraud
- 
-Theranos reaches settlement with investor Partner Fund Management https://techcrunch.com/2017/05/01/theranos-reaches-settlement-with-investor-partner-fund-management/
- 
-Transcript:
-https://www.theverge.com/e/22461304
-
-Decoder is a production of The Verge, and part of the Vox Media Podcast Network. Today’s episode was produced by Creighton DeSimone, Alexander Charles Adams, and Andrew Marino. And we are edited by Callie Wright. Our music is by Breakmaster Cylinder. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
-      <content:encoded>שיחה מאוד מעניינת עם John Carreyrou , הכתב שפוצץ את פרשת תראנוס ואליזבת הולמס. בשיחה הם עוברים על כל הסיפור מההתחלה כולל המאחורי הקלעים של מה עבר עליו כעיתונאי שבהתחלה ניסו להשתיק אותו. ועכשיו הוא כבר מושקע בסיפור 5-6 שנים עם משפט, פודקאסט וספר. אם הפרשה עניינה אתכם בזמנו, אז כדאי מאוד להקשיב למי שהיה בלב העניינים.&lt;br&gt;#אנגלית #סיפורמעניין #טכנולוגיה&lt;br&gt;https://prnt.sc/TXt_N4NlXEtc&lt;br&gt;&lt;br&gt;Decoder - John Carreyrou’s final chapter on the Theranos scandal&lt;br&gt;משך: 58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4mbmbo49&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Nilay Patel talks to John Carreyrou about his reporting on Theranos from his Wall Street Journal articles that broke the scandal in 2015 to his podcast covering the trial of Elizabeth Holmes today.
-
-Links:
-Bad Blood: The Final Chapter https://podcasts.apple.com/us/podcast/bad-blood-the-final-chapter/id1575738174
-
-Theranos’ greatest invention was Elizabeth Holmes https://www.theverge.com/22656190/theranos-elizabeth-holmes-wire-fraud-trial-founder-myth
-
-Elizabeth Holmes is on trial for fraud over her time at Theranos https://www.theverge.com/22684354/elizabeth-holmes-trial-wire-fraud-theranos
-
-Apple Podcasts launches in-app subscriptions https://www.theverge.com/2021/4/20/22381980/apple-podcasts-app-subscriptions-new-design
-
-Hot startup Theranos has struggled with its blood-test technology https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901
-
-*Tesla’s Autopilot was engaged when Model 3 crashed into truck, report states https://www.theverge.com/2019/5/16/18627766/tesla-autopilot-fatal-crash-delray-florida-ntsb-model-3
- 
-Uber halts self-driving tests after pedestrian killed in Arizona https://www.theverge.com/2018/3/19/17139518/uber-self-driving-car-fatal-crash-tempe-arizona
- 
-Elizabeth Holmes “was in charge” of Theranos, says Gen. Mattis https://www.theverge.com/2021/9/22/22689083/elizabeth-holmes-trial-james-mattis-testimony-theranos-fraud
- 
-Theranos reaches settlement with investor Partner Fund Management https://techcrunch.com/2017/05/01/theranos-reaches-settlement-with-investor-partner-fund-management/
- 
-Transcript:
-https://www.theverge.com/e/22461304
-
-Decoder is a production of The Verge, and part of the Vox Media Podcast Network. Today’s episode was produced by Creighton DeSimone, Alexander Charles Adams, and Andrew Marino. And we are edited by Callie Wright. Our music is by Breakmaster Cylinder. 
-Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
-      <itunes:duration>3730</itunes:duration>
-      <guid isPermaLink="false">7c00db6c-60de-11eb-92cb-274d939522bb</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP8256154461.mp3?updated=1632805672" length="0" type="audio/mpeg"/>
     </item></channel>
 </rss>
