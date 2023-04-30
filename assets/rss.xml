@@ -10,9 +10,69 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 29 Apr 2023 06:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 06:36:47 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>האזנה מודרכת - Oasis - Don't Look Back In Anger</title>
+      <itunes:title>האזנה מודרכת - Oasis - Don't Look Back In Anger</itunes:title>
+      <description>הקרב על הפופ הבריטי ובדרך גם הסיפור של האחים אואזיס. ואיך נוצר השיר Don't Look Back In Anger שהוא כמעט הימנון בחלקים מסויימים של בריטניה. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;האזנה מודרכת - האזנה מודרכת - Oasis - Don't Look Back In Anger&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/86j80k1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הסיפור מאחורי אחד הלהיטים הגדולים של אואזיס וגם מאחורי הקרב על הבריטפופ.&lt;br&gt;איך הקלטה סודית ונדירה של לנון הולידה את אחד הלהיטים הגדולים של שנות ה-90.&lt;/p&gt;</description>
+      <content:encoded>הקרב על הפופ הבריטי ובדרך גם הסיפור של האחים אואזיס. ואיך נוצר השיר Don't Look Back In Anger שהוא כמעט הימנון בחלקים מסויימים של בריטניה. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;האזנה מודרכת - האזנה מודרכת - Oasis - Don't Look Back In Anger&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/86j80k1e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הסיפור מאחורי אחד הלהיטים הגדולים של אואזיס וגם מאחורי הקרב על הבריטפופ.&lt;br&gt;איך הקלטה סודית ונדירה של לנון הולידה את אחד הלהיטים הגדולים של שנות ה-90.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>גלגלצ</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/0ecaa62d-9dda-4253-a63b-afb300ac347a/image.jpg?t=1677234451&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/0ecaa62d-9dda-4253-a63b-afb300ac347a/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/haazanamudrechet/oasis-dont-look-back-in-anger/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/0ecaa62d-9dda-4253-a63b-afb300ac347a/image.jpg?t=1677234451&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">0ecaa62d-9dda-4253-a63b-afb300ac347a</guid>
+      <omny:clipId>0ecaa62d-9dda-4253-a63b-afb300ac347a</omny:clipId>
+      <pubDate>Sun, 30 Apr 2023 03:39:59 +0000</pubDate>
+      <itunes:duration>1613</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/0ecaa62d-9dda-4253-a63b-afb300ac347a/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" length="25851853" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/haazanamudrechet/oasis-dont-look-back-in-anger</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>Is This Painting a Masterpiece? AI Is On the Case</title>
+      <description>סיפורה של יצירת אומנות שכבר עשרות שנים מנסים להחליט האם היא אחת היצירות האבודות של רפאל או לא. בשלב הנוכחי הטוענים שזה רפאל החליטו לשלב בטיעון גם AI. מערכת שמסוגלת להגיד ברמה גבוהה של וודאות האם יצירת האומנות נעשתה ע"י המאסטר, התלמידים שלו או מישהו אחר. &lt;br&gt;#אומנות #טכנולוגיה #אנגלית&lt;br&gt;https://prnt.sc/I4W0YddCDJhJ&lt;br&gt;&lt;br&gt;The journal - Is This Painting a Masterpiece? AI Is On the Case&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1nqfs34a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Almost 30 years ago, Anthony Ayers spotted a dusty, wood-panel painting tucked behind an armoire in an antique shop. Over the decades, he and the group of people that helped him buy it have been on a quest to prove it was painted by Renaissance artist Raphael. WSJ’s Kelly Crow  reports on a possible break in the case and the technology that brought it about.
+
+
+
+Further Reading:
+
+- Is This Painting a Raphael or Not? A Fortune Rides on the Answer 
+
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Sun, 30 Apr 2023 03:39:59 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Wall Street Journal &amp; Gimlet</itunes:author>
+      <itunes:subtitle/>
+      <itunes:summary>סיפורה של יצירת אומנות שכבר עשרות שנים מנסים להחליט האם היא אחת היצירות האבודות של רפאל או לא. בשלב הנוכחי הטוענים שזה רפאל החליטו לשלב בטיעון גם AI. מערכת שמסוגלת להגיד ברמה גבוהה של וודאות האם יצירת האומנות נעשתה ע"י המאסטר, התלמידים שלו או מישהו אחר. &lt;br&gt;#אומנות #טכנולוגיה #אנגלית&lt;br&gt;https://prnt.sc/I4W0YddCDJhJ&lt;br&gt;&lt;br&gt;The journal - Is This Painting a Masterpiece? AI Is On the Case&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1nqfs34a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Almost 30 years ago, Anthony Ayers spotted a dusty, wood-panel painting tucked behind an armoire in an antique shop. Over the decades, he and the group of people that helped him buy it have been on a quest to prove it was painted by Renaissance artist Raphael. WSJ’s Kelly Crow  reports on a possible break in the case and the technology that brought it about.
+
+
+
+Further Reading:
+
+- Is This Painting a Raphael or Not? A Fortune Rides on the Answer 
+
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>סיפורה של יצירת אומנות שכבר עשרות שנים מנסים להחליט האם היא אחת היצירות האבודות של רפאל או לא. בשלב הנוכחי הטוענים שזה רפאל החליטו לשלב בטיעון גם AI. מערכת שמסוגלת להגיד ברמה גבוהה של וודאות האם יצירת האומנות נעשתה ע"י המאסטר, התלמידים שלו או מישהו אחר. &lt;br&gt;#אומנות #טכנולוגיה #אנגלית&lt;br&gt;https://prnt.sc/I4W0YddCDJhJ&lt;br&gt;&lt;br&gt;The journal - Is This Painting a Masterpiece? AI Is On the Case&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1nqfs34a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Almost 30 years ago, Anthony Ayers spotted a dusty, wood-panel painting tucked behind an armoire in an antique shop. Over the decades, he and the group of people that helped him buy it have been on a quest to prove it was painted by Renaissance artist Raphael. WSJ’s Kelly Crow  reports on a possible break in the case and the technology that brought it about.
+
+
+
+Further Reading:
+
+- Is This Painting a Raphael or Not? A Fortune Rides on the Answer 
+
+
+
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>1243</itunes:duration>
+      <guid isPermaLink="false">69993e6e-6c86-11ed-8c1b-dbe83814f707</guid>
+      <enclosure url="https://pdst.fm/e/chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ7661308857.mp3?updated=1677101114" length="0" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>S1 E23. Woman and Fairy Tales &amp; Greek Myths: Karrie F &amp; Jonathon P, Gender Swapped Fairy Tales / Greek Myths</title>
       <description>תחשבו על ניסוי: קחו את סיפורי האגדות שאתם מכירים ותחליפו את המין של כל הדמויות בסיפור. ועכשיו תקשיבו לפרק שמתאר זוג יוצרים שעשו בדיוק את זה בעזרת טכנולוגיה. הם כתבו קוד שרץ ומחליף בכל מקום את המין של הדמות. ככה בלי לנסות לעשות אפליה מתקנת/לתת למי מהמינים תפקיד שונה, פשוט טכנית להחליף כל מקום שהוא רואה במין השני. שלא במפתיע זה הביא לתוצאות מאוד מעניינות. &lt;br&gt;#אנגלית #שיוויון #סיפורמעניין &lt;br&gt;&lt;br&gt;The story of woman - S1 E23. Woman and Fairy Tales &amp; Greek Myths: Karrie F &amp; Jonathon P, Gender Swapped Fairy Tales / Greek Myths&lt;br&gt;משך: שעה ו4 דק' &lt;br&gt;&lt;br&gt;https://pca.st/xpo0plcf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In this episode of The Story of Woman, I chat to not one but TWO amazing authors, Karrie Fransman and Jonathon Plackett about their books, Gender Swapped Fairy Tales and Gender Swapped Greek Myths. 
 Fairytales and Greek Myths have been told and re-told for thousands of years, but never like this. Taking these well-known stories that form the archetypes we still see today, Karrie and Jonathon make one vital change - they swapped all the genders. This simple change created characters and stories never seen before, and shine a light on the gender binaries in language, the roles we adopt and the stories we've been telling our children for generations.
@@ -169,7 +229,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2792</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a54bbe6f-a668-4ba7-a8e1-af96012362da/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44725479" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-cef7fa11-671f-423e-a001-9093300a4b2f</link>
-      <itunes:order>28</itunes:order>
+      <itunes:order>32</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 3</title>
       <itunes:title>בית ספר לריגול - פרק 3</itunes:title>
@@ -188,7 +248,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2612</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a9633f8f-3e3b-4e03-99d0-af96011decaa/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41852009" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-27577afd-df32-4770-8e25-a651bd2ff62a</link>
-      <itunes:order>29</itunes:order>
+      <itunes:order>33</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 2</title>
       <itunes:title>בית ספר לריגול - פרק 2</itunes:title>
@@ -207,7 +267,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2924</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/89cc4ccb-1957-4145-9c0a-af96011ac9d1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46845367" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-99e70e6b-723c-4c19-9744-513c450cf86e</link>
-      <itunes:order>30</itunes:order>
+      <itunes:order>34</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 1</title>
       <itunes:title>בית ספר לריגול - פרק 1</itunes:title>
@@ -226,7 +286,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2606</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/ab8cac4e-171e-443b-828e-af960114204a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41759640" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/ab8cac4e-171e-443b-828e-af960114204a</link>
-      <itunes:order>31</itunes:order>
+      <itunes:order>35</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss"><title>The $12,000 Mistake with Vivian Kaye</title><description>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -3613,7 +3673,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <link>https://www.podcastone.com/episode/739-Matthew-Campbell--Examining-Global-Shippings-Grim-Underbelly</link>
       <wfw:commentRss>https://www.podcastone.com/episode/739-Matthew-Campbell--Examining-Global-Shippings-Grim-Underbelly</wfw:commentRss>
       <title>739: Matthew Campbell | Examining Global Shipping’s Grim Underbelly</title>
-      <itunes:title>Matthew Campbell | Examining Global Shipping’s Grim Underbelly</itunes:title>
+      <itunes:title>739: Matthew Campbell | Examining Global Shipping’s Grim Underbelly</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>739</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -4114,7 +4174,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2745</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a5d6bf7f-dbf3-46ea-9d47-af3000b33abb/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43957482" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-88a186e8-c0ce-42a1-832a-ca7c347dda18</link>
-      <itunes:order>71</itunes:order>
+      <itunes:order>75</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 3</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 3</itunes:title>
@@ -4133,7 +4193,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2911</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/2a809414-43fa-49a0-99a7-af3000b0be7a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46608179" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-8d5b0645-8058-4b33-b63a-0bd5236b6d96</link>
-      <itunes:order>72</itunes:order>
+      <itunes:order>76</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 2</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 2</itunes:title>
@@ -4152,7 +4212,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2901</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/99172b90-675f-494c-b30b-af3000ae513c/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46453534" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-2d0dda7c-36f1-4ef0-9d15-0b90990e1dc7</link>
-      <itunes:order>73</itunes:order>
+      <itunes:order>77</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 1</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 1</itunes:title>
@@ -4171,7 +4231,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2815</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/73b2cfde-1950-4f7e-8687-af3000aa4702/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45076777" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-121f00c1-592c-42ef-ba82-72b49fc1e967</link>
-      <itunes:order>74</itunes:order>
+      <itunes:order>78</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>126: REvil</title>
       <link>https://darknetdiaries.com/episode/126</link>
@@ -4372,7 +4432,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <link>https://www.podcastone.com/episode/737-Winston-Sterzel--Dont-Lose-Your-Bacon-in-a-Pig-Butchering-Scam</link>
       <wfw:commentRss>https://www.podcastone.com/episode/737-Winston-Sterzel--Dont-Lose-Your-Bacon-in-a-Pig-Butchering-Scam</wfw:commentRss>
       <title>737: Winston Sterzel | Don't Lose Your Bacon in a Pig-Butchering Scam</title>
-      <itunes:title>Winston Sterzel | Don't Lose Your Bacon in a Pig-Butchering Scam</itunes:title>
+      <itunes:title>737: Winston Sterzel | Don't Lose Your Bacon in a Pig-Butchering Scam</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>737</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5193,7 +5253,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.podcastone.com/episode/282-Ken-Perenyi--The-Secret-Life-of-an-American-Art-Forger</link>
       <wfw:commentRss>https://www.podcastone.com/episode/282-Ken-Perenyi--The-Secret-Life-of-an-American-Art-Forger</wfw:commentRss>
       <title>282: Ken Perenyi | The Secret Life of an American Art Forger</title>
-      <itunes:title>Ken Perenyi | The Secret Life of an American Art Forger</itunes:title>
+      <itunes:title>282: Ken Perenyi | The Secret Life of an American Art Forger</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>282</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5630,7 +5690,7 @@ https://www.ads.ranlevi.com/2022/10/03/doors-answer-simulation/</itunes:subtitle
       <link>https://www.podcastone.com/episode/715-Cindy-Otis--Spotting-Fake-News-Like-a-CIA-Analyst</link>
       <wfw:commentRss>https://www.podcastone.com/episode/715-Cindy-Otis--Spotting-Fake-News-Like-a-CIA-Analyst</wfw:commentRss>
       <title>715: Cindy Otis | Spotting Fake News Like a CIA Analyst</title>
-      <itunes:title>Cindy Otis | Spotting Fake News Like a CIA Analyst</itunes:title>
+      <itunes:title>715: Cindy Otis | Spotting Fake News Like a CIA Analyst</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>715</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6010,7 +6070,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.podcastone.com/episode/713-Marion-Nestle--How-Companies-Skew-the-Science-of-What-We-Eat</link>
       <wfw:commentRss>https://www.podcastone.com/episode/713-Marion-Nestle--How-Companies-Skew-the-Science-of-What-We-Eat</wfw:commentRss>
       <title>713: Marion Nestle | How Companies Skew the Science of What We Eat</title>
-      <itunes:title>Marion Nestle | How Companies Skew the Science of What We Eat</itunes:title>
+      <itunes:title>713: Marion Nestle | How Companies Skew the Science of What We Eat</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>713</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6331,7 +6391,7 @@ Audio Producer: Abi Paterson</itunes:summary><pubDate>Tue, 27 Sep 2022 04:59:58 
       <link>https://www.podcastone.com/episode/703-Benjamin-Hardy--How-to-Be-Your-Future-Self-Now</link>
       <wfw:commentRss>https://www.podcastone.com/episode/703-Benjamin-Hardy--How-to-Be-Your-Future-Self-Now</wfw:commentRss>
       <title>703: Benjamin Hardy | How to Be Your Future Self Now</title>
-      <itunes:title>Benjamin Hardy | How to Be Your Future Self Now</itunes:title>
+      <itunes:title>703: Benjamin Hardy | How to Be Your Future Self Now</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>703</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6635,7 +6695,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2057</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="32947027" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-866a5bf0-6de1-45ec-9919-ab795dd6769c</link>
-      <itunes:order>100</itunes:order>
+      <itunes:order>104</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 3</title>
       <itunes:title>על הקומיקס - חלק 3</itunes:title>
@@ -6656,7 +6716,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2522</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="40386700" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-7b6b2a31-c178-4f3f-8bc9-49b8cf7260f9</link>
-      <itunes:order>101</itunes:order>
+      <itunes:order>105</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 2</title>
       <itunes:title>על הקומיקס - חלק 2</itunes:title>
@@ -6675,7 +6735,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2285</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36582854" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4b964f05-1648-4e08-a380-b1ab19214bf8</link>
-      <itunes:order>102</itunes:order>
+      <itunes:order>106</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 1</title>
       <itunes:title>על הקומיקס - חלק 1</itunes:title>
@@ -6694,7 +6754,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2857</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45735742" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</link>
-      <itunes:order>107</itunes:order>
+      <itunes:order>111</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Wake up and smell the fraud</title>
       <description>זה סיפור ממש מעניין שכנראה לא היה מתגלה אם הגיבורה הראשית לא הייתה חוקרת מקצועית. אנחנו רגילים לזהות רמאות באינטרנט ע"פ זה שאנחנו מפסידים כסף. אבל Nina Kollars מזהה רמאות גם כשהיא מזמינה קפסולות מאיביי ומקבלת לא רק קפסולות אלא גם מכונת קפה חדשה. מכאן זה סיפור של הדרכים החדשות להלבין כסף באינטרנט. &lt;br&gt;#כלכלה #טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - Wake up and smell the fraud&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;https://pca.st/wvhumxju&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Sometimes online shopping can feel a little unsavory. There are the listings that make you question if you'll really be getting exactly what's advertised. And there's no worse feeling than paying for something and then not getting it. But when Nina Kollars ordered coffee pods and got WAY more than she asked for, it made her feel just as uneasy. Her quest for answers and what it teaches us about a new generation of online fraud. | Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;.</description>
@@ -7426,7 +7486,7 @@ Note: This episode contains explicit language.</content:encoded>
       <link>https://www.podcastone.com/episode/690-Jane-McGonigal--How-to-See-the-Future-and-Be-Ready-for-Anything</link>
       <wfw:commentRss>https://www.podcastone.com/episode/690-Jane-McGonigal--How-to-See-the-Future-and-Be-Ready-for-Anything</wfw:commentRss>
       <title>690: Jane McGonigal | How to See the Future and Be Ready for Anything</title>
-      <itunes:title>Jane McGonigal | How to See the Future and Be Ready for Anything</itunes:title>
+      <itunes:title>690: Jane McGonigal | How to See the Future and Be Ready for Anything</itunes:title>
       <itunes:season>1</itunes:season>
       <itunes:episode>690</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8974,7 +9034,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2113</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/4c43b6fe-0c76-46da-a2d1-ae8100ca99f2/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="33820711" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-85f4cc14-3ec6-4b81-9101-38692c14fb0c</link>
-      <itunes:order>154</itunes:order>
+      <itunes:order>158</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 3</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 3</itunes:title>
@@ -8995,7 +9055,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2573</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5803158e-6b2d-43ad-8feb-ae8100c8f4cc/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41180554" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-fbded6a8-3b08-4338-b39c-dba536f94365</link>
-      <itunes:order>155</itunes:order>
+      <itunes:order>159</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 2</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 2</itunes:title>
@@ -9016,7 +9076,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2804</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/93441b94-1f7b-4b80-b666-ae8100c64699/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44883255" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-bf4bb4ef-f643-4d81-bf56-9e39d66a59f4</link>
-      <itunes:order>156</itunes:order>
+      <itunes:order>160</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 1</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 1</itunes:title>
@@ -9037,7 +9097,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2460</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/e04f363b-48c5-4ff8-9c1b-ae8100c47316/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="39374971" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-5bc3b01e-fd98-4d67-87af-ec665b0d62d3</link>
-      <itunes:order>157</itunes:order>
+      <itunes:order>161</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>The Fight Over a Menthol Cigarette Ban</title>
       <description>רשות המזון והתרופות האמריקאית מנסה לאסור על המכירה של סיגריות מנטול. ומסתבר שזה סיפור הרבה יותר מורכב מאשר לאסור שימוש בסוג מסויים של סיגריות. כי רוב המעשנים של הסיגריות הללו בארה"ב הם אפרו אמריקאיים והם מפחדים שברגע שיהיה איסור חוקי זה יאפשר למשטרה להתנכל להם בקלות רבה יותר. &lt;br&gt;#משפט #אנגלית &lt;br&gt;&lt;br&gt;The journal - The Fight Over a Menthol Cigarette Ban&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;https://pca.st/2vls8wab&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;After decades of debate, the Food and Drug Administration is proposing a ban on menthol cigarettes. A researcher of the tobacco industry explains the benefits of a potential ban, and WSJ’s Jennifer Maloney explains why some want menthols to stay on the market.
@@ -9669,10 +9729,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>5015</itunes:duration>
       <guid isPermaLink="false">8f5ee408-6270-11ec-af77-5f7725df7619</guid>
       <enclosure url="https://mgln.ai/track/verifi.podscribe.com/rss/p/traffic.megaphone.fm/RSV5832904071.mp3?updated=1649196724" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>לאן נעלמה מורן? [התשובה]</title><link>https://www.spreaker.com/user/pimedia/names-rc5_1</link><description>פרק משעשע על תדירות השמות בישראל. איזה שמות היו פופולאריים מתי, בחלק מהמקרים אפשר גם להגיד מה תרם לפופולאריות ומה הכחיד חלק מהשמות. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;התשובה - לאן נעלמה מורן?&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/epqt5hak&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הארץ היתה פעם מלאה במורניות, לאן כולן הלכו? מתי הפציעו בארץ הניצנים הראשונים? ומה הקטע שפתאום כולם קוראים אדל? על עלייתם, נפילתם, והסיבות המשונות לפעמים לתפוצתם של שמות פרטיים.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/" rel="noopener"&gt;https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/&lt;/a&gt;</description><guid isPermaLink="false">https://api.spreaker.com/episode/49621630</guid><pubDate>Tue, 24 May 2022 04:01:01 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/49621630/names5555.mp3" length="40521771" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>הארץ היתה פעם מלאה במורניות, לאן כולן הלכו? מתי הפציעו בארץ הניצנים הראשונים? ומה הקטע שפתאום כולם קוראים אדל? על עלייתם, נפילתם, והסיבות המשונות לפעמים לתפוצתם של שמות פרטיים.&#13;
-&#13;
-&#13;
-&#13;
-&#13;
-https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/</itunes:subtitle><itunes:summary>פרק משעשע על תדירות השמות בישראל. איזה שמות היו פופולאריים מתי, בחלק מהמקרים אפשר גם להגיד מה תרם לפופולאריות ומה הכחיד חלק מהשמות. &lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;התשובה - לאן נעלמה מורן?&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/epqt5hak&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הארץ היתה פעם מלאה במורניות, לאן כולן הלכו? מתי הפציעו בארץ הניצנים הראשונים? ומה הקטע שפתאום כולם קוראים אדל? על עלייתם, נפילתם, והסיבות המשונות לפעמים לתפוצתם של שמות פרטיים.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;a href="https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/" rel="noopener"&gt;https://www.ads.ranlevi.com/2022/05/02/panda-answer-names/&lt;/a&gt;</itunes:summary><itunes:duration>2533</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType></item></channel>
+    </item></channel>
 </rss>
