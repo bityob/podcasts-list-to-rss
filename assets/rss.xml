@@ -10,9 +10,56 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 17 May 2023 06:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 May 2023 06:36:59 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>#112 | רוית גופמן וענבל בן יהודה | זמן לחשוב</title>
+			<description>שיחה מגניבה עם ענבל בן יהודה על התוכנית של 8200 לעסקים קטנים. &lt;br&gt;גם אני חלק מהנהלת התוכנית ואני שמחה לפרק הזה כדי לספר לעולם על התוכנית - מי משתתף בה ואיך עוזרים לעסקים הקטנים בעזרת קבוצה אדירה של אנשים מדהימים שמתנדבים 😎&lt;br&gt;#ישראל #ראיוןמעניין &lt;br&gt;&lt;br&gt;זמן לחשוב - #112 רוית גופמן וענבל בן יהודה &lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ma5r355x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'זמן לחשוב' עם רוית גופמן וענבל בן יהודה&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;כל עסק צריך לפחות מנטור אחד שיאמין בו&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;תוכנית ההאצה להבראת עסקים קטנים של עמותת בוגרי 8200 מסכמת מחזור שלישי ומוצלח, שיצר אימפקט עבור 50 עסקים בוגרי התוכנית וכ-230 מנטורים בכירים.&lt;/p&gt;
+&lt;p&gt;על העצמה, יזמות ורוח טובה הכל בפרק בהשתתפות ענבל בן יהודה, מייסדת שותפה בתוכנית.&lt;/p&gt;
+&lt;p&gt;חן שמילו מנכ"ל העמותה: "התוכנית פיתחה דרך חדשה לסיוע לעסקים קטנים בישראל באמצעות מיפוי מדויק של נקודות תורפה שמובילות לאי שרידות ויציבות. בעסקים ושבהם יש ערך להתערבות מקצועית ורתימת ההון האנושי של בוגרות ובוגרי 8200 באמצעות מודל מנטורינג ייחודי של העמותה שפעל על בסיס מפת הכאב של כל אחד מבתי העסק תוך התאמת צוות משימה לבניית מציאות מיטבית יותר לעסק".&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/93157/episodes/112-e1vmpe5</link>
+			<guid isPermaLink="false">aec119b2-fb8b-4003-9dec-edcf2f4a2c35</guid>
+			<dc:creator>גופמן קריאייטיב - Gofman Creative</dc:creator>
+			<pubDate>Thu, 18 May 2023 04:25:00 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/5bfa66e8/podcast/play/65807237/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2Fde6d416c-a86d-b951-d078-de6f51dab222.mp3" length="30433045" type="audio/mpeg"/>
+			<itunes:summary>שיחה מגניבה עם ענבל בן יהודה על התוכנית של 8200 לעסקים קטנים. &lt;br&gt;גם אני חלק מהנהלת התוכנית ואני שמחה לפרק הזה כדי לספר לעולם על התוכנית - מי משתתף בה ואיך עוזרים לעסקים הקטנים בעזרת קבוצה אדירה של אנשים מדהימים שמתנדבים 😎&lt;br&gt;#ישראל #ראיוןמעניין &lt;br&gt;&lt;br&gt;זמן לחשוב - #112 רוית גופמן וענבל בן יהודה &lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ma5r355x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'זמן לחשוב' עם רוית גופמן וענבל בן יהודה&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;כל עסק צריך לפחות מנטור אחד שיאמין בו&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;תוכנית ההאצה להבראת עסקים קטנים של עמותת בוגרי 8200 מסכמת מחזור שלישי ומוצלח, שיצר אימפקט עבור 50 עסקים בוגרי התוכנית וכ-230 מנטורים בכירים.&lt;/p&gt;
+&lt;p&gt;על העצמה, יזמות ורוח טובה הכל בפרק בהשתתפות ענבל בן יהודה, מייסדת שותפה בתוכנית.&lt;/p&gt;
+&lt;p&gt;חן שמילו מנכ"ל העמותה: "התוכנית פיתחה דרך חדשה לסיוע לעסקים קטנים בישראל באמצעות מיפוי מדויק של נקודות תורפה שמובילות לאי שרידות ויציבות. בעסקים ושבהם יש ערך להתערבות מקצועית ורתימת ההון האנושי של בוגרות ובוגרי 8200 באמצעות מודל מנטורינג ייחודי של העמותה שפעל על בסיס מפת הכאב של כל אחד מבתי העסק תוך התאמת צוות משימה לבניית מציאות מיטבית יותר לעסק".&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:21:07</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/15331370/15331370-1677763723127-d208f16dfa348.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>112</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>You Have More Influence Than You Think</title>
+      <itunes:title>You Have More Influence Than You Think</itunes:title>
+      <description>פרק קצת שונה על השפעה פסיכולוגית. בהרבה מאמרים וספרים מדברים על איך להשפיע על אנשים אחרים, איך לתמרן, לתכנן ולבסוף לבצע שינוי בעולם של אנשים אחרים. ופה בפרק מדובר על השפעה רכה יותר. יש לנו יותר השפעה על העולם ממה שאנחנו חושבים מעצם זה שאנחנו מופיעים ומשמעים את הקול שלנו. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית &lt;br&gt;&lt;br&gt;A slight change of plans - You Have More Influence Than You Think&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/im6h9psv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Influence is often seen as a skill we have to cultivate, a charismatic quality leveraged by select leaders, business people, and successful social media accounts. But in her new book, “You Have More Influence Than You Think,” social psychologist Vanessa Bohns demonstrates that we all have influence through our words, choices, and even just our presence. Maya and Vanessa discuss how we can become more aware of our power to persuade, and learn to wield it wisely.&lt;/p&gt;
+&lt;p&gt;For a behind-the-scenes look at the show, follow &lt;a href="https://www.instagram.com/drmayashankar/?hl=en"&gt;@DrMayaShankar&lt;/a&gt; on Instagram. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק קצת שונה על השפעה פסיכולוגית. בהרבה מאמרים וספרים מדברים על איך להשפיע על אנשים אחרים, איך לתמרן, לתכנן ולבסוף לבצע שינוי בעולם של אנשים אחרים. ופה בפרק מדובר על השפעה רכה יותר. יש לנו יותר השפעה על העולם ממה שאנחנו חושבים מעצם זה שאנחנו מופיעים ומשמעים את הקול שלנו. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית &lt;br&gt;&lt;br&gt;A slight change of plans - You Have More Influence Than You Think&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/im6h9psv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Influence is often seen as a skill we have to cultivate, a charismatic quality leveraged by select leaders, business people, and successful social media accounts. But in her new book, “You Have More Influence Than You Think,” social psychologist Vanessa Bohns demonstrates that we all have influence through our words, choices, and even just our presence. Maya and Vanessa discuss how we can become more aware of our power to persuade, and learn to wield it wisely.&lt;/p&gt;
+&lt;p&gt;For a behind-the-scenes look at the show, follow &lt;a href="https://www.instagram.com/drmayashankar/?hl=en"&gt;@DrMayaShankar&lt;/a&gt; on Instagram. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>48</itunes:episode>
+      <itunes:author>Pushkin Industries</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/a-slight-change-of-plans/you-have-more-influence-than-you-think/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">4d72fe96-442b-42b6-9c62-afb4000b0d48</guid>
+      <omny:clipId>4d72fe96-442b-42b6-9c62-afb4000b0d48</omny:clipId>
+      <pubDate>Thu, 18 May 2023 04:25:00 +0000</pubDate>
+      <itunes:duration>1886</itunes:duration>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="30222013" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/a-slight-change-of-plans/you-have-more-influence-than-you-think</link>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 29: דרור גולדברג על המצאת הכסף המודרני</title>
         <itunes:title>פרק 29: דרור גולדברג על המצאת הכסף המודרני</itunes:title>
         <link>https://heres.podbean.com/e/029_dror_goldberg/</link>
@@ -925,6 +972,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <pubDate>Tue, 02 May 2023 04:34:59 +0000</pubDate>
       <guid isPermalink="false">d641b5e9-612d-47a9-b52a-c6897824b2c6</guid>
       <link>https://www.npr.org/2023/03/23/1165619070/osage-headrights-killers-of-the-flower-moon-fletcher-lawsuit</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>The battle over Osage headrights</itunes:title>
       <itunes:episode>1625</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/03/24/richard-lonsinger-osage-headrights-killers-of-the-flower-moon-martin-scorsese-david-grann-lawrence-kansas-oklahoma_wide-b70bb462ec7056f164437ae5c6ccbd0ce467f240.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -1575,6 +1623,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 16 Apr 2023 04:04:59 +0000</pubDate>
       <guid isPermalink="false">1895d0ed-3f07-44c9-81a7-063d725f2473</guid>
       <link>https://www.npr.org/2023/03/06/1161382179/hbo-max-disappearing-shows-series-streaming-warner</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Dude, where's my streaming TV show?</itunes:title>
       <itunes:episode>1621</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/03/10/casey-bloys-hbo-max-warnermedia-burbank-televison-streaming_wide-28c1de20e3149fc56c72276f4297b3cc4dc52572.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -1639,6 +1688,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Tue, 11 Apr 2023 05:10:03 +0000</pubDate>
       <guid isPermalink="false">a4502eca-e551-43ae-976c-0c780b441d9f</guid>
       <link>https://www.npr.org/2023/03/01/1160407491/seinfeld-economics-scarcity-payoff-matrix-bads</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Seinfeld-onomics</itunes:title>
       <itunes:episode>1620</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/03/03/seinfeld-show-cast-jerry-elaine-george-kramer-economics_wide-c8c15d4fba13c1c66e89163862a4e61f2779e598.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -2010,6 +2060,7 @@ Disclaimer</content:encoded>
       <pubDate>Sun, 02 Apr 2023 04:31:01 +0000</pubDate>
       <guid isPermalink="false">9ae4c868-596b-4a70-a406-2bad97df4aba</guid>
       <link>https://www.npr.org/2023/02/22/1158865140/stray-cats-dixfield-maine-trust-inheritance-will</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Meow Money Meow Problems</itunes:title>
       <itunes:episode>1618</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/02/24/brenda-jarvis-cat-feline-dixfield-maine-will-fortune-inheritance-trust_wide-0f81df773eba00f2db44fedb047ccee1a224a9c6.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -2688,6 +2739,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Tue, 07 Mar 2023 06:01:01 +0000</pubDate>
       <guid isPermalink="false">cb3c4007-df1c-4bbd-9ddd-94496bd3f3f2</guid>
       <link>https://www.npr.org/2023/03/01/1160397633/congressional-budget-office-medicare-medicaid</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>CBOhhhh, that's what they do</itunes:title>
       <itunes:episode>1619</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/03/01/gettyimages-96190103_wide-9cfda057968321708092f7838ff17888e02456e4.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -3602,6 +3654,7 @@ Credits: This episode was written and produced by Amory Sivertson and Quincy Wal
       <pubDate>Sun, 05 Feb 2023 06:00:49 +0000</pubDate>
       <guid isPermalink="false">c7306cfc-35ed-446d-a1a5-2a7ec6a250f4</guid>
       <link>https://www.npr.org/2023/01/13/1149071772/two-percent-target-inflation-expectations</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Two Indicators: The 2% inflation target</itunes:title>
       <itunes:episode>1606</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/01/13/federal-reserve-building-inflation-expectations_wide-b294f68cb849ca78d73c814ecca383a796dce813.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -4286,6 +4339,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Tue, 10 Jan 2023 06:00:20 +0000</pubDate>
       <guid isPermalink="false">b398c434-0941-4bb2-99f2-01ac7475cbd9</guid>
       <link>https://www.npr.org/2022/12/07/1141358550/spam-call-bounty-hunter-telemarketing</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Spam call bounty hunter</itunes:title>
       <itunes:episode>1598</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/12/14/illegal-telemarketing-robocall-spam-lawsuit-do-not-call-list_wide-c472297a8ee5b3849d691be6aba38010e53bf29c.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -4482,6 +4536,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <pubDate>Tue, 03 Jan 2023 05:30:12 +0000</pubDate>
       <guid isPermalink="false">b1cd66c2-4551-4171-9f22-adee92997399</guid>
       <link>https://www.npr.org/2022/12/02/1140465961/tax-loophole-internal-revenue-service-avoidance-evasion</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>My Favorite Tax Loophole</itunes:title>
       <itunes:episode>1595</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/12/02/my-favorite-tax-loophole_wide-45502a50e0b6e6d34f22667a941fc71c1d024bf8.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -4579,6 +4634,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <pubDate>Tue, 27 Dec 2022 05:00:29 +0000</pubDate>
       <guid isPermalink="false">954073d0-d90e-4a8b-a56d-d223a00a8045</guid>
       <link>https://www.npr.org/2022/11/09/1135639385/libraries-publishers-ebooks-e-books-macmillan-protest-amazon-bezos</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>The E-Book Wars</itunes:title>
       <itunes:episode>1590</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/11/11/ebooksforall-delegation-alan-inouye-barb-macikas-and-sari-feldman-american-library-association-macmillan-john-sargent_wide-d44e2f01ac2560bdaa11e35f983bac70739b3b49.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -5224,6 +5280,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <pubDate>Sun, 11 Dec 2022 06:01:23 +0000</pubDate>
       <guid isPermalink="false">74743610-a4ce-4cdd-94d6-6f4c8a68f2fa</guid>
       <link>https://www.npr.org/2022/11/18/1137657496/third-party-cookie-data-tracking-internet-user-privacy</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>How the cookie became a monster</itunes:title>
       <itunes:episode>1592</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/11/18/chocolate-chunk-cookies-new-york_wide-d33878ea3e2a00d9a88a88585ac2b52848c8837a.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -5494,6 +5551,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <pubDate>Tue, 29 Nov 2022 05:30:00 +0000</pubDate>
       <guid isPermalink="false">cd69030d-9684-4e3b-893c-1529fd3367e6</guid>
       <link>https://www.npr.org/2022/11/09/1135620650/stolen-beach-sand-black-market-caribbean-jamaica-glass-concrete</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Peak Sand (classic)</itunes:title>
       <itunes:episode>1589</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/11/09/stolen-beach-jamaica-sand-black-market-jamaica-caribbean_wide-94794a6d78d060b6ff9c267793a80aef2f04b924.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -5659,6 +5717,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 20 Nov 2022 06:01:09 +0000</pubDate>
       <guid isPermalink="false">b02c01ff-1f68-4a93-adca-439344ad93a4</guid>
       <link>https://www.npr.org/2022/09/22/1124477182/federal-judges-economics-boot-camp</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Econ's Brush with the Law</itunes:title>
       <itunes:episode>1576</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/09/23/gettyimages-1189255203_wide-666a6d8c8d007462c642320284b80207cf8aae84.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -6021,6 +6080,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Thu, 10 Nov 2022 05:01:01 +0000</pubDate>
       <guid isPermalink="false">bcb57a54-bba8-466c-af20-32adaea7601e</guid>
       <link>https://www.npr.org/2022/10/18/1129684894/mutilated-currency-division-bureau-engraving-printing-classic</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>The money fixers (classic)</itunes:title>
       <itunes:episode>1583</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/10/18/money-rip-renee-klahr_wide-625f882cf715c358f80d511ff74d7b98d643c192.png?s=1400&amp;c=66&amp;f=png"/>
@@ -7562,13 +7622,13 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <description>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
 </description>
       <pubDate>Sun, 18 Sep 2022 04:00:00 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Caleb Gardner, Jeff Sieh, Shannon Hernandez, Guy Kawasaki, Madisun Nuismer, Luis Magana, Alexis Nishimura, Peg Fitzpatrick)</author>
+      <author>guykawasaki@gmail.com (Caleb Gardner, Madisun Nuismer, Peg Fitzpatrick, Luis Magana, Alexis Nishimura, Shannon Hernandez, Guy Kawasaki, Jeff Sieh)</author>
       <link>https://guykawasaki.com/remarkable-people/</link>
       <content:encoded>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
 </content:encoded>
       <enclosure length="61212204" type="audio/mpeg" url="https://chrt.fm/track/55D4D8/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/e70b44a7-3933-4694-b122-1cb21ee3cd6f/audio/fb14ecb9-52b4-46b9-9f95-19ccd8f2cd15/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
       <itunes:title>Caleb Gardner: Being @BarackObama and Leading in a Turbulent World</itunes:title>
-      <itunes:author>Caleb Gardner, Jeff Sieh, Shannon Hernandez, Guy Kawasaki, Madisun Nuismer, Luis Magana, Alexis Nishimura, Peg Fitzpatrick</itunes:author>
+      <itunes:author>Caleb Gardner, Madisun Nuismer, Peg Fitzpatrick, Luis Magana, Alexis Nishimura, Shannon Hernandez, Guy Kawasaki, Jeff Sieh</itunes:author>
       <itunes:duration>01:02:45</itunes:duration>
       <itunes:summary>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
 </itunes:summary>
@@ -7665,6 +7725,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <pubDate>Thu, 15 Sep 2022 04:00:00 +0000</pubDate>
       <guid isPermalink="false">7fedf09c-0dd2-42a4-9fc5-e42f3268f7f4</guid>
       <link>https://www.npr.org/2022/08/26/1119606931/wake-up-and-smell-the-fraud</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Wake up and smell the fraud</itunes:title>
       <itunes:episode>1568</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/08/26/gettyimages-1229955009_wide-97a7b4117b57b4faca10efa149ca453e3b780bab.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -7792,6 +7853,7 @@ http://www.ads.ranlevi.com/2020/07/20/medulla-hatshuva-petahtikva/</itunes:subti
       <pubDate>Thu, 08 Sep 2022 04:44:44 +0000</pubDate>
       <guid isPermalink="false">cf6aecdb-e0cc-483a-89db-13ce0c50ecd9</guid>
       <link>https://www.npr.org/2022/07/08/1110634395/a-tale-of-two-cityhoods</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>A tale of two cityhoods</itunes:title>
       <itunes:episode>1552</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/07/08/gettyimages-1216889912_wide-2ac32bd6464b4a7a8443f333f4c7618c3de03fee.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -7921,6 +7983,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 04 Sep 2022 03:32:02 +0000</pubDate>
       <guid isPermalink="false">d0e4e400-7ac9-42ba-8c76-38119b2bd613</guid>
       <link>https://www.npr.org/2022/08/12/1117305695/carried-interest-wormhole</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Carried interest wormhole</itunes:title>
       <itunes:episode>1564</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/08/12/med_shipping_wide-d961606ce3fd9505e7353f3a6d262ae07bc6bf8f.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
@@ -8470,6 +8533,7 @@ Note: This episode contains explicit language.</content:encoded>
       <pubDate>Sun, 21 Aug 2022 04:00:29 +0000</pubDate>
       <guid isPermalink="false">111966ad-9333-4ce1-bc19-1eb471942a55</guid>
       <link>https://www.npr.org/2022/07/22/1113115868/little-house-on-the-blockchain</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Little House on the Blockchain</itunes:title>
       <itunes:episode>1556</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/07/22/crypto_house_philly_wide-2ef82f30af8e722fefcab2b37b9e171c96271c4b.png?s=1400&amp;c=66&amp;f=png"/>
@@ -9051,6 +9115,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 31 Jul 2022 04:01:34 +0000</pubDate>
       <guid isPermalink="false">e89478e5-fe39-4c00-bdd5-214c54730ef2</guid>
       <link>https://www.npr.org/2022/06/29/1108739853/when-subaru-came-out-classic</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>When Subaru came out (Classic)</itunes:title>
       <itunes:episode>1549</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/06/29/1995_commitment_wide-36a537a3d67e50e528e51d8c1c58cbb5960fe20d.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -9300,6 +9365,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Tue, 19 Jul 2022 04:31:02 +0000</pubDate>
       <guid isPermalink="false">ae9eb11c-ebe6-4585-ab63-4b73f428ac81</guid>
       <link>https://www.npr.org/2022/06/22/1106861476/the-tale-of-the-onion-king-update</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>The tale of the Onion King (Update)</itunes:title>
       <itunes:episode>1547</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/06/22/onion-3-_wide-2aa6f76a66d21122162a21a8aae95dd608adb2f3.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -9794,6 +9860,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 03 Jul 2022 04:01:13 +0000</pubDate>
       <guid isPermalink="false">6be42db2-9202-436a-a433-29d2bab57461</guid>
       <link>https://www.npr.org/2022/06/02/1102751823/homer-simpson-vs-the-economy</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>Homer Simpson vs. the economy</itunes:title>
       <itunes:episode>1542</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/06/03/gettyimages-86537958_wide-8ad6bf8b05efc36aed8aa570eda4b426dd5f2546.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -10067,6 +10134,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <pubDate>Sun, 19 Jun 2022 04:31:39 +0000</pubDate>
       <guid isPermalink="false">cf747630-f5e7-444b-a4ce-2380982b3eac</guid>
       <link>https://www.npr.org/2022/05/18/1099845542/how-the-burrito-become-a-sandwich-classic</link>
+      <itunes:block>no</itunes:block>
       <itunes:title>How the burrito became a sandwich (Classic)</itunes:title>
       <itunes:episode>1537</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/05/18/photo-1-2_wide-fbc83d9a4e7a8fb98f8dc4f1f3caefde66aa515b.jpg?s=1400&amp;c=66&amp;f=jpg"/>
@@ -10178,35 +10246,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2532</itunes:duration>
       <guid isPermaLink="false">1000557644182</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/chtbl.com/track/28D492/traffic.megaphone.fm/SLT5816181454.mp3?updated=1656003052" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג</itunes:title>
-    <title>פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג</title>
-    <description>שיחה קצת רוחנית על נושא של קבלה. כולנו מחונכים מגיל צעיר שלתת זאת מעלה עליונה אבל אף אחד לא מלמד אותנו לדעת לקבל. זה נחשב פחות מוערך ובשיחה מנתחים את זה ומדברים על עד כמה חשוב לדעת לקבל גם חומרית וגם נפשית. &lt;br&gt;#פיתוחאישי #פסיכולוגיה&lt;br&gt;&lt;br&gt;הביולוגיה של הווינרים - פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hlvl5n6c&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;כולנו מעולים בלתת! נתינה זה ערך נשגב, אצילי. אבל לקבל? זה כבר קצת יותר קשה לנו. לקבל עבור רבים - זה לחלשים, ואולי אפילו סימן שאנחנו חלילה נזקקים. אבל ביננו? בלי שאף אחד ישמע, אם לא נדע לקבל אנחנו נמצא את עצמנו עובדים נורא קשה לעבר ההגשמה שלנו, ומטר לפני היעד נשמוט את התוצאה, מהבהלה והקושי להכיל את הטוב שמחכה למצוא אותנו. אבל איך עושים את זה? איך לומדים לקבל מבלי להיבהל?&lt;/p&gt;&lt;p dir='rtl'&gt;לשם כך הזמנתי את חברותיי פריידי מרגלית ואלימור הניג, מייסדות מרחב מודעות לשיחה פתוחה על האימון התודעתי שאנחנו צריכים לעשות כדי להיות בקבלה בלי להיבהל, בפרק חשוף ואותנטי ביותר דיברנו על:&lt;/p&gt;&lt;ol dir='rtl'&gt;&lt;li&gt;למה קשה לנו לקבל ולהכיל את הטוב שמחכה למצוא אותנו?&lt;/li&gt;&lt;li&gt;למה אנחנו שומטים את ההצלחה שמחכה לנו מטר לפני הקבלה?&lt;/li&gt;&lt;li&gt;איך לשלב בין קבלה ונתינה?&lt;/li&gt;&lt;li&gt;איפה נמצא האיזון בין נתינה שמרוקנת אותנו לקבלה בריאה שלא הופכת אותנו לאגואיסטים?&lt;/li&gt;&lt;li&gt;מהם דרגות השפע והקשר שלהם ליכולת שלנו לקבל ולתת באיזון מדוייק &lt;/li&gt;&lt;li&gt;ועוד.&lt;/li&gt;&lt;/ol&gt;&lt;p dir='rtl'&gt;פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג&lt;/p&gt;&lt;p dir='rtl'&gt;האזנה נעימה&lt;/p&gt;&lt;p dir='rtl'&gt;-איתן&lt;/p&gt;&lt;p dir='rtl'&gt;אהבתם את הפרק? רוצים להעמיק? קבלו 2 מתנות בעלות ערך מפריידי ואלימור: &lt;br/&gt;1. &lt;a href='https://tatmuda.com/matrix_new-3'&gt;לצאת מהמטריקס - הצעד הראשון לחיים בגן עדן, להצטרך לאירוע מתנה עם פריידי ואלימור לחצו כאן&lt;/a&gt;&lt;br/&gt;2. &lt;a href=' http://103fm.maariv.co.il/podcast/%D7%A9%D7%99%D7%97%D7%95%D7%AA-%D7%91%D7%92%D7%9F-%D7%A2%D7%93%D7%9F.aspx'&gt;לחצו כאן פודאקסט שיחות בגן עדן ברדיו 103FM&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;רוצים להטמיע את הפודקאסט בחיים שלכם? זה קורה מכאן:&lt;a href='https://eitanazaria.co.il/moadon/'&gt; https://eitanazaria.co.il/moadon/&lt;/a&gt;&lt;br/&gt;רוצים להשפיע על נושאי הפרקים הבאים? אנא מלאו סקר קצר שיעזור לי להתאים לכם את הפרקים הבאים : &lt;a href='https://forms.gle/ryWH8QUpVWCQGka47'&gt;https://forms.gle/ryWH8QUpVWCQGka47&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;אודות הפודקאסט הביולוגיה של הווינרים&lt;br/&gt;&lt;br/&gt;פודקאסט &amp;quot;הביולוגיה של הווינרים&amp;quot; היא תוכנית רדיו אינטרנטית העוסקת בפיתוח חוסן מנטלי ומקסום הפוטנציאל האנושי.&lt;br/&gt;&lt;br/&gt;התוכנית מיועדת לספורטאים, מנהלים, יזמים, אנשי עסקים, הורים, מנהיגים השואפים להישגים בלתי רגילים בדרך מאוזנת, תוך שמירה על ערכם וזהותם כבני אדם שלמים. אלופים מעצם היותם. בדיוק כמו שנולדו.&lt;br/&gt;&lt;br/&gt;בכל פרק תקבלו הצצה נדירה לעולמם המנטלי והרגשי של מספרי 1# בתחומם במסעם רצוף הלחצים לתוצאות, ומפרק לפרק נחשוף, מה נדרש כדי להפוך לבני אדם שלמים במסע להישגים, לווינרים! לא רק על סמך תוצאה או תחרות אחת – אלא במשחק החיים. אלופים מעצם היותכם. בדיוק כפי שנולדתם.&lt;br/&gt;&lt;br/&gt;בכל פרק מובא נושא מתוך מגוון רחב של תחומים למימוש הפוטנציאל האנושי הגלום בכם: החל מפיתוח דימוי עצמי, דרך ישום הפסיכולוגיה של הספורט בחיים, הפסיכולוגיה החיובית, קבלת החלטות תחת לחץ ומדע האושר.&lt;br/&gt;&lt;br/&gt;התוכנית עשויה בסגנון &amp;apos;קליל&amp;apos; ומועברת ״בגובה העיניים״ ובאיכות הפקה גבוהה במיוחד.&lt;br/&gt;&lt;br/&gt;הפודקאסט נולד מתוך האמונה שנולדתם אלופים. במהות שלכם כבני אדם. ככה, כמו שאתם – ללא תלות בהישגים שלכם. לא. זוהי לא תחושה שנועדה רק למדליסט על הפודיום, ליזמים שעשו אקזיט, או לתלמידים המצטיינים בבית הספר. כולנו ראויים להרגיש בעלי ערך מעצם קיומנו. ושום תוצאה, ציון, או לייק – לא יוכלו לשנות את זה. וזה בדיוק מה שתקבלו מאיתנו בכל פרק. כלים, תובנות מהשטח, שיבנו אתכם אתכם כבני אדם שלמים, בעלי ערך עצמי ללא תנאים, ווינרים! לא רק על סמך תוצאה או תחרות אחת – אלא במשחק החיים. אלופים מעצם היותכם. בדיוק כפי שנולדתם.&lt;br/&gt;&lt;br/&gt;הפרקים זמינים להורדה בחינם בקבצי mp3 הניתנים להאזנה בטלפון הנייד, רדיו-דיסק ברכב או כל נגן נייד אחר.&lt;br/&gt;&lt;br/&gt;משך כל פרק בין 20-60 דקות&lt;br/&gt;&lt;br/&gt;שלכם,&lt;br/&gt;איתן&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</description>
-    <content:encoded>שיחה קצת רוחנית על נושא של קבלה. כולנו מחונכים מגיל צעיר שלתת זאת מעלה עליונה אבל אף אחד לא מלמד אותנו לדעת לקבל. זה נחשב פחות מוערך ובשיחה מנתחים את זה ומדברים על עד כמה חשוב לדעת לקבל גם חומרית וגם נפשית. &lt;br&gt;#פיתוחאישי #פסיכולוגיה&lt;br&gt;&lt;br&gt;הביולוגיה של הווינרים - פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hlvl5n6c&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;כולנו מעולים בלתת! נתינה זה ערך נשגב, אצילי. אבל לקבל? זה כבר קצת יותר קשה לנו. לקבל עבור רבים - זה לחלשים, ואולי אפילו סימן שאנחנו חלילה נזקקים. אבל ביננו? בלי שאף אחד ישמע, אם לא נדע לקבל אנחנו נמצא את עצמנו עובדים נורא קשה לעבר ההגשמה שלנו, ומטר לפני היעד נשמוט את התוצאה, מהבהלה והקושי להכיל את הטוב שמחכה למצוא אותנו. אבל איך עושים את זה? איך לומדים לקבל מבלי להיבהל?&lt;/p&gt;&lt;p dir='rtl'&gt;לשם כך הזמנתי את חברותיי פריידי מרגלית ואלימור הניג, מייסדות מרחב מודעות לשיחה פתוחה על האימון התודעתי שאנחנו צריכים לעשות כדי להיות בקבלה בלי להיבהל, בפרק חשוף ואותנטי ביותר דיברנו על:&lt;/p&gt;&lt;ol dir='rtl'&gt;&lt;li&gt;למה קשה לנו לקבל ולהכיל את הטוב שמחכה למצוא אותנו?&lt;/li&gt;&lt;li&gt;למה אנחנו שומטים את ההצלחה שמחכה לנו מטר לפני הקבלה?&lt;/li&gt;&lt;li&gt;איך לשלב בין קבלה ונתינה?&lt;/li&gt;&lt;li&gt;איפה נמצא האיזון בין נתינה שמרוקנת אותנו לקבלה בריאה שלא הופכת אותנו לאגואיסטים?&lt;/li&gt;&lt;li&gt;מהם דרגות השפע והקשר שלהם ליכולת שלנו לקבל ולתת באיזון מדוייק &lt;/li&gt;&lt;li&gt;ועוד.&lt;/li&gt;&lt;/ol&gt;&lt;p dir='rtl'&gt;פרק 120: לקבל בלי להיבהל - איך מאמנים את עצמנו להיות בקבלה? עם פריידי מרגלית ואלימור הניג&lt;/p&gt;&lt;p dir='rtl'&gt;האזנה נעימה&lt;/p&gt;&lt;p dir='rtl'&gt;-איתן&lt;/p&gt;&lt;p dir='rtl'&gt;אהבתם את הפרק? רוצים להעמיק? קבלו 2 מתנות בעלות ערך מפריידי ואלימור: &lt;br/&gt;1. &lt;a href='https://tatmuda.com/matrix_new-3'&gt;לצאת מהמטריקס - הצעד הראשון לחיים בגן עדן, להצטרך לאירוע מתנה עם פריידי ואלימור לחצו כאן&lt;/a&gt;&lt;br/&gt;2. &lt;a href=' http://103fm.maariv.co.il/podcast/%D7%A9%D7%99%D7%97%D7%95%D7%AA-%D7%91%D7%92%D7%9F-%D7%A2%D7%93%D7%9F.aspx'&gt;לחצו כאן פודאקסט שיחות בגן עדן ברדיו 103FM&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;רוצים להטמיע את הפודקאסט בחיים שלכם? זה קורה מכאן:&lt;a href='https://eitanazaria.co.il/moadon/'&gt; https://eitanazaria.co.il/moadon/&lt;/a&gt;&lt;br/&gt;רוצים להשפיע על נושאי הפרקים הבאים? אנא מלאו סקר קצר שיעזור לי להתאים לכם את הפרקים הבאים : &lt;a href='https://forms.gle/ryWH8QUpVWCQGka47'&gt;https://forms.gle/ryWH8QUpVWCQGka47&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;אודות הפודקאסט הביולוגיה של הווינרים&lt;br/&gt;&lt;br/&gt;פודקאסט &amp;quot;הביולוגיה של הווינרים&amp;quot; היא תוכנית רדיו אינטרנטית העוסקת בפיתוח חוסן מנטלי ומקסום הפוטנציאל האנושי.&lt;br/&gt;&lt;br/&gt;התוכנית מיועדת לספורטאים, מנהלים, יזמים, אנשי עסקים, הורים, מנהיגים השואפים להישגים בלתי רגילים בדרך מאוזנת, תוך שמירה על ערכם וזהותם כבני אדם שלמים. אלופים מעצם היותם. בדיוק כמו שנולדו.&lt;br/&gt;&lt;br/&gt;בכל פרק תקבלו הצצה נדירה לעולמם המנטלי והרגשי של מספרי 1# בתחומם במסעם רצוף הלחצים לתוצאות, ומפרק לפרק נחשוף, מה נדרש כדי להפוך לבני אדם שלמים במסע להישגים, לווינרים! לא רק על סמך תוצאה או תחרות אחת – אלא במשחק החיים. אלופים מעצם היותכם. בדיוק כפי שנולדתם.&lt;br/&gt;&lt;br/&gt;בכל פרק מובא נושא מתוך מגוון רחב של תחומים למימוש הפוטנציאל האנושי הגלום בכם: החל מפיתוח דימוי עצמי, דרך ישום הפסיכולוגיה של הספורט בחיים, הפסיכולוגיה החיובית, קבלת החלטות תחת לחץ ומדע האושר.&lt;br/&gt;&lt;br/&gt;התוכנית עשויה בסגנון &amp;apos;קליל&amp;apos; ומועברת ״בגובה העיניים״ ובאיכות הפקה גבוהה במיוחד.&lt;br/&gt;&lt;br/&gt;הפודקאסט נולד מתוך האמונה שנולדתם אלופים. במהות שלכם כבני אדם. ככה, כמו שאתם – ללא תלות בהישגים שלכם. לא. זוהי לא תחושה שנועדה רק למדליסט על הפודיום, ליזמים שעשו אקזיט, או לתלמידים המצטיינים בבית הספר. כולנו ראויים להרגיש בעלי ערך מעצם קיומנו. ושום תוצאה, ציון, או לייק – לא יוכלו לשנות את זה. וזה בדיוק מה שתקבלו מאיתנו בכל פרק. כלים, תובנות מהשטח, שיבנו אתכם אתכם כבני אדם שלמים, בעלי ערך עצמי ללא תנאים, ווינרים! לא רק על סמך תוצאה או תחרות אחת – אלא במשחק החיים. אלופים מעצם היותכם. בדיוק כפי שנולדתם.&lt;br/&gt;&lt;br/&gt;הפרקים זמינים להורדה בחינם בקבצי mp3 הניתנים להאזנה בטלפון הנייד, רדיו-דיסק ברכב או כל נגן נייד אחר.&lt;br/&gt;&lt;br/&gt;משך כל פרק בין 20-60 דקות&lt;br/&gt;&lt;br/&gt;שלכם,&lt;br/&gt;איתן&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&lt;/p&gt;</content:encoded>
-    <itunes:image href="https://storage.buzzsprout.com/variants/5uak5p3gmhlbj8d6i05yxalpn50j/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg"/>
-    <itunes:author>איתן עזריה I אימון מנטלי להישגים</itunes:author>
-    <enclosure url="https://www.buzzsprout.com/281270/10556155-120.mp3" length="35644110" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-10556155</guid>
-    <pubDate>Tue, 14 Jun 2022 05:31:01 +0000</pubDate>
-    <itunes:duration>2966</itunes:duration>
-    <itunes:keywords/>
-    <itunes:season>2</itunes:season>
-    <itunes:episode>120</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>Zombie Statistics Spectacular!</itunes:title>
-    <title>Zombie Statistics Spectacular!</title>
-    <description>שיחה על סטטיסטיקת השמנה שכולם מכירים אבל לא בטוח שאנחנו יודעים מה המקור שלה. בשיחה המנחים לוקחים כמה סטטיסטיקות כאלו שהם קוראים להן "סטטיסטיקות זומבי" ומנתחים אותן לעומק. מה המקורות שלהן, למה הן לא נכונות (בדרך כלל) ולאיזה נזק הן גורמות.&lt;br&gt;#בריאות #אנגלית #סטטיסטיקה&lt;br&gt;&lt;br&gt;Maintenance phase - Zombie Statistics Spectacular!&lt;br&gt;משך: 57 דק' &lt;br&gt;&lt;br&gt;https://pca.st/m6dy19x3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Debunking some of the most widely repeated myths about fat and health. &lt;br/&gt;&lt;br/&gt;Here&amp;apos;s &lt;a href='https://youtu.be/inqOqgklH68'&gt;Mike&amp;apos;s new video&lt;/a&gt;! &lt;br/&gt;&lt;br/&gt;Support us:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='https://www.patreon.com/maintenancephase'&gt;Hear bonus episodes on Patreon&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='https://paypal.me/maintenancephase'&gt;Donate on PayPal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='http://tee.pub/lic/maintenancephase'&gt;Get Maintenance Phase T-shirts, stickers and more&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thanks to &lt;a href='https://freesound.org/people/Doctor_Dreamchip/'&gt;Doctor Dreamchip&lt;/a&gt; for our lovely theme song!&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/maintenancephase"&gt;Support the show&lt;/a&gt;</description>
-    <content:encoded>שיחה על סטטיסטיקת השמנה שכולם מכירים אבל לא בטוח שאנחנו יודעים מה המקור שלה. בשיחה המנחים לוקחים כמה סטטיסטיקות כאלו שהם קוראים להן "סטטיסטיקות זומבי" ומנתחים אותן לעומק. מה המקורות שלהן, למה הן לא נכונות (בדרך כלל) ולאיזה נזק הן גורמות.&lt;br&gt;#בריאות #אנגלית #סטטיסטיקה&lt;br&gt;&lt;br&gt;Maintenance phase - Zombie Statistics Spectacular!&lt;br&gt;משך: 57 דק' &lt;br&gt;&lt;br&gt;https://pca.st/m6dy19x3&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Debunking some of the most widely repeated myths about fat and health. &lt;br/&gt;&lt;br/&gt;Here&amp;apos;s &lt;a href='https://youtu.be/inqOqgklH68'&gt;Mike&amp;apos;s new video&lt;/a&gt;! &lt;br/&gt;&lt;br/&gt;Support us:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href='https://www.patreon.com/maintenancephase'&gt;Hear bonus episodes on Patreon&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='https://paypal.me/maintenancephase'&gt;Donate on PayPal&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href='http://tee.pub/lic/maintenancephase'&gt;Get Maintenance Phase T-shirts, stickers and more&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thanks to &lt;a href='https://freesound.org/people/Doctor_Dreamchip/'&gt;Doctor Dreamchip&lt;/a&gt; for our lovely theme song!&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/maintenancephase"&gt;Support the show&lt;/a&gt;</content:encoded>
-    <itunes:author/>
-    <enclosure url="https://www.buzzsprout.com/1411126/10458626-zombie-statistics-spectacular.mp3" length="41745338" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-10458626</guid>
-    <pubDate>Tue, 14 Jun 2022 05:30:08 +0000</pubDate>
-    <podcast:transcript url="https://feeds.buzzsprout.com/1411126/10458626/transcript" type="text/html"/>
-    <itunes:duration>3476</itunes:duration>
-    <itunes:keywords/>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item></channel>
+    </item></channel>
 </rss>
