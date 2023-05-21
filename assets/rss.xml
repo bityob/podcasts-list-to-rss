@@ -10,9 +10,100 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 20 May 2023 06:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2023 06:36:26 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>Podcasting? Radio? It’s all one big opportunity for iHeartMedia digital CEO Conal Byrne</title>
+      <description>שיחה מעניינת עם מנכ"ל iHeartMedia, קונצרן התקשורת שמאגד תחתיו עשרות פודקאסטים מוצלחים, תחנות רדיו ועוד..&lt;br&gt;שיחה שכמובן נוגעת באינטרסים שלו לקדם את הערוצים שלו אבל בין לבין מראה את נקודת המבט של מי שאחראי על יצירת תוכן מסיבית ולהרבה פודקאסטים שאני אישית מאוד אוהבת. &lt;br&gt;#שיווק #פודקאסטים #אנגלית&lt;br&gt;&lt;br&gt;Decoder - Podcasting? Radio? It’s all one big opportunity for iHeartMedia digital CEO Conal Byrne&lt;br&gt;משך: שעה ו7 דק' &lt;br&gt;&lt;br&gt;https://pca.st/w1op77v6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We taped this episode live at Hot Pod Summit. That’s our conference for the podcast industry. We have a whole newsletter for podcasters. It’s called Hot Pod, written by our very own Ariel Shapiro. Hot Pod Summit is where we bring that community of creators, trendsetters and decision-makers together to explore the latest developments in podcasting, audiobooks, and more. It was a packed house and a great time.
+We ended the day by recording our first-ever live Decoder with Conal Byrne, CEO of iHeartMedia’s digital audio group. Conal oversees podcasting at a giant radio company, and his group accounts for a quarter of iHeart’s revenue, which was $1 billion last quarter alone. His team makes some of the biggest podcasts around, with huge talent like Will Ferrell, Shonda Rhimes, and Charlamagne tha God, who you’ll hear Conal talk about quite a lot.
+Conal and iHeart Digital earned that success by doing some unconventional things. Whereas other big podcasting players like Spotify and Apple have tried to boost revenue through subscriptions or platform exclusivity, Conal shunned those approaches and said he’s going for big audience reach, made possible in part by his ability to run ads and even shows on iHeart’s huge network of traditional radio stations. 
+But that maverick approach has included some controversial steps as well. Last year, Verge alumni and Bloomberg reporter Ashley Carman reported that iHeart worked with a firm called Jun Group to essentially buy podcast downloads through video games. To many in the industry, that seemed pretty disingenuous. So of course I asked Conal about that and lots more. He was a great guest, super game to answer the questions, especially in front of a live audience.
+
+Links:
+iHeartMedia Buys Stuff Media for $55 Million - WSJ 
+Podcasters Are Buying Millions of Listeners Through Mobile-Game Ads 
+Cost Per Thousand (CPM) Definition and Its Role in Marketing
+Spotify reportedly paid $200 million for Joe Rogan’s podcast - The Verge
+Chris Dixon thinks web3 is the future of the internet — is it? - Decoder, The Verge
+Decoder with Nilay Patel (@decoderpod) Official | TikTok  
+
+Transcript:
+https://www.theverge.com/e/23381445
+
+Credits:
+Decoder is a production of The Verge and part of the Vox Media Podcast Network.
+It was produced by Creighton DeSimone and Jackie McDermott and it was edited by Callie Wright. 
+The Decoder music is by Breakmaster Cylinder. Our Editorial Director is Brooke Minters and our Executive Director is Eleanor Donovan.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</description>
+      <pubDate>Sun, 21 May 2023 04:55:00 +0000</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>The Verge</itunes:author>
+      <itunes:subtitle>Amid layoffs and a looming recession, folks are concerned about the audio industry. iHeart’s podcast head Conal Byrne is not worried. Here’s why.</itunes:subtitle>
+      <itunes:summary>שיחה מעניינת עם מנכ"ל iHeartMedia, קונצרן התקשורת שמאגד תחתיו עשרות פודקאסטים מוצלחים, תחנות רדיו ועוד..&lt;br&gt;שיחה שכמובן נוגעת באינטרסים שלו לקדם את הערוצים שלו אבל בין לבין מראה את נקודת המבט של מי שאחראי על יצירת תוכן מסיבית ולהרבה פודקאסטים שאני אישית מאוד אוהבת. &lt;br&gt;#שיווק #פודקאסטים #אנגלית&lt;br&gt;&lt;br&gt;Decoder - Podcasting? Radio? It’s all one big opportunity for iHeartMedia digital CEO Conal Byrne&lt;br&gt;משך: שעה ו7 דק' &lt;br&gt;&lt;br&gt;https://pca.st/w1op77v6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We taped this episode live at Hot Pod Summit. That’s our conference for the podcast industry. We have a whole newsletter for podcasters. It’s called Hot Pod, written by our very own Ariel Shapiro. Hot Pod Summit is where we bring that community of creators, trendsetters and decision-makers together to explore the latest developments in podcasting, audiobooks, and more. It was a packed house and a great time.
+We ended the day by recording our first-ever live Decoder with Conal Byrne, CEO of iHeartMedia’s digital audio group. Conal oversees podcasting at a giant radio company, and his group accounts for a quarter of iHeart’s revenue, which was $1 billion last quarter alone. His team makes some of the biggest podcasts around, with huge talent like Will Ferrell, Shonda Rhimes, and Charlamagne tha God, who you’ll hear Conal talk about quite a lot.
+Conal and iHeart Digital earned that success by doing some unconventional things. Whereas other big podcasting players like Spotify and Apple have tried to boost revenue through subscriptions or platform exclusivity, Conal shunned those approaches and said he’s going for big audience reach, made possible in part by his ability to run ads and even shows on iHeart’s huge network of traditional radio stations. 
+But that maverick approach has included some controversial steps as well. Last year, Verge alumni and Bloomberg reporter Ashley Carman reported that iHeart worked with a firm called Jun Group to essentially buy podcast downloads through video games. To many in the industry, that seemed pretty disingenuous. So of course I asked Conal about that and lots more. He was a great guest, super game to answer the questions, especially in front of a live audience.
+
+Links:
+iHeartMedia Buys Stuff Media for $55 Million - WSJ 
+Podcasters Are Buying Millions of Listeners Through Mobile-Game Ads 
+Cost Per Thousand (CPM) Definition and Its Role in Marketing
+Spotify reportedly paid $200 million for Joe Rogan’s podcast - The Verge
+Chris Dixon thinks web3 is the future of the internet — is it? - Decoder, The Verge
+Decoder with Nilay Patel (@decoderpod) Official | TikTok  
+
+Transcript:
+https://www.theverge.com/e/23381445
+
+Credits:
+Decoder is a production of The Verge and part of the Vox Media Podcast Network.
+It was produced by Creighton DeSimone and Jackie McDermott and it was edited by Callie Wright. 
+The Decoder music is by Breakmaster Cylinder. Our Editorial Director is Brooke Minters and our Executive Director is Eleanor Donovan.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</itunes:summary>
+      <content:encoded>שיחה מעניינת עם מנכ"ל iHeartMedia, קונצרן התקשורת שמאגד תחתיו עשרות פודקאסטים מוצלחים, תחנות רדיו ועוד..&lt;br&gt;שיחה שכמובן נוגעת באינטרסים שלו לקדם את הערוצים שלו אבל בין לבין מראה את נקודת המבט של מי שאחראי על יצירת תוכן מסיבית ולהרבה פודקאסטים שאני אישית מאוד אוהבת. &lt;br&gt;#שיווק #פודקאסטים #אנגלית&lt;br&gt;&lt;br&gt;Decoder - Podcasting? Radio? It’s all one big opportunity for iHeartMedia digital CEO Conal Byrne&lt;br&gt;משך: שעה ו7 דק' &lt;br&gt;&lt;br&gt;https://pca.st/w1op77v6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We taped this episode live at Hot Pod Summit. That’s our conference for the podcast industry. We have a whole newsletter for podcasters. It’s called Hot Pod, written by our very own Ariel Shapiro. Hot Pod Summit is where we bring that community of creators, trendsetters and decision-makers together to explore the latest developments in podcasting, audiobooks, and more. It was a packed house and a great time.
+We ended the day by recording our first-ever live Decoder with Conal Byrne, CEO of iHeartMedia’s digital audio group. Conal oversees podcasting at a giant radio company, and his group accounts for a quarter of iHeart’s revenue, which was $1 billion last quarter alone. His team makes some of the biggest podcasts around, with huge talent like Will Ferrell, Shonda Rhimes, and Charlamagne tha God, who you’ll hear Conal talk about quite a lot.
+Conal and iHeart Digital earned that success by doing some unconventional things. Whereas other big podcasting players like Spotify and Apple have tried to boost revenue through subscriptions or platform exclusivity, Conal shunned those approaches and said he’s going for big audience reach, made possible in part by his ability to run ads and even shows on iHeart’s huge network of traditional radio stations. 
+But that maverick approach has included some controversial steps as well. Last year, Verge alumni and Bloomberg reporter Ashley Carman reported that iHeart worked with a firm called Jun Group to essentially buy podcast downloads through video games. To many in the industry, that seemed pretty disingenuous. So of course I asked Conal about that and lots more. He was a great guest, super game to answer the questions, especially in front of a live audience.
+
+Links:
+iHeartMedia Buys Stuff Media for $55 Million - WSJ 
+Podcasters Are Buying Millions of Listeners Through Mobile-Game Ads 
+Cost Per Thousand (CPM) Definition and Its Role in Marketing
+Spotify reportedly paid $200 million for Joe Rogan’s podcast - The Verge
+Chris Dixon thinks web3 is the future of the internet — is it? - Decoder, The Verge
+Decoder with Nilay Patel (@decoderpod) Official | TikTok  
+
+Transcript:
+https://www.theverge.com/e/23381445
+
+Credits:
+Decoder is a production of The Verge and part of the Vox Media Podcast Network.
+It was produced by Creighton DeSimone and Jackie McDermott and it was edited by Callie Wright. 
+The Decoder music is by Breakmaster Cylinder. Our Editorial Director is Brooke Minters and our Executive Director is Eleanor Donovan.
+Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:encoded>
+      <itunes:duration>4139</itunes:duration>
+      <guid isPermaLink="false">2b5c1abc-350f-11ed-8d52-f32ff6519ffe</guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/524GE/traffic.megaphone.fm/VMP4473291832.mp3?updated=1677594462" length="0" type="audio/mpeg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>The Beatles - Strawberry Fields Forever - האזנה מודרכת</title>
+      <itunes:title>The Beatles - Strawberry Fields Forever - האזנה מודרכת</itunes:title>
+      <description>שדות תות לנצח? 🍓&lt;br&gt;סיפורו של אחד השירים הכי מפורסמים של הביטלס. מה הייתה ההשראה לכתיבתו ואיך נדרשו מעל 20 גרסאות כדי להגיע לשתיים שבסוף אוחדו לגרסה הסופית. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;האזמנה מודרכת - The Beatles - Strawberry Fields Forever - האזנה מודרכת&lt;br&gt;משך: 14 דק' &lt;br&gt;&lt;br&gt;https://pca.st/epgge44n&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הביטלס הקליטו 26 טייקים שונים לשיר הזה, את אף אחד מהם הם לא אהבו מספיק. אז מה הם עשו? לקחו חלק אחד מפה וחלק אחר משם, וככה נולדה הקלאסיקה שחוזרת אל נופי הגן הקסום מילדותו של ג'ון לנון.</description>
+      <content:encoded>שדות תות לנצח? 🍓&lt;br&gt;סיפורו של אחד השירים הכי מפורסמים של הביטלס. מה הייתה ההשראה לכתיבתו ואיך נדרשו מעל 20 גרסאות כדי להגיע לשתיים שבסוף אוחדו לגרסה הסופית. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;האזמנה מודרכת - The Beatles - Strawberry Fields Forever - האזנה מודרכת&lt;br&gt;משך: 14 דק' &lt;br&gt;&lt;br&gt;https://pca.st/epgge44n&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הביטלס הקליטו 26 טייקים שונים לשיר הזה, את אף אחד מהם הם לא אהבו מספיק. אז מה הם עשו? לקחו חלק אחד מפה וחלק אחר משם, וככה נולדה הקלאסיקה שחוזרת אל נופי הגן הקסום מילדותו של ג'ון לנון.</content:encoded>
+      <itunes:summary>שדות תות לנצח? 🍓&lt;br&gt;סיפורו של אחד השירים הכי מפורסמים של הביטלס. מה הייתה ההשראה לכתיבתו ואיך נדרשו מעל 20 גרסאות כדי להגיע לשתיים שבסוף אוחדו לגרסה הסופית. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;האזמנה מודרכת - The Beatles - Strawberry Fields Forever - האזנה מודרכת&lt;br&gt;משך: 14 דק' &lt;br&gt;&lt;br&gt;https://pca.st/epgge44n&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;הביטלס הקליטו 26 טייקים שונים לשיר הזה, את אף אחד מהם הם לא אהבו מספיק. אז מה הם עשו? לקחו חלק אחד מפה וחלק אחר משם, וככה נולדה הקלאסיקה שחוזרת אל נופי הגן הקסום מילדותו של ג'ון לנון.</itunes:summary>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>גלגלצ</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/7c970067-5af0-4867-ad2c-ae4a00a4879f/image.jpg?t=1646042344&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/7c970067-5af0-4867-ad2c-ae4a00a4879f/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/haazanamudrechet/the-beatles-strawberry-fields-forever/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/7c970067-5af0-4867-ad2c-ae4a00a4879f/image.jpg?t=1646042344&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">5f802bb9f231b41a2c7c9cca</guid>
+      <omny:clipId>7c970067-5af0-4867-ad2c-ae4a00a4879f</omny:clipId>
+      <pubDate>Sun, 21 May 2023 04:53:00 +0000</pubDate>
+      <itunes:duration>856</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/7c970067-5af0-4867-ad2c-ae4a00a4879f/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" length="13736317" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/haazanamudrechet/the-beatles-strawberry-fields-forever</link>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>#112 | רוית גופמן וענבל בן יהודה | זמן לחשוב</title>
 			<description>שיחה מגניבה עם ענבל בן יהודה על התוכנית של 8200 לעסקים קטנים. &lt;br&gt;גם אני חלק מהנהלת התוכנית ואני שמחה לפרק הזה כדי לספר לעולם על התוכנית - מי משתתף בה ואיך עוזרים לעסקים הקטנים בעזרת קבוצה אדירה של אנשים מדהימים שמתנדבים 😎&lt;br&gt;#ישראל #ראיוןמעניין &lt;br&gt;&lt;br&gt;זמן לחשוב - #112 רוית גופמן וענבל בן יהודה &lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ma5r355x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;'זמן לחשוב' עם רוית גופמן וענבל בן יהודה&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;כל עסק צריך לפחות מנטור אחד שיאמין בו&lt;/strong&gt;&lt;/p&gt;
@@ -225,7 +316,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2735</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d21871c6-3a46-4d63-aff4-afba0112be31/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43780822" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-3ea078a6-5c1c-4d43-b2ed-00cdda766bbb</link>
-      <itunes:order>18</itunes:order>
+      <itunes:order>21</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 3</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 3</itunes:title>
@@ -244,7 +335,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2654</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/580ee08d-747e-4415-8a9a-afba010f15d4/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42483059" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-f831acc9-261f-4b10-8d1f-2f73d7b8eed6</link>
-      <itunes:order>19</itunes:order>
+      <itunes:order>22</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 2</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 2</itunes:title>
@@ -265,7 +356,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2630</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5f45fb29-09f7-46b3-a271-afba010b8a24/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42096865" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-5d855b46-a96a-4ac9-98dc-bf140c6524db</link>
-      <itunes:order>20</itunes:order>
+      <itunes:order>23</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 1</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 1</itunes:title>
@@ -284,7 +375,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2805</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a18b4a56-88d8-4888-a481-afba01067cf9/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44903879" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/a18b4a56-88d8-4888-a481-afba01067cf9</link>
-      <itunes:order>21</itunes:order>
+      <itunes:order>24</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>המלחמה ששינתה את המזרח התיכון</title>
       <itunes:title>המלחמה ששינתה את המזרח התיכון</itunes:title>
@@ -1198,7 +1289,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2792</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a54bbe6f-a668-4ba7-a8e1-af96012362da/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44725479" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-cef7fa11-671f-423e-a001-9093300a4b2f</link>
-      <itunes:order>38</itunes:order>
+      <itunes:order>41</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 3</title>
       <itunes:title>בית ספר לריגול - פרק 3</itunes:title>
@@ -1217,7 +1308,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2612</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a9633f8f-3e3b-4e03-99d0-af96011decaa/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41852009" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-27577afd-df32-4770-8e25-a651bd2ff62a</link>
-      <itunes:order>39</itunes:order>
+      <itunes:order>42</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 2</title>
       <itunes:title>בית ספר לריגול - פרק 2</itunes:title>
@@ -1236,7 +1327,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2924</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/89cc4ccb-1957-4145-9c0a-af96011ac9d1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46845367" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-99e70e6b-723c-4c19-9744-513c450cf86e</link>
-      <itunes:order>40</itunes:order>
+      <itunes:order>43</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 1</title>
       <itunes:title>בית ספר לריגול - פרק 1</itunes:title>
@@ -1255,7 +1346,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2606</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/ab8cac4e-171e-443b-828e-af960114204a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41759640" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/ab8cac4e-171e-443b-828e-af960114204a</link>
-      <itunes:order>41</itunes:order>
+      <itunes:order>44</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss"><title>The $12,000 Mistake with Vivian Kaye</title><description>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -5152,7 +5243,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2745</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a5d6bf7f-dbf3-46ea-9d47-af3000b33abb/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43957482" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-88a186e8-c0ce-42a1-832a-ca7c347dda18</link>
-      <itunes:order>81</itunes:order>
+      <itunes:order>84</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 3</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 3</itunes:title>
@@ -5171,7 +5262,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2911</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/2a809414-43fa-49a0-99a7-af3000b0be7a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46608179" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-8d5b0645-8058-4b33-b63a-0bd5236b6d96</link>
-      <itunes:order>82</itunes:order>
+      <itunes:order>85</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 2</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 2</itunes:title>
@@ -5190,7 +5281,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2901</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/99172b90-675f-494c-b30b-af3000ae513c/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46453534" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-2d0dda7c-36f1-4ef0-9d15-0b90990e1dc7</link>
-      <itunes:order>83</itunes:order>
+      <itunes:order>86</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 1</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 1</itunes:title>
@@ -5209,7 +5300,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2815</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/73b2cfde-1950-4f7e-8687-af3000aa4702/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45076777" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-121f00c1-592c-42ef-ba82-72b49fc1e967</link>
-      <itunes:order>84</itunes:order>
+      <itunes:order>87</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>126: REvil</title>
       <link>https://darknetdiaries.com/episode/126</link>
@@ -7659,7 +7750,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2057</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="32947027" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-866a5bf0-6de1-45ec-9919-ab795dd6769c</link>
-      <itunes:order>110</itunes:order>
+      <itunes:order>113</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 3</title>
       <itunes:title>על הקומיקס - חלק 3</itunes:title>
@@ -7680,7 +7771,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2522</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="40386700" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-7b6b2a31-c178-4f3f-8bc9-49b8cf7260f9</link>
-      <itunes:order>111</itunes:order>
+      <itunes:order>114</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 2</title>
       <itunes:title>על הקומיקס - חלק 2</itunes:title>
@@ -7699,7 +7790,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2285</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36582854" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4b964f05-1648-4e08-a380-b1ab19214bf8</link>
-      <itunes:order>112</itunes:order>
+      <itunes:order>115</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 1</title>
       <itunes:title>על הקומיקס - חלק 1</itunes:title>
@@ -7718,7 +7809,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2857</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45735742" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</link>
-      <itunes:order>117</itunes:order>
+      <itunes:order>120</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Wake up and smell the fraud</title>
       <description>זה סיפור ממש מעניין שכנראה לא היה מתגלה אם הגיבורה הראשית לא הייתה חוקרת מקצועית. אנחנו רגילים לזהות רמאות באינטרנט ע"פ זה שאנחנו מפסידים כסף. אבל Nina Kollars מזהה רמאות גם כשהיא מזמינה קפסולות מאיביי ומקבלת לא רק קפסולות אלא גם מכונת קפה חדשה. מכאן זה סיפור של הדרכים החדשות להלבין כסף באינטרנט. &lt;br&gt;#כלכלה #טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - Wake up and smell the fraud&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;https://pca.st/wvhumxju&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Sometimes online shopping can feel a little unsavory. There are the listings that make you question if you'll really be getting exactly what's advertised. And there's no worse feeling than paying for something and then not getting it. But when Nina Kollars ordered coffee pods and got WAY more than she asked for, it made her feel just as uneasy. Her quest for answers and what it teaches us about a new generation of online fraud. | Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;.</description>
@@ -10005,7 +10096,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2113</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/4c43b6fe-0c76-46da-a2d1-ae8100ca99f2/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="33820711" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-85f4cc14-3ec6-4b81-9101-38692c14fb0c</link>
-      <itunes:order>164</itunes:order>
+      <itunes:order>167</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 3</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 3</itunes:title>
@@ -10026,7 +10117,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2573</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5803158e-6b2d-43ad-8feb-ae8100c8f4cc/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41180554" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-fbded6a8-3b08-4338-b39c-dba536f94365</link>
-      <itunes:order>165</itunes:order>
+      <itunes:order>168</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 2</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 2</itunes:title>
@@ -10047,7 +10138,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2804</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/93441b94-1f7b-4b80-b666-ae8100c64699/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44883255" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-bf4bb4ef-f643-4d81-bf56-9e39d66a59f4</link>
-      <itunes:order>166</itunes:order>
+      <itunes:order>169</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מעמדה החשאי של ישראל במזרח התיכון - חלק 1</title>
       <itunes:title>מעמדה החשאי של ישראל במזרח התיכון - חלק 1</itunes:title>
@@ -10068,7 +10159,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2460</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/e04f363b-48c5-4ff8-9c1b-ae8100c47316/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="39374971" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-5bc3b01e-fd98-4d67-87af-ec665b0d62d3</link>
-      <itunes:order>167</itunes:order>
+      <itunes:order>170</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>The Fight Over a Menthol Cigarette Ban</title>
       <description>רשות המזון והתרופות האמריקאית מנסה לאסור על המכירה של סיגריות מנטול. ומסתבר שזה סיפור הרבה יותר מורכב מאשר לאסור שימוש בסוג מסויים של סיגריות. כי רוב המעשנים של הסיגריות הללו בארה"ב הם אפרו אמריקאיים והם מפחדים שברגע שיהיה איסור חוקי זה יאפשר למשטרה להתנכל להם בקלות רבה יותר. &lt;br&gt;#משפט #אנגלית &lt;br&gt;&lt;br&gt;The journal - The Fight Over a Menthol Cigarette Ban&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;https://pca.st/2vls8wab&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;After decades of debate, the Food and Drug Administration is proposing a ban on menthol cigarettes. A researcher of the tobacco industry explains the benefits of a potential ban, and WSJ’s Jennifer Maloney explains why some want menthols to stay on the market.
@@ -10164,87 +10255,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:duration>01:00:10</itunes:duration>
                 <itunes:episode>80</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog4040835/b5mr9.jpg"/>    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית</title>
-        <itunes:title>הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית</itunes:title>
-        <link>https://dannyorbach.podbean.com/e/%d7%94%d7%92%d7%95%d7%a4%d7%94%d7%a9%d7%a8%d7%99%d7%9e%d7%aa%d7%94-%d7%90%d7%aa%d7%94%d7%99%d7%98%d7%9c%d7%a8-%d7%9e%d7%91%d7%a6%d7%a2-%d7%91%d7%a9/</link>
-                    <comments>https://dannyorbach.podbean.com/e/%d7%94%d7%92%d7%95%d7%a4%d7%94%d7%a9%d7%a8%d7%99%d7%9e%d7%aa%d7%94-%d7%90%d7%aa%d7%94%d7%99%d7%98%d7%9c%d7%a8-%d7%9e%d7%91%d7%a6%d7%a2-%d7%91%d7%a9/#comments</comments>        <pubDate>Thu, 16 Jun 2022 04:01:01 +0000</pubDate>
-        <guid isPermaLink="false">dannyorbach.podbean.com/a91d29b9-4cb3-3625-9e26-62d87bb4e701</guid>
-                      <description>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </description>
-                      <content:encoded>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/kz5eqd/_22a8t05.mp3" length="54481796" type="audio/mpeg"/>
-        <itunes:subtitle>ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סי...</itunes:subtitle>
-        <itunes:summary>ראיתי בנטפליקס את הסרט Operation Mincemeat (לא רע) ונזכרתי שמעולם לא המלצתי לכם על הפרק שבו שמעתי בפעם הראשונה על הסיפור הזה. מדובר בסיפור הטעיה מרתק מימי מלחמת העולם השניה, איך הבריטים יצרו אשליה שאכן עבדה על היטלר שהם מתכוונים לפלוש ביוון ולא בסציליה (כמו שקרה בפועל). &lt;br&gt;הפרק נותן תמונה הרבה יותר רחבה מהסרט..&lt;br&gt;#סיפורמעניין #מודיעין #הסטוריה &lt;br&gt;&lt;br&gt;סוכן משולש - הגופה שרימתה את היטלר: מבצע בשר קצוץ ותורת ההונאה האסטרטגית&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9ojkihz9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;ליד העיר הספרדית הואלבה יש מצבה בריטית שעליה מונצח "גלינדויר מייקל, ששירת כרב סרן ויליאם מרטין." הוולשי המוזר שמתחתיה הוא שריד לאחד מתרגילי ההונאה המוצלחים ביותר במלחמת העולם השנייה, שנודע לימים כ"מבצע בשר קצוץ". בפרק הנוכחי של סוכן משולש נגולל את סיפורו של המבצע הזה כדוגמא להונאה אסטרטגית. נכיר את תכסיס התרמיל, ונלמד כיצד מבשלים סיפור שקרי ראוי לשמו בכדי לשנות את מהלכה של מלחמה. חשוב מכל: איך נוכל לדעת שהאויב יבלע את ההונאה על קרבה וכרעיה, ובאלו תנאים?
- </itunes:summary>
-        <itunes:author>dannyorbach</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>49:02</itunes:duration>
-                <itunes:episode>23</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/image-logo/8107163/_2_9rprw.jpg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>“F--k Everything, We're Doing Five Blades”</title>
-      <description>מירוץ החימוש כמו שמעולם לא הכרתם! מירוץ החימוש של חברות הגילוח 💥&lt;br&gt;הסיפור המעניין שמאחורי ההמצאה של מכונת גילוח ידנית ואז חד פעמית ואז עם שני להבים ואז 3 להבים ואז 5 ואז....אני חושבת שהבנתם את העיקרון. &lt;br&gt;#סיפורמעניין  #אנגלית &lt;br&gt;&lt;br&gt;Decoder ring - “F--k Everything, We're Doing Five Blades”&lt;br&gt;משך: 42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pypaxdrm&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the early 2000s, an arms race broke out in the world of men’s shaving. After decades with razors that had only one blade and then decades with razors that had only two, the number of blades rapidly spiraled up and up and up.
-It’s a skirmish sometimes referred to as The Razor Blade Wars, and it was a face-off about innovation, competition, capitalism, masculinity, and most of all, how strange things can become after you’ve created something that’s the best a consumer can get — and then you have to keep going.
-Some of the voices you’ll hear in this episode include Rebecca Herzig, author of Plucked: A History of Hair Removal; Tim Dowling, Guardian columnist and author of Inventor of the Disposable Culture: King Camp Gillette 1855-1932; Dan Koeppel, razor blade zelig; and Kaitlyn Tiffany, writer for the Atlantic. 
-If you want to read more about razor blades, check out:
-
-Cutting edge : Gillette's journey to global leadership
-
-King C. Gillette, the man and his wonderful shaving device
-
-Satisfaction Guaranteed: The Making of the American Mass Market
-
-
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 16 Jun 2022 04:00:50 +0000</pubDate>
-      <itunes:title>“F--k Everything, We're Doing Five Blades”</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>Slate Podcasts</itunes:author>
-      <itunes:subtitle>The story of how razors came to have so many blades.</itunes:subtitle>
-      <itunes:summary>מירוץ החימוש כמו שמעולם לא הכרתם! מירוץ החימוש של חברות הגילוח 💥&lt;br&gt;הסיפור המעניין שמאחורי ההמצאה של מכונת גילוח ידנית ואז חד פעמית ואז עם שני להבים ואז 3 להבים ואז 5 ואז....אני חושבת שהבנתם את העיקרון. &lt;br&gt;#סיפורמעניין  #אנגלית &lt;br&gt;&lt;br&gt;Decoder ring - “F--k Everything, We're Doing Five Blades”&lt;br&gt;משך: 42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pypaxdrm&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the early 2000s, an arms race broke out in the world of men’s shaving. After decades with razors that had only one blade and then decades with razors that had only two, the number of blades rapidly spiraled up and up and up.
-It’s a skirmish sometimes referred to as The Razor Blade Wars, and it was a face-off about innovation, competition, capitalism, masculinity, and most of all, how strange things can become after you’ve created something that’s the best a consumer can get — and then you have to keep going.
-Some of the voices you’ll hear in this episode include Rebecca Herzig, author of Plucked: A History of Hair Removal; Tim Dowling, Guardian columnist and author of Inventor of the Disposable Culture: King Camp Gillette 1855-1932; Dan Koeppel, razor blade zelig; and Kaitlyn Tiffany, writer for the Atlantic. 
-If you want to read more about razor blades, check out:
-
-Cutting edge : Gillette's journey to global leadership
-
-King C. Gillette, the man and his wonderful shaving device
-
-Satisfaction Guaranteed: The Making of the American Mass Market
-
-
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>מירוץ החימוש כמו שמעולם לא הכרתם! מירוץ החימוש של חברות הגילוח 💥&lt;br&gt;הסיפור המעניין שמאחורי ההמצאה של מכונת גילוח ידנית ואז חד פעמית ואז עם שני להבים ואז 3 להבים ואז 5 ואז....אני חושבת שהבנתם את העיקרון. &lt;br&gt;#סיפורמעניין  #אנגלית &lt;br&gt;&lt;br&gt;Decoder ring - “F--k Everything, We're Doing Five Blades”&lt;br&gt;משך: 42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pypaxdrm&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the early 2000s, an arms race broke out in the world of men’s shaving. After decades with razors that had only one blade and then decades with razors that had only two, the number of blades rapidly spiraled up and up and up.
-It’s a skirmish sometimes referred to as The Razor Blade Wars, and it was a face-off about innovation, competition, capitalism, masculinity, and most of all, how strange things can become after you’ve created something that’s the best a consumer can get — and then you have to keep going.
-Some of the voices you’ll hear in this episode include Rebecca Herzig, author of Plucked: A History of Hair Removal; Tim Dowling, Guardian columnist and author of Inventor of the Disposable Culture: King Camp Gillette 1855-1932; Dan Koeppel, razor blade zelig; and Kaitlyn Tiffany, writer for the Atlantic. 
-If you want to read more about razor blades, check out:
-
-Cutting edge : Gillette's journey to global leadership
-
-King C. Gillette, the man and his wonderful shaving device
-
-Satisfaction Guaranteed: The Making of the American Mass Market
-
-
-Decoder Ring is written and produced by Willa Paskin. This episode was produced by Elizabeth Nakano. Derek John is Sr. Supervising Producer of Narrative Podcasts. 
-If you have any cultural mysteries you want us to decode, email us at DecoderRing@slate.com
-If you love the show and want to support us, consider joining Slate Plus. With Slate Plus you get ad-free podcasts, bonus episodes, and total access to all of Slate’s journalism.
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>2532</itunes:duration>
-      <guid isPermaLink="false">1000557644182</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/verifi.podscribe.com/rss/p/chtbl.com/track/28D492/traffic.megaphone.fm/SLT5816181454.mp3?updated=1656003052" length="0" type="audio/mpeg"/>
-    </item></channel>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog4040835/b5mr9.jpg"/>    </item></channel>
 </rss>
