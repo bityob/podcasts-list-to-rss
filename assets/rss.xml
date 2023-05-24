@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 23 May 2023 06:37:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 May 2023 06:37:02 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <itunes:title>Doctors Have a New Plan for Fat Kids</itunes:title>
@@ -5939,11 +5939,11 @@ https://www.ads.ranlevi.com/2022/09/19/metro-answer-pearl/</itunes:subtitle><itu
       <itunes:keywords>podcast, advertising, ads, dynamic ad insertion, dynamic ads, baked-in, sponsorship, sponsored, sponsor, themed, ad sales, revenue, paywall, subscription, advertorial</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>iHeartPodcasts</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/659ad4ad-c26b-48a7-bb34-ae2b00350f07/image.jpg?t=1643339598&amp;size=Large"/>
+      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large"/>
       <media:content url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/2ab22892-f3ff-475c-a09c-af10015c379b/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/techstuff/how-dynamic-ads-work-in-podcasts/embed"/>
       </media:content>
-      <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/659ad4ad-c26b-48a7-bb34-ae2b00350f07/image.jpg?t=1643339598&amp;size=Large" type="image/jpeg"/>
+      <media:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large" type="image/jpeg"/>
       <guid isPermaLink="false">2ab22892-f3ff-475c-a09c-af10015c379b</guid>
       <omny:clipId>2ab22892-f3ff-475c-a09c-af10015c379b</omny:clipId>
       <pubDate>Tue, 15 Nov 2022 05:01:04 +0000</pubDate>
