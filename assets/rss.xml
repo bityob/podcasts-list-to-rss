@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 15 Jun 2023 06:37:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jun 2023 06:37:34 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>‘The Goliath is Amazon’: after 100 years, Barnes &amp; Noble wants to go back to its indie roots</title>
@@ -2652,7 +2652,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:23:31</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29703388/29703388-1661113715824-f049aa12331a1.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/29703388/29703388-1686861780408-c5a0b46c47f98.jpg"/>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>12</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
@@ -4518,7 +4518,7 @@ Production Credits
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:28:58</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29703388/29703388-1661113715824-f049aa12331a1.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/29703388/29703388-1686861927253-63fbde5b50b83.jpg"/>
 			<itunes:episode>9</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
@@ -6338,7 +6338,7 @@ https://www.ads.ranlevi.com/2022/09/19/metro-answer-pearl/</itunes:subtitle><itu
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:19:12</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/29703388/29703388-1661113715824-f049aa12331a1.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/29703388/29703388-1686862104643-242db07c92368.jpg"/>
 			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -6919,10 +6919,10 @@ Visit shopify.com/20k to get a free 14-day trial with Shopify’s entire suite o
 Try out Harry’s with a $3 starter set at harrys.com/20k.
 Episode transcript, music, and credits can be found here: https://www.20k.org/episodes/tokyorose 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1752</itunes:duration>
+      <itunes:duration>1602</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">09d10350-24a0-11ed-bbab-a777f3cd67e1</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH6405148630.mp3?updated=1679085172" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH6405148630.mp3?updated=1686850034" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">09ef046f-c292-4372-84de-d9b2d7ea75db</guid>
       <title>25: ״חדשנות פסיכולוגית״ עם אליאב אללוף</title>
