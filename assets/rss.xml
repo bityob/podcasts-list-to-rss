@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 20 Jul 2023 06:37:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jul 2023 06:37:37 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
       <title>The Stone of Destiny Returns</title>
@@ -7537,6 +7537,9 @@ https://www.ads.ranlevi.com/2022/09/19/metro-answer-pearl/</itunes:subtitle><itu
       <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/2ab22892-f3ff-475c-a09c-af10015c379b/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="39730191" type="audio/mpeg"/>
       <link>https://omny.fm/shows/techstuff/how-dynamic-ads-work-in-podcasts</link>
       <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ab22892-f3ff-475c-a09c-af10015c379b/transcript?format=SubRip&amp;t=1689849522" type="application/srt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ab22892-f3ff-475c-a09c-af10015c379b/transcript?format=WebVTT&amp;t=1689849522" type="text/vtt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2ab22892-f3ff-475c-a09c-af10015c379b/transcript?format=TextWithTimestamps&amp;t=1689849522" type="text/plain" language="en-US"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>איך לצלם סצנות סקס בעידן שאחרי מי-טו | #59</title>
       <itunes:title>איך לצלם סצנות סקס בעידן שאחרי מי-טו | #59</itunes:title>
