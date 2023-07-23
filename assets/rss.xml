@@ -10,9 +10,44 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 22 Jul 2023 06:36:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jul 2023 06:36:28 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>What's Your Worth?</title>
+      <description>סקירה הסטורית מעניינת של ציון הקרדיט שנפוץ ושולט בכל השוק האמריקאי.&lt;br&gt;איך הוא נוצר? למי הוא היה אמור לעזור ואיך קרה שהיום הוא בעיקר משמש כדי להפריד בין אנשים בעלי רמות הכנסה שונות ולא לחבר ביניהם. שלא להזכיר את המוני האנשים שאין להם קרדיט וכתוצאה מכך הם לא יכולים להשתתף בכלכלה האמריקאית. &lt;br&gt;#כלכלה #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;Throughline - What's Your Worth?&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s87wwtkb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The credit score: even if you don't think much about it, that three-digit number can change your life. A high score can mean the keys to a new apartment or a new car, while a low score can keep you locked out of the American Dream. Around 40% of people in the U.S. have a low credit score or no credit score at all. So what happened? Today on the show, we talk with media historian Josh Lauer about credit's origins as a moral judgment, and how a tool intended to level the playing field has instead created haves and have-nots.</description>
+      <pubDate>Sun, 23 Jul 2023 04:36:02 +0000</pubDate>
+      <guid isPermaLink="false">10f37783-e3e4-4bf1-ac12-bfac2ff87fc7</guid>
+      <link>https://www.npr.org/2023/05/01/1173142340/whats-your-worth</link>
+      <itunes:block>no</itunes:block>
+      <itunes:title>What's Your Worth?</itunes:title>
+      <itunes:episode>238</itunes:episode>
+      <itunes:image href="https://media.npr.org/assets/img/2023/05/02/gettyimages-1409988922_wide-6bf7cfad9e47ad42f50a565faf895843dd1cf903.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:duration>2956</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סקירה הסטורית מעניינת של ציון הקרדיט שנפוץ ושולט בכל השוק האמריקאי.&lt;br&gt;איך הוא נוצר? למי הוא היה אמור לעזור ואיך קרה שהיום הוא בעיקר משמש כדי להפריד בין אנשים בעלי רמות הכנסה שונות ולא לחבר ביניהם. שלא להזכיר את המוני האנשים שאין להם קרדיט וכתוצאה מכך הם לא יכולים להשתתף בכלכלה האמריקאית. &lt;br&gt;#כלכלה #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;Throughline - What's Your Worth?&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/s87wwtkb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The credit score: even if you don't think much about it, that three-digit number can change your life. A high score can mean the keys to a new apartment or a new car, while a low score can keep you locked out of the American Dream. Around 40% of people in the U.S. have a low credit score or no credit score at all. So what happened? Today on the show, we talk with media historian Josh Lauer about credit's origins as a moral judgment, and how a tool intended to level the playing field has instead created haves and have-nots.</content:encoded>
+      <enclosure length="47300067" type="audio/mpeg" url="https://play.podtrac.com/npr-510333/edge1.pod.npr.org/anon.npr-mp3/npr/throughline/2023/05/20230504_throughline_7ce4a24d-663a-40fd-ac0e-99e6d2469b41.mp3?d=2956&amp;size=47300067&amp;e=1173142340&amp;t=podcast&amp;p=510333&amp;awEpisodeId=1173142340&amp;awCollectionId=510333"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/1471100509</guid>
+      <title>איתי אנגל - העיתונאי והכתב האמיץ בעולם שתמיד חותר ללב הסכנה מספר חוויות מסמרות שיער ממקור ראשון</title>
+      <pubDate>Sun, 23 Jul 2023 04:35:07 +0000</pubDate>
+      <link>https://soundcloud.com/benbenbaruch/lt8pau86pkil</link>
+      <itunes:duration>02:58:46</itunes:duration>
+      <itunes:author>בן בן ברוך</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>שיחה עם איתי אנגל על מלחמות וחוויות אחרות. שיחה עדכנית אחרי הביקור של איתי באוקראינה, אז יש לו גם רשמים מהמלחמה הזאת בנוסף מה שהוא יודע לספר על המלחמות האחרות בהן הוא ביקר. ובנוסף יש פה הרבה יותר מהצדדים האישיים שלו - משפחה, תחביבים ודרכי התמודדות עם לחץ. &lt;br&gt;#ראיוןמעניין&lt;br&gt;https://prnt.sc/gf6xX9zaLl2u&lt;br&gt;&lt;br&gt;המוג'ו של בן בן ברוך - איתי אנגל - העיתונאי והכתב האמיץ בעולם שתמיד חותר ללב הסכנה מספר חוויות מסמרות שיער ממקור ראשון&lt;br&gt;משך: שעתיים ו58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qctxx1ml&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איתי אנגל
+האיש שראה במו עיניו מה שאנחנו עוד100  שנה לא נחלום  
+איך זה להיות בלוע הארי, ועדיין לשמור על חיוך  
+ומה באמת מפחיד אותו</itunes:summary>
+      <itunes:subtitle>איתי אנגל
+האיש שראה במו עיניו מה שאנחנו עוד100  ש…</itunes:subtitle>
+      <description>שיחה עם איתי אנגל על מלחמות וחוויות אחרות. שיחה עדכנית אחרי הביקור של איתי באוקראינה, אז יש לו גם רשמים מהמלחמה הזאת בנוסף מה שהוא יודע לספר על המלחמות האחרות בהן הוא ביקר. ובנוסף יש פה הרבה יותר מהצדדים האישיים שלו - משפחה, תחביבים ודרכי התמודדות עם לחץ. &lt;br&gt;#ראיוןמעניין&lt;br&gt;https://prnt.sc/gf6xX9zaLl2u&lt;br&gt;&lt;br&gt;המוג'ו של בן בן ברוך - איתי אנגל - העיתונאי והכתב האמיץ בעולם שתמיד חותר ללב הסכנה מספר חוויות מסמרות שיער ממקור ראשון&lt;br&gt;משך: שעתיים ו58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qctxx1ml&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;איתי אנגל
+האיש שראה במו עיניו מה שאנחנו עוד100  שנה לא נחלום  
+איך זה להיות בלוע הארי, ועדיין לשמור על חיוך  
+ומה באמת מפחיד אותו</description>
+      <enclosure type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1471100509-benbenbaruch-lt8pau86pkil.mp3" length="171619473"/>
+      <itunes:image href="https://i1.sndcdn.com/artworks-yOteHJsQiAzIXGo1-QjHH6g-t3000x3000.jpg"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
       <title>The Stone of Destiny Returns</title>
       <description>סיפורה של אבן הגורל של העם הסקוטי. כמו עם כל חפץ שאנשים מאמינים בו, גם פה אבן בעלת כוחות מיסטיים שהייתה שייכת לעם אבל נבזזה ממנו בזמן מלחמה. אבל שם לא נגמר הסיפור, בימינו אנו, חבורה של סטודנטים החליטו להחזיר אותה לבעליה החוקיים. השוד הנועז הצליח אבל מה עושים עם אבן גורל? מתברר שמחזירים וזוכים ביחסי ציבור מעולים.  &lt;br&gt;#הסטוריה #אנגלית&lt;br&gt;&lt;br&gt;History daily - The Stone of Destiny Returns&lt;br&gt;משך: 16 דק' &lt;br&gt;&lt;br&gt;https://pca.st/v4x112vw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
         &lt;p&gt;April 11, 1951. Four months after it was stolen by Scottish nationalists from Westminster Abbey, the Stone of Destiny — used in the coronation of British monarchs for centuries — is found in the ruins of Scotland’s Arbroath Abbey.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Go to &lt;a href="http://historydaily.com/" rel="noopener noreferrer" target="_blank"&gt;HistoryDaily.com&lt;/a&gt; for more history, daily.&lt;/p&gt;&lt;p&gt;See Privacy Policy at &lt;a href="https://art19.com/privacy" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy&lt;/a&gt; and California Privacy Notice at &lt;a href="https://art19.com/privacy#do-not-sell-my-info" rel="noopener noreferrer" target="_blank"&gt;https://art19.com/privacy#do-not-sell-my-info&lt;/a&gt;.&lt;/p&gt;
@@ -2144,7 +2179,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2735</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d21871c6-3a46-4d63-aff4-afba0112be31/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43780822" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-3ea078a6-5c1c-4d43-b2ed-00cdda766bbb</link>
-      <itunes:order>45</itunes:order>
+      <itunes:order>48</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 3</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 3</itunes:title>
@@ -2163,7 +2198,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2654</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/580ee08d-747e-4415-8a9a-afba010f15d4/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42483059" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-f831acc9-261f-4b10-8d1f-2f73d7b8eed6</link>
-      <itunes:order>46</itunes:order>
+      <itunes:order>49</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 2</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 2</itunes:title>
@@ -2184,7 +2219,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2630</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5f45fb29-09f7-46b3-a271-afba010b8a24/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42096865" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-5d855b46-a96a-4ac9-98dc-bf140c6524db</link>
-      <itunes:order>47</itunes:order>
+      <itunes:order>50</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 1</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 1</itunes:title>
@@ -2203,7 +2238,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2805</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a18b4a56-88d8-4888-a481-afba01067cf9/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44903879" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/a18b4a56-88d8-4888-a481-afba01067cf9</link>
-      <itunes:order>48</itunes:order>
+      <itunes:order>51</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>המלחמה ששינתה את המזרח התיכון</title>
       <itunes:title>המלחמה ששינתה את המזרח התיכון</itunes:title>
@@ -3117,7 +3152,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2792</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a54bbe6f-a668-4ba7-a8e1-af96012362da/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44725479" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-cef7fa11-671f-423e-a001-9093300a4b2f</link>
-      <itunes:order>65</itunes:order>
+      <itunes:order>68</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 3</title>
       <itunes:title>בית ספר לריגול - פרק 3</itunes:title>
@@ -3136,7 +3171,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2612</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a9633f8f-3e3b-4e03-99d0-af96011decaa/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41852009" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-27577afd-df32-4770-8e25-a651bd2ff62a</link>
-      <itunes:order>66</itunes:order>
+      <itunes:order>69</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 2</title>
       <itunes:title>בית ספר לריגול - פרק 2</itunes:title>
@@ -3155,7 +3190,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2924</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/89cc4ccb-1957-4145-9c0a-af96011ac9d1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46845367" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-99e70e6b-723c-4c19-9744-513c450cf86e</link>
-      <itunes:order>67</itunes:order>
+      <itunes:order>70</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 1</title>
       <itunes:title>בית ספר לריגול - פרק 1</itunes:title>
@@ -3174,7 +3209,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2606</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/ab8cac4e-171e-443b-828e-af960114204a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41759640" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/ab8cac4e-171e-443b-828e-af960114204a</link>
-      <itunes:order>68</itunes:order>
+      <itunes:order>71</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss"><title>The $12,000 Mistake with Vivian Kaye</title><description>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -6861,7 +6896,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2745</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a5d6bf7f-dbf3-46ea-9d47-af3000b33abb/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43957482" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-88a186e8-c0ce-42a1-832a-ca7c347dda18</link>
-      <itunes:order>108</itunes:order>
+      <itunes:order>111</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 3</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 3</itunes:title>
@@ -6880,7 +6915,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2911</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/2a809414-43fa-49a0-99a7-af3000b0be7a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46608179" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-8d5b0645-8058-4b33-b63a-0bd5236b6d96</link>
-      <itunes:order>109</itunes:order>
+      <itunes:order>112</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 2</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 2</itunes:title>
@@ -6899,7 +6934,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2901</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/99172b90-675f-494c-b30b-af3000ae513c/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46453534" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-2d0dda7c-36f1-4ef0-9d15-0b90990e1dc7</link>
-      <itunes:order>110</itunes:order>
+      <itunes:order>113</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 1</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 1</itunes:title>
@@ -6918,7 +6953,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2815</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/73b2cfde-1950-4f7e-8687-af3000aa4702/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45076777" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-121f00c1-592c-42ef-ba82-72b49fc1e967</link>
-      <itunes:order>111</itunes:order>
+      <itunes:order>114</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>126: REvil</title>
       <link>https://darknetdiaries.com/episode/126</link>
@@ -9346,7 +9381,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2057</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="32947027" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-866a5bf0-6de1-45ec-9919-ab795dd6769c</link>
-      <itunes:order>137</itunes:order>
+      <itunes:order>140</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 3</title>
       <itunes:title>על הקומיקס - חלק 3</itunes:title>
@@ -9367,7 +9402,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2522</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="40386700" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-7b6b2a31-c178-4f3f-8bc9-49b8cf7260f9</link>
-      <itunes:order>138</itunes:order>
+      <itunes:order>141</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 2</title>
       <itunes:title>על הקומיקס - חלק 2</itunes:title>
@@ -9386,7 +9421,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2285</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36582854" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4b964f05-1648-4e08-a380-b1ab19214bf8</link>
-      <itunes:order>139</itunes:order>
+      <itunes:order>142</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>על הקומיקס - חלק 1</title>
       <itunes:title>על הקומיקס - חלק 1</itunes:title>
@@ -9405,7 +9440,7 @@ Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In th
       <itunes:duration>2857</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45735742" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</link>
-      <itunes:order>144</itunes:order>
+      <itunes:order>147</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Wake up and smell the fraud</title>
       <description>זה סיפור ממש מעניין שכנראה לא היה מתגלה אם הגיבורה הראשית לא הייתה חוקרת מקצועית. אנחנו רגילים לזהות רמאות באינטרנט ע"פ זה שאנחנו מפסידים כסף. אבל Nina Kollars מזהה רמאות גם כשהיא מזמינה קפסולות מאיביי ומקבלת לא רק קפסולות אלא גם מכונת קפה חדשה. מכאן זה סיפור של הדרכים החדשות להלבין כסף באינטרנט. &lt;br&gt;#כלכלה #טכנולוגיה #אנגלית &lt;br&gt;&lt;br&gt;Planet Money - Wake up and smell the fraud&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;https://pca.st/wvhumxju&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Sometimes online shopping can feel a little unsavory. There are the listings that make you question if you'll really be getting exactly what's advertised. And there's no worse feeling than paying for something and then not getting it. But when Nina Kollars ordered coffee pods and got WAY more than she asked for, it made her feel just as uneasy. Her quest for answers and what it teaches us about a new generation of online fraud. | Subscribe to Planet Money+ in &lt;a href="https://podcasts.apple.com/podcast/290783428"&gt;Apple Podcasts&lt;/a&gt; or at &lt;a href="http://plus.npr.org/planetmoney"&gt;plus.npr.org/planetmoney&lt;/a&gt;.</description>
@@ -10229,15 +10264,5 @@ Note: This episode contains explicit language.</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded>סיפור על בית למכירה ובתוכו יש מכשיר  לכריית בלוקצ'יין. האם זה מוסיף לערך שלו? מוריד מהערך שלו? מה חושבים הקונים הפוטנציאליים על התוספת הלא שגרתית ולמה בכלל המכשיר הוסף לבית.&lt;br&gt;#אנגלית #בלוקציין #טכנולוגיה &lt;br&gt;&lt;br&gt;Planet money - Little House on the Blockchain&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vxe1lyk4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;It has great bones, three bedrooms and one and half baths, and it comes with its own machine that mines cryptocurrency. But in a year of reckoning for crypto, how interested are potential buyers? | Subscribe to Planet Money+ in Apple Podcasts or at plus.npr.org/planetmoney.</content:encoded>
       <enclosure length="21008571" type="audio/mpeg" url="https://play.podtrac.com/npr-510289/edge1.pod.npr.org/anon.npr-mp3/npr/pmoney/2022/07/20220722_pmoney_edaddc52-a107-4154-a6aa-e92760d10efb.mp3?d=1312&amp;size=21008571&amp;e=1113115868&amp;t=podcast&amp;p=510289&amp;awEpisodeId=1113115868&amp;awCollectionId=510289"/>
-    </item><item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"><title>Ed Sheeran and the mathematics of musical coincidences</title><description>הנה פרק על סטטיסטיקה שהאזהרה בו היא לא על מונחים סטטיסטיים אלא על מונחים מוזיקאליים 😄&lt;br&gt;אבל בפועל ניתוח מאוד מסקרן של כמה מנגינות אפשריות אם מתבססים רק על 12 תווים. הדיון מתחיל ממישהו שטוען שזה בהכרח מוביל ליצירה של המון מנגינות דומות ובפרק מנתחים את הטענה הזאת ומראים איך היא לא בהכרח נכונה.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;More or less: Behind the statistics - Ed Sheeran and the mathematics of musical coincidences&lt;br&gt;משך: 11 דק' &lt;br&gt;&lt;br&gt;https://pca.st/w4zoyh81&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;After beating a plagiarism claim in court, musician Ed Sheeran said that musical coincidences were inevitable with only 12 notes to choose from… but what do the numbers say? Mathematician and concert pianist Eugenia Cheng takes us through the mathematics of music and explains how the power of exponentials mean that just a handful of notes can open up a seemingly endless world of musical variety. 
-
-Presenter: Tim Harford 
-Producer: Nathan Gower 
-Programme Coordinator: Janet Staples 
-Sound Engineer: Neil Churchill</description><itunes:subtitle>Ed Sheeran thinks that musical coincidences will always happen… but do the numbers agree?</itunes:subtitle><itunes:summary>הנה פרק על סטטיסטיקה שהאזהרה בו היא לא על מונחים סטטיסטיים אלא על מונחים מוזיקאליים 😄&lt;br&gt;אבל בפועל ניתוח מאוד מסקרן של כמה מנגינות אפשריות אם מתבססים רק על 12 תווים. הדיון מתחיל ממישהו שטוען שזה בהכרח מוביל ליצירה של המון מנגינות דומות ובפרק מנתחים את הטענה הזאת ומראים איך היא לא בהכרח נכונה.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;More or less: Behind the statistics - Ed Sheeran and the mathematics of musical coincidences&lt;br&gt;משך: 11 דק' &lt;br&gt;&lt;br&gt;https://pca.st/w4zoyh81&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;After beating a plagiarism claim in court, musician Ed Sheeran said that musical coincidences were inevitable with only 12 notes to choose from… but what do the numbers say? Mathematician and concert pianist Eugenia Cheng takes us through the mathematics of music and explains how the power of exponentials mean that just a handful of notes can open up a seemingly endless world of musical variety. 
-
-Presenter: Tim Harford 
-Producer: Nathan Gower 
-Programme Coordinator: Janet Staples 
-Sound Engineer: Neil Churchill</itunes:summary><pubDate>Thu, 18 Aug 2022 05:00:52 +0000</pubDate><itunes:duration>660</itunes:duration><enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0cgy8yw.mp3" length="10560000" type="audio/mpeg"/><ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0cgy8yw.mp3" length="10560000" type="audio/mpeg"/><ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/https/vpid/p0cgy8yw.mp3" length="10560000" type="audio/mpeg"/><guid isPermaLink="false">urn:bbc:podcast:p0cgzk0q</guid><link>http://www.bbc.co.uk/programmes/p0cgzk0q</link><itunes:explicit>clean</itunes:explicit><media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download/proto/http/vpid/p0cgy8yw.mp3" fileSize="10560000" type="audio/mpeg" medium="audio" expression="full" duration="660"/><itunes:author>BBC Radio 4</itunes:author><ppg:canonical>/programmes/p0cgzk0q</ppg:canonical></item></channel>
+    </item></channel>
 </rss>
