@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 08 Aug 2023 06:37:14 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Aug 2023 06:37:27 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Science-Based Mental Training &amp; Visualization for Improved Learning</title>
@@ -1292,7 +1292,7 @@ https://www.theguardian.com/australia-news/2021/jan/04/inside-the-hyper-local-wo
 נותני החסות שלנו:
 &lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:17:48</itunes:duration>
                 <itunes:episode>712</itunes:episode>
@@ -1887,7 +1887,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://a16z.simplecast.com/episodes/unlocking-creativity-with-prompt-engineering-dxnNWNDY</link>
       <content:encoded>תשמעו סיפור על מקצוע חדש בעולם - כותב פרומפים לבינה מלאכותית. זה הגיוני שזה מתחיל להפוך למקצוע בגלל שכתיבה מדוייקת כך שהמכונה תבין את המח האנושי היא עסק לא פשוט. ומצד שני הנה מקצוע שלא חשבתי שאני אראה 😎&lt;br&gt;#אנגלית #טכנולוגיה&lt;br&gt;&lt;br&gt;The A16Z podcast - Unlocking Creativity with Prompt Engineering &lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;https://pca.st/j479la97&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;With every new technology, some jobs are lost while others are gained. People often focus on the former, but in this episode we chose to highlight the latter – a highly creative role that emerges alongside AI: the prompt engineer.&lt;/p&gt;&lt;p&gt;Until AI can close the loop of its own, each tool still requires a set of prompts. Just like a composer feeds an instrument the notes to play, a prompt engineer feeds an AI a map of what to produce. And if we know anything from music it’s that composing great music takes great skill!&lt;/p&gt;&lt;p&gt;In this episode we explore the emerging importance of prompting with Guy Parsons, the early learnings of how to do it effectively, and where this field might be going.&lt;/p&gt;&lt;p&gt;Will the prompt engineer be more like the highly sought after DevOps engineer, or a proficiency like Excel that you find on every resume? Listen in to hear Guy’s take.&lt;/p&gt;&lt;p&gt;Interested in the prompt competition? Email us at podpitches@a16z.com.&lt;/p&gt;&lt;p&gt;Resources:&lt;/p&gt;&lt;p&gt;DALL-E 2 Prompt Book: &lt;a href="https://dallery.gallery/the-dalle-2-prompt-book/"&gt;https://dallery.gallery/the-dalle-2-prompt-book/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find Guy on Twitter: &lt;a href="https://twitter.com/GuyP"&gt;https://twitter.com/GuyP&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s combining image experiment: &lt;a href="https://twitter.com/GuyP/status/1612880405207580672"&gt;https://twitter.com/GuyP/status/1612880405207580672&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s amorphous prompt experiment: &lt;a href="https://twitter.com/GuyP/status/1608475973300948993"&gt;https://twitter.com/GuyP/status/1608475973300948993&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s space duck: &lt;a href="https://twitter.com/GuyP/status/1601342688225525761"&gt;https://twitter.com/GuyP/status/1601342688225525761&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Prompt base: &lt;a href="https://promptbase.com/"&gt;https://promptbase.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Lexica: &lt;a href="https://lexica.art/"&gt;https://lexica.art/&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Topics Covered: &lt;/p&gt;&lt;p&gt;0:00 - Introduction&lt;/p&gt;&lt;p&gt;01:49 - DALL-E 2 Prompt Book&lt;/p&gt;&lt;p&gt;05:29 - Parallel skills&lt;/p&gt;&lt;p&gt;06:51 - 80/20 prompting&lt;/p&gt;&lt;p&gt;10:16 - New ways of prompting&lt;/p&gt;&lt;p&gt;13:44 - Pulling the AI slot machine&lt;/p&gt;&lt;p&gt;18:09 - Comparing models&lt;/p&gt;&lt;p&gt;21:04 - Requested features&lt;/p&gt;&lt;p&gt;26:34 - Learning with AI&lt;/p&gt;&lt;p&gt;27:58 - Practical use cases&lt;/p&gt;&lt;p&gt;32:08 - A top 1% prompt engineer&lt;/p&gt;&lt;p&gt;36:17 - The most popular images&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find us on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find us on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="37019971" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cfc50285-16ea-43be-bf3d-e8538a87c632/audio/c7010a92-373a-428e-a56f-03c8e48de367/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="37019971" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/cfc50285-16ea-43be-bf3d-e8538a87c632.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>Unlocking Creativity with Prompt Engineering</itunes:title>
       <itunes:author>Steph Smith, Guy Parsons</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/827add5f-43d5-4e1b-95e6-189f8e8c7ad4/0f076178-044a-4c38-8843-83f0fbda2dab/3000x3000/guy-parsons-1080x1080.jpg?aid=rss_feed"/>
@@ -2221,7 +2221,7 @@ Editor: Munazza Khan</itunes:summary><pubDate>Thu, 01 Jun 2023 05:15:00 +0000</p
  
 </itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:40:15</itunes:duration>
                 <itunes:episode>728</itunes:episode>
@@ -2726,7 +2726,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://a16z.simplecast.com/episodes/the-robot-lawyer-resistance-Xlxtq12a</link>
       <content:encoded>עסק מעניין שעוזר למי שאין לו זמן או את הכוחות הנפשיים להתעסק בבירוקטיה. ב-DoNotPay מנסים בעזרת טכנולוגיה וAI ליצור תהליכים אוטומטיים שיאפשרו למשתמשים לקצר תהליכים בירוקרטיים ובכך לחסוך הרבה מאוד כסף. &lt;br&gt;#יזמות #אנגלית &lt;br&gt;The A16Z podcast - The Robot Lawyer Resistance&lt;br&gt; משך: 48 דק' &lt;br&gt;&lt;br&gt;https://pca.st/teip63si&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;What happens when you don’t have the resources to fight for your rights? Whether it’s a major medical bill or a more minor parking ticket… even if you were in the right, is it easier to just… pay?&lt;/p&gt;&lt;p&gt;Well, Joshua Browder's answer is Do Not Pay! &lt;/p&gt;&lt;p&gt;He’s built a thriving company of the same name, that helps consumers “fight corporations, beat bureaucracy, and sue anyone at the press of a button.” Through the power of technology, DoNotPay has resolved over 2m cases successfully and in this interview we get to hear where Browder hopes to take the organization, including his first-hand account of his recent plan to bring the robot lawyer into the physical courtroom.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Topics Covered:&lt;/p&gt;&lt;p&gt;00:00 - Introduction&lt;/p&gt;&lt;p&gt;01:51 - DoNotPay’s origin&lt;/p&gt;&lt;p&gt;03:09 - Surprising laws&lt;/p&gt;&lt;p&gt;05:49 - General counsel for consumers&lt;/p&gt;&lt;p&gt;06:54 - The role of AI and technology&lt;/p&gt;&lt;p&gt;09:26 - Ensuring quality counsel&lt;/p&gt;&lt;p&gt;13:19 - Prioritizing features&lt;/p&gt;&lt;p&gt;14:43 - Corporate pushback&lt;/p&gt;&lt;p&gt;17:11 - Reshaping the legal system&lt;/p&gt;&lt;p&gt;20:28 -  Entering the physical courtroom &lt;/p&gt;&lt;p&gt;24:50 - Cross border possibilities&lt;/p&gt;&lt;p&gt;26:14 - Looping humans into modeling&lt;/p&gt;&lt;p&gt;29:01 - Deflationary impacts&lt;/p&gt;&lt;p&gt;30:05 - Recent pushback&lt;/p&gt;&lt;p&gt;33:13 - Is AI already writing law?&lt;/p&gt;&lt;p&gt;35:15 - Why is law so complex?&lt;/p&gt;&lt;p&gt;37:54 - Entering the Supreme Court&lt;/p&gt;&lt;p&gt;38:38 - Lawyer support&lt;/p&gt;&lt;p&gt;39:47 - Looking forward&lt;/p&gt;&lt;p&gt;43:07 - Building horizontal vs vertical&lt;/p&gt;&lt;p&gt;45:28 - Does this law exist?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Resources: &lt;/p&gt;&lt;p&gt;DoNotPay: &lt;a href="https://donotpay.com/"&gt;https://donotpay.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find Josh on Twitter: &lt;a href="https://twitter.com/jbrowder1"&gt;https://twitter.com/jbrowder1&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find a16z on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find a16z on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="46533976" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bf88054d-74ae-4fab-90a9-76036c6b7d4e/audio/5b705682-bba6-455a-8fa1-7a5ea251ee73/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="46533976" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/bf88054d-74ae-4fab-90a9-76036c6b7d4e.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>The Robot Lawyer Resistance</itunes:title>
       <itunes:author>Steph Smith, Joshua Browder, consumer rights</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/38c671cb-f233-4f8b-884e-e3c7bd47db16/41861934-43a8-4fe4-9d86-b047ab1ae2aa/3000x3000/joshua-browder-instagram.jpg?aid=rss_feed"/>
@@ -4552,7 +4552,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 על מה דיברנו:
 אתרי בניה, הפתרון של חברה קונטרול, תדהר, קניית דירה, מחירי דירות, בטר פלייס, קבלנים, ארצות הברית, ישראל, גרמניה, בזבוז</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:04:03</itunes:duration>
                 <itunes:episode>681</itunes:episode>
@@ -5501,7 +5501,7 @@ Want to join the conversation on all the topics discussed? Tweet the show at: ww
 &lt;a href='https://greatgame.blog/options/%D7%94%D7%90%D7%95%D7%A4%D7%A6%D7%99%D7%95%D7%AA/'&gt;מועדון המנויים של המשחק הגדול - פל״ג&lt;/a&gt;
 &lt;a href='https://www.amazon.com/Responsibility-Defend-Rethinking-Germanys-Strategic/dp/1032122730'&gt;הספר עליו ניצן דיבר&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:24:09</itunes:duration>
                 <itunes:episode>665</itunes:episode>
@@ -5636,7 +5636,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/mess
       <link>https://a16z.simplecast.com/episodes/creators-creativity-and-technology-with-bob-iger-L98rXqw2</link>
       <content:encoded>בהמשך לשינויים שקרו בדיסני שיחה עם בוב אייגר, מנכ"ל דיסני. &lt;br&gt;השיחה פחות מתמקדת בחברה ויותר ב-בוב ובמסע ההתקדמות האישי שלו. יש הרבה שיח ודגש על תרבות היוצרים וכמה חשיבות בוב מייחס לה. &lt;br&gt;#אנגלית #תוכן #עסקים &lt;br&gt;https://prnt.sc/O3J3JjEdWY1o&lt;br&gt;&lt;br&gt;The A16Z podcast - Creators, Creativity, and Technology with Bob Iger&lt;br&gt;משך: שעה ו20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pgck9v8d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;with @robertiger @cdixon @smc90&lt;/p&gt;&lt;p&gt;A wide-ranging conversation with Bob Iger on the interplay between technology, content, and distribution; as well as Bob’s journey -- and that of various creators! -- especially as the industry evolved from TV and cable to the advent of the internet/ web 1.0 to 2.0 to briefly touching on web3 and other emerging technologies. As well as topics top of mind for all company and community builders: from build vs. buy and the innovator's dilemma, to managing creativity, decentralization, remote work, and much more.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Subscribe to web3 with a16z: &lt;a href="https://podcasts.apple.com/us/podcast/web3-with-a16z-crypto/id1622312549"&gt;https://podcasts.apple.com/us/podcast/web3-with-a16z-crypto/id1622312549&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find us on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find us on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="77540736" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/41cea30c-0d1b-4ff9-a6f2-f6665d6e6137/audio/8ac69f09-3277-49ab-b786-8ddccd18d654/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="77540736" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/41cea30c-0d1b-4ff9-a6f2-f6665d6e6137.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>Creators, Creativity, and Technology with Bob Iger</itunes:title>
       <itunes:author>steph smith, sonal chokshi, bob iger, chris dixon</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/38c671cb-f233-4f8b-884e-e3c7bd47db16/57a1a4cc-3a2c-465f-a1ab-7162a58fd3b0/3000x3000/iger.jpg?aid=rss_feed"/>
@@ -5936,7 +5936,7 @@ Credits: This episode was written and produced by Amory Sivertson and Quincy Wal
         <itunes:summary>בהמשך ללקט שיצרתי על סין (https://bit.ly/ChinaPodcasts), קיבלתי הרבה המלצות שמיעה נוספות והנה אחת שאני מעבירה הלאה אליכם: &lt;br&gt;&lt;br&gt;סקירה של נושא ההלוואות הסיניות בעולם.&lt;br&gt;זה דיי ברור למה לסין יש אינטרס לתת הלוואות למדינות רבות אבל בפרק יש סקירה של מגוון סיבות למה מדינות לוקחות את ההלוואות... והיא הופכת לשחקנית הלוואות משמעותית. &lt;br&gt;בין השאר בגלל האכזבה מההלוואות של האיחוד האירופאי (בגלל המחיר הגבוה שלהן) והמיתוג של סין כאופציה היותר הגיונית. &lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;זמן סין - פרק 48: ההלוואות הסיניות בעולם&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ceg8uwql&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="selectable-text copyable-text" style="text-align:right;"&gt;סין נהפכה למלווה למדינות מתפתחות רבות בעולם. נושא רגיש בגלל המשמעויות במצבים של אי תשלום והכוח הגיאו פוליטי ..המזוהה עם המהלכים. בפרק זה, נעמיק גם בקשר למיזם החגורה והדרך (דרך המשי) ונתבל בסיפורים&lt;/p&gt;
 </itunes:summary>
         <itunes:author>Amir Gal-Or</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>20:42</itunes:duration>
                 <itunes:episode>61</itunes:episode>
@@ -6318,7 +6318,7 @@ Continue the conversation on LinkedIn and, if you’re interested in joining the
 &lt;a href='https://beactive.co.il/project/69585'&gt;קמפיין מימון ההמונים של קובי&lt;/a&gt;
 &lt;a href='https://www.facebook.com/groups/onebeeraday'&gt;בירה אחת ביום&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:39:17</itunes:duration>
                 <itunes:episode>642</itunes:episode>
@@ -7164,7 +7164,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 &lt;a href='https://www.artport.art/'&gt;ארטפורט&lt;/a&gt;
 &lt;a href='https://he.wikipedia.org/wiki/%D7%9E%D7%97%D7%A4%D7%A9%D7%99%D7%9D_%D7%90%D7%AA_%D7%A9%D7%95%D7%92%D7%A8%D7%9E%D7%9F'&gt;מחפשים את שוגרמן&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:11:52</itunes:duration>
                 <itunes:episode>638</itunes:episode>
@@ -7762,7 +7762,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:summary>שיחה מרתקת עם נועה מנהיים. נועה אולי מוכרת לכם בין השאר בהיותה חצי מ"האחיות גרים". בפרק הזה היא מדברת עם כרמל על נרטיבים של התרבות האנושית. על הגיבורים שלנו ועל המפלצות ואיך הם נפגשים ומשתנים לאורך השנים. אין פה נושא אחד מוצהר אלא יותר שיחה בין שתי נשים מרתקות. &lt;br&gt;#ספרות #תרבות #ראיוןמעניין&lt;br&gt;&lt;br&gt;המצב הפוסט אנושי - פרק 56. מגילגמש ועד מיינקראפט: מסע הגיבור של המין האנושי עם נועה מנהיים&lt;br&gt;משך: 44 דק' &lt;br&gt;&lt;br&gt;https://pca.st/j7nzjl9i&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;אם האדם הוא הסיפורים שלו על עצמו, אז מי הוא המין האנושי? מהסיפור הראשון על כישלון האלמוות ועד לאפשרות של הסיפור האחרון על כישלון הזיכרון, הפרק מנווט ברשת התרבותית של הנרטיב האנושי עם הקברניטה נועה מנהיים, ומראה כיצד תמיד היינו פוסט אנושיים. דרך המפלצות שבראנו בדמיון ובמציאות, השערים במציאות שדרכם ניסינו לעבור לממלכת הדמיון, הסיפורים על טכנולוגיה והסיפורים כטכנולוגיה, וכלה במוטציות האבולוציוניות שסיפורים עוברים בימינו עד כדי איום במות הנרטיב. &lt;a href='https://absolutecarmel.com/?p=3100'&gt;לתמלול של הפרק, קישורים ומקורות להרחבה&lt;/a&gt; שם ניתן גם להרשם לעדכון במייל כאשר מתפרסם פרק חדש. כדאי לבדוק גם את הפודקאסט החדש שלי "&lt;a href='https://netdinos.wordpress.com/'&gt;דינוזאוריות רשת&lt;/a&gt;" על ההיסטוריה של האינטרנט הישראלי&lt;/p&gt;
 </itunes:summary>
         <itunes:author>Carmel Vaisman</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>44:58</itunes:duration>
                 <itunes:episode>56</itunes:episode>
@@ -8371,7 +8371,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:summary>שיחה פילוסופית ברובה על משמעות האמת והדיפ פייק בעולמנו המתקדם. אבל יש פה הרבה נקודות מעניינות שנוגעות לקו ההגדרה של מה היא אמת כתלוי ברשת החברתית או הסביבה שבה בודקים אותה. &lt;br&gt;#טכנולוגיה &lt;br&gt;&lt;br&gt;המצב הפוסט אנושי - פרק 55. תנאים של אמת: טכנולוגיה וידיעה עם ד”ר בועז מילר&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;https://pca.st/l2capuwu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align:right;"&gt;מהי הסכנה האמיתית בדיפ פייק ופייק ניוז? מדוע שיתופים ברשת הם סוג של מגדל בבל אפיסטמי שמקשה על רכישת ידע והגעה להאמנה אחראית? האם מכונה יכולה לתת עדות במובן הפילוסופי, או שאולי העניין הוא שגם בני אדם לא תמיד עומדים בסטנדרטים האלו? פילוסופים לא שאלו עד כה, כיצד התלות שלנו בטכנולוגיה שדרכה אנחנו רוכשים ידיעה, משפיעה על היכולת שלנו לדעת. ד"ר בועז מילר מפתח אפיסטמולוגיה חברתית של טכנולוגיה, ממשיג את השפעתן של האפשרויות הטכנולוגיות החדשות שנפתחות בפועל על מושגי יסוד בתורת ההכרה, ומציע כפתרון את האפשרות להטמיע נורמות ולייצב אותן באמצעות הטכנולוגיה עצמה. &lt;a href='https://absolutecarmel.com/?p=2937'&gt;לתמלול של הפרק, קישורים ומקורות להרחבה&lt;/a&gt; שם ניתן גם להרשם לעדכון במייל כאשר מתפרסם פרק חדש&lt;/p&gt;
 </itunes:summary>
         <itunes:author>Carmel Vaisman</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>41:18</itunes:duration>
                 <itunes:episode>55</itunes:episode>
@@ -8786,7 +8786,7 @@ https://www.ads.ranlevi.com/2022/10/03/doors-answer-simulation/</itunes:subtitle
 &lt;p dir="rtl" style="text-align:right;"&gt;המוזיקה בפודקאסט: Electric Soul (Foudre Lapin's Theme) by coruscate (c) copyright 2013 Licensed under a Creative Commons Attribution (3.0) license.  http://dig.ccmixter.org/files/Coruscate/40980&lt;/p&gt;
 </itunes:summary>
         <itunes:author>חגי אלקיים שלם ואורן ברנשטיין</itunes:author>
-        <itunes:explicit>no</itunes:explicit>
+        <itunes:explicit>false</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:03:44</itunes:duration>
         <itunes:season>2</itunes:season>
@@ -9094,7 +9094,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 &lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;R&amp;D משכנתאות&lt;/a&gt;
 &lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:36:44</itunes:duration>
                 <itunes:episode>601</itunes:episode>
@@ -9398,7 +9398,7 @@ Disclaimer</content:encoded>
 &lt;a href='https://etgar.org.il/'&gt;נותני החסות שלנו: מכללת אתגר&lt;/a&gt;
 &lt;a href='http://cambly.biz/geekonomy50'&gt;חברת Cambly שתסייע לכם לשפר את האנגלית שלכם – השתמשו בלינק הזה ובפרומו קוד GEEKONOMY50 בשביל 15 דקות ראשונות בחינם ללא כל התחייבות&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:35:42</itunes:duration>
                 <itunes:episode>596</itunes:episode>
@@ -9762,7 +9762,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
 לינקים מהפרק:
 &lt;a href='https://www.kinbooks.co.il/g-ang-wvah-liang-hgnrl-w.html'&gt;הגנרל של נלחם - אהרן שי&lt;/a&gt;</itunes:summary>
         <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
+        <itunes:explicit>true</itunes:explicit>
         <itunes:block>No</itunes:block>
         <itunes:duration>01:15:16</itunes:duration>
                 <itunes:episode>599</itunes:episode>
