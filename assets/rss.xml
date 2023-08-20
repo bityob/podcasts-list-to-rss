@@ -10,9 +10,50 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 19 Aug 2023 06:36:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Aug 2023 06:36:45 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>What Are Zero Day Attacks?</title>
+      <itunes:title>What Are Zero Day Attacks?</itunes:title>
+      <description>הסבר מלא על משמעות המושג "מתקפת אפס ימים". מדובר בפרצות מאוד רציניות שלרוב אנחנו שומעים עליהן אחרי שהן כבר נסגרו (וכנראה גם נוצלו לרעה). &lt;br&gt;#טכנולוגיה #אנגלית&lt;br&gt;&lt;br&gt;Tech stuff - What Are Zero Day Attacks?&lt;br&gt;משך: 53 דק'&lt;br&gt;&lt;br&gt;https://pca.st/eb2hzer7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Over the weekend, Google rolled out a patch to Google Chrome. It addresses a zero-day vulnerability. But what are zero-day vulnerabilities and zero-day attacks? We learn about the definition and history of this powerful type of hacker attack.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>הסבר מלא על משמעות המושג "מתקפת אפס ימים". מדובר בפרצות מאוד רציניות שלרוב אנחנו שומעים עליהן אחרי שהן כבר נסגרו (וכנראה גם נוצלו לרעה). &lt;br&gt;#טכנולוגיה #אנגלית&lt;br&gt;&lt;br&gt;Tech stuff - What Are Zero Day Attacks?&lt;br&gt;משך: 53 דק'&lt;br&gt;&lt;br&gt;https://pca.st/eb2hzer7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Over the weekend, Google rolled out a patch to Google Chrome. It addresses a zero-day vulnerability. But what are zero-day vulnerabilities and zero-day attacks? We learn about the definition and history of this powerful type of hacker attack.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>iHeartPodcasts</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/techstuff/what-are-zero-day-attacks/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">5599b3eb-cf9c-424e-bd8c-afe7017bd5ca</guid>
+      <omny:clipId>5599b3eb-cf9c-424e-bd8c-afe7017bd5ca</omny:clipId>
+      <pubDate>Sun, 20 Aug 2023 04:06:01 +0000</pubDate>
+      <itunes:duration>2491</itunes:duration>
+      <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="39916177" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/techstuff/what-are-zero-day-attacks</link>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=SubRip&amp;t=1689850223" type="application/srt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=WebVTT&amp;t=1689850223" type="text/vtt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=TextWithTimestamps&amp;t=1689850223" type="text/plain" language="en-US"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>למה המחירים ממשיכים לעלות?</title>
+      <itunes:title>למה המחירים ממשיכים לעלות?</itunes:title>
+      <description>עוד יום עוד שיחה על אינפלציה. הפעם על האינפלציה בישראל - למה למרות שבעולם כבר חלקית עצרו עם עליות הריבית אצלינו הן עדיין ממשיכות ?&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;אחד ביום - למה המחירים ממשיכים לעלות?&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/tkkybuep&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;כבר שנתיים שברחבי העולם מתמודדים עם עליית המחירים שהחלה אחרי מגפת הקורונה, ויוקר המחיה ממשיך לעלות בארה"ב, באירופה וגם בישראל. אבל בעוד שמדינות אחרות כבר מצליחות לבלום את האינפלציה - בארץ המגמה מסרבת להשתנות, והסוף לא נראה באופק&lt;/p&gt;
+&lt;p&gt;אורחות: כתבת תוכנית חיסכון מעיין פרתי, וד"ר נדין בודו טרכטנברג, לשעבר המשנה לנגידת בנק ישראל ומרצה לכלכלה גלובלית באוניברסיטת רייכמן. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>עוד יום עוד שיחה על אינפלציה. הפעם על האינפלציה בישראל - למה למרות שבעולם כבר חלקית עצרו עם עליות הריבית אצלינו הן עדיין ממשיכות ?&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;אחד ביום - למה המחירים ממשיכים לעלות?&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/tkkybuep&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;כבר שנתיים שברחבי העולם מתמודדים עם עליית המחירים שהחלה אחרי מגפת הקורונה, ויוקר המחיה ממשיך לעלות בארה"ב, באירופה וגם בישראל. אבל בעוד שמדינות אחרות כבר מצליחות לבלום את האינפלציה - בארץ המגמה מסרבת להשתנות, והסוף לא נראה באופק&lt;/p&gt;
+&lt;p&gt;אורחות: כתבת תוכנית חיסכון מעיין פרתי, וד"ר נדין בודו טרכטנברג, לשעבר המשנה לנגידת בנק ישראל ומרצה לכלכלה גלובלית באוניברסיטת רייכמן. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>N12</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/eb2549a7-a8bf-40a7-9121-b00a0146013b/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/ehadbeyom/eb2549a7-a8bf-40a7-9121-b00a0146013b/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">eb2549a7-a8bf-40a7-9121-b00a0146013b</guid>
+      <omny:clipId>eb2549a7-a8bf-40a7-9121-b00a0146013b</omny:clipId>
+      <pubDate>Sun, 20 Aug 2023 04:05:04 +0000</pubDate>
+      <itunes:duration>1552</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/eb2549a7-a8bf-40a7-9121-b00a0146013b/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" length="24865819" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/ehadbeyom/eb2549a7-a8bf-40a7-9121-b00a0146013b</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Italy Caught a Russian Fugitive. Then He Vanished.</title>
       <description>סיפור קטן מתוך מלחמה גדולה (בין רוסיה לאוקראינה). על איש עסקים רוסי שנאסר באיטליה ודקה לפני ההסגרה לארהב - ברח.&lt;br&gt;#משפט #אנגלית #מלחמה &lt;br&gt;&lt;br&gt;גגג &lt;br&gt;The Journal - Italy Caught a Russian Fugitive. Then He Vanished.&lt;br&gt;משך: 17 דק'&lt;br&gt;&lt;br&gt;https://pca.st/owyhdjj9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Artem Uss is a Kremlin-linked businessman accused of illegally exporting American military technology to Russia. Last October he was arrested in Italy at the U.S.’s request. Then he vanished. WSJ’s Margherita Stancati explains how he escaped.
 
@@ -2918,7 +2959,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2735</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d21871c6-3a46-4d63-aff4-afba0112be31/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43780822" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-3ea078a6-5c1c-4d43-b2ed-00cdda766bbb</link>
-      <itunes:order>58</itunes:order>
+      <itunes:order>62</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 3</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 3</itunes:title>
@@ -2937,7 +2978,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2654</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/580ee08d-747e-4415-8a9a-afba010f15d4/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42483059" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-f831acc9-261f-4b10-8d1f-2f73d7b8eed6</link>
-      <itunes:order>59</itunes:order>
+      <itunes:order>63</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 2</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 2</itunes:title>
@@ -2958,7 +2999,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2630</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5f45fb29-09f7-46b3-a271-afba010b8a24/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42096865" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-5d855b46-a96a-4ac9-98dc-bf140c6524db</link>
-      <itunes:order>60</itunes:order>
+      <itunes:order>64</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 1</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 1</itunes:title>
@@ -2977,7 +3018,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2805</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a18b4a56-88d8-4888-a481-afba01067cf9/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44903879" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/a18b4a56-88d8-4888-a481-afba01067cf9</link>
-      <itunes:order>61</itunes:order>
+      <itunes:order>65</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>המלחמה ששינתה את המזרח התיכון</title>
       <itunes:title>המלחמה ששינתה את המזרח התיכון</itunes:title>
@@ -3891,7 +3932,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2792</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a54bbe6f-a668-4ba7-a8e1-af96012362da/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44725479" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-cef7fa11-671f-423e-a001-9093300a4b2f</link>
-      <itunes:order>78</itunes:order>
+      <itunes:order>82</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 3</title>
       <itunes:title>בית ספר לריגול - פרק 3</itunes:title>
@@ -3910,7 +3951,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2612</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a9633f8f-3e3b-4e03-99d0-af96011decaa/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41852009" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-27577afd-df32-4770-8e25-a651bd2ff62a</link>
-      <itunes:order>79</itunes:order>
+      <itunes:order>83</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 2</title>
       <itunes:title>בית ספר לריגול - פרק 2</itunes:title>
@@ -3929,7 +3970,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2924</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/89cc4ccb-1957-4145-9c0a-af96011ac9d1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46845367" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-99e70e6b-723c-4c19-9744-513c450cf86e</link>
-      <itunes:order>80</itunes:order>
+      <itunes:order>84</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 1</title>
       <itunes:title>בית ספר לריגול - פרק 1</itunes:title>
@@ -3948,7 +3989,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2606</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/ab8cac4e-171e-443b-828e-af960114204a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41759640" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/ab8cac4e-171e-443b-828e-af960114204a</link>
-      <itunes:order>81</itunes:order>
+      <itunes:order>85</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss"><title>The $12,000 Mistake with Vivian Kaye</title><description>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -7577,7 +7618,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2745</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a5d6bf7f-dbf3-46ea-9d47-af3000b33abb/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43957482" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-88a186e8-c0ce-42a1-832a-ca7c347dda18</link>
-      <itunes:order>121</itunes:order>
+      <itunes:order>125</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 3</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 3</itunes:title>
@@ -7596,7 +7637,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2911</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/2a809414-43fa-49a0-99a7-af3000b0be7a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46608179" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-8d5b0645-8058-4b33-b63a-0bd5236b6d96</link>
-      <itunes:order>122</itunes:order>
+      <itunes:order>126</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 2</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 2</itunes:title>
@@ -7615,7 +7656,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2901</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/99172b90-675f-494c-b30b-af3000ae513c/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46453534" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-2d0dda7c-36f1-4ef0-9d15-0b90990e1dc7</link>
-      <itunes:order>123</itunes:order>
+      <itunes:order>127</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 1</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 1</itunes:title>
@@ -7634,7 +7675,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2815</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/73b2cfde-1950-4f7e-8687-af3000aa4702/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45076777" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-121f00c1-592c-42ef-ba82-72b49fc1e967</link>
-      <itunes:order>124</itunes:order>
+      <itunes:order>128</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>126: REvil</title>
       <link>https://darknetdiaries.com/episode/126</link>
@@ -10053,108 +10094,5 @@ Roya Hakakian is an Iranian Jewish writer and the author of two volumes of poetr
         <itunes:duration>01:15:16</itunes:duration>
                 <itunes:episode>599</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2022-08-10_at_95954_AM6ifyi.jpeg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">5998a8a3-3a71-47a8-b18a-a31a589d84fb</guid>
-      <title>Caleb Gardner: Being @BarackObama and Leading in a Turbulent World</title>
-      <description>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
-</description>
-      <pubDate>Sun, 18 Sep 2022 04:00:00 +0000</pubDate>
-      <author>guykawasaki@gmail.com (Caleb Gardner, Luis Magana, Shannon Hernandez, Madisun Nuismer, Guy Kawasaki, Peg Fitzpatrick, Jeff Sieh, Alexis Nishimura)</author>
-      <link>https://guykawasaki.com/remarkable-people/</link>
-      <content:encoded>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
-</content:encoded>
-      <enclosure length="61212204" type="audio/mpeg" url="https://chrt.fm/track/55D4D8/cdn.simplecast.com/audio/5179940e-b8f5-4d80-ab1a-d23cb4bed0b0/episodes/e70b44a7-3933-4694-b122-1cb21ee3cd6f/audio/fb14ecb9-52b4-46b9-9f95-19ccd8f2cd15/default_tc.mp3?aid=rss_feed&amp;feed=A7fI4ltj"/>
-      <itunes:title>Caleb Gardner: Being @BarackObama and Leading in a Turbulent World</itunes:title>
-      <itunes:author>Caleb Gardner, Luis Magana, Shannon Hernandez, Madisun Nuismer, Guy Kawasaki, Peg Fitzpatrick, Jeff Sieh, Alexis Nishimura</itunes:author>
-      <itunes:duration>01:02:45</itunes:duration>
-      <itunes:summary>ראיון עם Caleb Gardner שהיה האחראי על החשבון הטוויטר של ברק אובמה בזמן היותו נשיא. האיש שעמד מאחורי @BarackObama מדבר על התקופה, על שינויים ועל איך הוא רואה את תפקיד המנהיג. &lt;br&gt;#אנגלית #ראיוןמעניין &lt;br&gt;&lt;br&gt; Remarkable people - Caleb Gardner: Being @BarackObama and Leading in a Turbulent World&lt;br&gt;משך: שעה ו2 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sq08ulgg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Caleb Gardner is an insatiably curious innovation strategist and change management expert, trusted by Fortune 500 CEOs and nonprofit leaders, working to create more ethical and effective companies. His new book, &lt;i&gt;No Point B: Rules for Leading Change in the New Hyper-Connected, Radically Conscious Economy, &lt;/i&gt;is a paradigm-shifting look at transforming change into something we do, not for some vague brighter future, but as a practice for making a better world right now. &lt;br /&gt;&lt;br /&gt;Drawing upon his vast experience in business leadership and social activism, author Caleb Gardner shows how the simple idea of embracing constant change as a core competency for living in a complex world could revolutionize our relationship with modernity and transform our approach to effective leadership.&lt;/p&gt;&lt;p&gt;Guy Kawasaki is on a mission to make you remarkable. His Remarkable People podcast features interviews with remarkable people such as Jane Goodall, Neil deGrasse Tyson, Marc Benioff, Woz, Kristi Yamaguchi, and Bob Cialdini. Every episode will make you more remarkable.&lt;/p&gt;&lt;p&gt;With his decades of experience in Silicon Valley as a Venture Capitalist and advisor to the top entrepreneurs in the world, Guy’s questions come from a place of curiosity and passion for technology, start-ups, entrepreneurship, and marketing. If you love society and culture, documentaries, and business podcasts, take a second to follow Remarkable People.&lt;/p&gt;&lt;p&gt;Listeners of the Remarkable People podcast will learn from some of the most successful people in the world with practical tips and inspiring stories that will help you be more remarkable.&lt;/p&gt;&lt;p&gt;Listen to Remarkable People here: https://wavve.link/remarkablepeople&lt;/p&gt;&lt;p&gt;Text to get notified of new episodes: https://joinsubtext.com/guy&lt;/p&gt;&lt;p&gt;Like this show? Please leave us a review -- even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/p&gt;
-</itunes:summary>
-      <itunes:subtitle>This week's remarkable guest is Caleb Gardner. He’s worked side by side with startups, global nonprofits, Fortune 100 clients, and even a past president, Barack Obama.
-In fact, for more than three years, Caleb was the lead digital strategist for Barack Obama's political advocacy group. This means, he managed the most followed Twitter account in the world: @BarackObama.
-Barack himself once said, “He’s a better Barack Obama than I am.”
-Caleb is an expert in innovation and change, and he is the co-founder of 18 Coffees, a consulting firm that helps organizations implement change.
-Caleb wrote a new book is called, NO POINT B: New Rules for Leading Change In the New Hyper-Connected, Radically Conscious Economy. It is a guidebook to embracing continual change and mobilizing the next generation of leaders.</itunes:subtitle>
-      <itunes:keywords>barack obama, guy kawasaki, documentary, radically-conscious economy, leadership, entrepreneurship, digital disruption, change management, no point b: rules for leading change in the new hyper-connected, caleb gardner, social change, society and culture, business podcast, future of work, remarkable people</itunes:keywords>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>142</itunes:episode>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>על הקומיקס - חלק 4</title>
-      <itunes:title>על הקומיקס - חלק 4</itunes:title>
-      <description>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;בפרק הזה נצא ממחוזות ארצות הברית לאירופה: בזמן שבאמריקה הקומיקס צמח כטקסט של גיל הילדים והנוער, באירופה הוא עניין את האינטלקטואלים מההתחלה שחקרו וביקרו את הגרסאות המוקדמות ביותר של ספרי הקומיקס בצרפת, בבלגיה ובאיטליה&lt;br&gt;עורך ומגיש: אמיתי פוקמן &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;בפרק הזה נצא ממחוזות ארצות הברית לאירופה: בזמן שבאמריקה הקומיקס צמח כטקסט של גיל הילדים והנוער, באירופה הוא עניין את האינטלקטואלים מההתחלה שחקרו וביקרו את הגרסאות המוקדמות ביותר של ספרי הקומיקס בצרפת, בבלגיה ובאיטליה&lt;br&gt;עורך ומגיש: אמיתי פוקמן &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/image.jpg?t=1660049183&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/the-lab/4-866a5bf0-6de1-45ec-9919-ab795dd6769c/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/image.jpg?t=1660049183&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">65d06715-bbf4-4bb5-ba8b-aeec00ceebcf</guid>
-      <omny:clipId>65d06715-bbf4-4bb5-ba8b-aeec00ceebcf</omny:clipId>
-      <pubDate>Thu, 15 Sep 2022 04:00:00 +0000</pubDate>
-      <itunes:duration>2057</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/65d06715-bbf4-4bb5-ba8b-aeec00ceebcf/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="32947027" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/the-lab/4-866a5bf0-6de1-45ec-9919-ab795dd6769c</link>
-      <itunes:order>150</itunes:order>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>על הקומיקס - חלק 3</title>
-      <itunes:title>על הקומיקס - חלק 3</itunes:title>
-      <description>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;בפרק הזה נתמקד בהתפתחותו של הרומן הגרפי ובעיקר בספר אחד ששינה את פני הקומיקס לנצח, השומרים. איך העידן המודרני של הקומיקס הביא דמויות עמוקות יותר, והצליח לטשטש את הדיכוטומיה הבורורה בין טובים ורעים?&lt;/p&gt;
-&lt;p dir="rtl"&gt;עורך ומגיש: אמיתי פוקמן &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;בפרק הזה נתמקד בהתפתחותו של הרומן הגרפי ובעיקר בספר אחד ששינה את פני הקומיקס לנצח, השומרים. איך העידן המודרני של הקומיקס הביא דמויות עמוקות יותר, והצליח לטשטש את הדיכוטומיה הבורורה בין טובים ורעים?&lt;/p&gt;
-&lt;p dir="rtl"&gt;עורך ומגיש: אמיתי פוקמן &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/image.jpg?t=1659963237&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/the-lab/3-7b6b2a31-c178-4f3f-8bc9-49b8cf7260f9/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/image.jpg?t=1659963237&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">7b2d6459-ed2c-4909-83dd-aeeb00d2d850</guid>
-      <omny:clipId>7b2d6459-ed2c-4909-83dd-aeeb00d2d850</omny:clipId>
-      <pubDate>Thu, 15 Sep 2022 04:00:00 +0000</pubDate>
-      <itunes:duration>2522</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/7b2d6459-ed2c-4909-83dd-aeeb00d2d850/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="40386700" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/the-lab/3-7b6b2a31-c178-4f3f-8bc9-49b8cf7260f9</link>
-      <itunes:order>151</itunes:order>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>על הקומיקס - חלק 2</title>
-      <itunes:title>על הקומיקס - חלק 2</itunes:title>
-      <description>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;לאחר שסיימנו בתור הזהב של הקומיקס ועם המצאתו של גיבור העל, נתמקד היום בפרנק מילר, האיש שאחראי לרוב הגיבורים של מארוול ובעיקר לספיידרמן. כיצד שיקפו גיבורי מארוול את רוח המפלגה הדמוקרטית בזמן מלחמת וויאטנאם?&lt;br&gt;עורך ומגיש: אמיתי פוקמן&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;לאחר שסיימנו בתור הזהב של הקומיקס ועם המצאתו של גיבור העל, נתמקד היום בפרנק מילר, האיש שאחראי לרוב הגיבורים של מארוול ובעיקר לספיידרמן. כיצד שיקפו גיבורי מארוול את רוח המפלגה הדמוקרטית בזמן מלחמת וויאטנאם?&lt;br&gt;עורך ומגיש: אמיתי פוקמן&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/image.jpg?t=1659885459&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/the-lab/2-4b964f05-1648-4e08-a380-b1ab19214bf8/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/image.jpg?t=1659885459&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">1135ce6b-a54f-44cc-97c8-aeea00fa4f8a</guid>
-      <omny:clipId>1135ce6b-a54f-44cc-97c8-aeea00fa4f8a</omny:clipId>
-      <pubDate>Thu, 15 Sep 2022 04:00:00 +0000</pubDate>
-      <itunes:duration>2285</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1135ce6b-a54f-44cc-97c8-aeea00fa4f8a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36582854" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/the-lab/2-4b964f05-1648-4e08-a380-b1ab19214bf8</link>
-      <itunes:order>152</itunes:order>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>על הקומיקס - חלק 1</title>
-      <itunes:title>על הקומיקס - חלק 1</itunes:title>
-      <description>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;נתחיל בשאלה שנראית פשוטה אבל גוררת מחלוקת שלמה: מתי הומצא הקומיקס? נעבור על רצועות הקומיקס הראשונות בעיתונות הכתובה בארצות הברית, דרך העיבודים הראשוניים של הרומנים לקומיקס (כמו טרזן) ועד להמצאתו של גיבור העל הראשון, סופרמן, ומה אפשר ללמוד על החברה המערבית מהסיפור שלו?&lt;br&gt;עורך ומגיש: אמיתי פוקמן&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>סדרה מוצלחת לסופ"ש - סקירה של ההסטוריה של הקומיקס. &lt;br&gt;עיקר המיקוד בשלושת הפרקים הראשונים הוא על קומיקס בארה"ב אבל בפרק הרביעי יש התייחסות לזה של אירופה ויבשות אחרות. &lt;br&gt;בכלל מעבר טוב על תקופת הזהב הכסף ומה שאנחנו נמצאים בו עכשיו של הקומיקס עם הסברים ודוגמאות.&lt;br&gt;#סדרה #תרבות #הסטוריה #ספרות &lt;br&gt;https://prnt.sc/-5teMbwi9LRD&lt;br&gt;&lt;br&gt;המעבדה - על הקומיקס &lt;br&gt;&lt;br&gt;חלק 1 &lt;br&gt;https://pca.st/v6peyo83&lt;br&gt;חלק 2&lt;br&gt;https://pca.st/yr662kw2&lt;br&gt;חלק 3 &lt;br&gt;https://pca.st/8m8xscjp&lt;br&gt;חלק 4&lt;br&gt;https://pca.st/e3x0oojb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;נתחיל בשאלה שנראית פשוטה אבל גוררת מחלוקת שלמה: מתי הומצא הקומיקס? נעבור על רצועות הקומיקס הראשונות בעיתונות הכתובה בארצות הברית, דרך העיבודים הראשוניים של הרומנים לקומיקס (כמו טרזן) ועד להמצאתו של גיבור העל הראשון, סופרמן, ומה אפשר ללמוד על החברה המערבית מהסיפור שלו?&lt;br&gt;עורך ומגיש: אמיתי פוקמן&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/image.jpg?t=1659617599&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/the-lab/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/image.jpg?t=1659617599&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</guid>
-      <omny:clipId>1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</omny:clipId>
-      <pubDate>Thu, 15 Sep 2022 04:00:00 +0000</pubDate>
-      <itunes:duration>2857</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45735742" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/the-lab/1ee491a0-2d69-4c2b-ad4a-aee700cf7f95</link>
-      <itunes:order>157</itunes:order>
-    </item></channel>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2022-08-10_at_95954_AM6ifyi.jpeg"/>    </item></channel>
 </rss>
