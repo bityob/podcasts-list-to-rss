@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 31 Aug 2023 06:37:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2023 06:37:37 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מה זאת חילוניות - פרק 4</title>
@@ -2793,7 +2793,7 @@ Editor: Munazza Khan</itunes:summary><pubDate>Thu, 01 Jun 2023 05:15:00 +0000</p
 </itunes:summary>
 
 				<itunes:explicit>no</itunes:explicit>
-					<enclosure url="https://play.podtrac.com/APM-ThisIsUncomfortable/chrt.fm/track/3G835/pdst.fm/e/traffic.megaphone.fm/CAD1420434438.mp3" type="audio/mpeg" length="12342555"/>
+					<enclosure url="https://play.podtrac.com/APM-ThisIsUncomfortable/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/this-is-uncomfortable/2022/11/17/tiu_20221117_128.mp3" type="audio/mpeg" length="12342555"/>
 
 				  <itunes:duration>00:44:29</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">584851</post-id>	</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
