@@ -10,9 +10,81 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 02 Sep 2023 06:36:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Sep 2023 06:37:10 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <guid isPermaLink="false">61cb45f8-0562-464b-9da7-141c439bd162</guid>
+      <title>415- Goodnight Nobody [rebroadcast]</title>
+      <description>סיפור מרתק מכמה כיוונים שונים: ספרנית פורצת דרך שמאמינה שלילדים צריך להיות מרחב משלהם בספריה. ובעזרת הרבה עבודה קשה מצליחה להגשים את החלום שלה ולתת מקום לילדים בספריות העירוניות. ברבות השנים היא הופכת לאוטוריטה ומנצלת את כוחה כדי לקבוע מה יהיו ספרי הילדים שההורים יקנו לילדים שלהם. ושם מתחיל החלק השני של הסיפור - ההתנגשות בין נקודת המבט המאוד נוקשה שלה לבין המציאות המשתנה וצרכים שונים של ילדים וסופרי ילדים. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;https://prnt.sc/-OP1cCLiGkZC&lt;br&gt;&lt;br&gt;99% Invisible - 415- Goodnight Nobody&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rkhthz8q&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The unlikely battle between the creator of the New York Public Library children's reading room and the beloved children’s classic Goodnight Moon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=40734&amp;post_type=episode" target="_blank"&gt;Goodnight Nobody&lt;/a&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sun, 03 Sep 2023 05:41:00 +0000</pubDate>
+      <author>kathy@99pi.org (joe rosenberg)</author>
+      <link>https://www.stitcher.com</link>
+      <content:encoded>סיפור מרתק מכמה כיוונים שונים: ספרנית פורצת דרך שמאמינה שלילדים צריך להיות מרחב משלהם בספריה. ובעזרת הרבה עבודה קשה מצליחה להגשים את החלום שלה ולתת מקום לילדים בספריות העירוניות. ברבות השנים היא הופכת לאוטוריטה ומנצלת את כוחה כדי לקבוע מה יהיו ספרי הילדים שההורים יקנו לילדים שלהם. ושם מתחיל החלק השני של הסיפור - ההתנגשות בין נקודת המבט המאוד נוקשה שלה לבין המציאות המשתנה וצרכים שונים של ילדים וסופרי ילדים. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;https://prnt.sc/-OP1cCLiGkZC&lt;br&gt;&lt;br&gt;99% Invisible - 415- Goodnight Nobody&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rkhthz8q&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The unlikely battle between the creator of the New York Public Library children's reading room and the beloved children’s classic Goodnight Moon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=40734&amp;post_type=episode" target="_blank"&gt;Goodnight Nobody&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure length="42124216" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/288D49/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/21e13ff4-6d34-4727-9b74-48b8209fe3fa/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=21e13ff4-6d34-4727-9b74-48b8209fe3fa&amp;feed=BqbsxVfO"/>
+      <itunes:title>415- Goodnight Nobody [rebroadcast]</itunes:title>
+      <itunes:author>joe rosenberg</itunes:author>
+      <itunes:duration>00:43:45</itunes:duration>
+      <itunes:summary>סיפור מרתק מכמה כיוונים שונים: ספרנית פורצת דרך שמאמינה שלילדים צריך להיות מרחב משלהם בספריה. ובעזרת הרבה עבודה קשה מצליחה להגשים את החלום שלה ולתת מקום לילדים בספריות העירוניות. ברבות השנים היא הופכת לאוטוריטה ומנצלת את כוחה כדי לקבוע מה יהיו ספרי הילדים שההורים יקנו לילדים שלהם. ושם מתחיל החלק השני של הסיפור - ההתנגשות בין נקודת המבט המאוד נוקשה שלה לבין המציאות המשתנה וצרכים שונים של ילדים וסופרי ילדים. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית &lt;br&gt;&lt;br&gt;https://prnt.sc/-OP1cCLiGkZC&lt;br&gt;&lt;br&gt;99% Invisible - 415- Goodnight Nobody&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rkhthz8q&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;The unlikely battle between the creator of the New York Public Library children's reading room and the beloved children’s classic Goodnight Moon.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=40734&amp;post_type=episode" target="_blank"&gt;Goodnight Nobody&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>The unlikely battle between the creator of the New York Public Library's children's reading room and Goodnight Moon</itunes:subtitle>
+      <itunes:keywords>goodnight moon, anne carroll moore, margaret wise brown, bank street, new york public library</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק 79 - ביטחון עצמי</title>
+        <itunes:title>פרק 79 - ביטחון עצמי</itunes:title>
+        <link>https://pmedition.askbenny.tech/e/079/</link>
+                    <comments>https://pmedition.askbenny.tech/e/079/#comments</comments>        <pubDate>Sun, 03 Sep 2023 05:40:07 +0000</pubDate>
+        <guid isPermaLink="false">pmedition.podbean.com/b777ce76-0ca1-3222-afe8-f4e89844b86f</guid>
+                      <description>שיחה מאוד מעניינת על אספקט אחד של מקצוע הניהול מוצר - ביטחון עצמי. בתור תפקיד שבהגדרה שלו מוביל צוותים אבל לא מתוקף סמכות ניהולית אלא יוזמה אישית. זה תפקיד שנשען מאוד חזק על בטחון עצמי ואמונה בדרך. &lt;br&gt;לכן זה כל כך מעניין להקשיב למנהלי מוצר מנוסים שמנתחים את הנושא מכיוונים שונים. &lt;br&gt;#ניהולמוצר #שיפורעצמי &lt;br&gt;&lt;br&gt;ניהול מוצר גרסת הבמאי - פרק 79 - ביטחון עצמי&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5gyec5aw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;ביטחון עצמי.&lt;/p&gt;
+&lt;p&gt;מי מכם שנמצא בתפקיד ניהול מוצר, נדרש ביום יום להשתמש בבטחון העצמי שלו. אם זה מהצד שלא יהיה מועט מידי וכך לא יצליח להגיע להחלטות או לעמוד מול גורמים אחרים או אם זה מהצד שבו יש בטחון עצמי מופרז בנושא מסויים ואז נדרש יותר איזון כדי להגיע לקבלת החלטות וניהול נכון יותר. בפרק זה דיברנו על הרבדים השונים בביטחון עצמי, איך ניתן לבנות ביטחון עצמי בתפקיד, מה משפיע עליו ואיך ניתן לוודא שאנחנו באיזון הנכון?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים לשמוע עוד פרקים? עשו לייק לעמוד&lt;a href='https://www.facebook.com/pmedition'&gt; הפודקאסט בפייסבוק&lt;/a&gt; ותדעו בדיוק מתי הם יוצאים.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים להיות שותפים לדיונים ולשאול שאלות את המרואיינים?&lt;/p&gt;
+&lt;p&gt;הצטרפו&lt;a href='https://www.facebook.com/groups/pmedition'&gt; לקבוצת הפייסבוק&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;עקבו אחרינו&lt;a href='https://twitter.com/pm_edition'&gt; בטוויטר&lt;/a&gt; &lt;a href='https://www.instagram.com/pmedition/'&gt;ובאינסטגרם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;אהבתם ורוצים לעזור לנו כך שגם אחרים יהנו. &lt;/p&gt;
+&lt;p&gt;המליצו עלינו בפייסבוק ודרגו אותנו באפליקצית הפודקאסטים החביבה עליכם.&lt;/p&gt;
+</description>
+                      <content:encoded>שיחה מאוד מעניינת על אספקט אחד של מקצוע הניהול מוצר - ביטחון עצמי. בתור תפקיד שבהגדרה שלו מוביל צוותים אבל לא מתוקף סמכות ניהולית אלא יוזמה אישית. זה תפקיד שנשען מאוד חזק על בטחון עצמי ואמונה בדרך. &lt;br&gt;לכן זה כל כך מעניין להקשיב למנהלי מוצר מנוסים שמנתחים את הנושא מכיוונים שונים. &lt;br&gt;#ניהולמוצר #שיפורעצמי &lt;br&gt;&lt;br&gt;ניהול מוצר גרסת הבמאי - פרק 79 - ביטחון עצמי&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5gyec5aw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;ביטחון עצמי.&lt;/p&gt;
+&lt;p&gt;מי מכם שנמצא בתפקיד ניהול מוצר, נדרש ביום יום להשתמש בבטחון העצמי שלו. אם זה מהצד שלא יהיה מועט מידי וכך לא יצליח להגיע להחלטות או לעמוד מול גורמים אחרים או אם זה מהצד שבו יש בטחון עצמי מופרז בנושא מסויים ואז נדרש יותר איזון כדי להגיע לקבלת החלטות וניהול נכון יותר. בפרק זה דיברנו על הרבדים השונים בביטחון עצמי, איך ניתן לבנות ביטחון עצמי בתפקיד, מה משפיע עליו ואיך ניתן לוודא שאנחנו באיזון הנכון?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים לשמוע עוד פרקים? עשו לייק לעמוד&lt;a href='https://www.facebook.com/pmedition'&gt; הפודקאסט בפייסבוק&lt;/a&gt; ותדעו בדיוק מתי הם יוצאים.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים להיות שותפים לדיונים ולשאול שאלות את המרואיינים?&lt;/p&gt;
+&lt;p&gt;הצטרפו&lt;a href='https://www.facebook.com/groups/pmedition'&gt; לקבוצת הפייסבוק&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;עקבו אחרינו&lt;a href='https://twitter.com/pm_edition'&gt; בטוויטר&lt;/a&gt; &lt;a href='https://www.instagram.com/pmedition/'&gt;ובאינסטגרם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;אהבתם ורוצים לעזור לנו כך שגם אחרים יהנו. &lt;/p&gt;
+&lt;p&gt;המליצו עלינו בפייסבוק ודרגו אותנו באפליקצית הפודקאסטים החביבה עליכם.&lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/59m368/pmedition_079.mp3" length="42044019" type="audio/mpeg"/>
+        <itunes:subtitle>ביטחון עצמי.
+מי מכם שנמצא בתפקיד ניהול מוצר, נדרש ביום יום להשתמש בבטחון העצמי שלו. אם זה מהצד שלא יהיה מועט מידי וכך לא יצליח להגיע להחלטות או לעמוד מול גורמים אחרים או אם זה מהצד שבו יש בטחון עצמי מופרז בנושא מסויים ואז נדרש יותר איזון כדי להגיע לק...</itunes:subtitle>
+        <itunes:summary>שיחה מאוד מעניינת על אספקט אחד של מקצוע הניהול מוצר - ביטחון עצמי. בתור תפקיד שבהגדרה שלו מוביל צוותים אבל לא מתוקף סמכות ניהולית אלא יוזמה אישית. זה תפקיד שנשען מאוד חזק על בטחון עצמי ואמונה בדרך. &lt;br&gt;לכן זה כל כך מעניין להקשיב למנהלי מוצר מנוסים שמנתחים את הנושא מכיוונים שונים. &lt;br&gt;#ניהולמוצר #שיפורעצמי &lt;br&gt;&lt;br&gt;ניהול מוצר גרסת הבמאי - פרק 79 - ביטחון עצמי&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5gyec5aw&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;ביטחון עצמי.&lt;/p&gt;
+&lt;p&gt;מי מכם שנמצא בתפקיד ניהול מוצר, נדרש ביום יום להשתמש בבטחון העצמי שלו. אם זה מהצד שלא יהיה מועט מידי וכך לא יצליח להגיע להחלטות או לעמוד מול גורמים אחרים או אם זה מהצד שבו יש בטחון עצמי מופרז בנושא מסויים ואז נדרש יותר איזון כדי להגיע לקבלת החלטות וניהול נכון יותר. בפרק זה דיברנו על הרבדים השונים בביטחון עצמי, איך ניתן לבנות ביטחון עצמי בתפקיד, מה משפיע עליו ואיך ניתן לוודא שאנחנו באיזון הנכון?&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים לשמוע עוד פרקים? עשו לייק לעמוד&lt;a href='https://www.facebook.com/pmedition'&gt; הפודקאסט בפייסבוק&lt;/a&gt; ותדעו בדיוק מתי הם יוצאים.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;רוצים להיות שותפים לדיונים ולשאול שאלות את המרואיינים?&lt;/p&gt;
+&lt;p&gt;הצטרפו&lt;a href='https://www.facebook.com/groups/pmedition'&gt; לקבוצת הפייסבוק&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;עקבו אחרינו&lt;a href='https://twitter.com/pm_edition'&gt; בטוויטר&lt;/a&gt; &lt;a href='https://www.instagram.com/pmedition/'&gt;ובאינסטגרם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;אהבתם ורוצים לעזור לנו כך שגם אחרים יהנו. &lt;/p&gt;
+&lt;p&gt;המליצו עלינו בפייסבוק ודרגו אותנו באפליקצית הפודקאסטים החביבה עליכם.&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>Benny Reich &amp; Eyar Zilberman &amp; Shlomit Alon - Product Management  | ניהול מוצר - בני רייך, אייר זילברמן ושלומית אלון</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>43:25</itunes:duration>
+                <itunes:episode>79</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog4343188/pmedition_079_qcain8.jpg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מה זאת חילוניות - פרק 4</title>
       <itunes:title>מה זאת חילוניות - פרק 4</itunes:title>
       <description>סדרה לסופ"ש:&lt;br&gt;דיון עמוק על מושג החילוניות. ההתחלה שלו זה בזה שצריך להבין שחילוניות זאת לא שלילה למושג הדתיות אלא מושג שעומד בפני עצמו. אבל בגלל ההרגשה שבהרבה מדינות תהליך החילון הושלם, לא ממש טרחו להבנות משמעות ברורה למושג. &lt;br&gt;יש בסדרה כמה דוברים וכל אחד נוגע במשהו אחר ביחסים בין חילוניות לדתיות. &lt;br&gt;האם החילוניות נכשלה? נראה שחלקית כן...&lt;br&gt;האם ברית מילה היא חלק מהחילוניות או לא? תלוי באיזו מדינה&lt;br&gt;ועוד ועוד... שיחה מומלצת כדי לחשוב על הנושאים הבוערים של היום מנק' מבט טיפה שונה. &lt;br&gt;#פילוסופיה #תרבות #ישראל #סדרה&lt;br&gt;&lt;br&gt;המעבדה - מה זאת חילוניות? &lt;br&gt;&lt;br&gt;פרק 1 - 47 דק' &lt;br&gt;https://pca.st/u12yn6ws&lt;br&gt;&lt;br&gt;פרק 2 - 41 דק' &lt;br&gt;https://pca.st/dbimoj9h&lt;br&gt;&lt;br&gt;פרק 3 - 46 דק' &lt;br&gt;https://pca.st/04v2m0g3#t=371&lt;br&gt;&lt;br&gt;פרק 4 - 43 דק' &lt;br&gt;https://pca.st/l23bk2vs&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;מאפיקורס ועד לבינה המלאכותית - איך מתמודדים עם משבר החילוניות והמוסר, והאם הסתיים תפקידה? שיחה עם פרופ' פיני איפרגן, מכון ון ליר &lt;br&gt;עורכת ומגישה: רונה גרשון תלמי, תחקיר: ויויאנה דייטש, עריכת סאונד: חן עוז&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
@@ -30,7 +102,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:duration>2619</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/4d40b3d7-19cf-4b7e-956e-b0390152cb21/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41937950" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-f1fedaf3-8ab2-484c-9c68-fab80d1fab07</link>
-      <itunes:order>21</itunes:order>
+      <itunes:order>25</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מה זאת חילוניות - פרק 3</title>
       <itunes:title>מה זאת חילוניות - פרק 3</itunes:title>
@@ -49,7 +121,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:duration>2736</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/c5ad4990-2859-4aba-889f-b03901504703/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43807899" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-7fccfd41-4f79-45ed-83d9-d5addf357121</link>
-      <itunes:order>22</itunes:order>
+      <itunes:order>26</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מה זאת חילוניות - פרק 2</title>
       <itunes:title>מה זאת חילוניות - פרק 2</itunes:title>
@@ -68,7 +140,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:duration>2415</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5473848f-fc4d-4a2d-b21f-b039014d2edd/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="38676614" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-91d637cc-4831-4063-9364-e14a8a94f74b</link>
-      <itunes:order>23</itunes:order>
+      <itunes:order>27</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>מה זאת חילוניות - פרק 1</title>
       <itunes:title>מה זאת חילוניות - פרק 1</itunes:title>
@@ -89,7 +161,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:duration>2812</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/202459c3-2c92-4116-a45a-b039014b8a15/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45031266" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-b1ef0f64-3a17-4c32-9f55-a50ba38527aa</link>
-      <itunes:order>24</itunes:order>
+      <itunes:order>28</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">b2a78bbd-9ff0-4617-a6a5-35b60e1ad8b2</guid>
       <title>Why A.I. Might Not Take Your Job or Supercharge the Economy</title>
@@ -3355,7 +3427,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2735</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/d21871c6-3a46-4d63-aff4-afba0112be31/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43780822" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-3ea078a6-5c1c-4d43-b2ed-00cdda766bbb</link>
-      <itunes:order>62</itunes:order>
+      <itunes:order>66</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 3</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 3</itunes:title>
@@ -3374,7 +3446,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2654</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/580ee08d-747e-4415-8a9a-afba010f15d4/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42483059" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-f831acc9-261f-4b10-8d1f-2f73d7b8eed6</link>
-      <itunes:order>63</itunes:order>
+      <itunes:order>67</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 2</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 2</itunes:title>
@@ -3395,7 +3467,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2630</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5f45fb29-09f7-46b3-a271-afba010b8a24/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42096865" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-5d855b46-a96a-4ac9-98dc-bf140c6524db</link>
-      <itunes:order>64</itunes:order>
+      <itunes:order>68</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>דוגן והפילוסופים היפניים - פרק 1</title>
       <itunes:title>דוגן והפילוסופים היפניים - פרק 1</itunes:title>
@@ -3414,7 +3486,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2805</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a18b4a56-88d8-4888-a481-afba01067cf9/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44903879" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/a18b4a56-88d8-4888-a481-afba01067cf9</link>
-      <itunes:order>65</itunes:order>
+      <itunes:order>69</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>המלחמה ששינתה את המזרח התיכון</title>
       <itunes:title>המלחמה ששינתה את המזרח התיכון</itunes:title>
@@ -4328,7 +4400,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2792</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a54bbe6f-a668-4ba7-a8e1-af96012362da/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="44725479" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-cef7fa11-671f-423e-a001-9093300a4b2f</link>
-      <itunes:order>82</itunes:order>
+      <itunes:order>86</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 3</title>
       <itunes:title>בית ספר לריגול - פרק 3</itunes:title>
@@ -4347,7 +4419,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2612</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a9633f8f-3e3b-4e03-99d0-af96011decaa/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41852009" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-27577afd-df32-4770-8e25-a651bd2ff62a</link>
-      <itunes:order>83</itunes:order>
+      <itunes:order>87</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 2</title>
       <itunes:title>בית ספר לריגול - פרק 2</itunes:title>
@@ -4366,7 +4438,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2924</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/89cc4ccb-1957-4145-9c0a-af96011ac9d1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46845367" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-99e70e6b-723c-4c19-9744-513c450cf86e</link>
-      <itunes:order>84</itunes:order>
+      <itunes:order>88</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>בית ספר לריגול - פרק 1</title>
       <itunes:title>בית ספר לריגול - פרק 1</itunes:title>
@@ -4385,7 +4457,7 @@ www.thestoryofwomanpodcast.com</content:encoded>
       <itunes:duration>2606</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/ab8cac4e-171e-443b-828e-af960114204a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="41759640" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/ab8cac4e-171e-443b-828e-af960114204a</link>
-      <itunes:order>85</itunes:order>
+      <itunes:order>89</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss"><title>The $12,000 Mistake with Vivian Kaye</title><description>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -8042,7 +8114,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2745</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/a5d6bf7f-dbf3-46ea-9d47-af3000b33abb/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="43957482" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-88a186e8-c0ce-42a1-832a-ca7c347dda18</link>
-      <itunes:order>125</itunes:order>
+      <itunes:order>129</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 3</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 3</itunes:title>
@@ -8061,7 +8133,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2911</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/2a809414-43fa-49a0-99a7-af3000b0be7a/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46608179" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-8d5b0645-8058-4b33-b63a-0bd5236b6d96</link>
-      <itunes:order>126</itunes:order>
+      <itunes:order>130</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 2</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 2</itunes:title>
@@ -8080,7 +8152,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2901</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/99172b90-675f-494c-b30b-af3000ae513c/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46453534" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-2d0dda7c-36f1-4ef0-9d15-0b90990e1dc7</link>
-      <itunes:order>127</itunes:order>
+      <itunes:order>131</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>סקרנות הרגה את החתול - פרק 1</title>
       <itunes:title>סקרנות הרגה את החתול - פרק 1</itunes:title>
@@ -8099,7 +8171,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2815</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/73b2cfde-1950-4f7e-8687-af3000aa4702/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45076777" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-121f00c1-592c-42ef-ba82-72b49fc1e967</link>
-      <itunes:order>128</itunes:order>
+      <itunes:order>132</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>126: REvil</title>
       <link>https://darknetdiaries.com/episode/126</link>
@@ -10133,26 +10205,5 @@ Disclaimer</content:encoded>
         <itunes:duration>01:35:42</itunes:duration>
                 <itunes:episode>596</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/08686cd9-0c4c-4f7f-89c7-517edbcbb8b5.jpeg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>We Ignored Salman Rushdie’s Warning</title>
-      <description>פרק שהוא פריקת תסכול וכעס על המצב בעולם שהביא לכך שאדם יפעיל אלימות כנגד אדם אחר בגלל מילים. הפרק הוא תגובה לנסיון ההתנקשות בסלמאן רושדי. &lt;br&gt;בפרק יש סקירה של הרבה ממעשי האלימות שבוצעו כנגד מי שפרסם, תרגם או היה לו קשר כלשהוא לפסוקי השטן - לא זכרתי שהיו כל כך הרבה מהם 😔. &lt;br&gt;#ספרות #תרבות #אנגלית&lt;br&gt;&lt;br&gt;Honestly - We Ignored Salman Rushdie’s Warning&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5ux5jgfg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We live in a culture in which many people believe that words are violence. In this, they have much in common with Iranian Ayatollah Ruhollah Khomeini, who issued the first fatwa against Salman Rushdie in 1989, and with Hadi Matar, the 24-year-old who stabbed the novelist in the neck on a stage in Western New York. 
-
-Today, as Rushdie recovers from his injuries, reflections from Bari on the profound impact that the words are violence crowd has had on our culture.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Sun, 02 Oct 2022 05:00:00 +0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>The Free Press</itunes:author>
-      <itunes:subtitle>Words are not violence. Violence is violence.</itunes:subtitle>
-      <itunes:summary>פרק שהוא פריקת תסכול וכעס על המצב בעולם שהביא לכך שאדם יפעיל אלימות כנגד אדם אחר בגלל מילים. הפרק הוא תגובה לנסיון ההתנקשות בסלמאן רושדי. &lt;br&gt;בפרק יש סקירה של הרבה ממעשי האלימות שבוצעו כנגד מי שפרסם, תרגם או היה לו קשר כלשהוא לפסוקי השטן - לא זכרתי שהיו כל כך הרבה מהם 😔. &lt;br&gt;#ספרות #תרבות #אנגלית&lt;br&gt;&lt;br&gt;Honestly - We Ignored Salman Rushdie’s Warning&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5ux5jgfg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We live in a culture in which many people believe that words are violence. In this, they have much in common with Iranian Ayatollah Ruhollah Khomeini, who issued the first fatwa against Salman Rushdie in 1989, and with Hadi Matar, the 24-year-old who stabbed the novelist in the neck on a stage in Western New York. 
-
-Today, as Rushdie recovers from his injuries, reflections from Bari on the profound impact that the words are violence crowd has had on our culture.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>פרק שהוא פריקת תסכול וכעס על המצב בעולם שהביא לכך שאדם יפעיל אלימות כנגד אדם אחר בגלל מילים. הפרק הוא תגובה לנסיון ההתנקשות בסלמאן רושדי. &lt;br&gt;בפרק יש סקירה של הרבה ממעשי האלימות שבוצעו כנגד מי שפרסם, תרגם או היה לו קשר כלשהוא לפסוקי השטן - לא זכרתי שהיו כל כך הרבה מהם 😔. &lt;br&gt;#ספרות #תרבות #אנגלית&lt;br&gt;&lt;br&gt;Honestly - We Ignored Salman Rushdie’s Warning&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5ux5jgfg&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We live in a culture in which many people believe that words are violence. In this, they have much in common with Iranian Ayatollah Ruhollah Khomeini, who issued the first fatwa against Salman Rushdie in 1989, and with Hadi Matar, the 24-year-old who stabbed the novelist in the neck on a stage in Western New York. 
-
-Today, as Rushdie recovers from his injuries, reflections from Bari on the profound impact that the words are violence crowd has had on our culture.
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>965</itunes:duration>
-      <guid isPermaLink="false">91ef7ad4-6270-11ec-af77-aba1de6764d0</guid>
-      <enclosure url="https://mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/C87F71/traffic.megaphone.fm/RSV9519069052.mp3?updated=1682615059" length="0" type="audio/mpeg"/>
-    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:podcast="https://podcastindex.org/namespace/1.0"><title>באך: הסוויטות התזמורתיות</title><itunes:title>באך: הסוויטות התזמורתיות</itunes:title><description>מוזיקה לסופ"ש - הסוויטות התזמורתיות של באך. התוכנית היא תירוץ מצויין להקשיב למוזיקה מעולה (ומאוד מוכרת) מאחת האסופות הפופולאריות של באך. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;קלאסי קינן - באך: הסוויטות התזמורתיות&lt;br&gt;משך: 58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rwv6tsik&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;פרק&lt;/p&gt;&lt;p&gt;שלישי ואחרון על המוסיקה האביבית של באך, והפעם הסוויטות התזמורתיות מלייפציג- אחת&lt;/p&gt;&lt;p&gt;מהאסופות המלבבות והפופולאריות ביותר שיש בנמצא. "אייר על מיתר סול",&lt;/p&gt;&lt;p&gt;למשל, היא רק אחת מהפנינים המפורסמות שיש בסוויטות הללו, והקטעים במקור כמובן&lt;/p&gt;&lt;p&gt;נועדו לריקוד, לנשף. &lt;/p&gt;&lt;p&gt;&amp;nbsp;קבוצת המוסיקה הקלאסית בפייסבוק: &lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ערוץ היוטיוב קלאסי-קינן https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</description><content:encoded>מוזיקה לסופ"ש - הסוויטות התזמורתיות של באך. התוכנית היא תירוץ מצויין להקשיב למוזיקה מעולה (ומאוד מוכרת) מאחת האסופות הפופולאריות של באך. &lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;קלאסי קינן - באך: הסוויטות התזמורתיות&lt;br&gt;משך: 58 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rwv6tsik&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;פרק&lt;/p&gt;&lt;p&gt;שלישי ואחרון על המוסיקה האביבית של באך, והפעם הסוויטות התזמורתיות מלייפציג- אחת&lt;/p&gt;&lt;p&gt;מהאסופות המלבבות והפופולאריות ביותר שיש בנמצא. "אייר על מיתר סול",&lt;/p&gt;&lt;p&gt;למשל, היא רק אחת מהפנינים המפורסמות שיש בסוויטות הללו, והקטעים במקור כמובן&lt;/p&gt;&lt;p&gt;נועדו לריקוד, לנשף. &lt;/p&gt;&lt;p&gt;&amp;nbsp;קבוצת המוסיקה הקלאסית בפייסבוק: &lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ערוץ היוטיוב קלאסי-קינן https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;</content:encoded><link>https://www.facebook.com/groups/2574945439466338/</link><guid isPermaLink="false">baf43392-1636-40f8-86d2-3fb242207c8d</guid><itunes:image href="https://artwork.captivate.fm/f7ec5a7d-4d38-4279-a9f3-cf876c4a28d2/5uUl7DnUivO5kB-dirCZOrEc.png"/><dc:creator>שלומי קינן</dc:creator><pubDate>Thu, 29 Sep 2022 04:31:54 +0000</pubDate><enclosure url="https://podcasts.captivate.fm/media/1a08f51e-3746-4ecb-93fa-4aea3f03e702/bach-20suites-20podcast.mp3" length="56049622" type="audio/mpeg"/><itunes:duration>58:21</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>54</itunes:episode><podcast:episode>54</podcast:episode><itunes:author>שלומי קינן</itunes:author></item></channel>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/08686cd9-0c4c-4f7f-89c7-517edbcbb8b5.jpeg"/>    </item></channel>
 </rss>
