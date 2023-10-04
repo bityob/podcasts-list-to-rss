@@ -10,9 +10,80 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 02 Oct 2023 06:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Oct 2023 06:37:59 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק #730 - נוחם אוחנה ומידרג</title>
+        <itunes:title>פרק #730 - נוחם אוחנה ומידרג</itunes:title>
+        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-730-%d7%a0%d7%95%d7%97%d7%9d-%d7%90%d7%95%d7%97%d7%a0%d7%94-%d7%95%d7%9e%d7%99%d7%93%d7%a8%d7%92/</link>
+                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-730-%d7%a0%d7%95%d7%97%d7%9d-%d7%90%d7%95%d7%97%d7%a0%d7%94-%d7%95%d7%9e%d7%99%d7%93%d7%a8%d7%92/#comments</comments>        <pubDate>Tue, 03 Oct 2023 04:36:02 +0000</pubDate>
+        <guid isPermaLink="false">geekonomy.podbean.com/bd17f62b-b14f-3f2f-8f92-b8631ad14496</guid>
+                      <description>ראיון עם נוחם אוחנה שהקים את אתר מדרג. בשיחה יש הרבה פרטים מעניינים על הלוגיקה שמאחורי אתר מדרג וגם סיפורים על נסיונות מיזוג ורכישה. &lt;br&gt;#ישראל #יזמות &lt;br&gt;&lt;br&gt;https://prnt.sc/OPzzLaYXto_m&lt;br&gt;&lt;br&gt;גיקונומי - פרק #730 - נוחם אוחנה ומידרג&lt;br&gt;משך: שעה ו40 דק'&lt;br&gt;&lt;br&gt;https://pca.st/745m2vrt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נוחם אוחנה הקים את אתר מידרג לפני עשרים שנה והוא מנהל אותו מאז יומו הראשון. מידרג הוא מרקטפלייס שמחבר בין נותני שירות ביותר ממאה ועשרים קטגוריות לצרכנים הישראלים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+אליהו גולדרט, פורצי מנעולים, נותני שירותים, רמאים, המודל העסקי של מידרג, הערכים של מידרג, טוני שיי, אמזון, מכירת החברה, הנפקה, שולי הרווח, הלקוחות, המקצוענים, השוק הישראלי, השוק הבינלאומי, אודיבל, דירוגים
+
+ 
+
+נותני החסות שלנו לפרק:
+&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;D משכנתאות וגיקונומי&lt;/a&gt;
+&lt;a href='https://www.fnx.co.il/car-insurance'&gt;ביטוח לרכב הפניקס סמארט&lt;/a&gt;</description>
+                      <content:encoded>ראיון עם נוחם אוחנה שהקים את אתר מדרג. בשיחה יש הרבה פרטים מעניינים על הלוגיקה שמאחורי אתר מדרג וגם סיפורים על נסיונות מיזוג ורכישה. &lt;br&gt;#ישראל #יזמות &lt;br&gt;&lt;br&gt;https://prnt.sc/OPzzLaYXto_m&lt;br&gt;&lt;br&gt;גיקונומי - פרק #730 - נוחם אוחנה ומידרג&lt;br&gt;משך: שעה ו40 דק'&lt;br&gt;&lt;br&gt;https://pca.st/745m2vrt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נוחם אוחנה הקים את אתר מידרג לפני עשרים שנה והוא מנהל אותו מאז יומו הראשון. מידרג הוא מרקטפלייס שמחבר בין נותני שירות ביותר ממאה ועשרים קטגוריות לצרכנים הישראלים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+אליהו גולדרט, פורצי מנעולים, נותני שירותים, רמאים, המודל העסקי של מידרג, הערכים של מידרג, טוני שיי, אמזון, מכירת החברה, הנפקה, שולי הרווח, הלקוחות, המקצוענים, השוק הישראלי, השוק הבינלאומי, אודיבל, דירוגים
+
+ 
+
+נותני החסות שלנו לפרק:
+&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;D משכנתאות וגיקונומי&lt;/a&gt;
+&lt;a href='https://www.fnx.co.il/car-insurance'&gt;ביטוח לרכב הפניקס סמארט&lt;/a&gt;</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/d6mqu9/geekonomy730.mp3" length="96443518" type="audio/mpeg"/>
+        <itunes:subtitle>נוחם אוחנה הקים את אתר מידרג לפני עשרים שנה והוא מנהל אותו מאז יומו הראשון. מידרג הוא מרקטפלייס שמחבר בין נותני שירות ביותר ממאה ועשרים קטגוריות לצרכנים הישראלים.
+
+ 
+
+על מה דיברנו:
+אליהו גולדרט, פורצי מנעולים, נותני שירותים, רמאים, המודל העסקי של מיד...</itunes:subtitle>
+        <itunes:summary>ראיון עם נוחם אוחנה שהקים את אתר מדרג. בשיחה יש הרבה פרטים מעניינים על הלוגיקה שמאחורי אתר מדרג וגם סיפורים על נסיונות מיזוג ורכישה. &lt;br&gt;#ישראל #יזמות &lt;br&gt;&lt;br&gt;https://prnt.sc/OPzzLaYXto_m&lt;br&gt;&lt;br&gt;גיקונומי - פרק #730 - נוחם אוחנה ומידרג&lt;br&gt;משך: שעה ו40 דק'&lt;br&gt;&lt;br&gt;https://pca.st/745m2vrt&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נוחם אוחנה הקים את אתר מידרג לפני עשרים שנה והוא מנהל אותו מאז יומו הראשון. מידרג הוא מרקטפלייס שמחבר בין נותני שירות ביותר ממאה ועשרים קטגוריות לצרכנים הישראלים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+אליהו גולדרט, פורצי מנעולים, נותני שירותים, רמאים, המודל העסקי של מידרג, הערכים של מידרג, טוני שיי, אמזון, מכירת החברה, הנפקה, שולי הרווח, הלקוחות, המקצוענים, השוק הישראלי, השוק הבינלאומי, אודיבל, דירוגים
+
+ 
+
+נותני החסות שלנו לפרק:
+&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;D משכנתאות וגיקונומי&lt;/a&gt;
+&lt;a href='https://www.fnx.co.il/car-insurance'&gt;ביטוח לרכב הפניקס סמארט&lt;/a&gt;</itunes:summary>
+        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:40:27</itunes:duration>
+                <itunes:episode>735</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2023-05-28_at_82759_PM9h5uh.jpeg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>Mike The Mover vs. The Furniture Police</title>
+      <description>סיפור על אדם אחד ועסק אחד שהחליטו להלחם בתקנות המיושנות של תעשייה שלמה. Mike Shanks פתח עסק של הובלות אבל אז הוא גילה שהוא צריך רשיון. אבל כמו שבהרבה תעשיות אחרות - זה ממש לא פשוט להשיג רשיון כשמי שמחלק אותו נמצא בניגוד אינטרסים. &lt;br&gt;אז הוא יצא לקרב שימשך הרבה מאוד שנים , שהוא ינצח ואז יפרוש. &lt;br&gt;סיפור אחד, תעשייה אחת אבל כמה זה רלוונטי לעוד הרבה מקומות.&lt;br&gt;#כלכלה #אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;Planet money - Mike The Mover vs. The Furniture Police&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ozh9k50p&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 1978, a young man named Mike Shanks started a moving business in the north end of Seattle. It was just him and a truck — a pretty small operation. Things were going great. Then one afternoon, he was pulled over and cited for moving without a permit.&lt;br&gt;&lt;br&gt;The investigators who cited him were part of a special unit tasked with enforcing utilities and transportation regulations. Mike calls them the &lt;em&gt;furniture police&lt;/em&gt;. To legally be a mover, Mike needed a license. Otherwise, he'd face fines — and even potentially jail time. But soon he'd learn that getting that license was nearly impossible.&lt;br&gt;&lt;br&gt;Mike is the kind of guy who just can't back down from a fight. This run-in with the law would set him on a decade-long crusade against Washington's furniture moving industry, the furniture police, and the regulations themselves. It would turn him into a notorious semi-celebrity, bring him to courtrooms across the state, lead him to change his legal name to 'Mike The Mover,' and send him into the furthest depths of Washington's industrial regulations.&lt;br&gt;&lt;br&gt;The fight was personal. But it drew Mike into a much larger battle, too: An economic battle about regulation, and who it's supposed to protect. &lt;br&gt;&lt;br&gt;&lt;em&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ in &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;</description>
+      <pubDate>Tue, 03 Oct 2023 04:35:08 +0000</pubDate>
+      <guid isPermaLink="false">69eefa1a-f940-4dd1-b3b2-693148158ba6</guid>
+      <link>https://www.npr.org/2023/06/14/1182214943/regulatory-capture-moving-seattle-washington-furniture</link>
+      <itunes:block>no</itunes:block>
+      <itunes:title>Mike The Mover vs. The Furniture Police</itunes:title>
+      <itunes:episode>1651</itunes:episode>
+      <itunes:image href="https://media.npr.org/assets/img/2023/06/21/mike-the-mover-seattle-yellow-pages-1997_wide-f85f379c41741992ace1e759be6d3c8b190064fa.png?s=1400&amp;c=66&amp;f=png"/>
+      <itunes:duration>1535</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>סיפור על אדם אחד ועסק אחד שהחליטו להלחם בתקנות המיושנות של תעשייה שלמה. Mike Shanks פתח עסק של הובלות אבל אז הוא גילה שהוא צריך רשיון. אבל כמו שבהרבה תעשיות אחרות - זה ממש לא פשוט להשיג רשיון כשמי שמחלק אותו נמצא בניגוד אינטרסים. &lt;br&gt;אז הוא יצא לקרב שימשך הרבה מאוד שנים , שהוא ינצח ואז יפרוש. &lt;br&gt;סיפור אחד, תעשייה אחת אבל כמה זה רלוונטי לעוד הרבה מקומות.&lt;br&gt;#כלכלה #אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;Planet money - Mike The Mover vs. The Furniture Police&lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ozh9k50p&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 1978, a young man named Mike Shanks started a moving business in the north end of Seattle. It was just him and a truck — a pretty small operation. Things were going great. Then one afternoon, he was pulled over and cited for moving without a permit.&lt;br&gt;&lt;br&gt;The investigators who cited him were part of a special unit tasked with enforcing utilities and transportation regulations. Mike calls them the &lt;em&gt;furniture police&lt;/em&gt;. To legally be a mover, Mike needed a license. Otherwise, he'd face fines — and even potentially jail time. But soon he'd learn that getting that license was nearly impossible.&lt;br&gt;&lt;br&gt;Mike is the kind of guy who just can't back down from a fight. This run-in with the law would set him on a decade-long crusade against Washington's furniture moving industry, the furniture police, and the regulations themselves. It would turn him into a notorious semi-celebrity, bring him to courtrooms across the state, lead him to change his legal name to 'Mike The Mover,' and send him into the furthest depths of Washington's industrial regulations.&lt;br&gt;&lt;br&gt;The fight was personal. But it drew Mike into a much larger battle, too: An economic battle about regulation, and who it's supposed to protect. &lt;br&gt;&lt;br&gt;&lt;em&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ in &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;</content:encoded>
+      <enclosure length="24565178" type="audio/mpeg" url="https://play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4555666096.mp3?d=1535&amp;size=24565178&amp;e=1182214943&amp;t=podcast&amp;p=510289"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Who Owns the Tooth Fairy?</title>
       <description>דיברנו על המקור ליום האם ועכשיו בואו נדבר מי הבעלים של פיית השיניים. לכאורה פיית השיניים היא אחת האגדות הבודדות שלא משוייכת לאיזה חג או חברת שיווקית. ומסתבר שזה לא כי הן לא ניסו...&lt;br&gt;אז סיפורה של פיית השיניים בעולם השיווקי שלנו ואיך קורה שהיא עדיין לא התמסחרה. &lt;br&gt;&lt;br&gt;Decoder ring - Who Owns the Tooth Fairy?&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/b30925d2&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;We pride ourselves on being grounded, rational beings, but flitting amongst us is a mystery: the Tooth Fairy. This flying piece of folklore is alive and well in the 21st century, handed down to kids in whatever way their parents see fit. 
 In this episode, with the help of Tinkerbell, Santa Claus, and some savvy humans who are trying to exploit this strange creature’s untapped intellectual property, we’ll explore the origins of this childhood ritual, its durability—and its remarkable resistance to commercialization. 
@@ -319,41 +390,38 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <link>https://mandowsky.podbean.com/e/%d7%a4%d7%a8%d7%a7-31-%d7%9e%d7%9e%d7%94-%d7%a2%d7%a9%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%a8%d7%a0%d7%95%d7%aa-%d7%a1%d7%9c/</link>
                     <comments>https://mandowsky.podbean.com/e/%d7%a4%d7%a8%d7%a7-31-%d7%9e%d7%9e%d7%94-%d7%a2%d7%a9%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%a8%d7%a0%d7%95%d7%aa-%d7%a1%d7%9c/#comments</comments>        <pubDate>Tue, 19 Sep 2023 05:20:05 +0000</pubDate>
         <guid isPermaLink="false">mandowsky.podbean.com/ebc63be2-809e-35fc-989a-79f5efb1287f</guid>
-                      <description>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
-&lt;p&gt;((להזמנת הספר השקעות לעצלנים, לחצו כאן 👈 &lt;a href='https://www.mandowsky.com/lazy-investor-lp'&gt;https://www.mandowsky.com/lazy-investor-lp&lt;/a&gt; ))&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
-&lt;p&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
-&lt;p&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
-&lt;p&gt;רוצים לפתוח חשבון השקעות? אל תעשו את זה בלי סקר השוק העדכני של קהילת "השקעות לעצלנים".&lt;/p&gt;
-&lt;p&gt;כנסו ללינק הזה, קבלו את הקובץ למייל ותוכלו לראות את סקר השוק (בין בתי ההשקעות) שמתעדכן כל הזמן, וגם לצפות בנתונים של קרנות סל שונות שקיבצתי כדוגמה: &lt;a href='https://lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
+                      <description>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="direction: rtl;"&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;ללמוד להשקיע, ללא ידע קודם. בכלל. מתחילים פה 👇&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;"השקעות לעצלנים ב-90 דקות" - שיעור חובה לכל אדם עובד בישראל [43 ש"ח בלבד]:&lt;a href='http://www.lazyinvestor.co.il/90s-lesson/'&gt; https://lazyinvestor.co.il/90s-lesson/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;הספר "השקעות לעצלנים", ספר העיון הנמכר בישראל, עם משלוח עד הבית: &lt;a href='http://www.lazyinvestor.co.il/book/'&gt;https://lazyinvestor.co.il/book/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;לסקר שוק מתעדכן בין בתי ההשקעות בישראל (למסחר עצמאי), כולל הטבות לחברי הקהילה: &lt;a href='http://www.lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
 </description>
-                      <content:encoded>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
-&lt;p&gt;((להזמנת הספר השקעות לעצלנים, לחצו כאן 👈 &lt;a href='https://www.mandowsky.com/lazy-investor-lp'&gt;https://www.mandowsky.com/lazy-investor-lp&lt;/a&gt; ))&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
-&lt;p&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
-&lt;p&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
-&lt;p&gt;רוצים לפתוח חשבון השקעות? אל תעשו את זה בלי סקר השוק העדכני של קהילת "השקעות לעצלנים".&lt;/p&gt;
-&lt;p&gt;כנסו ללינק הזה, קבלו את הקובץ למייל ותוכלו לראות את סקר השוק (בין בתי ההשקעות) שמתעדכן כל הזמן, וגם לצפות בנתונים של קרנות סל שונות שקיבצתי כדוגמה: &lt;a href='https://lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
+                      <content:encoded>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="direction: rtl;"&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;ללמוד להשקיע, ללא ידע קודם. בכלל. מתחילים פה 👇&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;"השקעות לעצלנים ב-90 דקות" - שיעור חובה לכל אדם עובד בישראל [43 ש"ח בלבד]:&lt;a href='http://www.lazyinvestor.co.il/90s-lesson/'&gt; https://lazyinvestor.co.il/90s-lesson/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;הספר "השקעות לעצלנים", ספר העיון הנמכר בישראל, עם משלוח עד הבית: &lt;a href='http://www.lazyinvestor.co.il/book/'&gt;https://lazyinvestor.co.il/book/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;לסקר שוק מתעדכן בין בתי ההשקעות בישראל (למסחר עצמאי), כולל הטבות לחברי הקהילה: &lt;a href='http://www.lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
 </content:encoded>
                     
         <enclosure url="https://mcdn.podbean.com/mf/web/e7yjyg/68150.mp3" length="68902739" type="audio/mpeg"/>
         <itunes:subtitle>כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר...</itunes:subtitle>
-        <itunes:summary>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
-&lt;p&gt;((להזמנת הספר השקעות לעצלנים, לחצו כאן 👈 &lt;a href='https://www.mandowsky.com/lazy-investor-lp'&gt;https://www.mandowsky.com/lazy-investor-lp&lt;/a&gt; ))&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
-&lt;p&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
-&lt;p&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
-&lt;p&gt;רוצים לפתוח חשבון השקעות? אל תעשו את זה בלי סקר השוק העדכני של קהילת "השקעות לעצלנים".&lt;/p&gt;
-&lt;p&gt;כנסו ללינק הזה, קבלו את הקובץ למייל ותוכלו לראות את סקר השוק (בין בתי ההשקעות) שמתעדכן כל הזמן, וגם לצפות בנתונים של קרנות סל שונות שקיבצתי כדוגמה: &lt;a href='https://lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
+        <itunes:summary>פרק שמסביר מהבסיס ובצורה מפורטת מה הן קרנות סל מחכות מדד. פרק שמתאים למי שמתעניין בהשקעות בשוק ההון ורוצה ללמוד מושג עקרוני מהבסיס. &lt;br&gt;#השקעות #כלכלה &lt;br&gt;&lt;br&gt;השקעות לעצלנים - פרק #31 - ממה עשויות קרנות סל?&lt;br&gt;משך: 28 דק'&lt;br&gt;&lt;br&gt;https://pca.st/g67elgy1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="direction: rtl;"&gt;כבר יותר משנה שהפודקאסט הזה באוויר, מאות אלפי ישראלים האזינו לו, אלפים מהם פתחו תיק השקעות והתחילו להשקיע בקרנות סל מחקות מדדים, וביום בהיר אחד פתאום הכתה בי התובנה - לא הקדשתי ולו פרק אחד כדי להסביר מה היא קרן סל מחקת מדדים, איך היא בנויה, ואיך אפשר לסמוך עליה שתחקה את המדד?&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;שאלה ששואלים אותי המון היא "למה לחקות את המדד, ולא לקנות את המדד עצמו?"&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;זו שאלה מצויינת ואינטיליגנטית, ובשביל לענות עליה הזמנתי לאולפן הביתי שלי את נמרוד פואה, רואה חשבון בהכשרתו, מתכנת בתעשיית הפינטק בהווה, קולגה לשעבר עוד מימיי כעובד מדינה, ושותף לדרך כיום. יחד ניסינו לרדת לעומקה של קרן הסל - ואפילו גיליתי בעצמי פרט מידע חדש אודות המוצר הפיננסי שאני משקיע בו שנים רבות 🙂&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;קרן סל היא הדרך הפשוטה והזולה ביותר לחקות מדדים, ומדדים הוכיחו את עצמם לאורך עשורים רבים כאפיק ההשקעה הפשוט והרווחי ביותר.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;בפודקאסט הזה לא תשמעו המלצות השקעה, אבל כן תשמעו המלצה חמה להבין טוב במה אתם משקיעים. אני מקווה שהפרק הזה יעשה לכם שירות טוב ויעזור לכם להבין קצת יותר את אפיק ההשקעה שאין לו שום פרסומת בשום מקום. לא תשמעו עליו מאף סוכן, שכן בגלל עלותו הזולה, אין לאף אחד אינטרס שתבחרו בו - לאף אחד, חוץ מלכם.&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;ללמוד להשקיע, ללא ידע קודם. בכלל. מתחילים פה 👇&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;"השקעות לעצלנים ב-90 דקות" - שיעור חובה לכל אדם עובד בישראל [43 ש"ח בלבד]:&lt;a href='http://www.lazyinvestor.co.il/90s-lesson/'&gt; https://lazyinvestor.co.il/90s-lesson/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;הספר "השקעות לעצלנים", ספר העיון הנמכר בישראל, עם משלוח עד הבית: &lt;a href='http://www.lazyinvestor.co.il/book/'&gt;https://lazyinvestor.co.il/book/&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl;"&gt;לסקר שוק מתעדכן בין בתי ההשקעות בישראל (למסחר עצמאי), כולל הטבות לחברי הקהילה: &lt;a href='http://www.lazyinvestor.info/SekerShuk'&gt;https://lazyinvestor.info/SekerShuk&lt;/a&gt;&lt;/p&gt;
 </itunes:summary>
         <itunes:author>תמיר מנדובסקי</itunes:author>
         <itunes:explicit>false</itunes:explicit>
@@ -5748,7 +5816,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 </description>
 			<link>https://podcasters.spotify.com/pod/show/alon-landau/episodes/12-------------1959-e1uq535</link>
 			<guid isPermaLink="false">35c20a88-3c1a-4ef6-b30d-373c4a28279a</guid>
-			<dc:creator>Alon Landau</dc:creator>
+			<dc:creator>Alon Landau | אלון לנדאו</dc:creator>
 			<pubDate>Tue, 04 Apr 2023 04:40:02 +0000</pubDate>
 			<enclosure url="https://anchor.fm/s/b1a45c70/podcast/play/64868901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-11%2Fa6bc99e2-b050-d477-e6f2-7dc038983bc1.mp3" length="22589248" type="audio/mpeg"/>
 			<itunes:summary>הסיפור של סדרת השטרות השניה שהפיק בנק ישראל בשנת 1959. הסדרה מציגה את הצבר הישראלי על שלל המקצועות שבהם הוא עוסק ומקומות הסטוריים מרשימים ברחבי הארץ. &lt;br&gt;בפרק  יש גם סקירה של השטרות והדמויות שהצטלמו בשביל ליצור אותם. סיפורים מעניינים מהשנים הראשונות של המדינה.&lt;br&gt;#ישראל #הסטוריה #כלכלה &lt;br&gt;https://prnt.sc/THXEVBBr9D2B&lt;br&gt;&lt;br&gt;שני צידי המטבע - פרק 12 - תעלומת הדמויות על השטרות / סדרה ב' של בנק ישראל 1959&lt;br&gt;משך: 23 דק' &lt;br&gt;&lt;br&gt;https://pca.st/3swqy8bn&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בשנת 1959, רק ארבע שנים לאחר סדרת השטרות הראשונה, הפיק בנק ישראל את סדרת השטרות החדשה שנקראת סדרת הדמויות.&lt;/p&gt;
@@ -7035,7 +7103,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/mess
 			<guid isPermaLink="false">3e8542b2-4703-4ebe-9ce6-e17cd9f7b098</guid>
 			<dc:creator>נועה פז</dc:creator>
 			<pubDate>Tue, 14 Feb 2023 05:30:21 +0000</pubDate>
-			<enclosure url="https://anchor.fm/s/793c5aa4/podcast/play/61231646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F793c5aa4%2F61231646%2Ff0a09d16d8256b855273b5daacf40391.m4a" length="78612782" type="audio/x-m4a"/>
+			<enclosure url="https://anchor.fm/s/793c5aa4/podcast/play/61231646/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F793c5aa4%2F61231646%2F2f4b4639059b428dfc4dae0b593971c1.m4a" length="77343915" type="audio/x-m4a"/>
 			<itunes:summary>שיחה בכיוון שהיה חדש לחלוטין בשבילי - משמעות המבנה לצורות המגורים בו. &lt;br&gt;בשיחה מדברים על ההשפעה שיש לדירה המודרנית על המשפחה שיכולה לחיות בה. &lt;br&gt;מצד אחד צורת הבניה של הדירות של ימינו היא דיי חדשה (קודם משפחות היו גרות ביחד) ומצד שני כמו כל דבר שהתרגלנו אליו, אנחנו תופסים אותה כצורה המובנת מאליה. &lt;br&gt;וכאן יש חשיבה על איך חללים שונים יכולים לתמוך בסוגי משפחות שונים וגם בסוגי צרכים שונים (הרבה מעבר לכמות החדרים שיש בדירה).&lt;br&gt;בעיקר כיוון מחשבה מאוד מעניין. &lt;br&gt;#פסיכולוגיה &lt;br&gt;&lt;br&gt;פוליקאסט - פרק 19 - אמתי ואני מדברות על ההשפעה של מבנה הדירה המודרנית על המשפחה&lt;br&gt;משך: שעה ו19 דק' &lt;br&gt;&lt;br&gt;https://pca.st/9c7r23wd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אמתי הרטוב - אדריכל, מעצב ומתכנן עירוני. בלימודיו אמתי שילב תאוריה קווירית ואדריכלות ושאל שאלות לגבי איך אפשר להקוויר ולגוון את הבניינים והדירות שלנו, והאם תמיד בנינו ככה את הבתים שלנו והמרחבים שלנו (התשובה לזה היא לא). כיום בין השאר הוא מנסה לשכנע ראשי ערים שונות לגוון בסוג הבניינים והדירות שנבנים בשטחן.&lt;/p&gt;
 &lt;p&gt;בשיחה אנחנו מדברות על האופן בו הדירות כפי שהן בנויות כיום משרתות סוג מאוד מסויים של משפחה (שני מבוגרים וילדיהם שגרים כולם אך ורק ביחידת דיור אחת). דבר זה לא נותן מענה לרווקים, גרושים, הורות משותפת, משפחות שרוצות לגור קרוב לסבים ולסבתות, קומונות ועוד. &lt;/p&gt;
 &lt;p&gt;אנחנו מדברים גם על המרחב הציבורי והפרטי, שהיום הוא מאוד מובחן ומובדל דבר שלא היה בעבר.&lt;/p&gt;
@@ -7055,8 +7123,10 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/mess
 
 Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/message</itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>01:21:00</itunes:duration>
+			<itunes:duration>01:19:42</itunes:duration>
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/20239985/20239985-1642323202953-51f23fd672e81.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>19</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="https://podlove.org/simple-chapters/">
       <title>מדוע יכול להיות שגם ריבית של 5% לא תספיק</title>
@@ -7569,7 +7639,7 @@ Production Credits
 </description>
 			<link>https://podcasters.spotify.com/pod/show/alon-landau/episodes/9-----------e1rkp0f</link>
 			<guid isPermaLink="false">a56f5f50-24ba-4b3e-b8b9-5b8262631114</guid>
-			<dc:creator>Alon Landau</dc:creator>
+			<dc:creator>Alon Landau | אלון לנדאו</dc:creator>
 			<pubDate>Thu, 26 Jan 2023 05:00:36 +0000</pubDate>
 			<enclosure url="https://anchor.fm/s/b1a45c70/podcast/play/61546959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-2%2Fa2639605-bffb-4463-7075-7c1214f9f2da.mp3" length="69552855" type="audio/mpeg"/>
 			<itunes:summary>סיפורו של הסנט האמריקאי לאורך השנים. מה היה הצורך הראשוני במטבע, איך שינו את העיצוב שלו עם הזמן והחלק המפתיע לגביי היחס בין עלות הייצור לתועלת שלו היום.&lt;br&gt;#הסטוריה #כלכלה&lt;br&gt;&lt;br&gt;שני צידי המטבע - פרק 9 – סיפור גדול על מטבע קטן / סנט -פני אמריקאי&lt;br&gt;משך: 28 דק' &lt;br&gt;&lt;br&gt;https://pca.st/paiqqqqi&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;מטבע הסנט הקטן מלווה את האזרח האמריקאי שנים רבות.&lt;/p&gt;
@@ -9379,7 +9449,7 @@ https://www.ads.ranlevi.com/2022/09/19/metro-answer-pearl/</itunes:subtitle><itu
 </description>
 			<link>https://podcasters.spotify.com/pod/show/alon-landau/episodes/5---e1o3q5a</link>
 			<guid isPermaLink="false">88e4fd0e-9bbc-4396-a7d8-1f96391ef9db</guid>
-			<dc:creator>Alon Landau</dc:creator>
+			<dc:creator>Alon Landau | אלון לנדאו</dc:creator>
 			<pubDate>Tue, 15 Nov 2022 05:01:36 +0000</pubDate>
 			<enclosure url="https://anchor.fm/s/b1a45c70/podcast/play/57845354/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-20%2F6b83a0f9-6594-bd10-91f4-223d7018d842.mp3" length="9218381" type="audio/mpeg"/>
 			<itunes:summary>איך משפיעה המוות של המלכה אליזבת ז"ל על המטבעות ושטרות בבריטניה ובמדינות חסות אחרות של הכתר הבריטי ?&lt;br&gt;עדיין יש יותר שאלות מתשובות אבל הפרק משרטט בצורה ברורה את השינויים שכבר ברורים עכשיו וחלק מאלו שצפויים.&lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;שני צידי המטבע - פרק 5 - המלכה מתה, יחי המלך החדש&lt;br&gt;משך: 19 דק' &lt;br&gt;&lt;br&gt;https://pca.st/cgoer00x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;המלכה אליזבט השניה הלכה לעולמה והנסיך צ'ארלס השלישי יורש אותה כמלך. השאלה הנשאלת היא - &amp;nbsp;האם השטרות והמטבעות ישנו את פניהם? ואם כן, מתי?&lt;/p&gt;
@@ -9909,20 +9979,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2801</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/ad9a442a-45f8-4157-82c2-af22013cf9c2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="44863194" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/lover-lover-lover</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>פרק 26 | באזפיד עם שאול אולמרט</itunes:title>
-    <title>פרק 26 | באזפיד עם שאול אולמרט</title>
-    <description>שיחה מאוד מעניינת על חברת באזפיד וההתקדמות וההתפתחות שלהם לאורך השנים. יש פה זוית ייחודית כי המרואיין הוא שאול אולמרט שהקים את פלייבאז, שהיא המתחרה המקומית לבאזפיד. אז חברה מוכרת מזוית מעט שונה. &lt;br&gt;#יזמות #עסקים &lt;br&gt;&lt;br&gt;התמונה הגדולה - פרק 26 | באזפיד עם שאול אולמרט&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/czvracs9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;שאול אולמרט הוא כנראה אחד מהיזמים הישראלים שמבינים את תעשיית התוכן הכי טוב שיש: הוא הקים וניהל את פלייבאז, כתב ספר, טור בעיתון, מנחה פודקאסט מצליח, ובעברו היה סגן נשיא בערוץ הטולויזיה הפופולארי MTV.&lt;br/&gt;נפגשנו במשרד כדי לנתח את הסיפור של חברה שעלתה לגדולה בתור אחת מחלוצות התוכן של עידן האינטרנט, אבל עם השנים, ובעיקר בגלל רצף שגיאות אסטרטגיות מר, ירדה מגדולתה והפכה לצל של ההבטחה שהייתה פעם.&lt;br/&gt;---&lt;br/&gt;מקווים מאוד שיהיה פרק מעניין!&lt;br/&gt;---&lt;br/&gt;כמו תמיד חשוב לנו למסור תודה גדולה לפטרונים שלנו. כל אחד ואחת תומך בנו סכום קטן של דולרים בודדים בחודש וביחד זה מצבר לסכום צנוע שינחם אותנו בלילות הקרים בחורף הקרב.&lt;br/&gt;[וכמו שאנחנו תמיד אומרים, זה לא הכסף - זה המסר. אז תודה ענקית לכם וגם לכן!].&lt;br/&gt;אם אתם רוצים להצטרף בקטנה לתמיכה בנו - זה הלינק: ל&lt;a href='https://www.patreon.com/techstratpod'&gt;פטריאון&lt;/a&gt;.&lt;br/&gt;כמו תמיד גם נמסור תודה לשותפים  שלנו ב-Tech12. לאלעד ויונטה על עריכת הסאונד, למפיקת הפוסט לי שלום, וללירן ארביב על העיצוב הגרפי. את הפרק הזה הקלטנו במשרדי &lt;strong&gt;Samsung Next&lt;/strong&gt; - זרוע החדשנות של סמסונג בישראל, אז גם לכם המון תודה לכם על האירוח.&lt;br/&gt;אתם מוזמנים גם ל&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק שלנו&lt;/a&gt; לעוד פרשנויות ותגובות. &lt;br/&gt;---&lt;br/&gt;האזנה נעימה!&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/techstratpod"&gt;Support the show&lt;/a&gt;</description>
-    <content:encoded>שיחה מאוד מעניינת על חברת באזפיד וההתקדמות וההתפתחות שלהם לאורך השנים. יש פה זוית ייחודית כי המרואיין הוא שאול אולמרט שהקים את פלייבאז, שהיא המתחרה המקומית לבאזפיד. אז חברה מוכרת מזוית מעט שונה. &lt;br&gt;#יזמות #עסקים &lt;br&gt;&lt;br&gt;התמונה הגדולה - פרק 26 | באזפיד עם שאול אולמרט&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/czvracs9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;שאול אולמרט הוא כנראה אחד מהיזמים הישראלים שמבינים את תעשיית התוכן הכי טוב שיש: הוא הקים וניהל את פלייבאז, כתב ספר, טור בעיתון, מנחה פודקאסט מצליח, ובעברו היה סגן נשיא בערוץ הטולויזיה הפופולארי MTV.&lt;br/&gt;נפגשנו במשרד כדי לנתח את הסיפור של חברה שעלתה לגדולה בתור אחת מחלוצות התוכן של עידן האינטרנט, אבל עם השנים, ובעיקר בגלל רצף שגיאות אסטרטגיות מר, ירדה מגדולתה והפכה לצל של ההבטחה שהייתה פעם.&lt;br/&gt;---&lt;br/&gt;מקווים מאוד שיהיה פרק מעניין!&lt;br/&gt;---&lt;br/&gt;כמו תמיד חשוב לנו למסור תודה גדולה לפטרונים שלנו. כל אחד ואחת תומך בנו סכום קטן של דולרים בודדים בחודש וביחד זה מצבר לסכום צנוע שינחם אותנו בלילות הקרים בחורף הקרב.&lt;br/&gt;[וכמו שאנחנו תמיד אומרים, זה לא הכסף - זה המסר. אז תודה ענקית לכם וגם לכן!].&lt;br/&gt;אם אתם רוצים להצטרף בקטנה לתמיכה בנו - זה הלינק: ל&lt;a href='https://www.patreon.com/techstratpod'&gt;פטריאון&lt;/a&gt;.&lt;br/&gt;כמו תמיד גם נמסור תודה לשותפים  שלנו ב-Tech12. לאלעד ויונטה על עריכת הסאונד, למפיקת הפוסט לי שלום, וללירן ארביב על העיצוב הגרפי. את הפרק הזה הקלטנו במשרדי &lt;strong&gt;Samsung Next&lt;/strong&gt; - זרוע החדשנות של סמסונג בישראל, אז גם לכם המון תודה לכם על האירוח.&lt;br/&gt;אתם מוזמנים גם ל&lt;a href='https://www.facebook.com/groups/558320182197568/?ref=share'&gt;קבוצת הפייסבוק שלנו&lt;/a&gt; לעוד פרשנויות ותגובות. &lt;br/&gt;---&lt;br/&gt;האזנה נעימה!&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/techstratpod"&gt;Support the show&lt;/a&gt;</content:encoded>
-    <itunes:author/>
-    <enclosure url="https://www.buzzsprout.com/1717514/11448361-26.mp3" length="37548274" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-11448361</guid>
-    <pubDate>Tue, 01 Nov 2022 06:00:33 +0000</pubDate>
-    <itunes:duration>3123</itunes:duration>
-    <itunes:keywords/>
-    <itunes:season>3</itunes:season>
-    <itunes:episode>7</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item></channel>
+    </item></channel>
 </rss>
