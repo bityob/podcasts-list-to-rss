@@ -10,9 +10,95 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 11 Oct 2023 06:38:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2023 06:38:18 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="https://podlove.org/simple-chapters/">
+      <title>מפרקים את האינפלציה, חלק 3: העתיד</title>
+      <itunes:title>מפרקים את האינפלציה, חלק 3: העתיד</itunes:title>
+      <description>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 250: מציפיות ויעד האינפלציה ועד למטבעות הדיגיטליים והשינויים בתיק ההשקעות. חלק אחרון בסדרת הפרקים &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 250: מציפיות ויעד האינפלציה ועד למטבעות הדיגיטליים והשינויים בתיק ההשקעות. חלק אחרון בסדרת הפרקים &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>250</itunes:episode>
+      <itunes:author>כלכליסט</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/fecb01d7-6cdb-4518-ae64-b03000df98a7/image.jpg?t=1688045685&amp;size=Large"/>
+      <media:content type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/fecb01d7-6cdb-4518-ae64-b03000df98a7/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c">
+        <media:player url="https://omny.fm/shows/calcalist/fecb01d7-6cdb-4518-ae64-b03000df98a7/embed"/>
+      </media:content>
+      <media:content type="image/jpeg" url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/fecb01d7-6cdb-4518-ae64-b03000df98a7/image.jpg?t=1688045685&amp;size=Large"/>
+      <guid isPermaLink="false">fecb01d7-6cdb-4518-ae64-b03000df98a7</guid>
+      <omny:clipId>fecb01d7-6cdb-4518-ae64-b03000df98a7</omny:clipId>
+      <pubDate>Thu, 12 Oct 2023 04:26:01 +0000</pubDate>
+      <itunes:duration>2896</itunes:duration>
+      <enclosure length="46362198" type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/fecb01d7-6cdb-4518-ae64-b03000df98a7/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c"/>
+      <link>https://omny.fm/shows/calcalist/fecb01d7-6cdb-4518-ae64-b03000df98a7</link>
+    <itunes:explicit>no</itunes:explicit><itunes:subtitle>פודקאסט מנועי הכסף של כלכליסט, פרק 250: מציפיות ויעד האינפלציה ועד למטבעות הדיגיטליים והשינויים בתיק ההשקעות. חלק אחרון בסדרת הפרקים  See omnystudio.com/listener for privacy information.</itunes:subtitle><itunes:summary>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 250: מציפיות ויעד האינפלציה ועד למטבעות הדיגיטליים והשינויים בתיק ההשקעות. חלק אחרון בסדרת הפרקים &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</itunes:summary><itunes:keywords>כלכלה,business</itunes:keywords></item><item xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="https://podlove.org/simple-chapters/">
+      <title>יוקר המחיה, הממשלה ועצמאות בנק ישראל: פרופ' טרכטנברג במנועי הכסף</title>
+      <itunes:title>יוקר המחיה, הממשלה ועצמאות בנק ישראל: פרופ' טרכטנברג במנועי הכסף</itunes:title>
+      <description>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;השבוע בפרק מספר 249 של פודקאסט מנועי הכסף של כלכליסט התארח פרופ׳ מנואל טרכטנברג, במסגרת החלק השני של סדרת הפרקים מפרקים את האינפלציה: "הבעיה שלנו היא יוקר המחיה ולא האינפלציה. אני מודאג מהבעיות הכלכליות חברתיות שלא מטופלות על ידי הממשלה. קצב עליית המחירים יירד, אבל זה שיקר פה זו בעיה שלא טופלה בתקציב האחרון"&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;השבוע בפרק מספר 249 של פודקאסט מנועי הכסף של כלכליסט התארח פרופ׳ מנואל טרכטנברג, במסגרת החלק השני של סדרת הפרקים מפרקים את האינפלציה: "הבעיה שלנו היא יוקר המחיה ולא האינפלציה. אני מודאג מהבעיות הכלכליות חברתיות שלא מטופלות על ידי הממשלה. קצב עליית המחירים יירד, אבל זה שיקר פה זו בעיה שלא טופלה בתקציב האחרון"&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>249</itunes:episode>
+      <itunes:author>כלכליסט</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/a7e14b11-b973-4dd6-a15c-b02900dab6d1/image.jpg?t=1687440101&amp;size=Large"/>
+      <media:content type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/a7e14b11-b973-4dd6-a15c-b02900dab6d1/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c">
+        <media:player url="https://omny.fm/shows/calcalist/a7e14b11-b973-4dd6-a15c-b02900dab6d1/embed"/>
+      </media:content>
+      <media:content type="image/jpeg" url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/a7e14b11-b973-4dd6-a15c-b02900dab6d1/image.jpg?t=1687440101&amp;size=Large"/>
+      <guid isPermaLink="false">a7e14b11-b973-4dd6-a15c-b02900dab6d1</guid>
+      <omny:clipId>a7e14b11-b973-4dd6-a15c-b02900dab6d1</omny:clipId>
+      <pubDate>Thu, 12 Oct 2023 04:26:01 +0000</pubDate>
+      <itunes:duration>2334</itunes:duration>
+      <enclosure length="37371536" type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/a7e14b11-b973-4dd6-a15c-b02900dab6d1/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c"/>
+      <link>https://omny.fm/shows/calcalist/a7e14b11-b973-4dd6-a15c-b02900dab6d1</link>
+    <itunes:explicit>no</itunes:explicit><itunes:subtitle>השבוע בפרק מספר 249 של פודקאסט מנועי הכסף של כלכליסט התארח פרופ׳ מנואל טרכטנברג, במסגרת החלק השני של סדרת הפרקים מפרקים את האינפלציה: "הבעיה שלנו היא יוקר המחיה ולא האינפלציה. אני מודאג מהבעיות הכלכליות חברתיות שלא מטופלות על ידי הממשלה. קצב עליית המחירים יירד, אבל זה שיקר פה זו בעיה שלא טופלה בתקציב האחרון" See omnystudio.com/listener for privacy information.</itunes:subtitle><itunes:summary>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;השבוע בפרק מספר 249 של פודקאסט מנועי הכסף של כלכליסט התארח פרופ׳ מנואל טרכטנברג, במסגרת החלק השני של סדרת הפרקים מפרקים את האינפלציה: "הבעיה שלנו היא יוקר המחיה ולא האינפלציה. אני מודאג מהבעיות הכלכליות חברתיות שלא מטופלות על ידי הממשלה. קצב עליית המחירים יירד, אבל זה שיקר פה זו בעיה שלא טופלה בתקציב האחרון"&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</itunes:summary><itunes:keywords>כלכלה,business</itunes:keywords></item><item xmlns:acast="https://schema.acast.com/1.0/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:psc="https://podlove.org/simple-chapters/">
+      <title>מפרקים את האינפלציה - חלק ראשון</title>
+      <itunes:title>מפרקים את האינפלציה - חלק ראשון</itunes:title>
+      <description>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 248: עצרנו מהדיווחים השוטפים כדי להתעמק בתופעה שמשפיעה לנו על חיי היום יום כמעט יותר מכל דבר אחר - עליות המחירים. איך מודדים אינפלציה בישראל ובעולם, מה זה אינפלציה טובה, איזו פסיכולוגיה עומדת מאחורי המחירים וגם על ההשפעות ההרסניות שיש על החברה שלנו &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 248: עצרנו מהדיווחים השוטפים כדי להתעמק בתופעה שמשפיעה לנו על חיי היום יום כמעט יותר מכל דבר אחר - עליות המחירים. איך מודדים אינפלציה בישראל ובעולם, מה זה אינפלציה טובה, איזו פסיכולוגיה עומדת מאחורי המחירים וגם על ההשפעות ההרסניות שיש על החברה שלנו &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>248</itunes:episode>
+      <itunes:author>כלכליסט</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/64d5403f-9476-48a4-a29d-b02200cd842d/image.jpg?t=1686832129&amp;size=Large"/>
+      <media:content type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/64d5403f-9476-48a4-a29d-b02200cd842d/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c">
+        <media:player url="https://omny.fm/shows/calcalist/64d5403f-9476-48a4-a29d-b02200cd842d/embed"/>
+      </media:content>
+      <media:content type="image/jpeg" url="https://www.omnycontent.com/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/64d5403f-9476-48a4-a29d-b02200cd842d/image.jpg?t=1686832129&amp;size=Large"/>
+      <guid isPermaLink="false">64d5403f-9476-48a4-a29d-b02200cd842d</guid>
+      <omny:clipId>64d5403f-9476-48a4-a29d-b02200cd842d</omny:clipId>
+      <pubDate>Thu, 12 Oct 2023 04:26:01 +0000</pubDate>
+      <itunes:duration>2136</itunes:duration>
+      <enclosure length="34203763" type="audio/mpeg" url="https://traffic.omny.fm/d/clips/178d72a7-a889-4132-8008-a5cc014ed109/874bd0b7-699f-41ce-bb29-a96f00acd9c5/64d5403f-9476-48a4-a29d-b02200cd842d/audio.mp3?utm_source=Podcast&amp;in_playlist=e187fae7-3db8-4cde-8b39-a96f00cd338c"/>
+      <link>https://omny.fm/shows/calcalist/64d5403f-9476-48a4-a29d-b02200cd842d</link>
+    <itunes:explicit>no</itunes:explicit><itunes:subtitle>פודקאסט מנועי הכסף של כלכליסט, פרק 248: עצרנו מהדיווחים השוטפים כדי להתעמק בתופעה שמשפיעה לנו על חיי היום יום כמעט יותר מכל דבר אחר - עליות המחירים. איך מודדים אינפלציה בישראל ובעולם, מה זה אינפלציה טובה, איזו פסיכולוגיה עומדת מאחורי המחירים וגם על ההשפעות ההרסניות שיש על החברה שלנו  See omnystudio.com/listener for privacy information.</itunes:subtitle><itunes:summary>אינפלציה. בואו נדבר על אינפלציה.&lt;br&gt;סדרת פרקים מעניינת על שמתחילה משאלת הבסיס - מה היא האינפלציה? &lt;br&gt;ומגיעה עד לימי טרום המלחמה על מה קורה בפועל בישראל - מה ציפיות ומה הסכנות &lt;br&gt;ועל הצפי - מה משערים שעומד לקרות עם עליות המחירים בישראל. &lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מנועי הכסף - מפרקים את האינפלציה&lt;br&gt;&lt;br&gt;חלק 1 - 36 דק' &lt;br&gt;https://pca.st/tyt6nuob&lt;br&gt;&lt;br&gt;חלק 2 - 39 דק' &lt;br&gt;https://pca.st/nxcey08l&lt;br&gt;&lt;br&gt;חלק 3 - 48 דק' &lt;br&gt;https://pca.st/leibhc9w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;פודקאסט מנועי הכסף של כלכליסט, פרק 248: עצרנו מהדיווחים השוטפים כדי להתעמק בתופעה שמשפיעה לנו על חיי היום יום כמעט יותר מכל דבר אחר - עליות המחירים. איך מודדים אינפלציה בישראל ובעולם, מה זה אינפלציה טובה, איזו פסיכולוגיה עומדת מאחורי המחירים וגם על ההשפעות ההרסניות שיש על החברה שלנו &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</itunes:summary><itunes:keywords>כלכלה,business</itunes:keywords></item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+            <guid isPermaLink="false">56882ad5-ce9f-4f68-9368-6ee48fddb49f</guid>
+            <title>Encore: Angel's Glow</title>
+            <link>https://www.wbur.org/endlessthread/2023/05/26/encore-angels-glow</link>
+
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">WBUR</dc:creator>
+
+                                    <category>Health</category>
+                        <category>Life</category>
+                        <category>Science</category>
+                        
+            <description>סיפור הסטורי מעניין שמתחיל עם קבוצת ילדים שעשו פרוייקט לבית הספר ונגמר בהסבר לתופעה שהייתה ידועה במשך מאות שנים כ"זוהר המלאכים". &lt;br&gt;במהלך מלחמת האזרחים האמריקאית חלק מהחיילים דיווחו על זוהר מוזר שיצא מהפצעים שלהם אבל מה שעוד יותר מוזר שהתברר שלמי שהיה זוהר היה גם יותר סיכוי לשרוד. מאתיים שנה אחרי זה קבוצת ילדים מצליחים לשחזר את התופעה ולהסביר אותה. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Endless thread - Encore: Angel's Glow&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/re3uwuk1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the aftermath of the Civil War's Battle of Shiloh in 1862, something strange happened. Some soldiers' wounds started to glow.  Stranger still, those with glowing wounds seemed to have better rates of survival. In 2001, a teenage Civil War buff embarked on a science project to explain this so-called "Angel's Glow." &lt;/p&gt;</description>
+            <pubDate>Thu, 12 Oct 2023 04:25:09 +0000</pubDate>
+            <itunes:episodeType>full</itunes:episodeType>
+                                    <itunes:author> WBUR </itunes:author>
+            <itunes:title> Encore: Angel's Glow </itunes:title>
+            <itunes:summary>סיפור הסטורי מעניין שמתחיל עם קבוצת ילדים שעשו פרוייקט לבית הספר ונגמר בהסבר לתופעה שהייתה ידועה במשך מאות שנים כ"זוהר המלאכים". &lt;br&gt;במהלך מלחמת האזרחים האמריקאית חלק מהחיילים דיווחו על זוהר מוזר שיצא מהפצעים שלהם אבל מה שעוד יותר מוזר שהתברר שלמי שהיה זוהר היה גם יותר סיכוי לשרוד. מאתיים שנה אחרי זה קבוצת ילדים מצליחים לשחזר את התופעה ולהסביר אותה. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Endless thread - Encore: Angel's Glow&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/re3uwuk1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the aftermath of the Civil War's Battle of Shiloh in 1862, something strange happened. Some soldiers' wounds started to glow.  Stranger still, those with glowing wounds seemed to have better rates of survival. In 2001, a teenage Civil War buff embarked on a science project to explain this so-called "Angel's Glow." &lt;/p&gt;</itunes:summary>
+            <itunes:subtitle>In the aftermath of the Civil War's Battle of Shiloh in 1862, something strange happened. Some soldiers' wounds started to glow.  Stranger still, those with glowing wounds seemed to have better rates of survival. In 2001, a teenage Civil War buff embarked on a science project to explain this so-called "Angel's Glow."</itunes:subtitle>
+            <itunes:explicit>no</itunes:explicit>
+
+                        <itunes:image href="https://wordpress.wbur.org/wp-content/uploads/2020/08/I1-fuJZSw66xIlFHem744g-WpzF1L0p59ntk9iM_-98.jpg"/>
+            <media:content url="https://wordpress.wbur.org/wp-content/uploads/2020/08/I1-fuJZSw66xIlFHem744g-WpzF1L0p59ntk9iM_-98.jpg" type="image/jpeg" height="1116" width="1579" medium="image">
+                                        <media:thumbnail url="https://wordpress.wbur.org/wp-content/uploads/2020/08/I1-fuJZSw66xIlFHem744g-WpzF1L0p59ntk9iM_-98-200x200.jpg" height="200" width="200"/>
+                <media:description>"Giant Forest," by u/Rytelier</media:description>
+                                    </media:content>
+                                    <itunes:duration>00:28:32</itunes:duration>
+            <media:content url="https://prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR1035308970.mp3" fileSize="27399964" type="audio/mpeg" medium="audio"/>
+            <enclosure url="https://prfx.byspotify.com/e/chrt.fm/track/284E6C/traffic.megaphone.fm/BUR1035308970.mp3" length="27399964" type="audio/mpeg"/>
+                                        <content:encoded>סיפור הסטורי מעניין שמתחיל עם קבוצת ילדים שעשו פרוייקט לבית הספר ונגמר בהסבר לתופעה שהייתה ידועה במשך מאות שנים כ"זוהר המלאכים". &lt;br&gt;במהלך מלחמת האזרחים האמריקאית חלק מהחיילים דיווחו על זוהר מוזר שיצא מהפצעים שלהם אבל מה שעוד יותר מוזר שהתברר שלמי שהיה זוהר היה גם יותר סיכוי לשרוד. מאתיים שנה אחרי זה קבוצת ילדים מצליחים לשחזר את התופעה ולהסביר אותה. &lt;br&gt;#הסטוריה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;Endless thread - Encore: Angel's Glow&lt;br&gt;משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/re3uwuk1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the aftermath of the Civil War's Battle of Shiloh in 1862, something strange happened. Some soldiers' wounds started to glow.  Stranger still, those with glowing wounds seemed to have better rates of survival. In 2001, a teenage Civil War buff embarked on a science project to explain this so-called "Angel's Glow." &lt;/p&gt;</content:encoded>
+        </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Who By Fire: Why Leonard Cohen Ran Toward War</title>
       <description>היי, אז אמרתם שזה עוזר ואני באמת מקווה שזה מספק לכם פינה קטנה של אסקפיזם. בבקשה תשמרו על עצמכם!&lt;br&gt;&lt;br&gt;היום אני רוצה להקפיץ קצת מוזיקה טובה ושני פרקים על לאונרד כהן שמדברים על הביקור שלו פה בזמן מלחמת יום הכיפורים. ההקשר דיי ברור ואני מקווה שההתמודדות והתקווה של השירים יספקו לכם רגע של שקט. &lt;br&gt;&lt;br&gt;https://prnt.sc/UmROVcFKIo0f&lt;br&gt;&lt;br&gt;אז פרק ראשון - חקירה לתוך המאורעות שהביאו את לאונרד כהן לכתוב את השיר Lover, lover, lover שמסתבר במקור היה Brother, brother, brother. ועכשיו גם קיבל גרסה ישראלית בשם אנא, אנא, אנא.&lt;br&gt;#עברית&lt;br&gt;&lt;br&gt;https://pca.st/8urvr9gm&lt;br&gt;&lt;br&gt;ופרק שני - התמקדות בשיר Who by fire שגם קשור לתפילת יום הכיפורים.&lt;br&gt;#אנגלית &lt;br&gt;https://pca.st/hgtdyk0f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In 1973, Leonard Cohen announced he was done with music for good. The same year, in October, war broke out in Israel.
 
@@ -211,7 +297,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Mike The Mover vs. The Furniture Police</itunes:title>
       <itunes:episode>1651</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/06/21/mike-the-mover-seattle-yellow-pages-1997_wide-f85f379c41741992ace1e759be6d3c8b190064fa.png?s=1400&amp;c=66&amp;f=png"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/06/21/mike-the-mover-seattle-yellow-pages-1997_sq-3703bfdf02ae2c114fb086aa5527e392b6538184.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1535</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -476,7 +562,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
             <description>מה מילים יכולות ללמד על תרבות ? בפרק הזה יש שני סיפורים קצרים על תפוזים ועל רשימת משאלות.&lt;br&gt;החלק הראשון הוא חפירה למקור של המילה תפוז. כי יש הרבה שפות שבהן הצבע - כתום והפרי - תפוז הן אותה מילה. ויש שפות כמו העברית שהן לא... אז מה בא קודם הצבע או הפרי ?&lt;br&gt;והחלק השני הוא המקור לביטוי bucket list - אותה רשימה שעושים כדי להספיק לפני שמתים. אני מודה שגם אני חשבתי שמדובר בביטוי דיי ישן אבל מסתבר שהוא סופר חדש. &lt;br&gt;בקיצור שפה, הסטוריה וסיפורים מעניינים. &lt;br&gt;#קצרים #אנגלית #שפה &lt;br&gt;&lt;br&gt;Endless thread - Oranges and Bucket Lists&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/b0xxr1fq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;This week, we have two stories about etymology. What can words teach us about culture, trade, memory, and the world around us? First up, which “orange” came about first: the fruit or the color? We also discuss the history of the term “bucket list” — a saying that is so embedded in our culture, we forget that it was only formally coined 16 years ago. &lt;/p&gt;</description>
             <pubDate>Thu, 21 Sep 2023 04:29:01 +0000</pubDate>
             <itunes:episodeType>full</itunes:episodeType>
-                        <itunes:author> WBUR </itunes:author>
+                                    <itunes:author> WBUR </itunes:author>
             <itunes:title> Oranges and Bucket Lists </itunes:title>
             <itunes:summary>מה מילים יכולות ללמד על תרבות ? בפרק הזה יש שני סיפורים קצרים על תפוזים ועל רשימת משאלות.&lt;br&gt;החלק הראשון הוא חפירה למקור של המילה תפוז. כי יש הרבה שפות שבהן הצבע - כתום והפרי - תפוז הן אותה מילה. ויש שפות כמו העברית שהן לא... אז מה בא קודם הצבע או הפרי ?&lt;br&gt;והחלק השני הוא המקור לביטוי bucket list - אותה רשימה שעושים כדי להספיק לפני שמתים. אני מודה שגם אני חשבתי שמדובר בביטוי דיי ישן אבל מסתבר שהוא סופר חדש. &lt;br&gt;בקיצור שפה, הסטוריה וסיפורים מעניינים. &lt;br&gt;#קצרים #אנגלית #שפה &lt;br&gt;&lt;br&gt;Endless thread - Oranges and Bucket Lists&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/b0xxr1fq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;This week, we have two stories about etymology. What can words teach us about culture, trade, memory, and the world around us? First up, which “orange” came about first: the fruit or the color? We also discuss the history of the term “bucket list” — a saying that is so embedded in our culture, we forget that it was only formally coined 16 years ago. &lt;/p&gt;</itunes:summary>
             <itunes:subtitle>This week on Endless Thread, we have two stories about etymology: the histories of the word “orange” and the term “bucket list.” </itunes:subtitle>
@@ -1056,7 +1142,7 @@ This episode of “The Ezra Klein Show” is produced by Roge Karma, Kristin Lin
       <itunes:block>no</itunes:block>
       <itunes:title>Did two honesty researchers fabricate their data?</itunes:title>
       <itunes:episode>1661</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/07/27/gettyimages-84447458_wide-f4852a3f7c167ce00aac26acb5907be67cc1bfda.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/07/27/gettyimages-84447458_sq-b2b340573fc5ba02666e7a882880a845bbc44c40.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1557</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1781,7 +1867,7 @@ Disclaimer</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>The implications of the case against ICWA</itunes:title>
       <itunes:episode>403</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/05/16/cs-rnagle_icwa_2023-1-_wide-1f6d61d2bbf3587000963ca2a3ca8eac1bb048f9.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/05/16/cs-rnagle_icwa_2023-1-_sq-75cf52bd54074079eec80a22f5991cd0c3780f7f.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1953</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2646,7 +2732,7 @@ Disclaimer</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Inflation and the Profit-Price Spiral</itunes:title>
       <itunes:episode>1639</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/05/12/wage-profit-price-spiral-economists-debate_wide-d1643de71bdc320cd72bf752d79bbcdae5e28598.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/05/12/wage-profit-price-spiral-economists-debate_sq-978d6c563d9a4a7a85e46492d511f3bbe3940718.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1599</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -3099,7 +3185,7 @@ Editor: Munazza Khan</itunes:summary><pubDate>Sun, 02 Jul 2023 04:25:00 +0000</p
       <itunes:block>no</itunes:block>
       <itunes:title>The zoo economy (classic)</itunes:title>
       <itunes:episode>1634</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/04/26/swarna-bozie-elephants-calgary-zoo-smithsonian-washington-dc_wide-9b26f8c336d3da9c3b61780eb67735b015dc7da8.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/04/26/swarna-bozie-elephants-calgary-zoo-smithsonian-washington-dc_sq-ea1c4037c74c1bda9a0035cafef119cbf94b9c46.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1003</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5034,7 +5120,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>The battle over Osage headrights</itunes:title>
       <itunes:episode>1625</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/03/24/richard-lonsinger-osage-headrights-killers-of-the-flower-moon-martin-scorsese-david-grann-lawrence-kansas-oklahoma_wide-b70bb462ec7056f164437ae5c6ccbd0ce467f240.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/03/24/richard-lonsinger-osage-headrights-killers-of-the-flower-moon-martin-scorsese-david-grann-lawrence-kansas-oklahoma_sq-d43f6e137f980f656b3ebae4ae76baf061a13c1d.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1424</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5346,6 +5432,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/lab-the-course/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/lab-the-course/"&gt;Join Like a Boss&lt;/a&gt; – Go from order-taker freelance copywriter to BOSS business owner in 12 weeks&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/"&gt;Grab Design Your VIP Day and save $50&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Connect with me on &lt;a href="https://www.instagram.com/emancopyco/"&gt;Instagram&lt;/a&gt; and/or &lt;a href="https://www.linkedin.com/in/eman-i307/"&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Love this podcast? &lt;a href="http://ratethispodcast.com/mistakes"&gt;Support it by leaving a rating and review here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description><guid isPermaLink="false">3e79d294-3cfb-4043-bd4c-ad96ee28dd79_UkJG4wHjcw</guid><dc:creator>Eman Ismail</dc:creator><pubDate>Wed, 26 Apr 2023 04:01:02 +0000</pubDate><enclosure url="https://chtbl.com/track/477178//podcasts.helloaudio.fm/download/UkJG4wHjcw/6a75983e-1b5d-4ffd-9525-012fc46811ff.mp3" length="48193379" type="audio/mpeg"/><content:encoded>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -5374,6 +5461,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/lab-the-course/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/lab-the-course/"&gt;Join Like a Boss&lt;/a&gt; – Go from order-taker freelance copywriter to BOSS business owner in 12 weeks&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/"&gt;Grab Design Your VIP Day and save $50&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Connect with me on &lt;a href="https://www.instagram.com/emancopyco/"&gt;Instagram&lt;/a&gt; and/or &lt;a href="https://www.linkedin.com/in/eman-i307/"&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Love this podcast? &lt;a href="http://ratethispodcast.com/mistakes"&gt;Support it by leaving a rating and review here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</content:encoded><itunes:summary>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
@@ -5402,6 +5490,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/lab-the-course/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/lab-the-course/"&gt;Join Like a Boss&lt;/a&gt; – Go from order-taker freelance copywriter to BOSS business owner in 12 weeks&lt;/li&gt;
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/"&gt;Grab Design Your VIP Day and save $50&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Connect with me on &lt;a href="https://www.instagram.com/emancopyco/"&gt;Instagram&lt;/a&gt; and/or &lt;a href="https://www.linkedin.com/in/eman-i307/"&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Love this podcast? &lt;a href="http://ratethispodcast.com/mistakes"&gt;Support it by leaving a rating and review here&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</itunes:summary><itunes:explicit>No</itunes:explicit><itunes:duration>00:50:06</itunes:duration><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שיר לשלום | להקת הנח"ל</title>
       <itunes:title>שיר לשלום | להקת הנח"ל</itunes:title>
@@ -5716,7 +5805,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Dude, where's my streaming TV show?</itunes:title>
       <itunes:episode>1621</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/03/10/casey-bloys-hbo-max-warnermedia-burbank-televison-streaming_wide-28c1de20e3149fc56c72276f4297b3cc4dc52572.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/03/10/casey-bloys-hbo-max-warnermedia-burbank-televison-streaming_sq-ac162f87b8fe68fe1ab8f84c0dd1e7405cd4c972.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1562</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5781,7 +5870,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Seinfeld-onomics</itunes:title>
       <itunes:episode>1620</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/03/03/seinfeld-show-cast-jerry-elaine-george-kramer-economics_wide-c8c15d4fba13c1c66e89163862a4e61f2779e598.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/03/03/seinfeld-show-cast-jerry-elaine-george-kramer-economics_sq-6d332be95e0bb9969c5844de9f447cc9a4c3089a.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1114</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5999,7 +6088,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Meow Money Meow Problems</itunes:title>
       <itunes:episode>1618</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/02/24/brenda-jarvis-cat-feline-dixfield-maine-will-fortune-inheritance-trust_wide-0f81df773eba00f2db44fedb047ccee1a224a9c6.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/02/24/brenda-jarvis-cat-feline-dixfield-maine-will-fortune-inheritance-trust_sq-2fa48e75fde3b5b42572cd798937c3b20c125035.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1640</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6642,7 +6731,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>CBOhhhh, that's what they do</itunes:title>
       <itunes:episode>1619</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/03/01/gettyimages-96190103_wide-9cfda057968321708092f7838ff17888e02456e4.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/03/01/gettyimages-96190103_sq-44e28e7727f0ac7aa990d300fc3eb192174c132a.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1460</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -7369,7 +7458,7 @@ A wide-ranging conversation with Bob Iger on the interplay between technology, c
 Credits: This episode was written and produced by Amory Sivertson and Quincy Walters, with help from Megan Cattel. Mixing and sound design by Emily Jankowski. Ben Brock Johnson, Amory Sivertson, and Quincy Walters are the co-hosts.&lt;/p&gt;</description>
             <pubDate>Tue, 07 Feb 2023 05:11:01 +0000</pubDate>
             <itunes:episodeType>full</itunes:episodeType>
-                        <itunes:author> WBUR </itunes:author>
+                                    <itunes:author> WBUR </itunes:author>
             <itunes:title> Listener beware... </itunes:title>
             <itunes:summary>זהירות נוסטלגיה לפניכם! :) &lt;br&gt;אני מקווה שיש פה בערוץ מספיק אנשים שזוכרים את סדרת הספרים "צמרמורת" כדי שאני לא ארגיש זקנה מדיי.. &lt;br&gt;אז מסתבר שיש דבר כזה "צמרמורת - מיוזיקל".&lt;br&gt;זה אומנם עדיין לא הגיע לברודווי אבל יש פה סיפור מעניין על יצירת חובבים שהפכה ליצירה עצמאית שנלחמת עכשיו על מקומה בעולם. &lt;br&gt;כמובן שאני כותבת את ההמלצה תוך כדי שאני מקשיבה לפלייליסט בספוטיפיי. &lt;br&gt;#תרבות #אנגלית #ספרים #מוזיקה &lt;br&gt;https://prnt.sc/nXO6YaQjiC_m&lt;br&gt;&lt;br&gt;Endless thread - Listener beware...&lt;br&gt;משך: 38 דק'&lt;br&gt;&lt;br&gt;https://pca.st/n4nqrj4q&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;When producer Quincy Walters came to an Endless Thread episode ideas meeting talking about 'Goosebumps The Musical,' Amory had two questions: 1) “That’s a thing?!” and 2) “Is it… good?” &lt;/p&gt;
 
@@ -7513,7 +7602,7 @@ Credits: This episode was written and produced by Amory Sivertson and Quincy Wal
       <itunes:block>no</itunes:block>
       <itunes:title>Two Indicators: The 2% inflation target</itunes:title>
       <itunes:episode>1606</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2023/01/13/federal-reserve-building-inflation-expectations_wide-b294f68cb849ca78d73c814ecca383a796dce813.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2023/01/13/federal-reserve-building-inflation-expectations_sq-16ca942481df96b65057c823cbf99fdfc0e4693d.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1101</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8163,7 +8252,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Spam call bounty hunter</itunes:title>
       <itunes:episode>1598</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/12/14/illegal-telemarketing-robocall-spam-lawsuit-do-not-call-list_wide-c472297a8ee5b3849d691be6aba38010e53bf29c.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/12/14/illegal-telemarketing-robocall-spam-lawsuit-do-not-call-list_sq-91c074d9a800cdea77709f85e663137d9bfe0d8b.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1594</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8360,7 +8449,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>My Favorite Tax Loophole</itunes:title>
       <itunes:episode>1595</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/12/02/my-favorite-tax-loophole_wide-45502a50e0b6e6d34f22667a941fc71c1d024bf8.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/12/02/my-favorite-tax-loophole_sq-ed124ffa6d743035c20f5d58f67ce0f27c5a5a6c.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1570</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8392,7 +8481,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
             <description>לחובבי סיפורים מוזרים בהחלט: הסיפור של אולגה מקייב והקשר שלה ללהקת מטאל של ימינו. &lt;br&gt;אולגה היא גיבורת אגדות עם מאזור אוקראינה של ימינו. שם היא מתוארת בתור שליטה מאוד נקמנית ואכזרית. &lt;br&gt;ובפרק הזה חובב הסטוריה מוצא איך לשלב את הסיפור שלה ביצירה המוזיקלית שלו.&lt;br&gt;#אנגלית #הסטוריה #מוזיקה &lt;br&gt;&lt;br&gt;Endless thread - Encore: Olga of Kiev&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;https://pca.st/nsh4oe2e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Olga of Kiev executed one of the most bone-chilling revenge tours in history after her husband, Igor, was murdered. Then, with a burning city in her wake, she converted to Christianity and became a saint. This episode was originally released on October 18, 2019. &lt;/p&gt;</description>
             <pubDate>Sun, 01 Jan 2023 06:00:00 +0000</pubDate>
             <itunes:episodeType>full</itunes:episodeType>
-                        <itunes:author> WBUR </itunes:author>
+                                    <itunes:author> WBUR </itunes:author>
             <itunes:title> Encore: Olga of Kiev </itunes:title>
             <itunes:summary>לחובבי סיפורים מוזרים בהחלט: הסיפור של אולגה מקייב והקשר שלה ללהקת מטאל של ימינו. &lt;br&gt;אולגה היא גיבורת אגדות עם מאזור אוקראינה של ימינו. שם היא מתוארת בתור שליטה מאוד נקמנית ואכזרית. &lt;br&gt;ובפרק הזה חובב הסטוריה מוצא איך לשלב את הסיפור שלה ביצירה המוזיקלית שלו.&lt;br&gt;#אנגלית #הסטוריה #מוזיקה &lt;br&gt;&lt;br&gt;Endless thread - Encore: Olga of Kiev&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;https://pca.st/nsh4oe2e&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Olga of Kiev executed one of the most bone-chilling revenge tours in history after her husband, Igor, was murdered. Then, with a burning city in her wake, she converted to Christianity and became a saint. This episode was originally released on October 18, 2019. &lt;/p&gt;</itunes:summary>
             <itunes:subtitle>Olga of Kiev executed one of the most bone-chilling revenge tours in history after her husband, Igor, was murdered. Then, with a burning city in her wake, she converted to Christianity and became a saint. This episode was originally released on October 18, 2019. </itunes:subtitle>
@@ -8438,7 +8527,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>The E-Book Wars</itunes:title>
       <itunes:episode>1590</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/11/11/ebooksforall-delegation-alan-inouye-barb-macikas-and-sari-feldman-american-library-association-macmillan-john-sargent_wide-d44e2f01ac2560bdaa11e35f983bac70739b3b49.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/11/11/ebooksforall-delegation-alan-inouye-barb-macikas-and-sari-feldman-american-library-association-macmillan-john-sargent_sq-21cdc648992b987add39ff5637b836ff2045e832.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1557</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -9087,7 +9176,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>How the cookie became a monster</itunes:title>
       <itunes:episode>1592</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/11/18/chocolate-chunk-cookies-new-york_wide-d33878ea3e2a00d9a88a88585ac2b52848c8837a.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/11/18/chocolate-chunk-cookies-new-york_sq-7623a6f0f88e8f156526e427510d91456c923462.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1604</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -9339,7 +9428,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>Peak Sand (classic)</itunes:title>
       <itunes:episode>1589</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/11/09/stolen-beach-jamaica-sand-black-market-jamaica-caribbean_wide-94794a6d78d060b6ff9c267793a80aef2f04b924.jpg?s=1400&amp;c=66&amp;f=jpg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/11/09/stolen-beach-jamaica-sand-black-market-jamaica-caribbean_sq-4ef8a8e2c0f2183d226ef5f797b20d70df6d3a3b.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1073</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -9507,7 +9596,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Econ's Brush with the Law</itunes:title>
       <itunes:episode>1576</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/09/23/gettyimages-1189255203_wide-666a6d8c8d007462c642320284b80207cf8aae84.jpeg?s=1400&amp;c=66&amp;f=jpeg"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/09/23/gettyimages-1189255203_sq-90a0e8a7af24cecd4b30dc40142acbd597f20716.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1320</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -9874,7 +9963,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>The money fixers (classic)</itunes:title>
       <itunes:episode>1583</itunes:episode>
-      <itunes:image href="https://media.npr.org/assets/img/2022/10/18/money-rip-renee-klahr_wide-625f882cf715c358f80d511ff74d7b98d643c192.png?s=1400&amp;c=66&amp;f=png"/>
+      <itunes:image href="https://media.npr.org/assets/img/2022/10/18/money-rip-renee-klahr_sq-ac5e4f379d6a945b2885c3a7bf14803138174078.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1059</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -9898,84 +9987,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1599</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/3f3e04cf-fc14-4d07-a6e3-af060122dd36/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="25618560" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/3f3e04cf-fc14-4d07-a6e3-af060122dd36</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>פרק 251: הצ'קים חוזרים</title>
-      <itunes:title>פרק 251: הצ'קים חוזרים</itunes:title>
-      <description>כל מה שרציתם לדעת או לא רציתם, על צ'קים. אני מודה שפחות חשבתי על אמצעי התשלום הזה לאור כל הארנקים שנכנסו לחיינו אבל מסתבר שצ'קים עדיין מאוד נפוצים בישראל ויש לזה סיבות טובות. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 251: הצ'קים חוזרים&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hwar6qnj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;מסע אל העתיד של טכנולוגיית התשלומים הדיגיטליים, הסיפור הלא יאומן של אמצעי התשלום הפופולרי בישראל – הצ'קים. ולמה לבנקים עדיין נדרשים שלושה ימי עסקים כדי להעביר כסף&lt;br&gt;מגיש: שאול אמסטרדמסקי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייע בעריכה: דימיטרי קרצנוב&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>כל מה שרציתם לדעת או לא רציתם, על צ'קים. אני מודה שפחות חשבתי על אמצעי התשלום הזה לאור כל הארנקים שנכנסו לחיינו אבל מסתבר שצ'קים עדיין מאוד נפוצים בישראל ויש לזה סיבות טובות. &lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 251: הצ'קים חוזרים&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hwar6qnj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;מסע אל העתיד של טכנולוגיית התשלומים הדיגיטליים, הסיפור הלא יאומן של אמצעי התשלום הפופולרי בישראל – הצ'קים. ולמה לבנקים עדיין נדרשים שלושה ימי עסקים כדי להעביר כסף&lt;br&gt;מגיש: שאול אמסטרדמסקי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט, סייע בעריכה: דימיטרי קרצנוב&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>251</itunes:episode>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/4f56544b-0525-421b-951a-af39016af239/image.jpg?t=1666735441&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/4f56544b-0525-421b-951a-af39016af239/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/hayot-kiss/251/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/4f56544b-0525-421b-951a-af39016af239/image.jpg?t=1666735441&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">4f56544b-0525-421b-951a-af39016af239</guid>
-      <omny:clipId>4f56544b-0525-421b-951a-af39016af239</omny:clipId>
-      <pubDate>Tue, 08 Nov 2022 05:31:03 +0000</pubDate>
-      <itunes:duration>2483</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/4f56544b-0525-421b-951a-af39016af239/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="39796170" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/hayot-kiss/251</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>How a New 'Anti-Woke' Bank Stumbled</title>
-      <description>סיפור מעניין על עירוב של כלכלה ואידיאולוגיה. מסתבר שבארה"ב יש נסיון להקים בנק שמבוסס על נטייה פוליטית. במקרה הזה מדובר בבנק שמרני, אבל עצם הנסיון נשמע לי מסקרן מאוד בלי קשר להשקפות הפוליטיות שלכם. &lt;br&gt;הבנק כרגע דיי בצרות אבל התהליך עצמו מאוד מעניין. &lt;br&gt;#אנגלית #כלכלה &lt;br&gt;&lt;br&gt;The journal -How a New 'Anti-Woke' Bank Stumbled&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zxo3oq72&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A new banking startup, GloriFi, was created to counter a perception among some conservatives that mainstream banks are too liberal. But despite major investment and celebrity backing, GloriFi now finds itself in disarray and on the verge of bankruptcy. WSJ’s Rachel Ensign breaks down the latest.
-
-
-
-Further Reading: 
-
-- How a New Anti-Woke Bank Stumbled 
-
-- CEO of Anti-Woke Bank Startup GloriFi Resigns 
-
-
-
-Further Listening: 
-
-- Can My Stock Portfolio Save The Planet? 
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Tue, 08 Nov 2022 05:31:01 +0000</pubDate>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>The Wall Street Journal &amp; Gimlet</itunes:author>
-      <itunes:subtitle/>
-      <itunes:summary>סיפור מעניין על עירוב של כלכלה ואידיאולוגיה. מסתבר שבארה"ב יש נסיון להקים בנק שמבוסס על נטייה פוליטית. במקרה הזה מדובר בבנק שמרני, אבל עצם הנסיון נשמע לי מסקרן מאוד בלי קשר להשקפות הפוליטיות שלכם. &lt;br&gt;הבנק כרגע דיי בצרות אבל התהליך עצמו מאוד מעניין. &lt;br&gt;#אנגלית #כלכלה &lt;br&gt;&lt;br&gt;The journal -How a New 'Anti-Woke' Bank Stumbled&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zxo3oq72&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A new banking startup, GloriFi, was created to counter a perception among some conservatives that mainstream banks are too liberal. But despite major investment and celebrity backing, GloriFi now finds itself in disarray and on the verge of bankruptcy. WSJ’s Rachel Ensign breaks down the latest.
-
-
-
-Further Reading: 
-
-- How a New Anti-Woke Bank Stumbled 
-
-- CEO of Anti-Woke Bank Startup GloriFi Resigns 
-
-
-
-Further Listening: 
-
-- Can My Stock Portfolio Save The Planet? 
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>סיפור מעניין על עירוב של כלכלה ואידיאולוגיה. מסתבר שבארה"ב יש נסיון להקים בנק שמבוסס על נטייה פוליטית. במקרה הזה מדובר בבנק שמרני, אבל עצם הנסיון נשמע לי מסקרן מאוד בלי קשר להשקפות הפוליטיות שלכם. &lt;br&gt;הבנק כרגע דיי בצרות אבל התהליך עצמו מאוד מעניין. &lt;br&gt;#אנגלית #כלכלה &lt;br&gt;&lt;br&gt;The journal -How a New 'Anti-Woke' Bank Stumbled&lt;br&gt;משך: 17 דק' &lt;br&gt;&lt;br&gt;https://pca.st/zxo3oq72&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;A new banking startup, GloriFi, was created to counter a perception among some conservatives that mainstream banks are too liberal. But despite major investment and celebrity backing, GloriFi now finds itself in disarray and on the verge of bankruptcy. WSJ’s Rachel Ensign breaks down the latest.
-
-
-
-Further Reading: 
-
-- How a New Anti-Woke Bank Stumbled 
-
-- CEO of Anti-Woke Bank Startup GloriFi Resigns 
-
-
-
-Further Listening: 
-
-- Can My Stock Portfolio Save The Planet? 
-
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1099</itunes:duration>
-      <guid isPermaLink="false">b6050f54-0a4c-11ed-a56d-bb350bad2b7e</guid>
-      <enclosure url="https://pdst.fm/e/chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ3213188347.mp3?updated=1666127874" length="0" type="audio/mpeg"/>
     </item></channel>
 </rss>
