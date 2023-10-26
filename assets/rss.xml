@@ -10,9 +10,52 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 25 Oct 2023 06:38:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 06:38:06 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>מגפת משככי הכאבים</title>
+      <itunes:title>מגפת משככי הכאבים</itunes:title>
+      <description>סקירה של מגפת משככי הכאבים שמשתוללת בארהב. הסיפור של איך הגענו למצב הזה, מי האחראים ומה מנסים לעשות עכשיו כדי לעצור אותה בעולם ובישראל.&lt;br&gt;#רפואה &lt;br&gt;&lt;br&gt;אחד ביום - מגפת משככי הכאבים&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/g1ld95eb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;לפני שלושה שבועות, הפקולטה לרפואה באוניברסיטת תל אביב הסירה מעליה את השם של משפחת סאקלר היהודית-אמריקאית שתרמה למוסד במשך שנים. זה קרה בעקבות מעורבותם של הסאקלרים במגפת משככי הכאבים שמשתוללת בארצות הברית כבר כמעט שלושים שנה. עכשיו, הסכנה שגם פה בישראל תפרוץ מגפה דומה מעלה חשש בקרב מומחים. אז הפעם, אנחנו עם מגפת האופיואידים. &lt;/p&gt;
+&lt;p dir="rtl"&gt;אורחים: ד"ר איתי בבלי, מרצה על אתיקה ובריאות הציבור באוניברסיטת בריטיש קולומביה ודניאל דולב, עיתונאי אתר "שומרים". &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>סקירה של מגפת משככי הכאבים שמשתוללת בארהב. הסיפור של איך הגענו למצב הזה, מי האחראים ומה מנסים לעשות עכשיו כדי לעצור אותה בעולם ובישראל.&lt;br&gt;#רפואה &lt;br&gt;&lt;br&gt;אחד ביום - מגפת משככי הכאבים&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/g1ld95eb&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;לפני שלושה שבועות, הפקולטה לרפואה באוניברסיטת תל אביב הסירה מעליה את השם של משפחת סאקלר היהודית-אמריקאית שתרמה למוסד במשך שנים. זה קרה בעקבות מעורבותם של הסאקלרים במגפת משככי הכאבים שמשתוללת בארצות הברית כבר כמעט שלושים שנה. עכשיו, הסכנה שגם פה בישראל תפרוץ מגפה דומה מעלה חשש בקרב מומחים. אז הפעם, אנחנו עם מגפת האופיואידים. &lt;/p&gt;
+&lt;p dir="rtl"&gt;אורחים: ד"ר איתי בבלי, מרצה על אתיקה ובריאות הציבור באוניברסיטת בריטיש קולומביה ודניאל דולב, עיתונאי אתר "שומרים". &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>N12</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/43eccb68-c8e7-4a63-a3d9-b03b0177bd05/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/ehadbeyom/43eccb68-c8e7-4a63-a3d9-b03b0177bd05/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">43eccb68-c8e7-4a63-a3d9-b03b0177bd05</guid>
+      <omny:clipId>43eccb68-c8e7-4a63-a3d9-b03b0177bd05</omny:clipId>
+      <pubDate>Thu, 26 Oct 2023 04:05:05 +0000</pubDate>
+      <itunes:duration>1792</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/43eccb68-c8e7-4a63-a3d9-b03b0177bd05/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" length="28706430" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/ehadbeyom/43eccb68-c8e7-4a63-a3d9-b03b0177bd05</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>The Word For Man Is Ishi</title>
+      <itunes:title>The Word For Man Is Ishi</itunes:title>
+      <description>כשהמציאות היא רק הרקע לסיפור שכל אחד מספר לעצמו. &lt;br&gt;מצד אחד סיפורו של הניצול היחיד של שבט אינדיאני שנכחד , מצד שני הארכאולוג שהפך את החיים שלו למייצג מוזיאוני. ומצד שלישי סיפורה של הבת של הארכיאולוג, שהיא לא אחרת מאשר אורסולה לה גווין! היא כבר לקחה את הסיפור ושילבה אותו ביצירה שלה מהרבה זויות שונות. ממש מעניין להקשיב. &lt;br&gt;#סיפורמעניין #ספרות #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;The last archive - The Word For Man Is Ishi&lt;br&gt;משך: 51 דק' &lt;br&gt;https://pca.st/mvad61hu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In 1911, a Native American man, the only member of his community to survive a genocide, encountered&lt;strong data-stringify-type="bold"&gt; &lt;/strong&gt;the new Anthropology department at The University of California, Berkeley. What happened next helped to define the ethical quandaries of the field and, in a strange turn, the history of science fiction. This episode: That story and the moral stakes of imagining the past and the future.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>כשהמציאות היא רק הרקע לסיפור שכל אחד מספר לעצמו. &lt;br&gt;מצד אחד סיפורו של הניצול היחיד של שבט אינדיאני שנכחד , מצד שני הארכאולוג שהפך את החיים שלו למייצג מוזיאוני. ומצד שלישי סיפורה של הבת של הארכיאולוג, שהיא לא אחרת מאשר אורסולה לה גווין! היא כבר לקחה את הסיפור ושילבה אותו ביצירה שלה מהרבה זויות שונות. ממש מעניין להקשיב. &lt;br&gt;#סיפורמעניין #ספרות #הסטוריה #אנגלית &lt;br&gt;&lt;br&gt;The last archive - The Word For Man Is Ishi&lt;br&gt;משך: 51 דק' &lt;br&gt;https://pca.st/mvad61hu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In 1911, a Native American man, the only member of his community to survive a genocide, encountered&lt;strong data-stringify-type="bold"&gt; &lt;/strong&gt;the new Anthropology department at The University of California, Berkeley. What happened next helped to define the ethical quandaries of the field and, in a strange turn, the history of science fiction. This episode: That story and the moral stakes of imagining the past and the future.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:author>Pushkin Industries</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/the-last-archive/the-word-for-man-is-ishi/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">cfdb8d6a-b3f1-409a-a7b2-b02800fcab25</guid>
+      <omny:clipId>cfdb8d6a-b3f1-409a-a7b2-b02800fcab25</omny:clipId>
+      <pubDate>Thu, 26 Oct 2023 04:05:05 +0000</pubDate>
+      <itunes:duration>2958</itunes:duration>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" length="47427548" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/the-last-archive/the-word-for-man-is-ishi</link>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/transcript?format=SubRip&amp;t=1694183847" type="application/srt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/transcript?format=WebVTT&amp;t=1694183847" type="text/vtt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/transcript?format=TextWithTimestamps&amp;t=1694183847" type="text/plain" language="en-US"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Mythos and Melodrama in the Philippines</title>
       <description>הסיפור המשפחתי של פרדיננד מרקוס נשיא בפיליפינים בין השנים 1965 לבין 1986. מרקוס התחיל כנשיא ועם הזמן הפך לדיקטטור וטיפח מאוד את המיתוס סביבו וסביב אשתו בתור המושיעים של הפיליפינים שבאו להציל אותם מכל העולם. האירועים סביב שלטונו והדחתו הם אירועים אלימים ומזוויעים כמו שאנחנו מכירים מכל הדיקטטורים של המאה הקודמת והסיבה שהוא איבד את השלטון זה בגלל הפיכה אלימה. &lt;br&gt;אבל הפרק לא מתמקד רק בעבר אלא גם בחיבור שלו לימינו כשהבן של מרקוס, פרדיננד מרקוס ג'וניור הופך לנשיא החדש של הפיליפינים.&lt;br&gt;#הסטוריה #פוליטיקה #אנגלית&lt;br&gt;&lt;br&gt;https://prnt.sc/ZRVmtzJOU32s&lt;br&gt;&lt;br&gt;Throughline - Mythos and Melodrama in the Philippines&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/0lh7plwv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Corruption. Wealth. Authoritarianism. Torture. These are the words many people associate with Ferdinand Marcos, the former dictator of the Philippines, and his wife, Imelda. But in 1965, on the day of his presidential inauguration, clad in bright white traditional Filipino clothing, Ferdinand and Imelda were the picture of hope and progress: the Camelot of the Philippines. They styled themselves as mythical figures with a divine right to rule, even as their democratic ascent reached a dictatorial peak.&lt;br&gt;&lt;br&gt;Ferdinand Marcos ruled for two decades. And then, in 2022, more than thirty years after his death, the Philippines elected a new president: Ferdinand's son, Bongbong. Both in his campaign and since taking office, Bongbong has evoked the Marcos era as a golden age — effectively, rewriting history.&lt;br&gt;&lt;br&gt;Welcome to the "Epic of Marcos." In this tale of a family that's larger than life, Ferdinand Marcos is at the center. But the figures that surround him are just as important: Imelda, his muse; Bongbong, his heir; and the United States, his faithful sidekick. The story of the Marcos family is a blueprint for authoritarianism, laying out clearly how melodrama, paranoia, love, betrayal and a hunger for power collide to create a myth capable of propelling a nation. &lt;br&gt;&lt;br&gt;Today on the show, the rise, fall, and resurrection of a dynasty — and what that means for democracy worldwide.</description>
       <pubDate>Tue, 24 Oct 2023 04:15:05 +0000</pubDate>
@@ -1654,28 +1697,24 @@ This episode of “The Ezra Klein Show” is produced by Roge Karma, Kristin Lin
 
 קרדיטים:...</itunes:subtitle><itunes:summary>פשוט פרק כייפי שזורק אתכם לזיכרונות הילדות שלכם - הדרדסים! בפרק הזה דורון חוקר את כל השמועות סביב הסדרה וגם מגלה כמה עובדות מצחיקות. אז אם תמיד תהיתם האם גרגמל הוא ייצוג אנטישמי של יהודי? למה הדרדסית בלונדינית? - זאת ההזדמנות לגלות. &lt;br&gt;#תרבות #סיפורמעניין #סדרות&lt;br&gt;https://prnt.sc/HUjhM03ghcra&lt;br&gt;&lt;br&gt;התשובה - האם גרגמל יהודי?&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/c2fr0hw6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בטח גם אליכם הגיעה השמועה הזאת: גרגמל, זה ששונא דרדסים, הוא בעצם קריקטורה אנטישמית מוסווית. אבל האם זה באמת נכון? ועל מה אפשר להסתמך, בקביעת מוצאו של גרגמל? ומה הסיפור של הדרדסים בכלל, ולמה הם כל כך פופולריים בארץ דווקא?&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;קרדיטים:&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;https://soundcloud.com/flauschgau/visions-of-madness&lt;br /&gt;&lt;br /&gt;https://soundcloud.com/davidhydemusic/hip-hop-rap-beat-featuring&lt;br /&gt;https://www.youtube.com/watch?v=H91BxkBXttE&lt;br /&gt;https://www.youtube.com/watch?v=cphNpqKpKc4&lt;br /&gt;https://www.youtube.com/watch?v=RqbpzEHuO2g</itunes:summary><itunes:duration>2059</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>The Science of Healthy Hair, Hair Loss and How to Regrow Hair</title>
-      <link>https://hubermanlab.com/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair</link>
+      <link>https://www.hubermanlab.com/episode/the-science-of-healthy-hair-hair-loss-and-how-to-regrow-hair</link>
       <description>אם שיער מעניין אתכם - זה הפרק בשבילכם. אין הכוונה למחזה או לסרט אלא ממש לשיער שעל הראש. אם תרצו לשמוע מה משפיע על הגדילה שלו, איך אפשר לעצור נשירה ולמה תכשירים מסויימים עוזרים ואחרים ממש לא אז תקשיבו. הרבה מדע ומידע ובדרך גם טיפים מה לעשות עם מצב השיער הנוכחי. &lt;br&gt;#בריאות #אנגלית &lt;br&gt;&lt;br&gt;ותמונה כי לא התאפקתי 😉&lt;br&gt;https://prnt.sc/tLcyTfSlufEV&lt;br&gt;&lt;br&gt;Huberman lab - The Science of Healthy Hair, Hair Loss and How to Regrow Hair&lt;br&gt;משך: שעתיים ו4 דק' &lt;br&gt;&lt;br&gt;https://pca.st/4o7gcct6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In this episode, I explain the biology of hair, hair growth, why hair growth slows and what causes hair to stop growing and/or “fall out.” I discuss the essential role of hair stem cells and other supporting biological factors for healthy hair growth. Then I describe various approaches (mechanical and chemical) to slow hair loss by increasing blood flow to hair stem cells, including minoxidil, tadalafil, PRP, microneedling, Botox and ketoconazole treatments. I also discuss how age-related hormone changes cause hair loss and explain the effectiveness of treatments such as caffeine, saw palmetto, growth hormone, finasteride and dutasteride. For all hair growth options, I describe potential side effects, how soon to expect results and the amount of hair regrowth to expect and I highlight effective combination treatments for hair regrowth even in hair “dead” (bald) zones. For many listeners, thinning, brittle hair, or pattern baldness are a source of anxiety and stress. This episode explains the mechanisms underlying hair regrowth tools and the science behind them so that you can evaluate potential treatments and associated side-effect profiles and select the best one(s) for you.
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Helix Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-ROKA: https://roka.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Hair
-(00:04:13) Sponsors: Helix Sleep, HVMN, ROKA
+(00:04:29) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Psychological States &amp; Hair
 (00:13:19) Hair Anatomy &amp; Stem Cells
 (00:26:05) 3 Phases of Hair Growth
-(00:35:40) Sponsor: AG1 (Athletic Greens)
+(00:32:06) Sponsor: AG1 (Athletic Greens)
 (00:36:55) Minoxidil &amp; Blood Flow
 (00:45:37) Increase Blood Flow: Massage, Tadalafil, Platelet-Rich Plasma (PRP), Microneedling
 (00:56:10) Microneedling, Minoxidil &amp; “Dead Zones”
-(01:00:13) Sponsor: LMNT
 (01:01:25) Botox Treatments
 (01:06:27) Androgens, Hair Growth &amp; Pattern Hair Loss; Scalp vs. Beard Hair
 (01:15:46) Topical Caffeine &amp; Slowing Hair Loss
@@ -1700,23 +1739,19 @@ Disclaimer</description>
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Helix Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-ROKA: https://roka.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Hair
-(00:04:13) Sponsors: Helix Sleep, HVMN, ROKA
+(00:04:29) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Psychological States &amp; Hair
 (00:13:19) Hair Anatomy &amp; Stem Cells
 (00:26:05) 3 Phases of Hair Growth
-(00:35:40) Sponsor: AG1 (Athletic Greens)
+(00:32:06) Sponsor: AG1 (Athletic Greens)
 (00:36:55) Minoxidil &amp; Blood Flow
 (00:45:37) Increase Blood Flow: Massage, Tadalafil, Platelet-Rich Plasma (PRP), Microneedling
 (00:56:10) Microneedling, Minoxidil &amp; “Dead Zones”
-(01:00:13) Sponsor: LMNT
 (01:01:25) Botox Treatments
 (01:06:27) Androgens, Hair Growth &amp; Pattern Hair Loss; Scalp vs. Beard Hair
 (01:15:46) Topical Caffeine &amp; Slowing Hair Loss
@@ -1735,23 +1770,19 @@ Disclaimer</itunes:summary>
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Helix Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-ROKA: https://roka.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Hair
-(00:04:13) Sponsors: Helix Sleep, HVMN, ROKA
+(00:04:29) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Psychological States &amp; Hair
 (00:13:19) Hair Anatomy &amp; Stem Cells
 (00:26:05) 3 Phases of Hair Growth
-(00:35:40) Sponsor: AG1 (Athletic Greens)
+(00:32:06) Sponsor: AG1 (Athletic Greens)
 (00:36:55) Minoxidil &amp; Blood Flow
 (00:45:37) Increase Blood Flow: Massage, Tadalafil, Platelet-Rich Plasma (PRP), Microneedling
 (00:56:10) Microneedling, Minoxidil &amp; “Dead Zones”
-(01:00:13) Sponsor: LMNT
 (01:01:25) Botox Treatments
 (01:06:27) Androgens, Hair Growth &amp; Pattern Hair Loss; Scalp vs. Beard Hair
 (01:15:46) Topical Caffeine &amp; Slowing Hair Loss
@@ -1766,10 +1797,10 @@ Timestamps
 (02:02:46) Zero-Cost Support, YouTube Feedback, Spotify &amp; Apple Reviews, Sponsors, Momentous, Social Media, Neural Network Newsletter
 Title Card Photo Credit: Mike Blabac
 Disclaimer</content:encoded>
-      <itunes:duration>7487</itunes:duration>
+      <itunes:duration>7245</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">00ac8cb6-d75d-11ed-b125-9f97f7a04b2a</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM6579560756.mp3?updated=1681142721" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM6579560756.mp3?updated=1698276008" length="0" type="audio/mpeg"/>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>מאני טוקס 19 - פרק בטעם בצל</title>
 			<description>סיפור מאוד מעניין משוק המניות. יש לנו התחלה אמצע וסוף של אירוע שהתחיל בפועל בזמן הקורונה והיום אנחנו רואים את הסיום שלו . הכל מתחיל בהרצת מניות של AMC בפורומים של משקיעים חובבים. המנייה קופצת בטירוף ומנכ"ל החברה מחליט לנצל את האירוע בשביל לגייס כסף אבל יש מגבלה טכנית בחוזה של החברה .&lt;br&gt;ואז מחליט המנכ"ל להיות יצירתי. &lt;br&gt;היום אנחנו רואים מה קבע בית המשפט ואיך נגמר כל האירוע - אין פה המלצות השקעה אלא סיפור מעניין של שוק המניות.&lt;br&gt;#כלכלה #השקעות&lt;br&gt;&lt;br&gt;מאני טוקס 19 - פרק בטעם בצל&lt;br&gt;משך: 27 דק' &lt;br&gt;&lt;br&gt;https://pca.st/kifv1ybd&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;פרק בתוך פרק בתוך פרק! אבי שטרן ואמיל גולדפרב מגוללים את הסיפור המשוגע של AMC. המנכ״ל של AMC מנסה להציל את החברה מפשיטת רגל, ועושה צעדים מרחיקי לכת לשם כך. לא נעשה ספויילר, אבל אז מצטרפים סוחרים מתוחכמים לסיפור, מנסים להרוויח מפירצה שיש (עיוות בתמחור של שתי מניות) - ואז, בסוף הפרק, אנחנו מעדכנים על איך שזה הסתיים. &lt;/p&gt;
@@ -2206,31 +2237,27 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episode>541</itunes:episode>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:podcast="https://podcastindex.org/namespace/1.0"><title>מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ', חלק ב</title><itunes:title>מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ', חלק ב</itunes:title><description>זוג פרקים פשוט מרתק. מדברים על וגנר המלחין על וגנר האדם ועל האנטישמיות במוזיקה. בפרקים האלו יש הרבה מאוד שיחה על המוזיקה של וגנר על למה לא משמיעים אותה בישראל על הדעות הקדומות נגדה ונגד האדם שעומד מאחוריה. וגם יש דיון יחסית לא פשוט על אנטישמיות ועל המשמעויות שלה לשורדים ולדורות הבאים. פרק מאוד מומלץ למי שבסדר עם לדבר ולחשוב על אנטישמיות ועל השואה. בחלק השני יש סטייה לכיוונים שונים, אבל עדיין מעניין ומוזיקה מעולה. &lt;br&gt;#מוזיקה #תרבות #הסטוריה&lt;br&gt;&lt;br&gt;קלאסי קינן - מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ'&lt;br&gt;&lt;br&gt;פרק א' - 48 דק' &lt;br&gt;https://pca.st/eih5qche&lt;br&gt;&lt;br&gt;פרק ב' - 57 דק' &lt;br&gt;https://pca.st/rhspodze&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;חלק ב ויכוח סוער&lt;/p&gt;&lt;p&gt;המשך השיחה עם אמציה וולוך על ריכרד&lt;/p&gt;&lt;p&gt;ואגנר כדמות שנויה במחלוקת בישראל. &lt;/p&gt;&lt;p&gt;איך קרה החרם על ואגנר בישראל - הסיפור&lt;/p&gt;&lt;p&gt;האמיתי מפי אמציה וולוך&lt;/p&gt;&lt;p&gt;איך אנחנו מעזים להנות מואגנר &lt;/p&gt;&lt;p&gt;דיעה קדומה כן או לא? &lt;/p&gt;&lt;p&gt;על 'ארי של כבוד' כתואר הכבוד שהעניקו&lt;/p&gt;&lt;p&gt;הנאצים לכמה יהודים 'חשובים' להם כמו הרופא של היטלר &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;האם ואגנר היה הומו? שהרי החליף זהויות&lt;/p&gt;&lt;p&gt;טריסטן ואיזולדה, התלבש צבעוני מאד ועד היום בעולם רצה האמירה &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;איך יודעים שאתה הומו? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;אם אתה מאזין לואגנר. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;על מארש החתונה המפורסם בעולם &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;האם פז השתכנעה והצליחה לעשות את ההפרדה בין&lt;/p&gt;&lt;p&gt;האזנה מענגת לואגנר לבין החרם עליו והקשרו לשואה? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ותובנות מסכמות&lt;/p&gt;&lt;p&gt;הקורס הדיגילי מבוא למוסיקה של ריכארד ואגנר- מפגש ראשון פתוח לצפייה בחינם&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://my.schooler.biz/s/45565/1654788990317&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;התמיכה שלכם עוזרת מאד להמשך פעילות הערוץ!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לתמיכה בפרוייקט "קלאסי קינן" (אשראי, ביט, פייפאל):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c" rel="noopener noreferrer" target="_blank"&gt;https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן קורסים דיגיטליים&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://classikaynan.ravpage.co.il/Classical" rel="noopener noreferrer" target="_blank"&gt;https://classikaynan.ravpage.co.il/Classical&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת הפודקאסט&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/2574945439466338/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/2574945439466338/&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;ערוץ היוטיוב&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w" rel="noopener noreferrer" target="_blank"&gt;https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&amp;nbsp;&lt;a href="https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746" rel="noopener noreferrer" target="_blank"&gt;https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת המוסיקה&lt;/p&gt;&lt;p class="ql-align-right"&gt;הקלאסית בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לפודקאסטים של פז מושקוביץ "הרוקנרול של החיים", הרוקנרול של העסקים, מונולוגים לאלוהים:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://linktr.ee/pazpodcast&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט "מלחמת התרבות"&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://open.spotify.com/show/4cp26m1AJDBU5V5u8sFAk4?si=f05cf8f078954c99&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;</description><content:encoded>זוג פרקים פשוט מרתק. מדברים על וגנר המלחין על וגנר האדם ועל האנטישמיות במוזיקה. בפרקים האלו יש הרבה מאוד שיחה על המוזיקה של וגנר על למה לא משמיעים אותה בישראל על הדעות הקדומות נגדה ונגד האדם שעומד מאחוריה. וגם יש דיון יחסית לא פשוט על אנטישמיות ועל המשמעויות שלה לשורדים ולדורות הבאים. פרק מאוד מומלץ למי שבסדר עם לדבר ולחשוב על אנטישמיות ועל השואה. בחלק השני יש סטייה לכיוונים שונים, אבל עדיין מעניין ומוזיקה מעולה. &lt;br&gt;#מוזיקה #תרבות #הסטוריה&lt;br&gt;&lt;br&gt;קלאסי קינן - מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ'&lt;br&gt;&lt;br&gt;פרק א' - 48 דק' &lt;br&gt;https://pca.st/eih5qche&lt;br&gt;&lt;br&gt;פרק ב' - 57 דק' &lt;br&gt;https://pca.st/rhspodze&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;חלק ב ויכוח סוער&lt;/p&gt;&lt;p&gt;המשך השיחה עם אמציה וולוך על ריכרד&lt;/p&gt;&lt;p&gt;ואגנר כדמות שנויה במחלוקת בישראל. &lt;/p&gt;&lt;p&gt;איך קרה החרם על ואגנר בישראל - הסיפור&lt;/p&gt;&lt;p&gt;האמיתי מפי אמציה וולוך&lt;/p&gt;&lt;p&gt;איך אנחנו מעזים להנות מואגנר &lt;/p&gt;&lt;p&gt;דיעה קדומה כן או לא? &lt;/p&gt;&lt;p&gt;על 'ארי של כבוד' כתואר הכבוד שהעניקו&lt;/p&gt;&lt;p&gt;הנאצים לכמה יהודים 'חשובים' להם כמו הרופא של היטלר &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;האם ואגנר היה הומו? שהרי החליף זהויות&lt;/p&gt;&lt;p&gt;טריסטן ואיזולדה, התלבש צבעוני מאד ועד היום בעולם רצה האמירה &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;איך יודעים שאתה הומו? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;אם אתה מאזין לואגנר. &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;על מארש החתונה המפורסם בעולם &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;האם פז השתכנעה והצליחה לעשות את ההפרדה בין&lt;/p&gt;&lt;p&gt;האזנה מענגת לואגנר לבין החרם עליו והקשרו לשואה? &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ותובנות מסכמות&lt;/p&gt;&lt;p&gt;הקורס הדיגילי מבוא למוסיקה של ריכארד ואגנר- מפגש ראשון פתוח לצפייה בחינם&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://my.schooler.biz/s/45565/1654788990317&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;התמיכה שלכם עוזרת מאד להמשך פעילות הערוץ!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לתמיכה בפרוייקט "קלאסי קינן" (אשראי, ביט, פייפאל):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c" rel="noopener noreferrer" target="_blank"&gt;https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן קורסים דיגיטליים&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://classikaynan.ravpage.co.il/Classical" rel="noopener noreferrer" target="_blank"&gt;https://classikaynan.ravpage.co.il/Classical&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת הפודקאסט&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/2574945439466338/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/2574945439466338/&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;ערוץ היוטיוב&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w" rel="noopener noreferrer" target="_blank"&gt;https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&amp;nbsp;&lt;a href="https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746" rel="noopener noreferrer" target="_blank"&gt;https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת המוסיקה&lt;/p&gt;&lt;p class="ql-align-right"&gt;הקלאסית בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לפודקאסטים של פז מושקוביץ "הרוקנרול של החיים", הרוקנרול של העסקים, מונולוגים לאלוהים:&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://linktr.ee/pazpodcast&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט "מלחמת התרבות"&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://open.spotify.com/show/4cp26m1AJDBU5V5u8sFAk4?si=f05cf8f078954c99&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;</content:encoded><link>https://www.facebook.com/groups/2574945439466338/</link><guid isPermaLink="false">31a2d9cd-321d-4f7c-bbe8-0db3dcfa0949</guid><itunes:image href="https://artwork.captivate.fm/f7ec5a7d-4d38-4279-a9f3-cf876c4a28d2/5uUl7DnUivO5kB-dirCZOrEc.png"/><dc:creator>שלומי קינן</dc:creator><pubDate>Thu, 10 Aug 2023 05:29:01 +0000</pubDate><enclosure url="https://podcasts.captivate.fm/media/e1505ed5-ab0e-4397-8b98-0cfd0207dcd2/Classic-Kaynan-Wagner-Amazia-part-2-fix-1.mp3" length="55391037" type="audio/mpeg"/><itunes:duration>57:40</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>92</itunes:episode><podcast:episode>92</podcast:episode><itunes:author>שלומי קינן</itunes:author></item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:podcast="https://podcastindex.org/namespace/1.0"><title>מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ', חלק א</title><itunes:title>מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ', חלק א</itunes:title><description>זוג פרקים פשוט מרתק. מדברים על וגנר המלחין על וגנר האדם ועל האנטישמיות במוזיקה. בפרקים האלו יש הרבה מאוד שיחה על המוזיקה של וגנר על למה לא משמיעים אותה בישראל על הדעות הקדומות נגדה ונגד האדם שעומד מאחוריה. וגם יש דיון יחסית לא פשוט על אנטישמיות ועל המשמעויות שלה לשורדים ולדורות הבאים. פרק מאוד מומלץ למי שבסדר עם לדבר ולחשוב על אנטישמיות ועל השואה. בחלק השני יש סטייה לכיוונים שונים, אבל עדיין מעניין ומוזיקה מעולה. &lt;br&gt;#מוזיקה #תרבות #הסטוריה&lt;br&gt;&lt;br&gt;קלאסי קינן - מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ'&lt;br&gt;&lt;br&gt;פרק א' - 48 דק' &lt;br&gt;https://pca.st/eih5qche&lt;br&gt;&lt;br&gt;פרק ב' - 57 דק' &lt;br&gt;https://pca.st/rhspodze&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;המוסיקה של ואגנר, והדילמה על ואגנר.&lt;/p&gt;&lt;p&gt;חלק ראשון מתוך שניים&lt;/p&gt;&lt;p&gt;שיחה&amp;nbsp;&lt;/p&gt;&lt;p&gt;מרתקת עם אמציה וולוך חבר בעמותת ואגנר הישראלית. &lt;/p&gt;&lt;p&gt;דיברנו על אמציה וסיפור חיבורו לואגנר&lt;/p&gt;&lt;p&gt;על מאין נוצר החרם הבלתי רישמי בישראל&lt;/p&gt;&lt;p&gt;על השמעת יצירותיו של וגנר עד היום&lt;/p&gt;&lt;p&gt;שלומי ואמציה מתקילים את פז בקטע&lt;/p&gt;&lt;p&gt;וגנריאני שהיא לא מכירה- הפתיחה של טריסטן ואיזולדה נחשב לפסגת המוסיקה&lt;/p&gt;&lt;p&gt;הקלאסית ובזכותה החלה המוסיקה המודרנית &lt;/p&gt;&lt;p&gt;ממשיכים לעלילותיו של וגנר בחייו וכיצד&lt;/p&gt;&lt;p&gt;הם השפיעו על יצירותיו והתרבות שיצר, וכיצד כל זה משתלב עם מלחמת התרבות. &lt;/p&gt;&lt;p&gt;על ''חוצפתו'' של ואגנר שהשתמש גם&lt;/p&gt;&lt;p&gt;בסיפור המעשה ביצירתו 'ההולנדי המעופף' המבוססת על היינריך היינה היהודי!&lt;/p&gt;&lt;p&gt;ועוד&lt;/p&gt;&lt;p&gt;מבוא למוסיקה של ריכארד ואגנר- קורס דיגיטלי (מפגש ראשון פתוח לצפייה חופשית)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://my.schooler.biz/s/45565/1654788990317&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;התמיכה שלכם עוזרת מאד להמשך פעילות הערוץ!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לתמיכה בפרוייקט "קלאסי קינן" (אשראי, ביט, פייפאל):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c" rel="noopener noreferrer" target="_blank"&gt;https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן קורסים דיגיטליים&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://classikaynan.ravpage.co.il/Classical" rel="noopener noreferrer" target="_blank"&gt;https://classikaynan.ravpage.co.il/Classical&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת הפודקאסט&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/2574945439466338/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/2574945439466338/&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;ערוץ היוטיוב&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w" rel="noopener noreferrer" target="_blank"&gt;https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&amp;nbsp;&lt;a href="https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746" rel="noopener noreferrer" target="_blank"&gt;https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת המוסיקה&lt;/p&gt;&lt;p class="ql-align-right"&gt;הקלאסית בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;לפודקאסטים של פז מושקוביץ "הרוקנרול של החיים", הרוקנרול של העסקים, מונולוגים לאלוהים:&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://linktr.ee/pazpodcast&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט מלחמת התרבות&lt;/p&gt;</description><content:encoded>זוג פרקים פשוט מרתק. מדברים על וגנר המלחין על וגנר האדם ועל האנטישמיות במוזיקה. בפרקים האלו יש הרבה מאוד שיחה על המוזיקה של וגנר על למה לא משמיעים אותה בישראל על הדעות הקדומות נגדה ונגד האדם שעומד מאחוריה. וגם יש דיון יחסית לא פשוט על אנטישמיות ועל המשמעויות שלה לשורדים ולדורות הבאים. פרק מאוד מומלץ למי שבסדר עם לדבר ולחשוב על אנטישמיות ועל השואה. בחלק השני יש סטייה לכיוונים שונים, אבל עדיין מעניין ומוזיקה מעולה. &lt;br&gt;#מוזיקה #תרבות #הסטוריה&lt;br&gt;&lt;br&gt;קלאסי קינן - מי מפחד מריכארד ואגנר? עם אמציה וולוך ופז מוסקוביץ'&lt;br&gt;&lt;br&gt;פרק א' - 48 דק' &lt;br&gt;https://pca.st/eih5qche&lt;br&gt;&lt;br&gt;פרק ב' - 57 דק' &lt;br&gt;https://pca.st/rhspodze&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;המוסיקה של ואגנר, והדילמה על ואגנר.&lt;/p&gt;&lt;p&gt;חלק ראשון מתוך שניים&lt;/p&gt;&lt;p&gt;שיחה&amp;nbsp;&lt;/p&gt;&lt;p&gt;מרתקת עם אמציה וולוך חבר בעמותת ואגנר הישראלית. &lt;/p&gt;&lt;p&gt;דיברנו על אמציה וסיפור חיבורו לואגנר&lt;/p&gt;&lt;p&gt;על מאין נוצר החרם הבלתי רישמי בישראל&lt;/p&gt;&lt;p&gt;על השמעת יצירותיו של וגנר עד היום&lt;/p&gt;&lt;p&gt;שלומי ואמציה מתקילים את פז בקטע&lt;/p&gt;&lt;p&gt;וגנריאני שהיא לא מכירה- הפתיחה של טריסטן ואיזולדה נחשב לפסגת המוסיקה&lt;/p&gt;&lt;p&gt;הקלאסית ובזכותה החלה המוסיקה המודרנית &lt;/p&gt;&lt;p&gt;ממשיכים לעלילותיו של וגנר בחייו וכיצד&lt;/p&gt;&lt;p&gt;הם השפיעו על יצירותיו והתרבות שיצר, וכיצד כל זה משתלב עם מלחמת התרבות. &lt;/p&gt;&lt;p&gt;על ''חוצפתו'' של ואגנר שהשתמש גם&lt;/p&gt;&lt;p&gt;בסיפור המעשה ביצירתו 'ההולנדי המעופף' המבוססת על היינריך היינה היהודי!&lt;/p&gt;&lt;p&gt;ועוד&lt;/p&gt;&lt;p&gt;מבוא למוסיקה של ריכארד ואגנר- קורס דיגיטלי (מפגש ראשון פתוח לצפייה חופשית)&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;https://my.schooler.biz/s/45565/1654788990317&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;התמיכה שלכם עוזרת מאד להמשך פעילות הערוץ!&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;לתמיכה בפרוייקט "קלאסי קינן" (אשראי, ביט, פייפאל):&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c" rel="noopener noreferrer" target="_blank"&gt;https://icredit.rivhit.co.il/payment/DonationPage.aspx?GroupId=b658e718-5bc7-4a4a-8730-fa585946645c&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן קורסים דיגיטליים&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://classikaynan.ravpage.co.il/Classical" rel="noopener noreferrer" target="_blank"&gt;https://classikaynan.ravpage.co.il/Classical&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת הפודקאסט&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/2574945439466338/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/2574945439466338/&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;ערוץ היוטיוב&lt;/p&gt;&lt;p class="ql-align-right"&gt;קלאסי קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w" rel="noopener noreferrer" target="_blank"&gt;https://www.youtube.com/channel/UC150y4f3FhzX9p5bEGqZm9w&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט קלאסי&lt;/p&gt;&lt;p class="ql-align-right"&gt;קינן&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&amp;nbsp;&lt;a href="https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746" rel="noopener noreferrer" target="_blank"&gt;https://open.spotify.com/show/0nyceh5OzWyb4IUyFI1I2n?si=35ac53dbe2ef4746&lt;/a&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;קבוצת המוסיקה&lt;/p&gt;&lt;p class="ql-align-right"&gt;הקלאסית בפייסבוק&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;a href="https://www.facebook.com/groups/794933797990308/" rel="noopener noreferrer" target="_blank"&gt;https://www.facebook.com/groups/794933797990308/&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;לפודקאסטים של פז מושקוביץ "הרוקנרול של החיים", הרוקנרול של העסקים, מונולוגים לאלוהים:&lt;/p&gt;&lt;p class="ql-align-right"&gt;&lt;br&gt;&lt;/p&gt;&lt;p class="ql-align-right"&gt;https://linktr.ee/pazpodcast&lt;/p&gt;&lt;p class="ql-align-right"&gt;פודקאסט מלחמת התרבות&lt;/p&gt;</content:encoded><link>https://www.facebook.com/groups/2574945439466338/</link><guid isPermaLink="false">72635791-9670-4cb9-aeea-c61cc2845932</guid><itunes:image href="https://artwork.captivate.fm/f7ec5a7d-4d38-4279-a9f3-cf876c4a28d2/5uUl7DnUivO5kB-dirCZOrEc.png"/><dc:creator>שלומי קינן</dc:creator><pubDate>Thu, 10 Aug 2023 05:29:01 +0000</pubDate><enclosure url="https://podcasts.captivate.fm/media/b5166309-e07e-4f85-b239-3e1e8a2c4be2/Classic-Kaynan-Wagner-Amazia-part-1-fix-2.mp3" length="46109373" type="audio/mpeg"/><itunes:duration>48:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType><itunes:episode>91</itunes:episode><podcast:episode>91</podcast:episode><itunes:author>שלומי קינן</itunes:author></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Science-Based Mental Training &amp; Visualization for Improved Learning</title>
-      <link>https://hubermanlab.com/science-based-mental-training-and-visualization-for-improved-learning/</link>
+      <link>https://www.hubermanlab.com/episode/science-based-mental-training-and-visualization-for-improved-learning</link>
       <description>פרק מעניין על למידה ועל ויזואליזציה. מה המשמעות של הפרקטיקה שבה אנחנו מדמיינים בעיניי רוחינו את התוצאה הסופית ? או את התהליך ?&lt;br&gt;בפרק הזה יש טיפים פרקטיים וגם הסברים מדעיים לחלקים שכן עובדים. &lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית &lt;br&gt;&lt;br&gt;The Huberman lab - Science-Based Mental Training &amp; Visualization for Improved Learning&lt;br&gt;משך: שעתיים&lt;br&gt;&lt;br&gt;https://pca.st/besi422l&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In this episode, I explore the science of mental visualization and its application for learning motor and cognitive skills. I discuss neuroplasticity-based skill development and the roles of focus, sleep, movement restriction, and agitation. I then present five key principles of mental visualization to enhance learning speed, accuracy, and consistency. I also provide examples of specific protocols, including repetitions, rest periods, and session frequency, and how to adapt these methods for injuries or breaks from traditional training. Throughout, I reference the scientific studies supporting these concepts. This episode should allow anyone to learn or teach more effectively through the use of mental visualization and training.
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Maui Nui: https://mauinuivenison.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Mental Training &amp; Visualization
-(00:04:46) Sponsors: LMNT, Maui Nui, Eight Sleep
+(00:05:01) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Developmental vs. Adult Neuroplasticity
 (00:11:42) Learning New Skills: Focus &amp; Sleep
 (00:14:49) Long-Term Potentiation (LTP), Long-Term Depression (LTD) &amp; New Skills
 (00:23:42) Principle #1: Very Brief, Simple, Repeated Visualization
-(00:29:36) Sponsor: AG1
+(00:26:35) Sponsor: AG1
 (00:30:51) Principle #2: Mental Training Cannot Replace Real Training
 (00:37:36) Principle #3: Combining Real &amp; Mental Training
 (00:43:17) Principle #4: Assigning Real-World Labels to Visualizations
 (00:50:37) Principle #5: Mental Imagery Equivalence to Real-World Perception
 (00:55:28) Tools: Effective Mental Training: Epochs, Repetitions, Sets &amp; Frequency
-(01:03:43) Sponsor: InsideTracker
 (01:05:00) Adding Mental Training; Injury, Travel or Layoffs
 (01:11:09) Timing of Mental Training &amp; Sleep
 (01:15:17) Role of Gender &amp; Age on Mental Training
@@ -2254,25 +2281,21 @@ For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Maui Nui: https://mauinuivenison.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Mental Training &amp; Visualization
-(00:04:46) Sponsors: LMNT, Maui Nui, Eight Sleep
+(00:05:01) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Developmental vs. Adult Neuroplasticity
 (00:11:42) Learning New Skills: Focus &amp; Sleep
 (00:14:49) Long-Term Potentiation (LTP), Long-Term Depression (LTD) &amp; New Skills
 (00:23:42) Principle #1: Very Brief, Simple, Repeated Visualization
-(00:29:36) Sponsor: AG1
+(00:26:35) Sponsor: AG1
 (00:30:51) Principle #2: Mental Training Cannot Replace Real Training
 (00:37:36) Principle #3: Combining Real &amp; Mental Training
 (00:43:17) Principle #4: Assigning Real-World Labels to Visualizations
 (00:50:37) Principle #5: Mental Imagery Equivalence to Real-World Perception
 (00:55:28) Tools: Effective Mental Training: Epochs, Repetitions, Sets &amp; Frequency
-(01:03:43) Sponsor: InsideTracker
 (01:05:00) Adding Mental Training; Injury, Travel or Layoffs
 (01:11:09) Timing of Mental Training &amp; Sleep
 (01:15:17) Role of Gender &amp; Age on Mental Training
@@ -2290,25 +2313,21 @@ For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
 LMNT: https://drinklmnt.com/huberman
-Maui Nui: https://mauinuivenison.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-InsideTracker: https://insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Mental Training &amp; Visualization
-(00:04:46) Sponsors: LMNT, Maui Nui, Eight Sleep
+(00:05:01) Sponsors: LMNT &amp; Waking Up
 (00:08:04) Developmental vs. Adult Neuroplasticity
 (00:11:42) Learning New Skills: Focus &amp; Sleep
 (00:14:49) Long-Term Potentiation (LTP), Long-Term Depression (LTD) &amp; New Skills
 (00:23:42) Principle #1: Very Brief, Simple, Repeated Visualization
-(00:29:36) Sponsor: AG1
+(00:26:35) Sponsor: AG1
 (00:30:51) Principle #2: Mental Training Cannot Replace Real Training
 (00:37:36) Principle #3: Combining Real &amp; Mental Training
 (00:43:17) Principle #4: Assigning Real-World Labels to Visualizations
 (00:50:37) Principle #5: Mental Imagery Equivalence to Real-World Perception
 (00:55:28) Tools: Effective Mental Training: Epochs, Repetitions, Sets &amp; Frequency
-(01:03:43) Sponsor: InsideTracker
 (01:05:00) Adding Mental Training; Injury, Travel or Layoffs
 (01:11:09) Timing of Mental Training &amp; Sleep
 (01:15:17) Role of Gender &amp; Age on Mental Training
@@ -2321,10 +2340,10 @@ Timestamps
 (01:57:36) Zero-Cost Support, YouTube Feedback, Spotify &amp; Apple Reviews, Sponsors, Momentous, Social Media, Neural Network Newsletter
 Title Card Photo Credit: Mike Blabac
 Disclaimer</content:encoded>
-      <itunes:duration>7186</itunes:duration>
+      <itunes:duration>6972</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">2541fcf8-e245-11ed-a8e8-23276bf194bb</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM9944841947.mp3?updated=1687621584" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM9944841947.mp3?updated=1698276056" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 269: איך לעשות טוב, טוב יותר?</title>
       <itunes:title>פרק 269: איך לעשות טוב, טוב יותר?</itunes:title>
@@ -2805,31 +2824,27 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog3296889/Naama_Kaminer_2_avmvhn.png"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism &amp; Aging</title>
-      <link>https://hubermanlab.com/dr-elissa-epel-control-stress-for-healthy-eating-metabolism-and-aging</link>
+      <link>https://www.hubermanlab.com/episode/dr-elissa-epel-control-stress-for-healthy-eating-metabolism-and-aging</link>
       <description>שיחה וחקירה של אדון הוברמן את נושא הלחץ. כפי שעולה הלחץ יכול להשפיע על כל תחומי החיים שלנו - אכילה, שינה, למידה ועוד.&lt;br&gt;בפרק הזה יש דיון על סוגי לחץ, על המקורות ללחץ ואיך אפשר ללמוד להפחית קצת את הלחץ.&lt;br&gt;#פסיכולוגיה #שיפורעצמי #בריאות #אנגלית &lt;br&gt;&lt;br&gt;Huberman lab - Dr. Elissa Epel: Control Stress for Healthy Eating, Metabolism &amp; Aging&lt;br&gt;משך: שעתיים ו5 דק' &lt;br&gt;&lt;br&gt;https://pca.st/hmcb7jov&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In this episode, my guest is Elissa Epel, Ph.D., professor and vice chair of the department of psychiatry at the University of California San Francisco (UCSF) and the author of a new book entitled The Stress Prescription. We discuss her work showing how stress impacts mood, eating behavior, mental health, physical health, and aging. She explains stress intervention tools using “top-down” techniques (e.g., radical acceptance, mindfulness, reframing), body-based methods (e.g., breathwork) including the Wim Hof Method, exercise, meditation, body scans, and environmental shifts proven to help people cease unhealthy rumination patterns. We discuss how stress can positively impact psychology and sense of purpose, how stress affects cellular aging, how our narratives of stressful events impact our mood and biology, and how to effectively reframe stress. She explains science-based techniques to break stress-induced cycles of craving and overeating and thereby improve insulin sensitivity and metabolic health. Dr. Epel provides a wide range of tools shown to be effective in reducing stress and improving various aspects of our health.
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Thesis: https://takethesis.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-InsideTracker: https://www.insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+LMNT: https://drinklmnt.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Dr. Elissa Epel
-(00:02:17) Sponsors: Thesis, Eight Sleep, HVMN
+(00:02:33) Sponsors: LMNT &amp; Waking Up
 (00:06:18) Stress; Effects on Body &amp; Mind
 (00:12:50) Tools: Overthinking &amp; Stress
 (00:15:37) Acute, Moderate &amp; Chronic Stress, Breathing
 (00:21:23) Stress Benefits, Aging &amp; Cognition; Stress Challenge Response
-(00:31:04) Sponsor: AG-1 (Athletic Greens)
+(00:27:23) Sponsor: AG1 (Athletic Greens)
 (00:32:19) Tool: Shifting Stress to Challenge Response, “Stress Shields”
 (00:37:400 Stress, Overeating, Craving &amp; Opioid System
 (00:48:55) Tools: Breaking Overeating Cycles, Mindfulness
 (00:54:44) Soda &amp; Sugary Drinks
 (01:00:51) Smoking, Processed Food &amp; Rebellion
-(01:05:29) Sponsor: InsideTracker
 (01:06:47) Tools: Mindfulness, Pregnancy &amp; Metabolic Health
 (01:14:11) Body Scan &amp; Cravings
 (01:17:28) Tool: Meditation &amp; Aging; Meditation Retreats
@@ -2853,26 +2868,22 @@ Disclaimer</description>
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Thesis: https://takethesis.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-InsideTracker: https://www.insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+LMNT: https://drinklmnt.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Dr. Elissa Epel
-(00:02:17) Sponsors: Thesis, Eight Sleep, HVMN
+(00:02:33) Sponsors: LMNT &amp; Waking Up
 (00:06:18) Stress; Effects on Body &amp; Mind
 (00:12:50) Tools: Overthinking &amp; Stress
 (00:15:37) Acute, Moderate &amp; Chronic Stress, Breathing
 (00:21:23) Stress Benefits, Aging &amp; Cognition; Stress Challenge Response
-(00:31:04) Sponsor: AG-1 (Athletic Greens)
+(00:27:23) Sponsor: AG1 (Athletic Greens)
 (00:32:19) Tool: Shifting Stress to Challenge Response, “Stress Shields”
 (00:37:400 Stress, Overeating, Craving &amp; Opioid System
 (00:48:55) Tools: Breaking Overeating Cycles, Mindfulness
 (00:54:44) Soda &amp; Sugary Drinks
 (01:00:51) Smoking, Processed Food &amp; Rebellion
-(01:05:29) Sponsor: InsideTracker
 (01:06:47) Tools: Mindfulness, Pregnancy &amp; Metabolic Health
 (01:14:11) Body Scan &amp; Cravings
 (01:17:28) Tool: Meditation &amp; Aging; Meditation Retreats
@@ -2890,26 +2901,22 @@ Disclaimer</itunes:summary>
 For the full show notes, visit hubermanlab.com.
 Thank you to our sponsors
 AG1 (Athletic Greens): https://athleticgreens.com/huberman
-Thesis: https://takethesis.com/huberman
-Eight Sleep: https://eightsleep.com/huberman
-HVMN: https://hvmn.com/huberman
-InsideTracker: https://www.insidetracker.com/huberman
-Supplements from Momentous
-https://www.livemomentous.com/huberman
+LMNT: https://drinklmnt.com/huberman
+Waking Up: https://www.wakingup.com/huberman
+Momentous: https://www.livemomentous.com/huberman
 Timestamps
 (00:00:00) Dr. Elissa Epel
-(00:02:17) Sponsors: Thesis, Eight Sleep, HVMN
+(00:02:33) Sponsors: LMNT &amp; Waking Up
 (00:06:18) Stress; Effects on Body &amp; Mind
 (00:12:50) Tools: Overthinking &amp; Stress
 (00:15:37) Acute, Moderate &amp; Chronic Stress, Breathing
 (00:21:23) Stress Benefits, Aging &amp; Cognition; Stress Challenge Response
-(00:31:04) Sponsor: AG-1 (Athletic Greens)
+(00:27:23) Sponsor: AG1 (Athletic Greens)
 (00:32:19) Tool: Shifting Stress to Challenge Response, “Stress Shields”
 (00:37:400 Stress, Overeating, Craving &amp; Opioid System
 (00:48:55) Tools: Breaking Overeating Cycles, Mindfulness
 (00:54:44) Soda &amp; Sugary Drinks
 (01:00:51) Smoking, Processed Food &amp; Rebellion
-(01:05:29) Sponsor: InsideTracker
 (01:06:47) Tools: Mindfulness, Pregnancy &amp; Metabolic Health
 (01:14:11) Body Scan &amp; Cravings
 (01:17:28) Tool: Meditation &amp; Aging; Meditation Retreats
@@ -2923,10 +2930,10 @@ Timestamps
 (02:03:11) Zero-Cost Support, YouTube Feedback, Spotify &amp; Apple Reviews, Sponsors, Momentous, Social Media, Neural Network Newsletter
 Title Card Photo Credit: Mike Blabac
 Disclaimer</content:encoded>
-      <itunes:duration>7550</itunes:duration>
+      <itunes:duration>7296</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">0ca1c2fa-d1d3-11ed-b13c-0313677274b5</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM4455888803.mp3?updated=1687621415" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/3F7F74/traffic.megaphone.fm/SCIM4455888803.mp3?updated=1698275917" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:art19="https://art19.com/xmlns/rss-extensions/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
       <title>The Mystery of March 32nd</title>
       <description>פרק משעשע על תיאוריות קונספירציה ועל הקיסר שנרצח ב32 למרץ. או איך אגודת אל המלחמה הרומאי - מרס, מנסה להשתלט על העולם. &lt;br&gt;הפרק יצא ב1 לאפריל. &lt;br&gt;#אנגלית #סיפורמעניין&lt;br&gt;&lt;br&gt;History daily - The Mystery of March 32nd&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1grp4bpm&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
@@ -4109,7 +4116,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://a16z.simplecast.com/episodes/unlocking-creativity-with-prompt-engineering-dxnNWNDY</link>
       <content:encoded>תשמעו סיפור על מקצוע חדש בעולם - כותב פרומפים לבינה מלאכותית. זה הגיוני שזה מתחיל להפוך למקצוע בגלל שכתיבה מדוייקת כך שהמכונה תבין את המח האנושי היא עסק לא פשוט. ומצד שני הנה מקצוע שלא חשבתי שאני אראה 😎&lt;br&gt;#אנגלית #טכנולוגיה&lt;br&gt;&lt;br&gt;The A16Z podcast - Unlocking Creativity with Prompt Engineering &lt;br&gt;משך: 38 דק' &lt;br&gt;&lt;br&gt;https://pca.st/j479la97&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;With every new technology, some jobs are lost while others are gained. People often focus on the former, but in this episode we chose to highlight the latter – a highly creative role that emerges alongside AI: the prompt engineer.&lt;/p&gt;&lt;p&gt;Until AI can close the loop of its own, each tool still requires a set of prompts. Just like a composer feeds an instrument the notes to play, a prompt engineer feeds an AI a map of what to produce. And if we know anything from music it’s that composing great music takes great skill!&lt;/p&gt;&lt;p&gt;In this episode we explore the emerging importance of prompting with Guy Parsons, the early learnings of how to do it effectively, and where this field might be going.&lt;/p&gt;&lt;p&gt;Will the prompt engineer be more like the highly sought after DevOps engineer, or a proficiency like Excel that you find on every resume? Listen in to hear Guy’s take.&lt;/p&gt;&lt;p&gt;Interested in the prompt competition? Email us at podpitches@a16z.com.&lt;/p&gt;&lt;p&gt;Resources:&lt;/p&gt;&lt;p&gt;DALL-E 2 Prompt Book: &lt;a href="https://dallery.gallery/the-dalle-2-prompt-book/"&gt;https://dallery.gallery/the-dalle-2-prompt-book/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find Guy on Twitter: &lt;a href="https://twitter.com/GuyP"&gt;https://twitter.com/GuyP&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s combining image experiment: &lt;a href="https://twitter.com/GuyP/status/1612880405207580672"&gt;https://twitter.com/GuyP/status/1612880405207580672&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s amorphous prompt experiment: &lt;a href="https://twitter.com/GuyP/status/1608475973300948993"&gt;https://twitter.com/GuyP/status/1608475973300948993&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Guy’s space duck: &lt;a href="https://twitter.com/GuyP/status/1601342688225525761"&gt;https://twitter.com/GuyP/status/1601342688225525761&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Prompt base: &lt;a href="https://promptbase.com/"&gt;https://promptbase.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Lexica: &lt;a href="https://lexica.art/"&gt;https://lexica.art/&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Topics Covered: &lt;/p&gt;&lt;p&gt;0:00 - Introduction&lt;/p&gt;&lt;p&gt;01:49 - DALL-E 2 Prompt Book&lt;/p&gt;&lt;p&gt;05:29 - Parallel skills&lt;/p&gt;&lt;p&gt;06:51 - 80/20 prompting&lt;/p&gt;&lt;p&gt;10:16 - New ways of prompting&lt;/p&gt;&lt;p&gt;13:44 - Pulling the AI slot machine&lt;/p&gt;&lt;p&gt;18:09 - Comparing models&lt;/p&gt;&lt;p&gt;21:04 - Requested features&lt;/p&gt;&lt;p&gt;26:34 - Learning with AI&lt;/p&gt;&lt;p&gt;27:58 - Practical use cases&lt;/p&gt;&lt;p&gt;32:08 - A top 1% prompt engineer&lt;/p&gt;&lt;p&gt;36:17 - The most popular images&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find us on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find us on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="37019971" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/cfc50285-16ea-43be-bf3d-e8538a87c632.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="37019971" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/cfc50285-16ea-43be-bf3d-e8538a87c632/audio/c7010a92-373a-428e-a56f-03c8e48de367/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>Unlocking Creativity with Prompt Engineering</itunes:title>
       <itunes:author>Steph Smith, Guy Parsons</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/827add5f-43d5-4e1b-95e6-189f8e8c7ad4/0f076178-044a-4c38-8843-83f0fbda2dab/3000x3000/guy-parsons-1080x1080.jpg?aid=rss_feed"/>
@@ -4948,7 +4955,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://a16z.simplecast.com/episodes/the-robot-lawyer-resistance-Xlxtq12a</link>
       <content:encoded>עסק מעניין שעוזר למי שאין לו זמן או את הכוחות הנפשיים להתעסק בבירוקטיה. ב-DoNotPay מנסים בעזרת טכנולוגיה וAI ליצור תהליכים אוטומטיים שיאפשרו למשתמשים לקצר תהליכים בירוקרטיים ובכך לחסוך הרבה מאוד כסף. &lt;br&gt;#יזמות #אנגלית &lt;br&gt;The A16Z podcast - The Robot Lawyer Resistance&lt;br&gt; משך: 48 דק' &lt;br&gt;&lt;br&gt;https://pca.st/teip63si&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;What happens when you don’t have the resources to fight for your rights? Whether it’s a major medical bill or a more minor parking ticket… even if you were in the right, is it easier to just… pay?&lt;/p&gt;&lt;p&gt;Well, Joshua Browder's answer is Do Not Pay! &lt;/p&gt;&lt;p&gt;He’s built a thriving company of the same name, that helps consumers “fight corporations, beat bureaucracy, and sue anyone at the press of a button.” Through the power of technology, DoNotPay has resolved over 2m cases successfully and in this interview we get to hear where Browder hopes to take the organization, including his first-hand account of his recent plan to bring the robot lawyer into the physical courtroom.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Topics Covered:&lt;/p&gt;&lt;p&gt;00:00 - Introduction&lt;/p&gt;&lt;p&gt;01:51 - DoNotPay’s origin&lt;/p&gt;&lt;p&gt;03:09 - Surprising laws&lt;/p&gt;&lt;p&gt;05:49 - General counsel for consumers&lt;/p&gt;&lt;p&gt;06:54 - The role of AI and technology&lt;/p&gt;&lt;p&gt;09:26 - Ensuring quality counsel&lt;/p&gt;&lt;p&gt;13:19 - Prioritizing features&lt;/p&gt;&lt;p&gt;14:43 - Corporate pushback&lt;/p&gt;&lt;p&gt;17:11 - Reshaping the legal system&lt;/p&gt;&lt;p&gt;20:28 -  Entering the physical courtroom &lt;/p&gt;&lt;p&gt;24:50 - Cross border possibilities&lt;/p&gt;&lt;p&gt;26:14 - Looping humans into modeling&lt;/p&gt;&lt;p&gt;29:01 - Deflationary impacts&lt;/p&gt;&lt;p&gt;30:05 - Recent pushback&lt;/p&gt;&lt;p&gt;33:13 - Is AI already writing law?&lt;/p&gt;&lt;p&gt;35:15 - Why is law so complex?&lt;/p&gt;&lt;p&gt;37:54 - Entering the Supreme Court&lt;/p&gt;&lt;p&gt;38:38 - Lawyer support&lt;/p&gt;&lt;p&gt;39:47 - Looking forward&lt;/p&gt;&lt;p&gt;43:07 - Building horizontal vs vertical&lt;/p&gt;&lt;p&gt;45:28 - Does this law exist?&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Resources: &lt;/p&gt;&lt;p&gt;DoNotPay: &lt;a href="https://donotpay.com/"&gt;https://donotpay.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find Josh on Twitter: &lt;a href="https://twitter.com/jbrowder1"&gt;https://twitter.com/jbrowder1&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find a16z on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find a16z on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="46533976" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/bf88054d-74ae-4fab-90a9-76036c6b7d4e.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="46533976" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/bf88054d-74ae-4fab-90a9-76036c6b7d4e/audio/5b705682-bba6-455a-8fa1-7a5ea251ee73/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>The Robot Lawyer Resistance</itunes:title>
       <itunes:author>Steph Smith, Joshua Browder, consumer rights</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/38c671cb-f233-4f8b-884e-e3c7bd47db16/41861934-43a8-4fe4-9d86-b047ab1ae2aa/3000x3000/joshua-browder-instagram.jpg?aid=rss_feed"/>
@@ -7881,7 +7888,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/polyamcast/mess
       <link>https://a16z.simplecast.com/episodes/creators-creativity-and-technology-with-bob-iger-L98rXqw2</link>
       <content:encoded>בהמשך לשינויים שקרו בדיסני שיחה עם בוב אייגר, מנכ"ל דיסני. &lt;br&gt;השיחה פחות מתמקדת בחברה ויותר ב-בוב ובמסע ההתקדמות האישי שלו. יש הרבה שיח ודגש על תרבות היוצרים וכמה חשיבות בוב מייחס לה. &lt;br&gt;#אנגלית #תוכן #עסקים &lt;br&gt;https://prnt.sc/O3J3JjEdWY1o&lt;br&gt;&lt;br&gt;The A16Z podcast - Creators, Creativity, and Technology with Bob Iger&lt;br&gt;משך: שעה ו20 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pgck9v8d&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;with @robertiger @cdixon @smc90&lt;/p&gt;&lt;p&gt;A wide-ranging conversation with Bob Iger on the interplay between technology, content, and distribution; as well as Bob’s journey -- and that of various creators! -- especially as the industry evolved from TV and cable to the advent of the internet/ web 1.0 to 2.0 to briefly touching on web3 and other emerging technologies. As well as topics top of mind for all company and community builders: from build vs. buy and the innovator's dilemma, to managing creativity, decentralization, remote work, and much more.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Subscribe to web3 with a16z: &lt;a href="https://podcasts.apple.com/us/podcast/web3-with-a16z-crypto/id1622312549"&gt;https://podcasts.apple.com/us/podcast/web3-with-a16z-crypto/id1622312549&lt;/a&gt;&lt;/p&gt;&lt;p&gt; &lt;/p&gt;&lt;p&gt;Stay Updated: &lt;/p&gt;&lt;p&gt;Find us on Twitter: &lt;a href="https://twitter.com/a16z"&gt;https://twitter.com/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Find us on LinkedIn: &lt;a href="https://www.linkedin.com/company/a16z"&gt;https://www.linkedin.com/company/a16z&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Subscribe on your favorite podcast app: &lt;a href="https://a16z.simplecast.com/"&gt;https://a16z.simplecast.com/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Follow our host: &lt;a href="https://twitter.com/stephsmithio"&gt;https://twitter.com/stephsmithio&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Please note that the content here is for informational purposes only; should NOT be taken as legal, business, tax, or investment advice or be used to evaluate any investment or security; and is not directed at any investors or potential investors in any a16z fund. For more details please see a16z.com/disclosures.&lt;/p&gt;
 </content:encoded>
-      <enclosure length="77540736" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/locator.simplecastcdn.com/3f86df7b-51c6-4101-88a2-550dba782de8/41cea30c-0d1b-4ff9-a6f2-f6665d6e6137.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
+      <enclosure length="77540736" type="audio/mpeg" url="https://pdst.fm/e/chtbl.com/track/85G57/cdn.simplecast.com/audio/3f86df7b-51c6-4101-88a2-550dba782de8/episodes/41cea30c-0d1b-4ff9-a6f2-f6665d6e6137/audio/8ac69f09-3277-49ab-b786-8ddccd18d654/default_tc.mp3?aid=rss_feed&amp;feed=JGE3yC0V"/>
       <itunes:title>Creators, Creativity, and Technology with Bob Iger</itunes:title>
       <itunes:author>sonal chokshi, bob iger, chris dixon</itunes:author>
       <itunes:image href="https://image.simplecastcdn.com/images/38c671cb-f233-4f8b-884e-e3c7bd47db16/57a1a4cc-3a2c-465f-a1ab-7162a58fd3b0/3000x3000/iger.jpg?aid=rss_feed"/>
@@ -9987,76 +9994,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1237</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/c2d33ec4-f685-4dcc-98c9-ae4a00a2bcbc/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" length="19826325" type="audio/mpeg"/>
       <link>https://omny.fm/shows/haazanamudrechet/queen-the-show-must-go-on</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>The Booj Strikes Back</title>
-      <link>https://www.20k.org/episodes/boojstrikesback</link>
-      <description>צלילה מסקרנת ומשעשעת לפרקים אל תוך עולמם של הטריילרים. החקירה היא מכיוון המוזיקה שאנחנו שומעים בטרליירים ואיך היא נועדה לעורר בנו רגשות מסויימים. בדרך גם סוקרים את ההסטוריה של הטריילרים ואת התקופה שהיו בעיקר שני מדובבים שאת הקול שלהם שמעתם בכל פרסומת לסרט חדש.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;Twenty thousand hertz - The Booj Strikes Back&lt;br&gt; משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/dxh8a39x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the 80s and 90s, movie trailers were ruled by “voice-of-God” narrators who used stock phrases like, “In a world…” Today, movie studios have a different trick up their sleeves: epic sound design. In this episode, Professor James Deaville explains the history of trailers, and Youtuber Craven Moorhaus crafts a hilarious takedown of the overused clichés of modern blockbuster trailers. We’ve remixed one of our most popular episodes for your listening pleasure.
-
-Follow the show on Twitter, Facebook, &amp; Reddit.
-Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
-If you know what this week's mystery sound is, tell us at mystery.20k.org.
-Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
-Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
-Subscribe to Björk's Sonic Symbolism show wherever you get your podcasts.
-Visit shopify.com/20k to get a free 14-day trial with Shopify’s entire suite of features.
-Episode transcript, music, and credits can be found here: https://www.20k.org/episodes/boojstrikesback
-Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
-      <pubDate>Thu, 24 Nov 2022 05:01:01 +0000</pubDate>
-      <itunes:title>The Booj Strikes Back</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>158</itunes:episode>
-      <itunes:author>Dallas Taylor</itunes:author>
-      <itunes:image href="https://megaphone.imgix.net/podcasts/24fdfc00-3f3a-11ed-aa35-b3192663b57f/image/b2441f.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
-      <itunes:subtitle>How to turn your trailers up to 11.</itunes:subtitle>
-      <itunes:summary>צלילה מסקרנת ומשעשעת לפרקים אל תוך עולמם של הטריילרים. החקירה היא מכיוון המוזיקה שאנחנו שומעים בטרליירים ואיך היא נועדה לעורר בנו רגשות מסויימים. בדרך גם סוקרים את ההסטוריה של הטריילרים ואת התקופה שהיו בעיקר שני מדובבים שאת הקול שלהם שמעתם בכל פרסומת לסרט חדש.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;Twenty thousand hertz - The Booj Strikes Back&lt;br&gt; משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/dxh8a39x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the 80s and 90s, movie trailers were ruled by “voice-of-God” narrators who used stock phrases like, “In a world…” Today, movie studios have a different trick up their sleeves: epic sound design. In this episode, Professor James Deaville explains the history of trailers, and Youtuber Craven Moorhaus crafts a hilarious takedown of the overused clichés of modern blockbuster trailers. We’ve remixed one of our most popular episodes for your listening pleasure.
-
-Follow the show on Twitter, Facebook, &amp; Reddit.
-Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
-If you know what this week's mystery sound is, tell us at mystery.20k.org.
-Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
-Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
-Subscribe to Björk's Sonic Symbolism show wherever you get your podcasts.
-Visit shopify.com/20k to get a free 14-day trial with Shopify’s entire suite of features.
-Episode transcript, music, and credits can be found here: https://www.20k.org/episodes/boojstrikesback
-Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
-      <content:encoded>צלילה מסקרנת ומשעשעת לפרקים אל תוך עולמם של הטריילרים. החקירה היא מכיוון המוזיקה שאנחנו שומעים בטרליירים ואיך היא נועדה לעורר בנו רגשות מסויימים. בדרך גם סוקרים את ההסטוריה של הטריילרים ואת התקופה שהיו בעיקר שני מדובבים שאת הקול שלהם שמעתם בכל פרסומת לסרט חדש.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;Twenty thousand hertz - The Booj Strikes Back&lt;br&gt; משך: 29 דק'&lt;br&gt;&lt;br&gt;https://pca.st/dxh8a39x&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;In the 80s and 90s, movie trailers were ruled by “voice-of-God” narrators who used stock phrases like, “In a world…” Today, movie studios have a different trick up their sleeves: epic sound design. In this episode, Professor James Deaville explains the history of trailers, and Youtuber Craven Moorhaus crafts a hilarious takedown of the overused clichés of modern blockbuster trailers. We’ve remixed one of our most popular episodes for your listening pleasure.
-
-Follow the show on Twitter, Facebook, &amp; Reddit.
-Subscribe to our Youtube channel.
-Sign up for Twenty Thousand Hertz+ to support the show &amp; get our entire catalog ad-free.
-If you know what this week's mystery sound is, tell us at mystery.20k.org.
-Use promo code 20k to get $20 off your next purchase over $100 at American Musical Supply.
-Get 10% off your first month of online therapy with our sponsor BetterHelp at betterhelp.com/20k.
-Subscribe to Björk's Sonic Symbolism show wherever you get your podcasts.
-Visit shopify.com/20k to get a free 14-day trial with Shopify’s entire suite of features.
-Episode transcript, music, and credits can be found here: https://www.20k.org/episodes/boojstrikesback
-Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1597</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <guid isPermaLink="false">24fdfc00-3f3a-11ed-aa35-b3192663b57f</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/7E2C63/https://p.podderapp.com/6633702131/traffic.megaphone.fm/TTH8582745503.mp3?updated=1684772608" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>פרק 252: חידון כיס</title>
-      <itunes:title>פרק 252: חידון כיס</itunes:title>
-      <description>הבחירות נגמרו אבל חיות כיס עשו פרק מאוד משעשע על עובדות כלכליות מסקרנות ומוזרות בהיסטוריה של ישראל. הם קראו לזה משחק טריוויה אבל זה יותר אוסף טרוויה מעניין עם קטעי חיבור משעשעים.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 252: חידון כיס&lt;br&gt;משך: 40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/be5pvmrj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;ספיישל בחירות - שאול אמסטרדמסקי נגד יואב רבינוביץ במשחק הטריוויה הפוליטית-כלכלית של חיות כיס. פרק סיום העונה&lt;br&gt;מגיש: אלון אמיצי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט&lt;/p&gt;
-&lt;p dir="rtl"&gt; &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>הבחירות נגמרו אבל חיות כיס עשו פרק מאוד משעשע על עובדות כלכליות מסקרנות ומוזרות בהיסטוריה של ישראל. הם קראו לזה משחק טריוויה אבל זה יותר אוסף טרוויה מעניין עם קטעי חיבור משעשעים.&lt;br&gt;#כלכלה #ישראל&lt;br&gt;&lt;br&gt;חיות כיס - פרק 252: חידון כיס&lt;br&gt;משך: 40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/be5pvmrj&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;ספיישל בחירות - שאול אמסטרדמסקי נגד יואב רבינוביץ במשחק הטריוויה הפוליטית-כלכלית של חיות כיס. פרק סיום העונה&lt;br&gt;מגיש: אלון אמיצי, עורכת: נעה בן הגיא, עריכת סאונד ומיקס: אסף רפפורט&lt;/p&gt;
-&lt;p dir="rtl"&gt; &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>252</itunes:episode>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/image.jpg?t=1667255435&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/hayot-kiss/252/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/image.jpg?t=1667255435&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">716aaee5-ace6-4ca2-9edb-af3f0171cacc</guid>
-      <omny:clipId>716aaee5-ace6-4ca2-9edb-af3f0171cacc</omny:clipId>
-      <pubDate>Tue, 22 Nov 2022 05:21:00 +0000</pubDate>
-      <itunes:duration>2421</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/716aaee5-ace6-4ca2-9edb-af3f0171cacc/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="38809125" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/hayot-kiss/252</link>
     </item></channel>
 </rss>
