@@ -10,9 +10,104 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 01 Nov 2023 06:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 06:37:16 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>TechStuff Classic: The Worst Hacking Scenes from Hollywood, Part Two</title>
+      <itunes:title>TechStuff Classic: The Worst Hacking Scenes from Hollywood, Part Two</itunes:title>
+      <description>פרק משעשע על הטעויות שהוליווד עושה בהצגה של האקרים. בפרק מדברים על סדרות וסרטים שונים שהציגו מתקפות סייבר ואת כל המקומות שבהם הוליווד מדמיינת סייבר בצורה מסוימת ומדמיינת האקרים בצורה מסוימת ובפועל זה מאוד רחוק מהמציאות.&lt;br&gt;#קולנוע #תרבות #אנגלית &lt;br&gt;&lt;br&gt;TechStuff - The Worst Hacking Scenes from Hollywood&lt;br&gt;&lt;br&gt;פרק 1: https://pca.st/3y63zx4h&lt;br&gt;משך: 55 דק'&lt;br&gt;&lt;br&gt;פרק 2: https://pca.st/qfep1axw&lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Shannon Morse and Jonathan continue their conversation about some of the worst hacking scenes in Hollywood history and how with a little adjustment they could be more accurate.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק משעשע על הטעויות שהוליווד עושה בהצגה של האקרים. בפרק מדברים על סדרות וסרטים שונים שהציגו מתקפות סייבר ואת כל המקומות שבהם הוליווד מדמיינת סייבר בצורה מסוימת ומדמיינת האקרים בצורה מסוימת ובפועל זה מאוד רחוק מהמציאות.&lt;br&gt;#קולנוע #תרבות #אנגלית &lt;br&gt;&lt;br&gt;TechStuff - The Worst Hacking Scenes from Hollywood&lt;br&gt;&lt;br&gt;פרק 1: https://pca.st/3y63zx4h&lt;br&gt;משך: 55 דק'&lt;br&gt;&lt;br&gt;פרק 2: https://pca.st/qfep1axw&lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Shannon Morse and Jonathan continue their conversation about some of the worst hacking scenes in Hollywood history and how with a little adjustment they could be more accurate.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>iHeartPodcasts</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/8ba98429-8563-472f-beff-b031018b0cab/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-1/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">8ba98429-8563-472f-beff-b031018b0cab</guid>
+      <omny:clipId>8ba98429-8563-472f-beff-b031018b0cab</omny:clipId>
+      <pubDate>Thu, 02 Nov 2023 05:25:07 +0000</pubDate>
+      <itunes:duration>2881</itunes:duration>
+      <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/8ba98429-8563-472f-beff-b031018b0cab/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="46157564" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-1</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=SubRip&amp;t=1689850504" type="application/srt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=WebVTT&amp;t=1689850504" type="text/vtt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=TextWithTimestamps&amp;t=1689850504" type="text/plain" language="en-US"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>TechStuff Classic: The Worst Hacking Scenes from Hollywood</title>
+      <itunes:title>TechStuff Classic: The Worst Hacking Scenes from Hollywood</itunes:title>
+      <description>פרק משעשע על הטעויות שהוליווד עושה בהצגה של האקרים. בפרק מדברים על סדרות וסרטים שונים שהציגו מתקפות סייבר ואת כל המקומות שבהם הוליווד מדמיינת סייבר בצורה מסוימת ומדמיינת האקרים בצורה מסוימת ובפועל זה מאוד רחוק מהמציאות.&lt;br&gt;#קולנוע #תרבות #אנגלית &lt;br&gt;&lt;br&gt;TechStuff - The Worst Hacking Scenes from Hollywood&lt;br&gt;&lt;br&gt;פרק 1: https://pca.st/3y63zx4h&lt;br&gt;משך: 55 דק'&lt;br&gt;&lt;br&gt;פרק 2: https://pca.st/qfep1axw&lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hacking isn't as glamorous or exciting as movies and television make it seem. Shannon Morse joins the show to talk about the worst examples of hacking in films and TV.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק משעשע על הטעויות שהוליווד עושה בהצגה של האקרים. בפרק מדברים על סדרות וסרטים שונים שהציגו מתקפות סייבר ואת כל המקומות שבהם הוליווד מדמיינת סייבר בצורה מסוימת ומדמיינת האקרים בצורה מסוימת ובפועל זה מאוד רחוק מהמציאות.&lt;br&gt;#קולנוע #תרבות #אנגלית &lt;br&gt;&lt;br&gt;TechStuff - The Worst Hacking Scenes from Hollywood&lt;br&gt;&lt;br&gt;פרק 1: https://pca.st/3y63zx4h&lt;br&gt;משך: 55 דק'&lt;br&gt;&lt;br&gt;פרק 2: https://pca.st/qfep1axw&lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hacking isn't as glamorous or exciting as movies and television make it seem. Shannon Morse joins the show to talk about the worst examples of hacking in films and TV.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>iHeartPodcasts</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/48f31a69-a01a-4172-861c-b028011b225e/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-ho/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">48f31a69-a01a-4172-861c-b028011b225e</guid>
+      <omny:clipId>48f31a69-a01a-4172-861c-b028011b225e</omny:clipId>
+      <pubDate>Thu, 02 Nov 2023 05:25:07 +0000</pubDate>
+      <itunes:duration>2673</itunes:duration>
+      <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/48f31a69-a01a-4172-861c-b028011b225e/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="42816806" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-ho</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=SubRip&amp;t=1689850466" type="application/srt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=WebVTT&amp;t=1689850466" type="text/vtt" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=TextWithTimestamps&amp;t=1689850466" type="text/plain" language="en-US"/>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק #751 - ראס רוברטס, כלכלה ופודקאסטים</title>
+        <itunes:title>פרק #751 - ראס רוברטס, כלכלה ופודקאסטים</itunes:title>
+        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7751%d7%a8%d7%90%d7%a1%d7%a8%d7%95%d7%91%d7%a8%d7%98%d7%a1-%d7%9b%d7%9c%d7%9b%d7%9c%d7%94-%d7%95%d7%a4%d7%95%d7%93%d7%a7%d7%90/</link>
+                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7751%d7%a8%d7%90%d7%a1%d7%a8%d7%95%d7%91%d7%a8%d7%98%d7%a1-%d7%9b%d7%9c%d7%9b%d7%9c%d7%94-%d7%95%d7%a4%d7%95%d7%93%d7%a7%d7%90/#comments</comments>        <pubDate>Thu, 02 Nov 2023 05:25:07 +0000</pubDate>
+        <guid isPermaLink="false">geekonomy.podbean.com/e76f989a-a751-3c01-becf-b09c912a1ac9</guid>
+                      <description>שיחה מעניינת על הרבה נושאים עם ראס רוברטס.&lt;br&gt;( דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״).&lt;br&gt;יש פה פן כלכלי שעובר על חינוך, בריאות וחברה וגם קצת פוליטיקה ומחשבות רנדומליות.&lt;br&gt;#ראיוןמעניין &lt;br&gt;&lt;br&gt;גיקונומי - פרק #751 - ראס רוברטס, כלכלה ופודקאסטים&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dqwgb8et&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;ראס רוברטס הוא דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״. ב-17 השנים האחרונות ראס מנחה את הפודקאסט ״EconTalk״, אחד הפודקאסט הכלכליים/שיחה המוערכים ומוצלחים בעולם. לאורך השנים אירח אנשים כמילטון פרידמן, נאסים טאלב ורבים אחרים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+נשק בארצות הברית, חינוך בישראל, פודקאסטים, כלכלה, יובל נוח הררי, אריאל רובינשטין, מדע פופולרי, אנשים משכילים, ידע, מרכז שלם, המצב בארץ
+
+ 
+
+נותני החסות שלנו:
+&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
+&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;</description>
+                      <content:encoded>שיחה מעניינת על הרבה נושאים עם ראס רוברטס.&lt;br&gt;( דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״).&lt;br&gt;יש פה פן כלכלי שעובר על חינוך, בריאות וחברה וגם קצת פוליטיקה ומחשבות רנדומליות.&lt;br&gt;#ראיוןמעניין &lt;br&gt;&lt;br&gt;גיקונומי - פרק #751 - ראס רוברטס, כלכלה ופודקאסטים&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dqwgb8et&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;ראס רוברטס הוא דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״. ב-17 השנים האחרונות ראס מנחה את הפודקאסט ״EconTalk״, אחד הפודקאסט הכלכליים/שיחה המוערכים ומוצלחים בעולם. לאורך השנים אירח אנשים כמילטון פרידמן, נאסים טאלב ורבים אחרים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+נשק בארצות הברית, חינוך בישראל, פודקאסטים, כלכלה, יובל נוח הררי, אריאל רובינשטין, מדע פופולרי, אנשים משכילים, ידע, מרכז שלם, המצב בארץ
+
+ 
+
+נותני החסות שלנו:
+&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
+&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/m439nk/geekonomy751.mp3" length="82894800" type="audio/mpeg"/>
+        <itunes:subtitle>ראס רוברטס הוא דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״. ב-17 השנים האחרונות ראס מנחה את הפודקאסט ״EconTalk״, אחד הפודקאסט הכלכליים/שיחה המוערכים ומוצלחים בעולם. לאורך השנים אירח אנשים כמילטון פרידמן, נאס...</itunes:subtitle>
+        <itunes:summary>שיחה מעניינת על הרבה נושאים עם ראס רוברטס.&lt;br&gt;( דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״).&lt;br&gt;יש פה פן כלכלי שעובר על חינוך, בריאות וחברה וגם קצת פוליטיקה ומחשבות רנדומליות.&lt;br&gt;#ראיוןמעניין &lt;br&gt;&lt;br&gt;גיקונומי - פרק #751 - ראס רוברטס, כלכלה ופודקאסטים&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dqwgb8et&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;ראס רוברטס הוא דוקטור לכלכלה, שלימד במספר מהאונ׳ הנחשבות בעולם וכיום מכהן כנשיא של המרכז האקדמי ״שלם״. ב-17 השנים האחרונות ראס מנחה את הפודקאסט ״EconTalk״, אחד הפודקאסט הכלכליים/שיחה המוערכים ומוצלחים בעולם. לאורך השנים אירח אנשים כמילטון פרידמן, נאסים טאלב ורבים אחרים.&lt;/p&gt;
+
+ 
+
+על מה דיברנו:
+נשק בארצות הברית, חינוך בישראל, פודקאסטים, כלכלה, יובל נוח הררי, אריאל רובינשטין, מדע פופולרי, אנשים משכילים, ידע, מרכז שלם, המצב בארץ
+
+ 
+
+נותני החסות שלנו:
+&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
+&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;</itunes:summary>
+        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:26:20</itunes:duration>
+                <itunes:episode>756</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2023-07-14_at_42538_PMb0wq5.jpeg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Young Winston with Furman Daniel</title>
       <link>https://links.boatspodcast.com/259</link>
       <description>ניתוח מעמיק של הסרט שמתאר את וינסטון צ'רצ'יל הצעיר. יש פה גם עובדות מסקרנות על הסרט שיצא בנושא.&lt;br&gt;#הסטוריה #קולנוע #כלכלה &lt;br&gt;&lt;br&gt;https://prnt.sc/AHAr8_9x77yc&lt;br&gt;&lt;br&gt;Based on atrue story - Young Winston with Furman Daniel&lt;br&gt;משך: שעה ו10 דק' &lt;br&gt;&lt;br&gt;https://pca.st/oz60lhge&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Today's episode looks at how well the 1972 film Young Winston shows early years of Winston Churchill before he became the Prime Minister of the United Kingdom. Joining us today is Furman Daniel, author of the upcoming book Mud, Blood, and Oil Paint: The Remarkable Year that Made Winston Churchill.
@@ -10100,41 +10195,5 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
 הלחנה: מיכאל ינטיס</description>
       <enclosure length="46056721" type="audio/mpeg" url="https://feeds.soundcloud.com/stream/1365326551-productpodcast-196-how-to-innovate-in-a-red-ocean-featuring-amit-turkaspa.mp3"/>
       <itunes:image href="https://i1.sndcdn.com/artworks-zwyckWrWXwoeCNNH-yOip8w-t3000x3000.jpg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 51 - לנהל את הירידה עם נירית כהן</title>
-<guid isPermaLink="false">https://pinecast.com/guid/f3471819-f608-4e87-b7d7-1e73a64661b4</guid>
-<pubDate>Thu, 01 Dec 2022 06:01:01 +0000</pubDate>
-
-<itunes:duration>00:41:37</itunes:duration>
-<itunes:image href="https://storage.pinecast.net/podcasts/a7c707bf-39e8-4e3d-abba-d318ca0904f0/artwork/41f08814-0dd0-4692-ad0b-8ed98614399e/e51_new.jpg"/>
-<description>שיחה על ניהול קריירה עם התמקדות ברגעים שבהם אנחנו חווים ירידה. כל קריירה רואה בשלבים מסויימים הצלחות ואחריהן כמעט באופן בלתי נמנע גם ירידות או אפילו כשלונות. נירית כהן מדברת על איך לצפות את רגעי הירידה ולהגיב בצורה נכונה יותר מאשר פניקה רבתי או דיכאון. &lt;br&gt;היות והירידה קורית תמיד ולכולם אפשר לנצל את הזמן הזה בצורה שונה ולהתכונן אליו.&lt;br&gt;#שיפורעצמי #פסיכולוגיה&lt;br&gt;&lt;br&gt;Skills - פרק 51 - לנהל את הירידה עם נירית כהן&lt;br&gt;משך: 41 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rxps8ggl&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הקריירה שלנו היא כמו רכבת הרים גדולה, מלאה בעליות וירידות. בפרק נירית כהן ואני מתמקדים בניהול והתכוננות לקראת הירידה הבאה בקריירה. אנחנו לומדים שלא ניתן להימנע מהירידות, שירידה לא חייבת להיות טרגית ובלתי נמנעת, ושאפשר וצריך להתכונן לירידה דווקא שאנחנו ביציבות. מדובר רק בפיסה מתוך הניסיון רב השנים של נירית במוכנות לשינויים בעולם התעסוקה, שבא לידי ביטוי גם בסדנה ובספר שלה "המדריך לקריירה בעולם משתנה".&lt;/p&gt;
-&lt;p&gt;אז מה אפשר לעשות כדי להתכונן לירידה? איך אנחנו בוחרים מה אנחנו משאירים מאחורה? איך אנחנו בוחרים מה ללמוד? ולמה נירית היא בעצמה דוגמה מצויינת למה שדיברנו בפרק? הצטרפו אלינו.&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tmosko.com/e51" rel="nofollow"&gt;להאזנה באפליקציות נוספות🎧&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tmosko.com/wa-group" rel="nofollow"&gt;👈להצטרפות לקבוצת המאזינים&lt;/a&gt; בוואטספ&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tmosko.com/italki" rel="nofollow"&gt;🅰ללמוד אנגלית - 10 דולר מתנה ממני&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="http://methodqueen.com/podcast" rel="nofollow"&gt;🎧לפודקאסט &amp;amp;quot;בין העולמות&amp;amp;quot;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://tmosko.com/contact" rel="nofollow"&gt;כל הדרכים ליצור איתי קשר&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;צרו קשר עם נירית כהן:&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://niritcohen.com/book/" rel="nofollow"&gt;הספר של נירית בהנחה לחגים&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://niritcohen.com/career-change/" rel="nofollow"&gt;הסדנה של נירית לשינוי בקריירה בהנחה לחגים&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://www.linkedin.com/in/niritcohen/" rel="nofollow"&gt;לינקדאין&lt;/a&gt;, &lt;a href="https://www.facebook.com/nirit.cohen.733" rel="nofollow"&gt;פייסבוק&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;music by &lt;a href="https://scottholmesmusic.com/" rel="nofollow"&gt;https://scottholmesmusic.com&lt;/a&gt;&lt;/p&gt;</description>
-<itunes:explicit>no</itunes:explicit>
-<enclosure url="https://chtbl.com/track/52DDE2/pinecast.com/listen/f3471819-f608-4e87-b7d7-1e73a64661b4.mp3?source=rss&amp;aid=e85663bb-dad4-47de-a035-bd43fc22c276.mp3" length="34461460" type="audio/mpeg"/>
-</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>ספיישל סיכום השנה בקולינריה הישראלית</itunes:title>
-    <title>ספיישל סיכום השנה בקולינריה הישראלית</title>
-    <description>סקירה מעניינת של הקולינריה הישראלית. בפרק סיכום השנה  אנזל ולוקסי מדברים על המסעדות החדשות שנפתחו, על סגנונות ומגמות שולטות בישראל של 2022.&lt;br&gt;#אוכל #ישראל&lt;br&gt;&lt;br&gt;אנזל ולוקסי - ספיישל סיכום השנה בקולינריה הישראלית&lt;br&gt;משך: שעה ו22 דק&lt;br&gt;&lt;br&gt;https://pca.st/0ars1sns&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;אנו קוטעים את שידורי העונה הצרפתית כי הסתיימה לה שנה עברית וכמיטב המסורת אנחנו מביאים לכם את סיכום השנה בקולינריה הישראלית.&lt;br/&gt; &lt;br/&gt; לעדכן אתכם במסעדות החדשות שנפתחו, בטרנדים הקולינרים החדשים, במתחמים הקולינרים המעניינים, בתוכניות האוכל שהכי אהבנו לצפות בטלויזיה ובספרים החדשים שיצאו השנה והרשימו אותנו מאוד.&lt;br/&gt;&lt;br/&gt;וגם כמובן, כנדרש, הבאנו לכם את הבחירות שלנו לדברים שעשו לנו את השנה הקולינרית שלנו: ירק השנה, פרי השנה, תבלין השנה, חלבון השנה, דרינק השנה, חומרי הגלם של השנה, וגם המשלוח הכי טוב, הארוחה הכי טובה, המסעדה שעשתה לנו את השנה וכמובן שף ואיש הקולינריה של השנה&lt;br/&gt;&lt;br/&gt;שוחחנו עם &lt;a href='https://www.facebook.com/jonathan.borowitz'&gt;&lt;b&gt;יהונתן בורוביץ&lt;/b&gt;&lt;/a&gt;&lt;b&gt;,&lt;/b&gt; שף&lt;a href='https://m25meat.co.il/'&gt;&lt;b&gt; מסעדת M25 והבר החדש שפוי&lt;/b&gt;&lt;/a&gt;, שהוא גם יו&amp;quot;ר האיגוד של מסעדנים חזקים ביחד שסיפר לנו על פריחת שוק הכרמל לאור המקומות החדשים שנפתחו בו, ומה קורה עם עתיד המסעדנות הישראלית&lt;br/&gt;&lt;br/&gt;ועם &lt;a href='https://www.instagram.com/watch.eat/'&gt;&lt;b&gt;אפרת רענן&lt;/b&gt;&lt;/a&gt;, הלא היא&lt;b&gt; &lt;/b&gt;&lt;a href='https://www.instagram.com/watch.eat/'&gt;&lt;b&gt;Watch.Eat@&lt;/b&gt;&lt;/a&gt; שסיפרה לנו על המאפיות הכי משמחות שיש מחוץ לתל אביב ונתנה לנו את הטופ 3 שלה שאסור לפספס כשאתם יוצאים מהמרכז.&lt;/p&gt;&lt;p dir='rtl'&gt;אין מה להגיד, למרות הקורונה, זאת היתה עוד שנה טעימה במיוחד ונחזור לצרפת שבוע הבא&lt;/p&gt;&lt;p dir='rtl'&gt;&lt;b&gt;אינסטגרם:&lt;/b&gt;&lt;/p&gt;&lt;p dir='rtl'&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;אפרת אנזל&lt;/a&gt;    |    &lt;a href='https://www.instagram.com/orenluxy'&gt;אורן לוקסנבורג&lt;/a&gt;        |    &lt;a href='https://www.instagram.com/watch.eat/'&gt;אפרת רענן&lt;/a&gt;        |         &lt;a href='https://www.instagram.com/jonathanborowitz/'&gt;יונתן בורוביץ&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;את המתכונים שדיברנו עליהם ניתן לראות באתר של אפרת &lt;a href='http://www.efratenzel.com/'&gt;www.efratenzel.com&lt;/a&gt;&lt;br/&gt;חפשו אותנו בפייסבוק של &lt;a href='https://www.facebook.com/Enzel.Efrat/'&gt;אפרת &lt;/a&gt;או של &lt;a href='https://www.facebook.com/orenluxy'&gt;אורן &lt;/a&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;@efrat_enzel&lt;/a&gt; &lt;a href='https://www.instagram.com/orenluxy/'&gt;@orenluxy&lt;/a&gt; או באינסטגרם&lt;br/&gt;יש לכם שאלות? רוצים להציע הצעות? שלחו לנו מייל  &lt;a href='mailto:enzel.luxy@gmail.com'&gt;enzel.luxy@gmail.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Music: &lt;a href='https://www.purple-planet.com/'&gt;https://www.purple-planet.com&lt;/a&gt;&lt;br/&gt;Sound effects: &lt;a href='http://www.soundeffectsplus.com/'&gt;http://www.soundeffectsplus.com&lt;/a&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/bePatron?u=17525717"&gt;Support the show&lt;/a&gt;</description>
-    <content:encoded>סקירה מעניינת של הקולינריה הישראלית. בפרק סיכום השנה  אנזל ולוקסי מדברים על המסעדות החדשות שנפתחו, על סגנונות ומגמות שולטות בישראל של 2022.&lt;br&gt;#אוכל #ישראל&lt;br&gt;&lt;br&gt;אנזל ולוקסי - ספיישל סיכום השנה בקולינריה הישראלית&lt;br&gt;משך: שעה ו22 דק&lt;br&gt;&lt;br&gt;https://pca.st/0ars1sns&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;אנו קוטעים את שידורי העונה הצרפתית כי הסתיימה לה שנה עברית וכמיטב המסורת אנחנו מביאים לכם את סיכום השנה בקולינריה הישראלית.&lt;br/&gt; &lt;br/&gt; לעדכן אתכם במסעדות החדשות שנפתחו, בטרנדים הקולינרים החדשים, במתחמים הקולינרים המעניינים, בתוכניות האוכל שהכי אהבנו לצפות בטלויזיה ובספרים החדשים שיצאו השנה והרשימו אותנו מאוד.&lt;br/&gt;&lt;br/&gt;וגם כמובן, כנדרש, הבאנו לכם את הבחירות שלנו לדברים שעשו לנו את השנה הקולינרית שלנו: ירק השנה, פרי השנה, תבלין השנה, חלבון השנה, דרינק השנה, חומרי הגלם של השנה, וגם המשלוח הכי טוב, הארוחה הכי טובה, המסעדה שעשתה לנו את השנה וכמובן שף ואיש הקולינריה של השנה&lt;br/&gt;&lt;br/&gt;שוחחנו עם &lt;a href='https://www.facebook.com/jonathan.borowitz'&gt;&lt;b&gt;יהונתן בורוביץ&lt;/b&gt;&lt;/a&gt;&lt;b&gt;,&lt;/b&gt; שף&lt;a href='https://m25meat.co.il/'&gt;&lt;b&gt; מסעדת M25 והבר החדש שפוי&lt;/b&gt;&lt;/a&gt;, שהוא גם יו&amp;quot;ר האיגוד של מסעדנים חזקים ביחד שסיפר לנו על פריחת שוק הכרמל לאור המקומות החדשים שנפתחו בו, ומה קורה עם עתיד המסעדנות הישראלית&lt;br/&gt;&lt;br/&gt;ועם &lt;a href='https://www.instagram.com/watch.eat/'&gt;&lt;b&gt;אפרת רענן&lt;/b&gt;&lt;/a&gt;, הלא היא&lt;b&gt; &lt;/b&gt;&lt;a href='https://www.instagram.com/watch.eat/'&gt;&lt;b&gt;Watch.Eat@&lt;/b&gt;&lt;/a&gt; שסיפרה לנו על המאפיות הכי משמחות שיש מחוץ לתל אביב ונתנה לנו את הטופ 3 שלה שאסור לפספס כשאתם יוצאים מהמרכז.&lt;/p&gt;&lt;p dir='rtl'&gt;אין מה להגיד, למרות הקורונה, זאת היתה עוד שנה טעימה במיוחד ונחזור לצרפת שבוע הבא&lt;/p&gt;&lt;p dir='rtl'&gt;&lt;b&gt;אינסטגרם:&lt;/b&gt;&lt;/p&gt;&lt;p dir='rtl'&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;אפרת אנזל&lt;/a&gt;    |    &lt;a href='https://www.instagram.com/orenluxy'&gt;אורן לוקסנבורג&lt;/a&gt;        |    &lt;a href='https://www.instagram.com/watch.eat/'&gt;אפרת רענן&lt;/a&gt;        |         &lt;a href='https://www.instagram.com/jonathanborowitz/'&gt;יונתן בורוביץ&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;את המתכונים שדיברנו עליהם ניתן לראות באתר של אפרת &lt;a href='http://www.efratenzel.com/'&gt;www.efratenzel.com&lt;/a&gt;&lt;br/&gt;חפשו אותנו בפייסבוק של &lt;a href='https://www.facebook.com/Enzel.Efrat/'&gt;אפרת &lt;/a&gt;או של &lt;a href='https://www.facebook.com/orenluxy'&gt;אורן &lt;/a&gt;&lt;a href='https://www.instagram.com/efrat_enzel/'&gt;@efrat_enzel&lt;/a&gt; &lt;a href='https://www.instagram.com/orenluxy/'&gt;@orenluxy&lt;/a&gt; או באינסטגרם&lt;br/&gt;יש לכם שאלות? רוצים להציע הצעות? שלחו לנו מייל  &lt;a href='mailto:enzel.luxy@gmail.com'&gt;enzel.luxy@gmail.com&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;Music: &lt;a href='https://www.purple-planet.com/'&gt;https://www.purple-planet.com&lt;/a&gt;&lt;br/&gt;Sound effects: &lt;a href='http://www.soundeffectsplus.com/'&gt;http://www.soundeffectsplus.com&lt;/a&gt;&lt;/p&gt;&lt;a rel="payment" href="https://www.patreon.com/bePatron?u=17525717"&gt;Support the show&lt;/a&gt;</content:encoded>
-    <itunes:image href="https://storage.buzzsprout.com/variants/6njs4dgxstgme9o1d5y5qoki8q8x/60854458c4d1acdf4e1c2f79c4137142d85d78e379bdafbd69bd34c85f5819ad.jpg"/>
-    <itunes:author>אפרת אנזל אורן לוקסנבורג</itunes:author>
-    <enclosure url="https://chtbl.com/track/1ED83/www.buzzsprout.com/258472/11319024-.mp3" length="60159007" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-11319024</guid>
-    <pubDate>Tue, 29 Nov 2022 05:31:01 +0000</pubDate>
-    <itunes:duration>5010</itunes:duration>
-    <itunes:keywords>אוכל יהודי, יהודים, בישול, בישולים, המלצות, אוכל, מסעדה, מסעדות, קולינריה, תבשיל, ללמוד, זיכרונות, נוסטלגי, צמבוז, קיימות, חקלאות, פירות, ירקות, גידול, סיכום שנה, פרסי האוכל, יונתן בורוביץ, אפרת רענן  </itunes:keywords>
-    <itunes:season>7</itunes:season>
-    <itunes:episode>7</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item></channel>
+    </item></channel>
 </rss>
