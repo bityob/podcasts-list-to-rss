@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 14 Nov 2023 06:37:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Nov 2023 06:38:16 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>The secret entrance that sidesteps Hollywood picket lines</title>
@@ -298,9 +298,9 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/8ba98429-8563-472f-beff-b031018b0cab/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="46157564" type="audio/mpeg"/>
       <link>https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-1</link>
       <itunes:explicit>clean</itunes:explicit>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=SubRip&amp;t=1689850504" type="application/srt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=WebVTT&amp;t=1689850504" type="text/vtt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=TextWithTimestamps&amp;t=1689850504" type="text/plain" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=SubRip&amp;t=1689850504" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=WebVTT&amp;t=1689850504" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8ba98429-8563-472f-beff-b031018b0cab/transcript?format=TextWithTimestamps&amp;t=1689850504" type="text/plain" language="en-us"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>TechStuff Classic: The Worst Hacking Scenes from Hollywood</title>
       <itunes:title>TechStuff Classic: The Worst Hacking Scenes from Hollywood</itunes:title>
@@ -320,9 +320,9 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/48f31a69-a01a-4172-861c-b028011b225e/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="42816806" type="audio/mpeg"/>
       <link>https://omny.fm/shows/techstuff/techstuff-classic-the-worst-hacking-scenes-from-ho</link>
       <itunes:explicit>clean</itunes:explicit>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=SubRip&amp;t=1689850466" type="application/srt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=WebVTT&amp;t=1689850466" type="text/vtt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=TextWithTimestamps&amp;t=1689850466" type="text/plain" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=SubRip&amp;t=1689850466" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=WebVTT&amp;t=1689850466" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/48f31a69-a01a-4172-861c-b028011b225e/transcript?format=TextWithTimestamps&amp;t=1689850466" type="text/plain" language="en-us"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #751 - ראס רוברטס, כלכלה ופודקאסטים</title>
         <itunes:title>פרק #751 - ראס רוברטס, כלכלה ופודקאסטים</itunes:title>
@@ -1310,9 +1310,9 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="45961912" type="audio/mpeg"/>
       <link>https://omny.fm/shows/techstuff/hallucinating-with-ai</link>
       <itunes:explicit>clean</itunes:explicit>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=SubRip&amp;t=1689850244" type="application/srt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=WebVTT&amp;t=1689850244" type="text/vtt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=TextWithTimestamps&amp;t=1689850244" type="text/plain" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=SubRip&amp;t=1689850244" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=WebVTT&amp;t=1689850244" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=TextWithTimestamps&amp;t=1689850244" type="text/plain" language="en-us"/>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק 217 - שחררו את מדיחי הכלים</title>
         <itunes:title>פרק 217 - שחררו את מדיחי הכלים</itunes:title>
@@ -2512,9 +2512,9 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <itunes:duration>2491</itunes:duration>
       <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="39916556" type="audio/mpeg"/>
       <link>https://omny.fm/shows/techstuff/what-are-zero-day-attacks</link>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=SubRip&amp;t=1689850223" type="application/srt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=WebVTT&amp;t=1689850223" type="text/vtt" language="en-US"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=TextWithTimestamps&amp;t=1689850223" type="text/plain" language="en-US"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=SubRip&amp;t=1689850223" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=WebVTT&amp;t=1689850223" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5599b3eb-cf9c-424e-bd8c-afe7017bd5ca/transcript?format=TextWithTimestamps&amp;t=1689850223" type="text/plain" language="en-us"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="https://podlove.org/simple-chapters/" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>למה המחירים ממשיכים לעלות?</title>
       <itunes:title>למה המחירים ממשיכים לעלות?</itunes:title>
@@ -4235,7 +4235,7 @@ Editor: Munazza Khan</itunes:summary><pubDate>Sun, 02 Jul 2023 04:25:00 +0000</p
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,medicine,Pharma</itunes:keywords>
+			<itunes:keywords>Science,medicine,Pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
