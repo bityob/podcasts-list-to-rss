@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 05 Dec 2023 06:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2023 06:38:21 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>The natural disaster economist</title>
@@ -269,7 +269,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/07/20/1188932028/nasa-ellen-ochoa</link>
       <acast:episodeId>65280dcad5cc0400129ce529</acast:episodeId>
       <acast:showId>65280dac52b38a00118a0cb7</acast:showId>
-      <acast:settings>dPVAn6cKuJchb7c+GsqWE+XGh+X6cS1zjrjwHJteZJKMYD5XxOEQO2E0Nx7U0wn8+S92WAkzrL0S2fQBGzi+1bLDmlerfyruLguYGst53v4ZBlQNTC7STHkHgdfwR6uXfaZ0JouNFL8P9x2mqOpOeOiK+XADJEYSWOI6ZGbwwCJOsRDN6Bb838U9ovybIAz51dO9jhP7QhK0UHEbe2aIZu8tvjUr6JAUXMESUEhVpIGRF9QTYKYFxQa2/zK8a1ApwdHrAyz7oN1krZ/CXmzrgrLfL4b5JB7pcHUkq+E7UcEnTeBEgNsNAlr4uOJA/wynOYXoldcdvuUwO5YQiLe2leFvFJ/vPe5kltqT734vIElRuE937H5oOWWlhFzcUczt7d+rFTa0zdS4PwK26ZGUxn+8MkOVNR+9vlxBx4PNNYVUel0Z6md9z3cqsP/v3LcQ0ISntflQd16BkGhTcJ5Fv4XjrXtXGEIh/jyCQHNDyO2VV4hgDGhZyAI8pkbJNkfyW54ux5urMQyP/gq5sypvxU/vy9Y9D4x6E/L7MAsLMtrXZr6yjigQ4J0MhgucsNzVVoitr7I6/c+6WJxn7J4kfI6vmVSQai8frLhDVN2MvL3rEMejz2dFjCk5Zo6+x4Q5rPfUbL6LPsOBL5pzmRJhjSlmTVxIFD+0PVGn4td67eXqzje1bIw44VqPeNUv2rExyxhJXK3/meI4Shqv1yoMB9iwgYZTicc9XdMWU6zykWawFbEpQAvOV8q6hcQUutR3</acast:settings>
+      <acast:settings>6OYS3JfIETaCwXwh3co4d+CRaBwrND0VZtS87HqOZhzTh3/saZcZ4UhbYKoX+BvZ3U96yM3W8uFJcBOaEsWjadbpskccnj63FkQu6pc3Vm7U0/DOxNexeaf2jORsfTS6BmjWEqK8ZhwgFZ2sTPsbOYf12vbD7g5Wuk1j34LMEah+7CCNtNbhGcwJM0XEPSYYx+JxT6iEAf89t4wmvQLzcJdzpOPccDQeBe10OkDiVBm7KpHPG0cM9GSzuswbyqJYiUGIC69YSFPlb3vOGvR5ZA4x/tYkEs52cRN61biHd97ve0YVJn+c5fXeHFntf3e3MnyIsbPtHM1vNjuM28X6VkpiKwELlf2aocLUKD47UqkrWWy2+5Jqgnm7jAcueH5hqTXSpFy6c/xpjboGslk0kY+B+1gKqOyP0RO17gA+mxW/jpAKvgwu/LEsvcaFO8eUkJNW8p2BdFXM940mvIwEUw53G4OQbCpvUKPXxHSAzlLU1UYXxUI940nmDr+MaBNvxaZjwKCuO37uDl/Cqq+Jx+xXzGlj6yNt1bTs9T8XogcOzR3asMIB0sfoLfLCLiyatOSKKUcPplZnSdL63DVvpUEjjU0JkJP5VK9biPzTkUiPaA1lqGPzXmxc7jcNiBsV8XAZDF6EMu1IY+VgHGfk170A7iT/2IJYy4lJMn7BJH3vGiYzL1q1WXFPWZo2lALz897HM6q9MJANupb7GXovs8+kUZxNcchd1Tj8TRZM5rXEU7xLcL6gGbFhKQzyUTSe</acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>95</itunes:episode>
       <acast:intro>https://s3.amazonaws.com/assets.pippa.io/shows/65280dac52b38a00118a0cb7/1700529678260-97ee35ab035615ea9dc53c39b9b7e7bb-publicIntro.mp3</acast:intro>
@@ -4597,7 +4597,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><pubDate>Sun, 02 Jul 2023 04:25:0
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,medicine,pharma</itunes:keywords>
+			<itunes:keywords>science,medicine,Pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
