@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 19 Dec 2023 06:37:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Dec 2023 06:36:49 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_a535f4db-ce6d-444a-860e-706ee08d6dd3</guid>
@@ -537,7 +537,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/07/20/1188932028/nasa-ellen-ochoa</link>
       <acast:episodeId>65280dcad5cc0400129ce529</acast:episodeId>
       <acast:showId>65280dac52b38a00118a0cb7</acast:showId>
-      <acast:settings>0PNCMFJi9ZYU6DsDNEjgeceSEC0rzNpmMBtiTfp/Gwrq6J94m7QNvWILp+/N7rS5alVuEwi4RMShHysKf4D3CIPkJAqP+HS4m6epeNiw9MOWHb8tHYR+2xoGr0LY9Lf+/Qwuyd5T9Qlwi6dJ9GsTjQcSL1N/sjPM5SrTdo65z8jPKHKMRxzs//zZLS83GFzPd1gIBZGRpAD3f5TetSD0uIwkMAeTw6hytLoWk6uB5x1ckX8C2YzmemGH9uDktVRl3wYA5+0uGW+f0QawQZp61m4WhBxDf7dFME0Gpb3lDdkIm+EHCtR3210ovxWxioJgyMUZ1zT7KmffMUMnAVq+v6pVXdbTN39v09WK7AlTbVyDqdUPwC/62p1K+8aWLtaeY5UH8xEhkgPBbitQcaf8Ydt7UfKqhVPsDnWNz95Wm6tkApzxpqdJXTKKwVirBBAeljA64fYQEZXpT+0JZGeIrJhrYt5q4J2RHTvaXXjvq2q6et/rNt4jGaejtSyJhc6EpvYLtrEvKAqhYosVfR8HLlsMggZsswyuF9nQd71mRURlnFscJKATCxHoVL7JZxylsjCfreCdrAjhu5FtvwWEmaIibmGqKd1ctbTEkDD6ey6fATPjknK6dAKpjIi8CIkvNW36v9DMp6DbhRObb8B/yd6CxxaZS1QgHuoDIO27BBQgFllqk9h3GyvBxC/23jjmRVGgfPF/IscupAP/xZzjUP0IHZrHatxQFTLFZTmGoEBbdoWdNNSg3u1AS+gDxgFx</acast:settings>
+      <acast:settings>YXR2uPZvxqysE4qS56ZAu4hsDEdIoieQRB5PKFZebIFYtqRj/HWq1948hIKtvGXnX1csec+vOv6BsQXBtA7A+qNmz7mmkiJiHhPGt/eFC+k9C0OKRRmQ9281VWoNQ6w3tPidIAYh+vKmDGTwLkXavy0iRk49Lhie/im5A0qR7XF2U53T0sQVaNDnfBp9ILZ0S2kbNnvwnqd0+218AaIM5G86SoCMKXTLVnY/vz5F94VTYyy1sSQDUbwAzQ5ymdomPQxYo+z5fOX/KTjYDDfTO/PJ0xFbyyEHG4TOWDcyf06cK96iVRmqOsNxivCwoC8NK0O8y9+Gjcdi9PBCWClKXhUamQASoEMI341ApM81BWEA4BY2uaTaITRqH6L2BKtArfPo3xykrh2Io1i3EPV6SXYIvXUdEGzo3jW4puRpE87IKIBrLWW401sRx0tMW+PDQK2CLSnAMOJpWw5eyjpZOE9EJjdTcdSc4eKAOXK9strqg/HU7wmoqcwId5ZIH1+SWNo/AZeD8pjom2BcqWDd9l2JG/y18lvN5RQn99cUW/pBImw3VjaJtSb/+94wFNmnexhI8D+Z9j1Y9f3fFP3Mwe5MQhY2Ysrm/22sUelwZg9ipvvklK5tERv7pH5JMCVUay0axC6f4G6JHOvg1znyvH9mOE7e0HlWs1FK89LWBMHwYQfdXp6ytuYpxG4WB/sg5+n0a4uL7OmI7diZtNh+RzEqKHR4JTbq9B1psB62xhJsmx/PqIZ6uP+umygx8JHo</acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>95</itunes:episode>
       <acast:intro>https://s3.amazonaws.com/assets.pippa.io/shows/65280dac52b38a00118a0cb7/1700529678260-97ee35ab035615ea9dc53c39b9b7e7bb-publicIntro.mp3</acast:intro>
@@ -4850,7 +4850,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,Medicine,pharma</itunes:keywords>
+			<itunes:keywords>science,medicine,pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
@@ -9721,96 +9721,5 @@ Continue the conversation on LinkedIn and, if you’re interested in joining the
       <itunes:keywords>filipino, balikbayan, tagalog, philippines, marcos</itunes:keywords>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>REPOD S4E7 – Fandoms &amp; Foodies: Prolific Escape Room Designer Gai Bosco, Israel</title>
-        <itunes:title>REPOD S4E7 – Fandoms &amp; Foodies: Prolific Escape Room Designer Gai Bosco, Israel</itunes:title>
-        <link>https://realityescapepod.podbean.com/e/repod-s4e7-%e2%80%93/</link>
-                    <comments>https://realityescapepod.podbean.com/e/repod-s4e7-%e2%80%93/#comments</comments>        <pubDate>Sun, 15 Jan 2023 05:30:41 +0000</pubDate>
-        <guid isPermaLink="false">realityescapepod.podbean.com/6ce0a10d-4a73-3182-84d7-db872af332ab</guid>
-                      <description>אם מעניין אתכם לשמוע על חדרי בריחה בישראל מפי האדם שעזר לבנות חלק משמעותי מהם, זה פרק שכדאי שתקשיבו לו.&lt;br&gt;גיא בוסקו מתראיין לפודקאסט חדרי בריחה מפורסם ומספר על התחום, איך קרה שהוא היה חלק מבניית כל כך הרבה חדרי בריחה בישראל ואיזה סוג ייחודי יש רק אצלינו ולא בשום מקום אחר בעולם. &lt;br&gt;#אנגלית #חדריבריחה #ישראל&lt;br&gt;&lt;br&gt;Reality escape pod - S4E7 – Fandoms &amp; Foodies: Prolific Escape Room Designer Gai Bosco, Israel&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/o9tn9bfn&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In Season 4, episode 7, we head over to Israel, a relatively unexplored escape room region that has a bounty of creative, lighthearted themes. We chat with prolific escape room designer Gai Bosco of &lt;a href='http://cerebro.co.il/'&gt;Cerebro&lt;/a&gt;, who has designed over 200 escape rooms, or roughly 25% of the Israeli market. Gai is not only an escape room creator, he is a mega-enthusiast and self-proclaimed nerd who got his start creating sci-fi fan fiction.&lt;/p&gt;
-&lt;p&gt;The Israeli escape room scene is teeming with family-friendly fandom themes, with escape rooms playing homage to many movies including The Lion King, &lt;a href='https://roomescapeartist.com/2022/10/15/hype-esc-harry-potter-trinity-destiny-review/'&gt;Harry Potter&lt;/a&gt;, The Hunger Games, and TV shows like &lt;a href='https://roomescapeartist.com/2022/10/24/hype-esc-six-review/'&gt;Friends&lt;/a&gt; and &lt;a href='https://roomescapeartist.com/2022/09/12/escape-center-intervention-review/'&gt;How I Met Your Mother&lt;/a&gt;. One of the other notable and unique Israeli escape room themes we discussed culinary escape rooms, where you gather ingredients for a recipe and that you actually bake or cook over the course of your game.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Gai is a passionate ambassador for Israeli escape rooms. His game The Sting is his love letter to escape rooms, and includes many enthusiast-insider nods and plays with the concept of escape room tropes. It was clear that Gai really loves his craft and wants to share the joy of Israeli escape rooms with the world.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/15/repod-s4e7-israel/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-Episode Sponsors
-&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-Reality Escape Convention - RECON
-&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
-Music Credits 
-&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
-&lt;/ul&gt;
-Production Credits
-&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
-</description>
-                      <content:encoded>אם מעניין אתכם לשמוע על חדרי בריחה בישראל מפי האדם שעזר לבנות חלק משמעותי מהם, זה פרק שכדאי שתקשיבו לו.&lt;br&gt;גיא בוסקו מתראיין לפודקאסט חדרי בריחה מפורסם ומספר על התחום, איך קרה שהוא היה חלק מבניית כל כך הרבה חדרי בריחה בישראל ואיזה סוג ייחודי יש רק אצלינו ולא בשום מקום אחר בעולם. &lt;br&gt;#אנגלית #חדריבריחה #ישראל&lt;br&gt;&lt;br&gt;Reality escape pod - S4E7 – Fandoms &amp; Foodies: Prolific Escape Room Designer Gai Bosco, Israel&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/o9tn9bfn&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In Season 4, episode 7, we head over to Israel, a relatively unexplored escape room region that has a bounty of creative, lighthearted themes. We chat with prolific escape room designer Gai Bosco of &lt;a href='http://cerebro.co.il/'&gt;Cerebro&lt;/a&gt;, who has designed over 200 escape rooms, or roughly 25% of the Israeli market. Gai is not only an escape room creator, he is a mega-enthusiast and self-proclaimed nerd who got his start creating sci-fi fan fiction.&lt;/p&gt;
-&lt;p&gt;The Israeli escape room scene is teeming with family-friendly fandom themes, with escape rooms playing homage to many movies including The Lion King, &lt;a href='https://roomescapeartist.com/2022/10/15/hype-esc-harry-potter-trinity-destiny-review/'&gt;Harry Potter&lt;/a&gt;, The Hunger Games, and TV shows like &lt;a href='https://roomescapeartist.com/2022/10/24/hype-esc-six-review/'&gt;Friends&lt;/a&gt; and &lt;a href='https://roomescapeartist.com/2022/09/12/escape-center-intervention-review/'&gt;How I Met Your Mother&lt;/a&gt;. One of the other notable and unique Israeli escape room themes we discussed culinary escape rooms, where you gather ingredients for a recipe and that you actually bake or cook over the course of your game.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Gai is a passionate ambassador for Israeli escape rooms. His game The Sting is his love letter to escape rooms, and includes many enthusiast-insider nods and plays with the concept of escape room tropes. It was clear that Gai really loves his craft and wants to share the joy of Israeli escape rooms with the world.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/15/repod-s4e7-israel/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-Episode Sponsors
-&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-Reality Escape Convention - RECON
-&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
-Music Credits 
-&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
-&lt;/ul&gt;
-Production Credits
-&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/but29k/REPOD-S4E7-Israel-v2.mp3" length="77007852" type="audio/mpeg"/>
-        <itunes:subtitle>In Season 4, episode 7, we head over to Israel, a relatively unexplored escape room region that has a bounty of creative, lighthearted themes. We chat with prolific escape room designer Gai Bosco of Cerebro, who has designed over 200 escape rooms, or...</itunes:subtitle>
-        <itunes:summary>אם מעניין אתכם לשמוע על חדרי בריחה בישראל מפי האדם שעזר לבנות חלק משמעותי מהם, זה פרק שכדאי שתקשיבו לו.&lt;br&gt;גיא בוסקו מתראיין לפודקאסט חדרי בריחה מפורסם ומספר על התחום, איך קרה שהוא היה חלק מבניית כל כך הרבה חדרי בריחה בישראל ואיזה סוג ייחודי יש רק אצלינו ולא בשום מקום אחר בעולם. &lt;br&gt;#אנגלית #חדריבריחה #ישראל&lt;br&gt;&lt;br&gt;Reality escape pod - S4E7 – Fandoms &amp; Foodies: Prolific Escape Room Designer Gai Bosco, Israel&lt;br&gt;משך: 52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/o9tn9bfn&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In Season 4, episode 7, we head over to Israel, a relatively unexplored escape room region that has a bounty of creative, lighthearted themes. We chat with prolific escape room designer Gai Bosco of &lt;a href='http://cerebro.co.il/'&gt;Cerebro&lt;/a&gt;, who has designed over 200 escape rooms, or roughly 25% of the Israeli market. Gai is not only an escape room creator, he is a mega-enthusiast and self-proclaimed nerd who got his start creating sci-fi fan fiction.&lt;/p&gt;
-&lt;p&gt;The Israeli escape room scene is teeming with family-friendly fandom themes, with escape rooms playing homage to many movies including The Lion King, &lt;a href='https://roomescapeartist.com/2022/10/15/hype-esc-harry-potter-trinity-destiny-review/'&gt;Harry Potter&lt;/a&gt;, The Hunger Games, and TV shows like &lt;a href='https://roomescapeartist.com/2022/10/24/hype-esc-six-review/'&gt;Friends&lt;/a&gt; and &lt;a href='https://roomescapeartist.com/2022/09/12/escape-center-intervention-review/'&gt;How I Met Your Mother&lt;/a&gt;. One of the other notable and unique Israeli escape room themes we discussed culinary escape rooms, where you gather ingredients for a recipe and that you actually bake or cook over the course of your game.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;Gai is a passionate ambassador for Israeli escape rooms. His game The Sting is his love letter to escape rooms, and includes many enthusiast-insider nods and plays with the concept of escape room tropes. It was clear that Gai really loves his craft and wants to share the joy of Israeli escape rooms with the world.&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;a href='https://roomescapeartist.com/2022/11/15/repod-s4e7-israel/'&gt;Show Notes&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;
-Episode Sponsors
-&lt;p&gt;Thank you to our sponsors: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://mortyapp.com/repod'&gt;Morty&lt;/a&gt; - A free app for discovering, planning, tracking, and reviewing your escape rooms and other immersive social outings.&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://escape-tales.com/'&gt;Escape Tales &lt;/a&gt;- Escape Tales is an acclaimed series of tabletop escape room games— each featuring a unique blend of mind-bending puzzles masterfully woven into thought-provoking, robust narratives. Use code “roomescapeartist” for 25% off all Escape Tales products and Books of Rituals on &lt;a href='https://boardanddice.com/?s=escape+tales&amp;post_type=product'&gt;Board &amp; Dice&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href='https://buzzshot.com/'&gt;Buzzshot&lt;/a&gt; - ‘Customer Satisfaction Software’ for your escape room business. Streamline your marketing and grow your escape room business with pre- and post-game features including robust waiver management, branded team photos, and integrated review management. Use code REPOD2022 in the dropdown list when booking a demo for 20% off your first three months.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-Reality Escape Convention - RECON
-&lt;p&gt;Our escape room and immersive gaming convention, will be an incredible event for creators and consumers of the games we love. We hope to see you in Boston. &lt;a href='https://realityescapecon.com/'&gt;Learn More about RECON.&lt;/a&gt;&lt;/p&gt;
-Music Credits 
-&lt;p&gt;All music provided by &lt;a href='https://gamechops.com/'&gt;GameChops&lt;/a&gt;: &lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;"&lt;/a&gt;&lt;a href='https://open.spotify.com/album/2fVoMCmIU7YyPGQfaByFhf?si=NYoY-tOoS6-R0i85OO6sOg'&gt;The Legend of LoFi"&lt;/a&gt; by Dj Cutman &amp; James Landino&lt;/li&gt;
-&lt;li&gt;&lt;a href='https://open.spotify.com/track/2D93wujgGm85giI1TtOL36?si=5a58aef299b84080'&gt;"Hateno Village"&lt;/a&gt; by Mikel &amp; GameChops&lt;/li&gt;
-&lt;/ul&gt;
-Production Credits
-&lt;p&gt;REPOD is produced by Lisa Spira and edited by Steve Ewing of &lt;a href='https://standinsidemedia.com/'&gt;Stand Inside Media.&lt;/a&gt; &lt;/p&gt;
-</itunes:summary>
-        <itunes:author>David Spira &amp; Peih-Gee Law</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>53:28</itunes:duration>
-        <itunes:season>4</itunes:season>
-        <itunes:episode>7</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-            </item></channel>
+    </item></channel>
 </rss>
