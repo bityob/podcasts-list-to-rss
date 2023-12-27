@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 26 Dec 2023 06:37:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Dec 2023 06:38:11 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">3d0c08be-1f5d-4323-9111-2726e6cd3df3</guid>
@@ -825,7 +825,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/07/20/1188932028/nasa-ellen-ochoa</link>
       <acast:episodeId>65280dcad5cc0400129ce529</acast:episodeId>
       <acast:showId>65280dac52b38a00118a0cb7</acast:showId>
-      <acast:settings>YXR2uPZvxqysE4qS56ZAu4hsDEdIoieQRB5PKFZebIFYtqRj/HWq1948hIKtvGXnX1csec+vOv6BsQXBtA7A+qNmz7mmkiJiHhPGt/eFC+k9C0OKRRmQ9281VWoNQ6w3tPidIAYh+vKmDGTwLkXavy0iRk49Lhie/im5A0qR7XF2U53T0sQVaNDnfBp9ILZ0S2kbNnvwnqd0+218AaIM5G86SoCMKXTLVnY/vz5F94VTYyy1sSQDUbwAzQ5ymdomPQxYo+z5fOX/KTjYDDfTO/PJ0xFbyyEHG4TOWDcyf06cK96iVRmqOsNxivCwoC8NK0O8y9+Gjcdi9PBCWClKXhUamQASoEMI341ApM81BWEA4BY2uaTaITRqH6L2BKtArfPo3xykrh2Io1i3EPV6SXYIvXUdEGzo3jW4puRpE87IKIBrLWW401sRx0tMW+PDQK2CLSnAMOJpWw5eyjpZOE9EJjdTcdSc4eKAOXK9strqg/HU7wmoqcwId5ZIH1+SWNo/AZeD8pjom2BcqWDd9l2JG/y18lvN5RQn99cUW/pBImw3VjaJtSb/+94wFNmnexhI8D+Z9j1Y9f3fFP3Mwe5MQhY2Ysrm/22sUelwZg9ipvvklK5tERv7pH5JMCVUay0axC6f4G6JHOvg1znyvH9mOE7e0HlWs1FK89LWBMHwYQfdXp6ytuYpxG4WB/sg5+n0a4uL7OmI7diZtNh+RzEqKHR4JTbq9B1psB62xhJsmx/PqIZ6uP+umygx8JHo</acast:settings>
+      <acast:settings>DFIcY8BTatcMFYIfcJ+GuPrLHTZ8UxhrsXA/9buVoRI0CHkGURpofqgEub/TpFBgE1f+GCghUESCXHh9KwW4x2J1UwIvRd3u8zXyQg9kGPzhH1Jr8zmyLHsP1F0Dse3j9NTmSz8tOvkWvwOHhu4/YvKgJ6AxzaadmRT46DP+qdDX2bQhXImehSwRMTU/CEpyGsOJRsM+EHrS6uDwMlbpZ70SNLBN59s1WG2s65gkhJllZ7ub+5KtfqDkeYLDhCJ69uGsaxztZCDo7gWC0Pfn5ck48UvmCRoAKPkSivhYNRBQnRk26DeVx5iDlgaRMr2DRw3LGs6nfdO0U8mRaBU3xGABqJ/KsLKixQ1DFKl+blUrASrw12pQ42iggXcjBBC5b3ISC5TGvwAlCmbHKGSKu1MTgk1JfYqEmeVHf0BAfYmBD2yomLm8m5697+vKYk0D6T1TNN9TpiYpA4vNOuHoNWmeJ/Y7cXQX9wSALymP8vg+PYujaKNVU2DG90FYcgs+dVe3jnXUYtB/dGhJhAhSFZQfGkLodKRLtvJE7ABsgRLJ2cdeZK5ZDls7BwyK6tGVZLgxoxb9829GXBEqw3VrI9x38UtzHtrUHO1V4adWehhzDBhyMiSSs/m9Qte2xNJ5wCnlRDKOFbaQrBNWat8rsxiM3EkwYxTy6Gwp9bQuN/uu2MSzrKZ8nktG5LEwlmQYjtPJ9XT9nB40O7v7PO3CSBY4NIfdh8hUu323anwPTAQ9+KoZUpNyWwqy+8VZTZzE</acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>95</itunes:episode>
       <acast:intro>https://s3.amazonaws.com/assets.pippa.io/shows/65280dac52b38a00118a0cb7/1700529678260-97ee35ab035615ea9dc53c39b9b7e7bb-publicIntro.mp3</acast:intro>
@@ -2520,21 +2520,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded>שיחה על שחיקה. איך מזהים שחיקה? איך מתמודדים עם שחיקה ? ואיך מתקדמים קדימה למרות שהרבה פעמים זה מאוד קשה.&lt;br&gt;#שיפורעצמי #אנגלית&lt;br&gt;&lt;br&gt;Life kit - How To Deal With Burnout &lt;br&gt;משך: 22 דק'&lt;br&gt;&lt;br&gt;https://pca.st/gz3ppgzf&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Burnout is common across the globe. In this episode, experts unpack the signs of burnout and how you can gain more control over your work and your life.</content:encoded>
       <enclosure length="20510138" type="audio/mpeg" url="https://play.podtrac.com/npr-510338/traffic.megaphone.fm/NPR2860560786.mp3?d=1281&amp;size=20510138&amp;e=974787023&amp;t=podcast&amp;p=510338"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
-				<title> מי בכלל צריך פרטיות?🐱‍💻 סייברסייבר ע06פ04</title>
-				<itunes:subtitle>﻿ "אם אין לך מה להסתיר - אין לך ממה לפחד", אומרות לנו מדינות   כשהן מכרסמות לנו בפרטיות. אבל אפילו אם קנינו את זה, מידע שאנחנו חולקים עכשיו עלול לסבך אותנו בעתיד  🐱‍💻 סייברסייבר</itunes:subtitle>
-				<itunes:summary>שיחה מעניינת על הפרטיות הנעלמת בעולם. מצד אחד הרבה אנשים אומרים שהפרטיות מזמן כבר מתה ומצד שני ברגע שפרטים דולפים לידיים לא נכונות הרבה דברים לא טובים קורים. &lt;br&gt;והנה שיחה שבה מנסים לענות על הרבה שאלות נפוצות ולהסביר מה משמעות וחשיבות הפרטיות אפילו בעולם החשוף שלנו. &lt;br&gt;#טכנולוגיה #פסיכולוגיה&lt;br&gt;&lt;br&gt;סייבר סייבר - מי בכלל צריך פרטיות?&lt;br&gt;משך: 44 דק'&lt;br&gt;&lt;br&gt;https://pca.st/uejkx8g6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;﻿ "אם אין לך מה להסתיר - אין לך ממה לפחד", אומרות לנו מדינות   כשהן מכרסמות לנו בפרטיות. אבל אפילו אם קנינו את זה, מידע שאנחנו חולקים עכשיו עלול לסבך אותנו בעתיד  🐱‍💻 סייברסייבר</itunes:summary>
-				<description>שיחה מעניינת על הפרטיות הנעלמת בעולם. מצד אחד הרבה אנשים אומרים שהפרטיות מזמן כבר מתה ומצד שני ברגע שפרטים דולפים לידיים לא נכונות הרבה דברים לא טובים קורים. &lt;br&gt;והנה שיחה שבה מנסים לענות על הרבה שאלות נפוצות ולהסביר מה משמעות וחשיבות הפרטיות אפילו בעולם החשוף שלנו. &lt;br&gt;#טכנולוגיה #פסיכולוגיה&lt;br&gt;&lt;br&gt;סייבר סייבר - מי בכלל צריך פרטיות?&lt;br&gt;משך: 44 דק'&lt;br&gt;&lt;br&gt;https://pca.st/uejkx8g6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;﻿ "אם אין לך מה להסתיר - אין לך ממה לפחד", אומרות לנו מדינות   כשהן מכרסמות לנו בפרטיות. אבל אפילו אם קנינו את זה, מידע שאנחנו חולקים עכשיו עלול לסבך אותנו בעתיד  🐱‍💻 סייברסייבר</description>
-				<link>https://podcasti.co/minisites/cyber/?name=2023-05-22_cybercyber-s06e04-dont-need-no-privacy.mp3</link>
-				<enclosure url="https://dts.podtrac.com/redirect.mp3/podcasti.co/minisites/cyber/media/2023-05-22_cybercyber-s06e04-dont-need-no-privacy.mp3" length="65184065" type="audio/mpeg"/>
-				<guid>https://dts.podtrac.com/redirect.mp3/podcasti.co/minisites/cyber/media/2023-05-22_cybercyber-s06e04-dont-need-no-privacy.mp3</guid>
-				<itunes:duration>44:47</itunes:duration>
-				<itunes:image href="https://podcasti.co/minisites/cyber/images/2023-05-22_cybercyber-s06e04-dont-need-no-privacy.jpg"/>
-				<author>cyber@podcasti.co (נעם רותם | עידו קינן)</author>
-				<itunes:author>נעם רותם | עידו קינן</itunes:author>
-				<itunes:explicit>no</itunes:explicit>
-				<pubDate>Tue, 26 Sep 2023 05:29:02 +0000</pubDate>
-				</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 66 - לעצב סביבה עם אלון שוורץ</title>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rp="https://w3id.org/rp/v1"><title>פרק 66 - לעצב סביבה עם אלון שוורץ</title>
 <guid isPermaLink="false">https://pinecast.com/guid/b0ac359e-ee5e-45f8-a514-c92977703915</guid>
 <pubDate>Sun, 24 Sep 2023 03:41:02 +0000</pubDate>
 
@@ -5138,7 +5124,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,medicine,pharma</itunes:keywords>
+			<itunes:keywords>Science,medicine,Pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
