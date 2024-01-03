@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 02 Jan 2024 06:37:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jan 2024 06:37:54 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Laser Versus Parchment: Doomsday for the Disc</title>
@@ -930,7 +930,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/07/20/1188932028/nasa-ellen-ochoa</link>
       <acast:episodeId>65280dcad5cc0400129ce529</acast:episodeId>
       <acast:showId>65280dac52b38a00118a0cb7</acast:showId>
-      <acast:settings>Yb7hNE3xRwMWFyP86TDkw9UtkYs9lCaJSyxGVTbhZV+ex/7ehm3TCv76vGgbQzOFg8of79+pLMgzIR9OZe76Qa1O0B2xcEZEcHqJxaozGv5xEmXf4dPrSg9auI78tZ1EFag82NOUxEhHbRKH3OrDSPsMIiRbFnFjFs9gY9huMjUalqhIejEJWv9T8q+Cqos7zu6dUvnG4nvbhx5bzICRPCPt60HdB/4j9VzRi+pdJhPipMjVjRBF8oxNsRm6CPOqccCNULoMFMfwELNqOuhvr9V3wvOtZypsAJCk2fO7TscDJ6peDdffVb7CjKEXS/0U++1X47v+b2eiauC/81XKxH6qUtypU/BEFJa/8qaVkHbPcyRz2QBWQB1ISGbaLYrOZCOVv4zc03/i2otfwl5RFHcjmhLtXw7aQ2wtlSvbedghduTa1VXEpZMsQeRxtAfogXL8xUKz92PXRq/d0QbYeXUjAEuwghT8r08nUSKbBoaelCIIQT0JxYL8hNmieMnNWGpa7791hoVlBiVI54jpeNij8omR5wBmhWcFAK8B1ikE73dEHTB32kAGjaAnNPaBp6VoVKtOlrCDJE4XfiLZdkn3k0YJ1kySQUT3ae4gPEVwNr7ICBMesmwfzeKhH5hAJ5pDMgUrbGWPMXKvtMQVW8SYJO0mCfo9PKVK34JbPBBMj7XlfbwwdUGUa8x86R+oed9/vfRZlE9WepJD+JZ7nu/6LpuillM8PQ79Jh6ST3BOhkW+W7bydxETHGkMYP98</acast:settings>
+      <acast:settings>uZAPMk2zTMiaFRxsx7uUQiCwM/7VbnEwJMYxLp/sCq+wtnW26Wed1G24sgj6vrBgYpkaYKE6jyr12CsnQxHF0Hh8Czb+yKoWERzaSs9XZXGq9LBovelE/Y1Fx5QBRiA1pDU9PNA0Z6KuGACHHQx5A1F1WWCvAD0NaeXbFXsk29x5C700wd3buiCbqCyG0J9Zj3SQmeQOMeF1TeNTlNOWvlK0ja6gAm55x0LOS9s9JuJc+VY/f6DBHDtkFMLR7n2ApuuoYLLSAHphKWMOxJR8dkE8Je/2cmmOLODBMKA0t1aIwJDgH3lHJYHIadKaEwGbMUAwNChFZ4RpYTgtj1bYnV+oGbvo0AynZYmnpR4NZj/xNS1CvGxe8G3BePgTJVeAathtC+jH/TiX/2zLowlLOS/Gz4WFyUH5rvshd0KaqVKzlkpCzpf20612W7ROBolzc34UOclgApmQ/7C5/F77aq+KrcZm5P1Vaf4TOUhnYgolp1yEk3BOEIEX5s0lpB55ydZoi17Za8mnQyPZwE5qcjCyDWkat0LFcr6Nn4cjupwFyGVqTyB7qI9sb383TqZvizDvBaW/ibNtE57wsgE5olmnDcy6sjox3IFz6YliG+Icy6nSr6DNGcfScJ0DSiVPTdD8AWXakCnSZ5auKzavY6/d4IX3Fbg8wlf5vPRhv0Sn3mhAd9kweM7vcQYzE15J81mODIIOUUAgqnmMCqbw3gbdlVjbkVcMaiQ0e0ILccv7g2DJ95MoYWMptGS5tiag</acast:settings>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>95</itunes:episode>
       <acast:intro>https://s3.amazonaws.com/assets.pippa.io/shows/65280dac52b38a00118a0cb7/1700529678260-97ee35ab035615ea9dc53c39b9b7e7bb-publicIntro.mp3</acast:intro>
@@ -5243,7 +5243,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,medicine,Pharma</itunes:keywords>
+			<itunes:keywords>Science,Medicine,Pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
