@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 05 Jan 2024 06:38:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 06:37:05 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>אלימות נגד נשים - איך עוזרים? פרק 3</title>
@@ -100,7 +100,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <itunes:episode>31</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/08de5ebc-d444-49f1-98e0-b0b401380f79/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/08de5ebc-d444-49f1-98e0-b0b401380f79/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/laser-versus-parchment-doomsday-for-the-disc/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -108,7 +108,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
       <omny:clipId>08de5ebc-d444-49f1-98e0-b0b401380f79</omny:clipId>
       <pubDate>Tue, 02 Jan 2024 05:45:09 +0000</pubDate>
       <itunes:duration>2367</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/08de5ebc-d444-49f1-98e0-b0b401380f79/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="37939220" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/08de5ebc-d444-49f1-98e0-b0b401380f79/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="37939220" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/laser-versus-parchment-doomsday-for-the-disc</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=SubRip&amp;t=1700020677" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=WebVTT&amp;t=1700020677" type="text/vtt" language="en-us"/>
@@ -686,7 +686,7 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
       <itunes:episode>24</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7224b225-e27e-4904-a948-b060013430cc/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7224b225-e27e-4904-a948-b060013430cc/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/general-ludds-rage-against-the-machines/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -694,7 +694,7 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
       <omny:clipId>7224b225-e27e-4904-a948-b060013430cc</omny:clipId>
       <pubDate>Sun, 10 Dec 2023 04:41:01 +0000</pubDate>
       <itunes:duration>2180</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7224b225-e27e-4904-a948-b060013430cc/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="34948300" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7224b225-e27e-4904-a948-b060013430cc/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="34948300" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/general-ludds-rage-against-the-machines</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7224b225-e27e-4904-a948-b060013430cc/transcript?format=SubRip&amp;t=1700601257" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7224b225-e27e-4904-a948-b060013430cc/transcript?format=WebVTT&amp;t=1700601257" type="text/vtt" language="en-us"/>
@@ -812,7 +812,7 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
       <itunes:episode>23</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7d796799-7886-4fc7-80b8-b04c011daf68/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7d796799-7886-4fc7-80b8-b04c011daf68/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/andy-warhols-factory-of-truth/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -820,7 +820,7 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
       <omny:clipId>7d796799-7886-4fc7-80b8-b04c011daf68</omny:clipId>
       <pubDate>Sun, 03 Dec 2023 05:50:08 +0000</pubDate>
       <itunes:duration>2208</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7d796799-7886-4fc7-80b8-b04c011daf68/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="35392162" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7d796799-7886-4fc7-80b8-b04c011daf68/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="35392162" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/andy-warhols-factory-of-truth</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d796799-7886-4fc7-80b8-b04c011daf68/transcript?format=SubRip&amp;t=1700600902" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d796799-7886-4fc7-80b8-b04c011daf68/transcript?format=WebVTT&amp;t=1700600902" type="text/vtt" language="en-us"/>
@@ -945,7 +945,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <itunes:episode>5</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/b79b7622-f1c9-4950-a716-b028010b7d96/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/22f8cf/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/b79b7622-f1c9-4950-a716-b028010b7d96/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/the-last-archive/callings/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large" type="image/jpeg"/>
@@ -953,7 +953,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <omny:clipId>b79b7622-f1c9-4950-a716-b028010b7d96</omny:clipId>
       <pubDate>Sun, 26 Nov 2023 05:20:05 +0000</pubDate>
       <itunes:duration>2592</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/b79b7622-f1c9-4950-a716-b028010b7d96/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" length="41558549" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/22f8cf/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/b79b7622-f1c9-4950-a716-b028010b7d96/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" length="41558549" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-last-archive/callings</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b79b7622-f1c9-4950-a716-b028010b7d96/transcript?format=SubRip&amp;t=1700597578" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b79b7622-f1c9-4950-a716-b028010b7d96/transcript?format=WebVTT&amp;t=1700597578" type="text/vtt" language="en-us"/>
@@ -1734,7 +1734,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <itunes:episode>2</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/22f8cf/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/the-last-archive/the-word-for-man-is-ishi/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/78052c02-4128-4b89-9cf9-ae32006cd792/image.jpg?t=1684765877&amp;size=Large" type="image/jpeg"/>
@@ -1742,7 +1742,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <omny:clipId>cfdb8d6a-b3f1-409a-a7b2-b02800fcab25</omny:clipId>
       <pubDate>Thu, 26 Oct 2023 04:05:05 +0000</pubDate>
       <itunes:duration>2958</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" length="47427548" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/22f8cf/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/4eda6e56-1ab6-413a-9572-ae32006cd780/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/audio.mp3?utm_source=Podcast&amp;in_playlist=78052c02-4128-4b89-9cf9-ae32006cd792" length="47427548" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-last-archive/the-word-for-man-is-ishi</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/transcript?format=SubRip&amp;t=1700604397" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cfdb8d6a-b3f1-409a-a7b2-b02800fcab25/transcript?format=WebVTT&amp;t=1700604397" type="text/vtt" language="en-us"/>
@@ -2816,7 +2816,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episode>13</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/67d02983-547c-48b8-8d96-afe7012d2dda/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/67d02983-547c-48b8-8d96-afe7012d2dda/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/the-men-who-bankrolled-mothers-day/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -2824,7 +2824,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <omny:clipId>67d02983-547c-48b8-8d96-afe7012d2dda</omny:clipId>
       <pubDate>Tue, 19 Sep 2023 05:21:02 +0000</pubDate>
       <itunes:duration>2354</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/67d02983-547c-48b8-8d96-afe7012d2dda/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="37728140" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/67d02983-547c-48b8-8d96-afe7012d2dda/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="37728140" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/the-men-who-bankrolled-mothers-day</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/67d02983-547c-48b8-8d96-afe7012d2dda/transcript?format=SubRip&amp;t=1700474617" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/67d02983-547c-48b8-8d96-afe7012d2dda/transcript?format=WebVTT&amp;t=1700474617" type="text/vtt" language="en-us"/>
@@ -3573,7 +3573,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <itunes:episode>53</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d3c0493b-2772-47b3-aa95-b00e01743ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d3c0493b-2772-47b3-aa95-b00e01743ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/a-slight-change-of-plans/let-s-agree-to-disagree-more/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large" type="image/jpeg"/>
@@ -3581,7 +3581,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <omny:clipId>d3c0493b-2772-47b3-aa95-b00e01743ab2</omny:clipId>
       <pubDate>Tue, 22 Aug 2023 04:25:05 +0000</pubDate>
       <itunes:duration>2494</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d3c0493b-2772-47b3-aa95-b00e01743ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="39944989" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d3c0493b-2772-47b3-aa95-b00e01743ab2/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="39944989" type="audio/mpeg"/>
       <link>https://omny.fm/shows/a-slight-change-of-plans/let-s-agree-to-disagree-more</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d3c0493b-2772-47b3-aa95-b00e01743ab2/transcript?format=SubRip&amp;t=1700405791" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d3c0493b-2772-47b3-aa95-b00e01743ab2/transcript?format=WebVTT&amp;t=1700405791" type="text/vtt" language="en-us"/>
@@ -5363,7 +5363,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
       <itunes:episode>49</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/13fc63a0-acb1-46a4-89c2-afc10183fd2d/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/13fc63a0-acb1-46a4-89c2-afc10183fd2d/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/a-slight-change-of-plans/a-writer-s-quest-to-hack-heartbreak/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large" type="image/jpeg"/>
@@ -5371,7 +5371,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
       <omny:clipId>13fc63a0-acb1-46a4-89c2-afc10183fd2d</omny:clipId>
       <pubDate>Tue, 20 Jun 2023 05:15:05 +0000</pubDate>
       <itunes:duration>1923</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/13fc63a0-acb1-46a4-89c2-afc10183fd2d/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="30813850" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/13fc63a0-acb1-46a4-89c2-afc10183fd2d/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="30813850" type="audio/mpeg"/>
       <link>https://omny.fm/shows/a-slight-change-of-plans/a-writer-s-quest-to-hack-heartbreak</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/13fc63a0-acb1-46a4-89c2-afc10183fd2d/transcript?format=SubRip&amp;t=1700337413" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/13fc63a0-acb1-46a4-89c2-afc10183fd2d/transcript?format=WebVTT&amp;t=1700337413" type="text/vtt" language="en-us"/>
@@ -6327,7 +6327,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:episode>48</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/a-slight-change-of-plans/you-have-more-influence-than-you-think/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/d548f2c1-d522-4aa8-9ff3-ae3900375d41/image.jpg?t=1644549695&amp;size=Large" type="image/jpeg"/>
@@ -6335,7 +6335,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <omny:clipId>4d72fe96-442b-42b6-9c62-afb4000b0d48</omny:clipId>
       <pubDate>Thu, 18 May 2023 04:25:00 +0000</pubDate>
       <itunes:duration>1886</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="30222013" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/4d72fe96-442b-42b6-9c62-afb4000b0d48/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="30222013" type="audio/mpeg"/>
       <link>https://omny.fm/shows/a-slight-change-of-plans/you-have-more-influence-than-you-think</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d72fe96-442b-42b6-9c62-afb4000b0d48/transcript?format=SubRip&amp;t=1700337410" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d72fe96-442b-42b6-9c62-afb4000b0d48/transcript?format=WebVTT&amp;t=1700337410" type="text/vtt" language="en-us"/>
@@ -7571,7 +7571,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/"&gt;Grab Design Your VIP Day and save $50&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Connect with me on &lt;a href="https://www.instagram.com/emancopyco/"&gt;Instagram&lt;/a&gt; and/or &lt;a href="https://www.linkedin.com/in/eman-i307/"&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Start your 14-day trial with &lt;a href="https://convertkit.com/features/forms?lmref=499_fA&amp;amp;utm_campaign=poweredby&amp;amp;utm_content=form&amp;amp;utm_medium=referral&amp;amp;utm_source=dynamic"&gt;ConvertKit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><guid isPermaLink="false">3e79d294-3cfb-4043-bd4c-ad96ee28dd79_UkJG4wHjcw</guid><dc:creator>Eman Ismail</dc:creator><pubDate>Wed, 26 Apr 2023 04:01:02 +0000</pubDate><enclosure url="https://chtbl.com/track/477178//podcasts.helloaudio.fm/download/UkJG4wHjcw/6a75983e-1b5d-4ffd-9525-012fc46811ff.mp3" length="48193379" type="audio/mpeg"/><content:encoded>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
+&lt;/ul&gt;</description><guid isPermaLink="false">3e79d294-3cfb-4043-bd4c-ad96ee28dd79_UkJG4wHjcw</guid><dc:creator>Eman Ismail</dc:creator><pubDate>Wed, 26 Apr 2023 04:01:02 +0000</pubDate><enclosure url="https://chtbl.com/track/477178//podcasts.helloaudio.fm/download/UkJG4wHjcw/3e79d294-3cfb-4043-bd4c-ad96ee28dd79.mp3" length="47228112" type="audio/mpeg"/><content:encoded>שיחה מעוררת השראה עם בעלת עסק בינוני על הטעות שעלתה לה 12K$. ויוויאן מספרת על איך העסק שלה לתוספות שיער נולד, איך היא עיצבה אותו בדמותה ועל הבעיות שהיו לה במהלך הדרך לזהות את הקול שלה ולהקשיב לו. &lt;br&gt;#אנגלית #יזמות &lt;br&gt;&lt;br&gt;Mistakes that made me - The $12,000 Mistake with Vivian Kaye&lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fj5chl34&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How do you lose $12,000 in one day and still come out winning?&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;My guest is &lt;strong&gt;Vivian Kaye – &lt;/strong&gt;the CEO of &lt;a href="https://www.kinkycurlyyaki.com/"&gt;KinkyCurlyYaki&lt;/a&gt; – a business and empowerment expert, a keynote speaker, and a TV and podcast personality who lost $12,000 on a photo shoot that went wrong. This mistake forced Vivian to think more deeply about her instincts and how those instincts have helped her business thrive.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -7633,7 +7633,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
   &lt;li&gt;&lt;a href="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/" rel="noopener noreferrer" title="https://inkhouse.lpages.co/design-your-vip-day-mtmm-offer/"&gt;Grab Design Your VIP Day and save $50&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Connect with me on &lt;a href="https://www.instagram.com/emancopyco/"&gt;Instagram&lt;/a&gt; and/or &lt;a href="https://www.linkedin.com/in/eman-i307/"&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Start your 14-day trial with &lt;a href="https://convertkit.com/features/forms?lmref=499_fA&amp;amp;utm_campaign=poweredby&amp;amp;utm_content=form&amp;amp;utm_medium=referral&amp;amp;utm_source=dynamic"&gt;ConvertKit&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</itunes:summary><itunes:explicit>No</itunes:explicit><itunes:duration>00:50:06</itunes:duration><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+&lt;/ul&gt;</itunes:summary><itunes:explicit>No</itunes:explicit><itunes:duration>00:48:36</itunes:duration><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שיר לשלום | להקת הנח"ל</title>
       <itunes:title>שיר לשלום | להקת הנח"ל</itunes:title>
       <description>נראה לי מתאים לדבר היום על השיר לשלום של להקת הנח"ל. המקור של השיר, מי כתב אותו  ואז המסלול הלא פשוט של השיר לאורך השנים. מסתבר שהוא עורר וויכוחים שהגיעו עד הכנסת - האם הוא מוריד את המורל של הצבא או חוגג את הניצחונות שלו.&lt;br&gt;#מוזיקה #הסטוריה #ישראל &lt;br&gt;&lt;br&gt;שיר אחד - שיר לשלום | להקת הנח"ל&lt;br&gt;משך: 50 דק' &lt;br&gt;&lt;br&gt;https://pca.st/l1xeiuv1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;יענקלה רוטבליט נפצע בקרב בששת הימים ומאז נושא בגופו ובנפשו את מחיר המלחמה. שיר לשלום נכתב מתוך מה שעבר עליו ובהשפעת המחזמר שיער. השיר הכעיס את הגנרלים אבל היה לחביב הקהל והפך לסמל כשהושר בעצרת השלום ב-95 רגעים לפני שראש הממשלה יצחק רבין נרצח&lt;br&gt;&lt;br&gt;עורכת ומגישה: מאיה קוסובר, עורך: ניר גורלי, עריכת סאונד ומיקס: אסף רפפורט, מוזיקה ועיצוב סאונד: מור סיוון, בצוות: איל שינדלר ותומר מולוידזון, צילום: שרון לוי&lt;br&gt;סיוע בהפקה: נעם פלג, עמרי קפלן, עדי קליגר ושירה אראל&lt;br&gt;תודה מיוחדת לירון לונדון, דלית עופר, נורית הירש וקרן נויבך&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
@@ -7703,7 +7703,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episode>7</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/18d70807-a9e1-409f-89a8-afbf00f51d21/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/18d70807-a9e1-409f-89a8-afbf00f51d21/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/la-la-land-galileo-s-warning-classic/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -7711,7 +7711,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <omny:clipId>18d70807-a9e1-409f-89a8-afbf00f51d21</omny:clipId>
       <pubDate>Sun, 23 Apr 2023 04:39:59 +0000</pubDate>
       <itunes:duration>1848</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/18d70807-a9e1-409f-89a8-afbf00f51d21/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="29634785" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/18d70807-a9e1-409f-89a8-afbf00f51d21/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="29634785" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/la-la-land-galileo-s-warning-classic</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18d70807-a9e1-409f-89a8-afbf00f51d21/transcript?format=SubRip&amp;t=1700474617" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/18d70807-a9e1-409f-89a8-afbf00f51d21/transcript?format=WebVTT&amp;t=1700474617" type="text/vtt" language="en-us"/>
@@ -8845,7 +8845,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:episode>3</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/the-final-illusion-of-the-great-lafayette/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -8853,7 +8853,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <omny:clipId>040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6</omny:clipId>
       <pubDate>Thu, 09 Mar 2023 04:51:01 +0000</pubDate>
       <itunes:duration>2190</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="35095422" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="35095422" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/the-final-illusion-of-the-great-lafayette</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/transcript?format=SubRip&amp;t=1700474617" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/040ad4e7-01ec-48aa-8bb8-af9c00ccc7c6/transcript?format=WebVTT&amp;t=1700474617" type="text/vtt" language="en-us"/>
@@ -9238,7 +9238,7 @@ Title Card Photo Credit: Mike Blabac</content:encoded>
       <itunes:episode>1</itunes:episode>
       <itunes:author>Pushkin Industries</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/9e237667-6301-429d-b758-af7100d46660/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/9e237667-6301-429d-b758-af7100d46660/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/cautionary-tales-with-tim-harford/double-bill-when-a-plague-struck-world-of-warcraft/embed"/>
       </media:content>
       <media:content url="https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/7f5a4714-6b10-4ccf-a424-ae390037ac70/image.jpg?t=1650471153&amp;size=Large" type="image/jpeg"/>
@@ -9246,7 +9246,7 @@ Title Card Photo Credit: Mike Blabac</content:encoded>
       <omny:clipId>9e237667-6301-429d-b758-af7100d46660</omny:clipId>
       <pubDate>Tue, 21 Feb 2023 05:21:01 +0000</pubDate>
       <itunes:duration>2060</itunes:duration>
-      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/9e237667-6301-429d-b758-af7100d46660/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="33016599" type="audio/mpeg"/>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/9e237667-6301-429d-b758-af7100d46660/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="33016599" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/double-bill-when-a-plague-struck-world-of-warcraft</link>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9e237667-6301-429d-b758-af7100d46660/transcript?format=SubRip&amp;t=1700474620" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9e237667-6301-429d-b758-af7100d46660/transcript?format=WebVTT&amp;t=1700474620" type="text/vtt" language="en-us"/>
