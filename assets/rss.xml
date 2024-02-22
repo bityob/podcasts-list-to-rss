@@ -10,9 +10,112 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 21 Feb 2024 06:36:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 06:36:25 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>פרק 10: הטוב מכולם? ספיישל הירוס 3</title>
+			<description>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
+הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
+החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת new world computing בשלושה חלקים.
+1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
+2. המוזיקה הכל כך זכורה של המשחק וניתוח מוזיקלי שלה באדיבות המוזיקאי דין כץ ריטוב.
+3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
+&lt;/p&gt;
+&lt;p&gt;עריכה והגשה: אלעד כהן
+
+00:00 פתיח. 
+02:12 - ההיסטוריה של משחקי תפקידים שולחניים - עומר יואל
+06:50 - סיפורו של ג&amp;#39;ון ואן קנגם וחברת NWC. אלעד
+08:25 - משחקי m&amp;amp;m והעולם שהם יצרו כהכנה לעולם של Hereos? עומר יואל.
+17:20 - תחילת הדרך. סדרת Heroes . אלעד
+25:19 - חלק ב&amp;#39; המוזיקה. סיפורו המדהים של פול רומרו. אלעד
+34:50 - ניתוח מוזיקלי לheroes3 . דין כץ ריטוב.
+57:40 - חלק ג&amp;#39;. יצירתו של Heroes3 . אלעד
+1:01:27 - קבילת המעריצים של Heroes כיום. דניאל רודשטיין
+1:12:00 - מדוע לדעתי Heroes3 כל כך מצליח עד היום? אלעד
+
+--------------------------------------------------------------------------------------------------------------------------------
+אשמח לקבל פניות והצעות בכתובת האימייל:
+sipureyretro@gmail.com
+
+בואו להגיב בעמוד הפייסבוק שלנו:
+https://www.facebook.com/groups/6116616308407740
+
+עקבו אחרינו בטוויטר:
+https://twitter.com/retro_stories
+
+&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/retro-stories/episodes/10------3-e2dl4m0</link>
+			<guid isPermaLink="false">62d57f10-d77b-439a-8bf6-63f29fcb12c5</guid>
+			<dc:creator>סיפורי רטרו</dc:creator>
+			<pubDate>Thu, 22 Feb 2024 05:11:01 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/da83f934/podcast/play/80433280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-25%2F6ad72cc8-186e-11d4-6f3d-128590a5c944.mp3" length="131343134" type="audio/mpeg"/>
+			<itunes:summary>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
+הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
+החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת new world computing בשלושה חלקים.
+1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
+2. המוזיקה הכל כך זכורה של המשחק וניתוח מוזיקלי שלה באדיבות המוזיקאי דין כץ ריטוב.
+3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
+&lt;/p&gt;
+&lt;p&gt;עריכה והגשה: אלעד כהן
+
+00:00 פתיח. 
+02:12 - ההיסטוריה של משחקי תפקידים שולחניים - עומר יואל
+06:50 - סיפורו של ג&amp;#39;ון ואן קנגם וחברת NWC. אלעד
+08:25 - משחקי m&amp;amp;m והעולם שהם יצרו כהכנה לעולם של Hereos? עומר יואל.
+17:20 - תחילת הדרך. סדרת Heroes . אלעד
+25:19 - חלק ב&amp;#39; המוזיקה. סיפורו המדהים של פול רומרו. אלעד
+34:50 - ניתוח מוזיקלי לheroes3 . דין כץ ריטוב.
+57:40 - חלק ג&amp;#39;. יצירתו של Heroes3 . אלעד
+1:01:27 - קבילת המעריצים של Heroes כיום. דניאל רודשטיין
+1:12:00 - מדוע לדעתי Heroes3 כל כך מצליח עד היום? אלעד
+
+--------------------------------------------------------------------------------------------------------------------------------
+אשמח לקבל פניות והצעות בכתובת האימייל:
+sipureyretro@gmail.com
+
+בואו להגיב בעמוד הפייסבוק שלנו:
+https://www.facebook.com/groups/6116616308407740
+
+עקבו אחרינו בטוויטר:
+https://twitter.com/retro_stories
+
+&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:15:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36560821/36560821-1703496333089-279a15c291037.jpg"/>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>Your Future Self Needs Your Help Today</title>
+      <itunes:title>Your Future Self Needs Your Help Today</itunes:title>
+      <description>פרק נחמד שנוגע בנושא מוכר - הריחוק בתפיסה שלנו את האני העתידי שלנו. בני אדם מתקשים לדמיין את עצמם בעתיד ולכן הרבה פעמים לא משקיעים בדברים שיכלו לעזור לאני העתידי על חשבון האני בהווה. &lt;br&gt;#אנגלית #פסיכולוגיה&lt;br&gt;&lt;br&gt;A slight change of plans - Your Future Self Needs Your Help Today&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1zslvxgp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hal Hershfield is a psychologist who studies the emotional connection we have to our “future selves." He talks with Maya about tactics we can use to strengthen this connection, and why it matters.&lt;/p&gt;
+&lt;p&gt;If you enjoyed this episode, try this one from the archive: “&lt;a href="https://www.pushkin.fm/podcasts/a-slight-change-of-plans/the-science-of-self-compassion" data-saferedirecturl="https://www.google.com/url?q=https://www.pushkin.fm/podcasts/a-slight-change-of-plans/the-science-of-self-compassion&amp;amp;source=gmail&amp;amp;ust=1700347042870000&amp;amp;usg=AOvVaw1VXBpn_8BudDxmp3u5txX9"&gt;The Science of Self-Compassion&lt;/a&gt;”&lt;/p&gt;
+&lt;p&gt;For a behind-the-scenes look at the show, follow &lt;a href="https://www.instagram.com/drmayashankar/?hl=en"&gt;@DrMayaShankar&lt;/a&gt; on Instagram. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק נחמד שנוגע בנושא מוכר - הריחוק בתפיסה שלנו את האני העתידי שלנו. בני אדם מתקשים לדמיין את עצמם בעתיד ולכן הרבה פעמים לא משקיעים בדברים שיכלו לעזור לאני העתידי על חשבון האני בהווה. &lt;br&gt;#אנגלית #פסיכולוגיה&lt;br&gt;&lt;br&gt;A slight change of plans - Your Future Self Needs Your Help Today&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1zslvxgp&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Hal Hershfield is a psychologist who studies the emotional connection we have to our “future selves." He talks with Maya about tactics we can use to strengthen this connection, and why it matters.&lt;/p&gt;
+&lt;p&gt;If you enjoyed this episode, try this one from the archive: “&lt;a href="https://www.pushkin.fm/podcasts/a-slight-change-of-plans/the-science-of-self-compassion" data-saferedirecturl="https://www.google.com/url?q=https://www.pushkin.fm/podcasts/a-slight-change-of-plans/the-science-of-self-compassion&amp;amp;source=gmail&amp;amp;ust=1700347042870000&amp;amp;usg=AOvVaw1VXBpn_8BudDxmp3u5txX9"&gt;The Science of Self-Compassion&lt;/a&gt;”&lt;/p&gt;
+&lt;p&gt;For a behind-the-scenes look at the show, follow &lt;a href="https://www.instagram.com/drmayashankar/?hl=en"&gt;@DrMayaShankar&lt;/a&gt; on Instagram. &lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>63</itunes:episode>
+      <itunes:author>Pushkin Industries</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/80ec4569-ee19-4fe3-8057-b0bd01810b89/image.jpg?t=1700666578&amp;size=Large"/>
+      <media:content url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/80ec4569-ee19-4fe3-8057-b0bd01810b89/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/a-slight-change-of-plans/your-future-self-needs-your-help-today/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/80ec4569-ee19-4fe3-8057-b0bd01810b89/image.jpg?t=1700666578&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">80ec4569-ee19-4fe3-8057-b0bd01810b89</guid>
+      <omny:clipId>80ec4569-ee19-4fe3-8057-b0bd01810b89</omny:clipId>
+      <pubDate>Thu, 22 Feb 2024 05:10:06 +0000</pubDate>
+      <itunes:duration>1746</itunes:duration>
+      <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/80ec4569-ee19-4fe3-8057-b0bd01810b89/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="27984098" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/a-slight-change-of-plans/your-future-self-needs-your-help-today</link>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=SubRip&amp;t=1701063127" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=WebVTT&amp;t=1701063127" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=TextWithTimestamps&amp;t=1701063127" type="text/plain" language="en-us"/>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Funnel vision: Marketing with an investor mindset</title>
       <itunes:title>Funnel vision: Marketing with an investor mindset</itunes:title>
       <description>פרק קצר שעונה על השאלה - למה לא לצמצם מחלקות שיווק, אם חושבים מנקודת מבט של משקיע.&lt;br&gt;איך רואים בחברה שלכם את מחלקת השיווק , בתור הוצאה או בתור גורם צמיחה? כמה נקודות מעניינות למחשבה, לא כל התורה כולה אבל בהחלט כיוון מעניין.&lt;br&gt;#אנגלית #שיווק &lt;br&gt;&lt;br&gt;The McKinsey podcast - Funnel vision: Marketing with an investor mindset&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/y8umxh3u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;When times get tough, &lt;/strong&gt;marketing budgets are among the first ones cut.&lt;strong&gt; &lt;/strong&gt;But such cutbacks can be shortsighted. On this edition of &lt;em&gt;The McKinsey Podcast,&lt;/em&gt; McKinsey senior partner Kelsey Robinson chats with cohost and editorial director Roberta Fusaro about why chief marketing officers should instead be empowered to adopt an investor mindset—that is, focus on eliminating inefficient spending and reinvesting it in high-growth marketing activities. By taking a full-funnel approach to their marketing strategies, companies are more likely to weather any economic storm that may come their way.&lt;/p&gt;
@@ -2355,7 +2458,7 @@ Leadership support for Radiolab’s science programming is provided by the Gordo
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d796799-7886-4fc7-80b8-b04c011daf68/transcript?format=WebVTT&amp;t=1700600902" type="text/vtt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d796799-7886-4fc7-80b8-b04c011daf68/transcript?format=TextWithTimestamps&amp;t=1700600902" type="text/plain" language="en-us"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-      <title>Why are drug dealers putting fentanyl in everything?</title>
+      <title>Why are drug dealers putting fentanyl in everything? (Part 1)</title>
       <description>פרק מאוד מעניין על סמים.&lt;br&gt;הפרק עשויי בצורה קלילה אבל הנושאים שנידונים בו הם ממש לא פשוטים.  &lt;br&gt;השאלה המקורית היא למה סוחרי סמים מוסיפים פנטנול לכל הסמים שהם מוכרים. משם זה ממשיך קצת למודל העסקי של מכירת הסמים ולכך שבעצם במקומות מסויימים מוות של לקוח זאת פרסומת למוצר.&lt;br&gt;#שיווק #אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;Search Engine - Why are drug dealers putting fentanyl in everything?&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/2bxldb0b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Isn't it bad business to kill your own customers? In part one of our answer to this question, we talk to reporter Ben Westhoff, who helps us understand how Fentanyl became a street drug in the first place. He'll share recordings taped in a Chinese Fentanyl lab, and explain why some dealers might want to poison their own customers with the drug. If you have questions or comments about this episode, or if you'd like to support the show, head to our newsletter.
  
 To learn more about listener data and our privacy practices visit: https://www.audacyinc.com/privacy-policy
@@ -2378,7 +2481,7 @@ To learn more about listener data and our privacy practices visit: https://www.a
  Learn more about your ad choices. Visit https://podcastchoices.com/adchoices</content:encoded>
       <itunes:duration>2299</itunes:duration>
       <guid isPermaLink="false">5afb1d48-e51a-11ed-9565-ebae66392483</guid>
-      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD5823811799.mp3?updated=1691787722" length="0" type="audio/mpeg"/>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD5823811799.mp3?updated=1708546352" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">b9168679-739c-4d3a-892e-02ce6e4c9e89</guid>
       <title>חושבים טוב 154 - איך להתמודד עם אגו, כח, ופוליטיקה בעבודה? עם נילי גולדפיין</title>
@@ -9927,5 +10030,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<itunes:season>2</itunes:season>
 			<itunes:episode>5</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>מה השעה (ואיפה?) [התשובה]</title><link>https://www.spreaker.com/episode/mh-hs-h-w-yph-htswbh--52854985</link><description>פרק מסקרן על אזורי זמן ומקרי הקצה המוזרים שקורים בעולם. מה המדינה הקטנה ביותר עם כמה אזורי זמן, למי יש אזורי זמן שהם לא שעות עגולות ומי המדינה הכי גדולה עם אזור זמן אחד?&lt;br&gt;עובדות מסקרנות שמוגשות בצורה כייפית.&lt;br&gt;#סיפורמעניין #גאוגרפיה &lt;br&gt;&lt;br&gt;התשובה - מה השעה (ואיפה?)&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fso8sqth&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</description><guid isPermaLink="false">https://api.spreaker.com/episode/52854985</guid><pubDate>Tue, 28 Mar 2023 04:01:44 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/52854985/timezone_mst.mp3" length="36185559" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</itunes:subtitle><itunes:summary>פרק מסקרן על אזורי זמן ומקרי הקצה המוזרים שקורים בעולם. מה המדינה הקטנה ביותר עם כמה אזורי זמן, למי יש אזורי זמן שהם לא שעות עגולות ומי המדינה הכי גדולה עם אזור זמן אחד?&lt;br&gt;עובדות מסקרנות שמוגשות בצורה כייפית.&lt;br&gt;#סיפורמעניין #גאוגרפיה &lt;br&gt;&lt;br&gt;התשובה - מה השעה (ואיפה?)&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;https://pca.st/fso8sqth&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;מהי המדינה הכי גדולה בעולם שנמצאת כולה באזור זמן אחד, ומהי המדינה הכי קטנה שיש בה כמה אזורי זמן? מה הקטע עם אזורי זמן בכלל? וגם האם אפשר לנסוע לטבריה ולהגיע אתמול, איך שומרים שבת ביפן, ולמה האוקינוס השקט הוא, לפעמים, מכונת זמן?</itunes:summary><itunes:duration>2262</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/5ac734c43fc022306ce1e36d7bcc71a3.jpg"/><itunes:episodeType>full</itunes:episodeType></item></channel>
+		</item></channel>
 </rss>
