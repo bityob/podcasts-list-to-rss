@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 07 Mar 2024 06:36:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2024 06:36:46 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">bf76aa28-6588-4913-8770-6466b0df39ca</guid>
@@ -4499,7 +4499,7 @@ Those are just some of the questions Matti Friedman explains in his beautiful ne
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>5015</itunes:duration>
       <guid isPermaLink="false">8f5ee408-6270-11ec-af77-5f7725df7619</guid>
-      <enclosure url="https://pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/C87F71/pscrb.fm/rss/p/traffic.megaphone.fm/RSV5832904071.mp3?updated=1649196724" length="0" type="audio/mpeg"/>
+      <enclosure url="https://pdst.fm/e/mgln.ai/track/verifi.podscribe.com/rss/p/chrt.fm/track/384D27/pscrb.fm/rss/p/traffic.megaphone.fm/RSV5832904071.mp3?updated=1649196724" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Lover, Lover, Lover / אנא, אנא, אנא</title>
       <itunes:title>Lover, Lover, Lover / אנא, אנא, אנא</itunes:title>
