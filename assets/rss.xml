@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 15 Mar 2024 06:36:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Mar 2024 06:37:14 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>מארחת את אתגר קרת בפרק לייב מול קהל</title>
@@ -1609,7 +1609,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <category>יזמות עסקית</category>
       <itunes:keywords>עוד פודקאסט לסטארטאפים, עוד פודקאסט, עוד פוד, פודקאסט, גיא קצוביץ', גיא, קצוביץ', לסטארטאפים, סטארטאפים, יזמות, הייטק, גיוס, קרנות, משקיעים, נבות וולק, נבות, וולק, אביב פרנקל, אביב, פרנקל, 30 דקות או פחות, שלושים דקות, שלושים, דקות, עושים טכנולוגיה, טכנולוגיה, השבוע, איתן לויט, דויד כץ, איתן ודויד, רן תבורי, רברסים, צרות בהייטק, פידטק, עסקים, השקעות, הון, חדשנות, כסף, תכנות, תוכנה, סייבר, פינטק, דאטה, ביג דאטה, ישראל, סטארטאפניישן, הייטק למתחילים, תעשיית ההייטק, יוניקורן, יזמות עסקית</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>רשת עוד פודקאסט</itunes:author>
+      <itunes:author>גיא קצוביץ'</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/3e02cb90-75fd-4862-abc3-b0b5012461af/image.jpg?t=1699864351&amp;size=Large"/>
       <media:content url="https://traffic.omny.fm/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/3e02cb90-75fd-4862-abc3-b0b5012461af/audio.mp3?utm_source=Podcast&amp;in_playlist=f059ccb3-e0c5-4d56-9900-aa7800d4532a" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/odpodcast/naama-zalzman-202/embed"/>
@@ -2535,7 +2535,7 @@ Vue.js Israel
       <category>יזמות עסקית</category>
       <itunes:keywords>עוד פודקאסט לסטארטאפים, עוד פודקאסט, עוד פוד, פודקאסט, גיא קצוביץ', גיא, קצוביץ', לסטארטאפים, סטארטאפים, יזמות, הייטק, גיוס, קרנות, משקיעים, נבות וולק, נבות, וולק, אביב פרנקל, אביב, פרנקל, 30 דקות או פחות, שלושים דקות, שלושים, דקות, עושים טכנולוגיה, טכנולוגיה, השבוע, איתן לויט, דויד כץ, איתן ודויד, רן תבורי, רברסים, צרות בהייטק, פידטק, עסקים, השקעות, הון, חדשנות, כסף, תכנות, תוכנה, סייבר, פינטק, דאטה, ביג דאטה, ישראל, סטארטאפניישן, הייטק למתחילים, תעשיית ההייטק, יוניקורן, יזמות עסקית</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>רשת עוד פודקאסט</itunes:author>
+      <itunes:author>גיא קצוביץ'</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/d6631ab6-9ef0-4a4f-a1f0-b07c00952752/image.jpg?t=1695609910&amp;size=Large"/>
       <media:content url="https://traffic.omny.fm/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/d6631ab6-9ef0-4a4f-a1f0-b07c00952752/audio.mp3?utm_source=Podcast&amp;in_playlist=f059ccb3-e0c5-4d56-9900-aa7800d4532a" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/odpodcast/daniel-schreiber-197/embed"/>
@@ -6094,7 +6094,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <category>יזמות עסקית</category>
       <itunes:keywords>עוד פודקאסט לסטארטאפים, עוד פודקאסט, עוד פוד, פודקאסט, גיא קצוביץ', גיא, קצוביץ', לסטארטאפים, סטארטאפים, יזמות, הייטק, גיוס, קרנות, משקיעים, נבות וולק, נבות, וולק, אביב פרנקל, אביב, פרנקל, 30 דקות או פחות, שלושים דקות, שלושים, דקות, עושים טכנולוגיה, טכנולוגיה, השבוע, איתן לויט, דויד כץ, איתן ודויד, רן תבורי, רברסים, צרות בהייטק, פידטק, עסקים, השקעות, הון, חדשנות, כסף, תכנות, תוכנה, סייבר, פינטק, דאטה, ביג דאטה, ישראל, סטארטאפניישן, הייטק למתחילים, תעשיית ההייטק, יוניקורן, יזמות עסקית</itunes:keywords>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>רשת עוד פודקאסט</itunes:author>
+      <itunes:author>גיא קצוביץ'</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/b12aa3b0-b6c9-4215-bb2c-b01300a99a1c/image.jpg?t=1686328059&amp;size=Large"/>
       <media:content url="https://traffic.omny.fm/d/clips/902d1357-9cc1-4670-a7d8-aa7800c5719a/4cec51c6-1ef9-496b-8302-aa7800d45320/b12aa3b0-b6c9-4215-bb2c-b01300a99a1c/audio.mp3?utm_source=Podcast&amp;in_playlist=f059ccb3-e0c5-4d56-9900-aa7800d4532a" type="audio/mpeg">
         <media:player url="https://omny.fm/shows/odpodcast/amitay-gilboa-189/embed"/>
