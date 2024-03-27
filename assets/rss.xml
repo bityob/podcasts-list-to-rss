@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 26 Mar 2024 06:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 06:36:14 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>Disney dollars - Mickey mouse / פרק 27 – דיסני דולר – שטר פנטזיה להשקעה מיקי מאוס</title>
@@ -2430,6 +2430,7 @@ To learn more about listener data and our privacy practices visit: https://www.a
   
  Learn more about your ad choices. Visit https://podcastchoices.com/adchoices</content:encoded>
       <itunes:duration>4064</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">02843eee-15bf-11ee-90ca-4f57d775bcef</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/42D75/traffic.megaphone.fm/CAD6282589759.mp3?updated=1695993029" length="0" type="audio/mpeg"/>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
@@ -7870,7 +7871,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
 			<enclosure length="131910542" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/blackpills_final_v2.mp3?dest-id=94300"/>
 			<itunes:duration>54:19</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,medicine,pharma</itunes:keywords>
+			<itunes:keywords>science,medicine,Pharma</itunes:keywords>
 			<itunes:subtitle>In 2005 the FDA approved a pill to treat high blood preassure only in African Americans. This so-called miracle drug was named BiDil, and it became the first race-specific drug in the United States. It might sound like a good a good thing, but it had...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
