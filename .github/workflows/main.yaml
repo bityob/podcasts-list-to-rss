@@ -21,16 +21,7 @@ jobs:
 
       - name: Build docker container
         env:
-          HELLO: WORLD
-          TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
-          TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
-          CHANNEL_NAME: ${{ secrets.CHANNEL_NAME }}
-          RSS_NAME: ${{ secrets.RSS_NAME }}
-          RSS_DESCRIPTION: ${{ secrets.RSS_DESCRIPTION }}
-          RSS_WEBSITE: ${{ secrets.RSS_WEBSITE }}
-          RSS_IMAGE_URL: ${{ secrets.RSS_IMAGE_URL }}
-          RSS_FILE_NAME: ${{ secrets.RSS_FILE_NAME }}
-          RSS_MAX_MESSAGES: ${{ secrets.RSS_MAX_MESSAGES }}
+          FOO: ${{ secrets.SESSION_SECRET_PASSPHRASE }}
         uses: mxschmitt/action-tmate@v3
 
       - name: Build docker container
