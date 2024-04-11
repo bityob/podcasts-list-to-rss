@@ -1,23 +1,19 @@
-from typing import List
 import traceback
 
 from lxml import etree
-from podgen import Podcast, Episode
+from podgen import Podcast
 from podgen.util import formatRFC2822
+from requests_xml import XML
 
 from base import Message
 from pocket_casts import PocketCasts
-from requests_xml import XML
-
-from src.settings import RSS_NAME, RSS_DESCRIPTION, RSS_WEBSITE, RSS_IMAGE_URL
-from src.telegram import TelegramReader
-
+from src.settings import RSS_DESCRIPTION, RSS_IMAGE_URL, RSS_NAME, RSS_WEBSITE
 
 CLOSING_CHANNEL_TAG = "</channel>"
 
 
 class RssGenerator:
-    def __init__(self, messages: List[Message]):
+    def __init__(self, messages: list[Message]):
         self.p = Podcast(
             name=RSS_NAME,
             description=RSS_DESCRIPTION,
@@ -107,18 +103,18 @@ class RssGenerator:
             itunes_summary = xml_item.lxml.find("itunes:summary", namespaces=xml_item.lxml.nsmap)
             if itunes_summary is not None:
                 itunes_summary.text = new_text
-        except:
+        except Exception:
             pass
 
         try:
             content_encoded = xml_item.lxml.find("content:encoded", namespaces=xml_item.lxml.nsmap)
             if content_encoded is not None:
                 content_encoded.text = new_text
-        except:
+        except Exception:
             pass
 
         # Must use the `lxml` and not the `xml`, because we change it
-        xml_string = etree.tostring(xml_item.lxml, encoding='utf8').decode('utf8')
+        xml_string = etree.tostring(xml_item.lxml, encoding="utf8").decode("utf8")
 
         rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
 

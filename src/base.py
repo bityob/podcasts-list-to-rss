@@ -1,10 +1,9 @@
-from functools import cached_property
 from dataclasses import dataclass
 from datetime import datetime
-from typing import List, Any
+from functools import cached_property
 
+from requests_html import Element, HTMLSession
 from telethon.tl.types import Document
-from requests_html import HTMLSession, Element
 
 session = HTMLSession()
 
@@ -21,16 +20,16 @@ class RssConnector:
         """
         Returns the RSS feed for this url
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
     def _get_rss_item(self) -> Element:
         """
         Returns an xml extracted from the RSS feed
         """
-        raise NotImplemented()
+        raise NotImplementedError()
 
-    def _get_item_title() -> str:
-        raise NotImplemented()
+    def _get_item_title(self) -> str:
+        raise NotImplementedError()
 
     @cached_property
     def rss_feed(self) -> str:
@@ -49,7 +48,7 @@ class RssConnector:
 class Message:
     id: int
     text: str
-    url: str
+    url: str | None
     date: datetime
-    urls: List[str]
+    urls: list[str]
     audio: Document
