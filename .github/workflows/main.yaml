@@ -21,11 +21,6 @@ jobs:
 
       - name: Build docker container
         env:
-          FOO: ${{ secrets.SESSION_SECRET_PASSPHRASE }}
-        uses: mxschmitt/action-tmate@v3
-
-      - name: Build docker container
-        env:
           TELEGRAM_APP_ID: ${{ secrets.TELEGRAM_APP_ID }}
           TELEGRAM_APP_HASH: ${{ secrets.TELEGRAM_APP_HASH }}
           CHANNEL_NAME: ${{ secrets.CHANNEL_NAME }}

@@ -64,7 +64,7 @@ class RssGenerator:
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
             except Exception as ex:
-                print(f"Failed with message id={message.id}, error={ex}, text={message.text}")
+                print(f"Failed with message id={message.id}, error={ex}")
                 traceback.print_exc()
 
         return rss_string

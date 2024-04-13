@@ -20,10 +20,7 @@ class PocketCasts(RssConnector):
         item = self._get_item_from_xml(xml=r.xml, title_text=self.item_title)
 
         if not item:
-            raise RuntimeError(
-                f"Failed to get the item for title                                 '{self.item_title}' from RSS feed"
-                f" '{self.rss_feed}'"
-            )
+            raise RuntimeError(f"Failed to get the item for title '{self.item_title}' from RSS feed '{self.rss_feed}'")
 
         return item
 

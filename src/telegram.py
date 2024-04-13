@@ -13,7 +13,7 @@ from src.settings import (
     TELEGRAM_APP_ID,
 )
 
-URL_PATTERN = r"(https?://[^\s]+)"
+URL_PATTERN = r"(https?://[^\s)]+)"
 
 url_regex = re.compile(URL_PATTERN)
 
