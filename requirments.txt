@@ -2,6 +2,9 @@ telethon
 requests_html
 podgen
 requests-xml
+# 5.2.0: breaking change on lxml.html.clean
+lxml==5.1.1
 pytest
 envparse
 ipython
+pdbpp

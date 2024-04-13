@@ -1,30 +1,36 @@
-import os
-from typing import Iterable, Optional
 import re
+from collections.abc import AsyncGenerator
+from typing import Any
 
 from telethon import TelegramClient
 
 from src.base import Message
-from src.settings import RSS_MAX_MESSAGES, TELEGRAM_APP_ID, TELEGRAM_APP_HASH, CHANNEL_NAME, PUBLIC_DOWNLOAD_URL_BOT
+from src.settings import (
+    CHANNEL_NAME,
+    PUBLIC_DOWNLOAD_URL_BOT,
+    RSS_MAX_MESSAGES,
+    TELEGRAM_APP_HASH,
+    TELEGRAM_APP_ID,
+)
 
-URL_PATTERN = r"(https?://[^\s]+)"
+URL_PATTERN = r"(https?://[^\s)]+)"
 
 url_regex = re.compile(URL_PATTERN)
 
 
 class TelegramReader:
     @staticmethod
-    async def get_urls_from_text_message(message) -> Optional[str]:
+    async def get_urls_from_text_message(message) -> list[str]:
         return url_regex.findall(message.text)
-    
+
     @staticmethod
-    async def get_url_from_message(message) -> Optional[str]:
+    async def get_url_from_message(message) -> str | None:
         if message.web_preview:
             return message.web_preview.url
         return None
 
-    async def gen_messages(self) -> Iterable[Message]:
-        async with TelegramClient('user', TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
+    async def gen_messages(self) -> AsyncGenerator[Message, Any]:
+        async with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
             await client.start()
 
             async for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
@@ -32,7 +38,7 @@ class TelegramReader:
                 if message.text:
                     yield Message(
                         id=message.id,
-                        url=await self.get_url_from_message(message), 
+                        url=await self.get_url_from_message(message),
                         urls=await self.get_urls_from_text_message(message),
                         text=message.text,
                         audio=message.audio,
@@ -41,7 +47,7 @@ class TelegramReader:
 
     @staticmethod
     async def get_download_url(message):
-        async with TelegramClient('user', TELEGRAM_APP_ID, TELEGRAM_APP_HASH) as client:
+        async with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH) as client:
             await client.start()
 
             await client.forward_messages(PUBLIC_DOWNLOAD_URL_BOT, message)
