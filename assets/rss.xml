@@ -10,9 +10,88 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Mon, 15 Apr 2024 06:36:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:37:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>לפתח קריירה מצליחה כאנדרדוג | איך עובדים עם יפנים, הודים, אוזבקים?! | עולה מאיראן, גיי, מהפריפריה, שהגיע רחוק בסולם הישראלי | פופקורן 332</title>
+        <itunes:title>לפתח קריירה מצליחה כאנדרדוג | איך עובדים עם יפנים, הודים, אוזבקים?! | עולה מאיראן, גיי, מהפריפריה, שהגיע רחוק בסולם הישראלי | פופקורן 332</itunes:title>
+        <link>https://frnkl.podbean.com/e/%d7%9c%d7%a4%d7%aa%d7%97%d7%a7%d7%a8%d7%99%d7%99%d7%a8%d7%94-%d7%9e%d7%a6%d7%9c%d7%99%d7%97%d7%94-%d7%9b%d7%90%d7%a0%d7%93%d7%a8%d7%93%d7%95%d7%92/</link>
+                    <comments>https://frnkl.podbean.com/e/%d7%9c%d7%a4%d7%aa%d7%97%d7%a7%d7%a8%d7%99%d7%99%d7%a8%d7%94-%d7%9e%d7%a6%d7%9c%d7%99%d7%97%d7%94-%d7%9b%d7%90%d7%a0%d7%93%d7%a8%d7%93%d7%95%d7%92/#comments</comments>        <pubDate>Tue, 16 Apr 2024 04:21:01 +0000</pubDate>
+        <guid isPermaLink="false">frnkl.podbean.com/1ebb3a2c-ba4d-3ecd-b901-e15069eee1d3</guid>
+                      <description>שיחה מרתקת על תרבויות שונות בהקשר העסקי - איך לעשות עסקים עם תרבויות שונות.&lt;br&gt; אומנם לא המדריך המלא אבל בהחלט הרבה מאוד אנקדוטות והתחלות של סיפורים שמאוד שווה להקשיב למי שנתקל בשווקים שונים וצריך כל פעם להתאים את המחשבה שלו לביזנס אחר.&lt;br&gt;#עסקים #שיפורעצמי &lt;br&gt;&lt;br&gt;פופקורן - לפתח קריירה מצליחה כאנדרדוג | איך עובדים עם יפנים, הודים, אוזבקים?! | עולה מאיראן, גיי, מהפריפריה, שהגיע רחוק בסולם הישראלי &lt;br&gt;משך: שעה ו22 דק' &lt;br&gt;&lt;br&gt; &lt;br&gt;https://pca.st/8oa6d89o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align: right;"&gt;איך מתמודדים עם לקוחות מתרבויות שונות משלנו? ואיך עושים איתם ביזנס? איך מתגברים על פערים חברתיים ובונים קריירה מצליחה? &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;סיפורים על אנדרדוגים תמיד נותנים לי השראה - והסיפור של שוקי איתן הוא ממש כזה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;שוקי איתן היה עולה חדש מאיראן, גיי, וגדל בפריפריה - לא נתוני הפתיחה הכי תומכים בטיפוס קליל אל עבר קריירה מצליחה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;על פניו, המרחק מאיפה שהיה בגיל 8 ,כעולה חדש, לאיפה שהוא נמצא בו היום הוא עצום. אבל שוקי צימצם כל פער חברתי אפשרי, והגיע גבוה מאד בסולם הקריירה הישראלי.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;שוקי שירת 8 שנים ב8200,  יש לו MBA מאונ׳ ת״א ומאז בהייטק בתפקידי מוצר, account management וsales. היום הוא מנהל חטיבה עסקית בקלטורה - ארגון פלורליסטי, ששם לו למטרה לשלב נשים וחרדים באחוזים גבוהים. &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;זה פרק על מפגש תרבויות - בתוך הארגון, בביזנס ובקריירה - ואיך לומדים להכיל אותן, ולגשר בניהן.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;*****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;צרו קשר עם &lt;a href='https://bit.ly/47O10xi'&gt;נופשונית&lt;/a&gt;, נותני החסות שלנו, אם אתם מהארגונים שאשכרה רואים את העובדים שלהם. תתחשבו בהם ותשיגו להם תווי שי שאפשר לממש גם בקניות בסופר או בפארם&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a href='https://frnkl.co/blog-podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-332-%D7%A2%D7%9D-%D7%A9%D7%95%D7%A7%D7%99-%D7%90%D7%99%D7%AA%D7%9F/'&gt;להאזנה באתר&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://frnkl.co/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A7%D7%98%D7%9F-%D7%9C%D7%9E%D7%A0%D7%94%D7%9C-%D7%94%D7%97%D7%93%D7%A9/'&gt;ספר הקטן למנהל.ת החדש.ה&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://spoti.fi/3AOdK8M'&gt;מוזיקה – שחר צדיק&lt;/a&gt;&lt;/p&gt;
+</description>
+                      <content:encoded>שיחה מרתקת על תרבויות שונות בהקשר העסקי - איך לעשות עסקים עם תרבויות שונות.&lt;br&gt; אומנם לא המדריך המלא אבל בהחלט הרבה מאוד אנקדוטות והתחלות של סיפורים שמאוד שווה להקשיב למי שנתקל בשווקים שונים וצריך כל פעם להתאים את המחשבה שלו לביזנס אחר.&lt;br&gt;#עסקים #שיפורעצמי &lt;br&gt;&lt;br&gt;פופקורן - לפתח קריירה מצליחה כאנדרדוג | איך עובדים עם יפנים, הודים, אוזבקים?! | עולה מאיראן, גיי, מהפריפריה, שהגיע רחוק בסולם הישראלי &lt;br&gt;משך: שעה ו22 דק' &lt;br&gt;&lt;br&gt; &lt;br&gt;https://pca.st/8oa6d89o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align: right;"&gt;איך מתמודדים עם לקוחות מתרבויות שונות משלנו? ואיך עושים איתם ביזנס? איך מתגברים על פערים חברתיים ובונים קריירה מצליחה? &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;סיפורים על אנדרדוגים תמיד נותנים לי השראה - והסיפור של שוקי איתן הוא ממש כזה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;שוקי איתן היה עולה חדש מאיראן, גיי, וגדל בפריפריה - לא נתוני הפתיחה הכי תומכים בטיפוס קליל אל עבר קריירה מצליחה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;על פניו, המרחק מאיפה שהיה בגיל 8 ,כעולה חדש, לאיפה שהוא נמצא בו היום הוא עצום. אבל שוקי צימצם כל פער חברתי אפשרי, והגיע גבוה מאד בסולם הקריירה הישראלי.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;שוקי שירת 8 שנים ב8200,  יש לו MBA מאונ׳ ת״א ומאז בהייטק בתפקידי מוצר, account management וsales. היום הוא מנהל חטיבה עסקית בקלטורה - ארגון פלורליסטי, ששם לו למטרה לשלב נשים וחרדים באחוזים גבוהים. &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;זה פרק על מפגש תרבויות - בתוך הארגון, בביזנס ובקריירה - ואיך לומדים להכיל אותן, ולגשר בניהן.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;*****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;צרו קשר עם &lt;a href='https://bit.ly/47O10xi'&gt;נופשונית&lt;/a&gt;, נותני החסות שלנו, אם אתם מהארגונים שאשכרה רואים את העובדים שלהם. תתחשבו בהם ותשיגו להם תווי שי שאפשר לממש גם בקניות בסופר או בפארם&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a href='https://frnkl.co/blog-podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-332-%D7%A2%D7%9D-%D7%A9%D7%95%D7%A7%D7%99-%D7%90%D7%99%D7%AA%D7%9F/'&gt;להאזנה באתר&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://frnkl.co/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A7%D7%98%D7%9F-%D7%9C%D7%9E%D7%A0%D7%94%D7%9C-%D7%94%D7%97%D7%93%D7%A9/'&gt;ספר הקטן למנהל.ת החדש.ה&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://spoti.fi/3AOdK8M'&gt;מוזיקה – שחר צדיק&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/7ynq68/_323_99261.mp3" length="118700535" type="audio/mpeg"/>
+        <itunes:subtitle>איך מתמודדים עם לקוחות מתרבויות שונות משלנו? ואיך עושים איתם ביזנס? איך מתגברים על פערים חברתיים ובונים קריירה מצליחה? 
+סיפורים על אנדרדוגים תמיד נותנים לי השראה - והסיפור של שוקי איתן הוא ממש כזה.
+שוקי איתן היה עולה חדש מאיראן, גיי, וגדל בפריפריה - ...</itunes:subtitle>
+        <itunes:summary>שיחה מרתקת על תרבויות שונות בהקשר העסקי - איך לעשות עסקים עם תרבויות שונות.&lt;br&gt; אומנם לא המדריך המלא אבל בהחלט הרבה מאוד אנקדוטות והתחלות של סיפורים שמאוד שווה להקשיב למי שנתקל בשווקים שונים וצריך כל פעם להתאים את המחשבה שלו לביזנס אחר.&lt;br&gt;#עסקים #שיפורעצמי &lt;br&gt;&lt;br&gt;פופקורן - לפתח קריירה מצליחה כאנדרדוג | איך עובדים עם יפנים, הודים, אוזבקים?! | עולה מאיראן, גיי, מהפריפריה, שהגיע רחוק בסולם הישראלי &lt;br&gt;משך: שעה ו22 דק' &lt;br&gt;&lt;br&gt; &lt;br&gt;https://pca.st/8oa6d89o&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p style="text-align: right;"&gt;איך מתמודדים עם לקוחות מתרבויות שונות משלנו? ואיך עושים איתם ביזנס? איך מתגברים על פערים חברתיים ובונים קריירה מצליחה? &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;סיפורים על אנדרדוגים תמיד נותנים לי השראה - והסיפור של שוקי איתן הוא ממש כזה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;שוקי איתן היה עולה חדש מאיראן, גיי, וגדל בפריפריה - לא נתוני הפתיחה הכי תומכים בטיפוס קליל אל עבר קריירה מצליחה.&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;על פניו, המרחק מאיפה שהיה בגיל 8 ,כעולה חדש, לאיפה שהוא נמצא בו היום הוא עצום. אבל שוקי צימצם כל פער חברתי אפשרי, והגיע גבוה מאד בסולם הקריירה הישראלי.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;שוקי שירת 8 שנים ב8200,  יש לו MBA מאונ׳ ת״א ומאז בהייטק בתפקידי מוצר, account management וsales. היום הוא מנהל חטיבה עסקית בקלטורה - ארגון פלורליסטי, ששם לו למטרה לשלב נשים וחרדים באחוזים גבוהים. &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;זה פרק על מפגש תרבויות - בתוך הארגון, בביזנס ובקריירה - ואיך לומדים להכיל אותן, ולגשר בניהן.&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;*****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;צרו קשר עם &lt;a href='https://bit.ly/47O10xi'&gt;נופשונית&lt;/a&gt;, נותני החסות שלנו, אם אתם מהארגונים שאשכרה רואים את העובדים שלהם. תתחשבו בהם ותשיגו להם תווי שי שאפשר לממש גם בקניות בסופר או בפארם&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;****&lt;/p&gt;
+&lt;p style="text-align: right;"&gt;&lt;a href='https://frnkl.co/blog-podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-332-%D7%A2%D7%9D-%D7%A9%D7%95%D7%A7%D7%99-%D7%90%D7%99%D7%AA%D7%9F/'&gt;להאזנה באתר&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://frnkl.co/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A7%D7%98%D7%9F-%D7%9C%D7%9E%D7%A0%D7%94%D7%9C-%D7%94%D7%97%D7%93%D7%A9/'&gt;ספר הקטן למנהל.ת החדש.ה&lt;/a&gt;&lt;/p&gt;
+&lt;p style="direction: rtl; text-align: right;"&gt;&lt;a href='https://spoti.fi/3AOdK8M'&gt;מוזיקה – שחר צדיק&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+        <itunes:author>ליאור פרנקל</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:22:25</itunes:duration>
+                <itunes:episode>333</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog13368673/332_-_b9x6c.png"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <guid isPermaLink="false">ea4bdcad-c9d5-45a5-a5a3-8e02948ad1c9</guid>
+      <title>Love and Other Drugs: Gounod's Roméo et Juliette</title>
+      <description>האריה של הרעל מרומאו וג'וליה. בדרך מדברים על הסיפור של רומאו וג'וליה בצורה מעניינת עם קצת ניתוח ופרשנות.&lt;br&gt;#אנגלית #מוזיקה &lt;br&gt;https://prnt.sc/9btBTDLG1Kit&lt;br&gt;&lt;br&gt;Aria code - Love and Other Drugs: Gounod's Roméo et Juliette &lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dhdnr90g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Shakespeare’s “Romeo and Juliet” is the most famous love story in the Western canon. It’s a tale so embedded in our culture — one that has seen so many iterations and retellings — it might feel hard to appreciate its original pathos, and the way it perfectly distills the intersections of young romance, idealism, and rebellion. &lt;/p&gt;&lt;p&gt;In this episode, host &lt;strong&gt;Rhiannon Giddens&lt;/strong&gt; and guests take a fresh look at this classic by focusing on the character of Juliet and her pivotal decision to take the friar’s draught, a concoction that will help her feign death long enough to escape an arranged marriage and run away with Romeo. It’s both an act of tremendous courage and one that sets their tragedy in motion. &lt;/p&gt;&lt;p&gt;In Charles Gounod’s operatic retelling, the aria Juliet delivers as she wrestles away her fear is so difficult that it’s often cut from productions. But it’s a pivotal moment, and a testament to Juiet’s agency. Soprano Diana Damrau is up to the task, and delivers a rendition of “Amour, ranime mon courage” — otherwise known as the “poison aria” — from the stage of the Metropolitan Opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;THE GUESTS &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Soprano &lt;strong&gt;Diana Damrau&lt;/strong&gt; is among the most celebrated opera singers of her generation. She’s graced the stages of opera houses all over the world, and sung the role of Juliette at both The Metropolitan Opera and La Scala. After her debut as Juliette in 2016, it quickly became a favorite. For her, Gounod’s “Roméo et Juliette” is “one of the most beautiful operas ever written.” &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Yannick Nézet-Séguin &lt;/strong&gt;serves as music director for the Met Opera orchestra, the Philadelphia Orchestra, and Montreal’s Orchestre Metropolitain, among many other appointments and collaborations with esteemed orchestras. In his opinion, “Roméo et Juliette” beats out “Faust” as Gounod’s best opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Emma Smith&lt;/strong&gt; is a Shakespeare scholar and critic at the University of Oxford. Among her publications is the book “This Is Shakespeare,” which was a Sunday Times bestseller and has been translated into several languages. Smith frequently works with theater companies on their productions of Shakespeare plays and consults for film and television.&lt;/p&gt;&lt;p&gt;Acclaimed British author and theater director &lt;strong&gt;Neil Bartlett&lt;/strong&gt;, whose novels include “The Disappearance Boy” and “Address Book,” directed “Romeo and Juliet” for the Royal Shakespeare Company in London. He says the experience leaves him feeling “wrung dry with admiration.”&lt;/p&gt;
+</description>
+      <pubDate>Tue, 16 Apr 2024 04:20:08 +0000</pubDate>
+      <author>wnycdigital@gmail.com (Rhiannon Giddens, Diana Damrau, Yannick Nézet-Séguin, Emma Smith, Neil Bartlett)</author>
+      <link>https://www.wnycstudios.org/podcasts/aria-code</link>
+      <content:encoded>האריה של הרעל מרומאו וג'וליה. בדרך מדברים על הסיפור של רומאו וג'וליה בצורה מעניינת עם קצת ניתוח ופרשנות.&lt;br&gt;#אנגלית #מוזיקה &lt;br&gt;https://prnt.sc/9btBTDLG1Kit&lt;br&gt;&lt;br&gt;Aria code - Love and Other Drugs: Gounod's Roméo et Juliette &lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dhdnr90g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Shakespeare’s “Romeo and Juliet” is the most famous love story in the Western canon. It’s a tale so embedded in our culture — one that has seen so many iterations and retellings — it might feel hard to appreciate its original pathos, and the way it perfectly distills the intersections of young romance, idealism, and rebellion. &lt;/p&gt;&lt;p&gt;In this episode, host &lt;strong&gt;Rhiannon Giddens&lt;/strong&gt; and guests take a fresh look at this classic by focusing on the character of Juliet and her pivotal decision to take the friar’s draught, a concoction that will help her feign death long enough to escape an arranged marriage and run away with Romeo. It’s both an act of tremendous courage and one that sets their tragedy in motion. &lt;/p&gt;&lt;p&gt;In Charles Gounod’s operatic retelling, the aria Juliet delivers as she wrestles away her fear is so difficult that it’s often cut from productions. But it’s a pivotal moment, and a testament to Juiet’s agency. Soprano Diana Damrau is up to the task, and delivers a rendition of “Amour, ranime mon courage” — otherwise known as the “poison aria” — from the stage of the Metropolitan Opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;THE GUESTS &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Soprano &lt;strong&gt;Diana Damrau&lt;/strong&gt; is among the most celebrated opera singers of her generation. She’s graced the stages of opera houses all over the world, and sung the role of Juliette at both The Metropolitan Opera and La Scala. After her debut as Juliette in 2016, it quickly became a favorite. For her, Gounod’s “Roméo et Juliette” is “one of the most beautiful operas ever written.” &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Yannick Nézet-Séguin &lt;/strong&gt;serves as music director for the Met Opera orchestra, the Philadelphia Orchestra, and Montreal’s Orchestre Metropolitain, among many other appointments and collaborations with esteemed orchestras. In his opinion, “Roméo et Juliette” beats out “Faust” as Gounod’s best opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Emma Smith&lt;/strong&gt; is a Shakespeare scholar and critic at the University of Oxford. Among her publications is the book “This Is Shakespeare,” which was a Sunday Times bestseller and has been translated into several languages. Smith frequently works with theater companies on their productions of Shakespeare plays and consults for film and television.&lt;/p&gt;&lt;p&gt;Acclaimed British author and theater director &lt;strong&gt;Neil Bartlett&lt;/strong&gt;, whose novels include “The Disappearance Boy” and “Address Book,” directed “Romeo and Juliet” for the Royal Shakespeare Company in London. He says the experience leaves him feeling “wrung dry with admiration.”&lt;/p&gt;
+</content:encoded>
+      <enclosure length="52069151" type="audio/mpeg" url="https://chrt.fm/track/53A61E/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/e3badb5e-519c-4c8d-8363-ba9ab765a2d7/episodes/dcc6eb28-e8eb-49a6-be46-5bb115ecf92e/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=e3badb5e-519c-4c8d-8363-ba9ab765a2d7&amp;awEpisodeId=dcc6eb28-e8eb-49a6-be46-5bb115ecf92e&amp;feed=hiClsTmV"/>
+      <itunes:title>Love and Other Drugs: Gounod's Roméo et Juliette</itunes:title>
+      <itunes:author>Rhiannon Giddens, Diana Damrau, Yannick Nézet-Séguin, Emma Smith, Neil Bartlett</itunes:author>
+      <itunes:image href="https://image.simplecastcdn.com/images/1eeaa9bf-deee-4ab0-9a4d-c68b5f0153d6/a57a34e2-c57c-43c5-9128-1b6871e7f3be/3000x3000/ariacode-season4-ep8-romeoig.jpg?aid=rss_feed"/>
+      <itunes:duration>00:54:14</itunes:duration>
+      <itunes:summary>האריה של הרעל מרומאו וג'וליה. בדרך מדברים על הסיפור של רומאו וג'וליה בצורה מעניינת עם קצת ניתוח ופרשנות.&lt;br&gt;#אנגלית #מוזיקה &lt;br&gt;https://prnt.sc/9btBTDLG1Kit&lt;br&gt;&lt;br&gt;Aria code - Love and Other Drugs: Gounod's Roméo et Juliette &lt;br&gt;משך: 55 דק' &lt;br&gt;&lt;br&gt;https://pca.st/dhdnr90g&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Shakespeare’s “Romeo and Juliet” is the most famous love story in the Western canon. It’s a tale so embedded in our culture — one that has seen so many iterations and retellings — it might feel hard to appreciate its original pathos, and the way it perfectly distills the intersections of young romance, idealism, and rebellion. &lt;/p&gt;&lt;p&gt;In this episode, host &lt;strong&gt;Rhiannon Giddens&lt;/strong&gt; and guests take a fresh look at this classic by focusing on the character of Juliet and her pivotal decision to take the friar’s draught, a concoction that will help her feign death long enough to escape an arranged marriage and run away with Romeo. It’s both an act of tremendous courage and one that sets their tragedy in motion. &lt;/p&gt;&lt;p&gt;In Charles Gounod’s operatic retelling, the aria Juliet delivers as she wrestles away her fear is so difficult that it’s often cut from productions. But it’s a pivotal moment, and a testament to Juiet’s agency. Soprano Diana Damrau is up to the task, and delivers a rendition of “Amour, ranime mon courage” — otherwise known as the “poison aria” — from the stage of the Metropolitan Opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;THE GUESTS &lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Soprano &lt;strong&gt;Diana Damrau&lt;/strong&gt; is among the most celebrated opera singers of her generation. She’s graced the stages of opera houses all over the world, and sung the role of Juliette at both The Metropolitan Opera and La Scala. After her debut as Juliette in 2016, it quickly became a favorite. For her, Gounod’s “Roméo et Juliette” is “one of the most beautiful operas ever written.” &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Yannick Nézet-Séguin &lt;/strong&gt;serves as music director for the Met Opera orchestra, the Philadelphia Orchestra, and Montreal’s Orchestre Metropolitain, among many other appointments and collaborations with esteemed orchestras. In his opinion, “Roméo et Juliette” beats out “Faust” as Gounod’s best opera. &lt;/p&gt;&lt;p&gt;&lt;strong&gt;Emma Smith&lt;/strong&gt; is a Shakespeare scholar and critic at the University of Oxford. Among her publications is the book “This Is Shakespeare,” which was a Sunday Times bestseller and has been translated into several languages. Smith frequently works with theater companies on their productions of Shakespeare plays and consults for film and television.&lt;/p&gt;&lt;p&gt;Acclaimed British author and theater director &lt;strong&gt;Neil Bartlett&lt;/strong&gt;, whose novels include “The Disappearance Boy” and “Address Book,” directed “Romeo and Juliet” for the Royal Shakespeare Company in London. He says the experience leaves him feeling “wrung dry with admiration.”&lt;/p&gt;
+</itunes:summary>
+      <itunes:subtitle>Gounod’s “poison aria” is so difficult, it’s often cut from productions. But it’s a pivotal moment in the opera — and a testament to Juliette’s courage. </itunes:subtitle>
+      <itunes:keywords>classical music, met, roméo et juliette, potion aria, romeo and juliet, amour ranime mon courage, shakespeare, poison aria, opera, gounod, metropolitan opera, aria, aria_code_season_4, wqxr</itunes:keywords>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>8</itunes:episode>
+      <itunes:season>4</itunes:season>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">c27ffd5b-c4ee-4501-874a-47f16f0b1ca0</guid>
       <title>פרק 112 תמר שולץ | הטמעת כלכלה התנהגותית בחברות מוצר</title>
       <description>השילוב של כלכלה התנהגותית וניהול מוצר. פרק מאוד מעניין על כלכלה התנהגותית ומניפולציות של יוזרים כי יש פה גם את הצד השני - את גורמת ליוזרים לעשות משהו אבל צריך להבין מה יהיו ההשלכות של הפעולה החדשה. &lt;br&gt;#ניהולמוצר #פסיכולוגיה &lt;br&gt;&lt;br&gt;Radio button - פרק 112 תמר שולץ | הטמעת כלכלה התנהגותית בחברות מוצר&lt;br&gt;משך: 37 דק' &lt;br&gt;&lt;br&gt;https://pca.st/8npsmc71&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בפרק ״הטמעת כלכלה התנהגותית בטאבולה וגט״ עדי לוין אירחה את תמר שולץ. תמר היא Head of product בטאבולה ומומחית בהטמעת כלכלה התנהגותית יישומית ומחקרית בחברות מוצר.
@@ -456,7 +535,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>32</itunes:order>
+      <itunes:order>34</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -3436,7 +3515,7 @@ Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
 You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
 
 This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-checking by Michelle Harris, with Mary Marge Locker and Kate Sinclair. Our senior engineer is Jeff Geld. Our senior editor is Rogé Karma. The show’s production team also includes Rollin Hu and Kristin Lin. Original music by Isaac Jones. Audience strategy by Kristina Samulewski and Shannon Busta. The executive producer of New York Times Opinion Audio is Annie-Rose Strasser. And special thanks to Sonia Herrero.</itunes:subtitle>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #784 - גילי יובל משוררת טק</title>
@@ -6451,7 +6530,7 @@ Thoughts? Guest suggestions? Email us at ezrakleinshow@nytimes.com.
 You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at nytimes.com/ezra-klein-podcast, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at https://www.nytimes.com/article/ezra-klein-show-book-recs.
 
 This episode of “The Ezra Klein Show” is produced by Roge Karma, Kristin Lin and Jeff Geld. Fact-checking by Michelle Harris and Kate Sinclair. Mixing by Jeff Geld. Original music by Isaac Jones. Audience strategy by Shannon Busta. The executive producer of New York Times Opinion Audio is Annie-Rose Strasser. Special thanks to Sonia Herrero and Kristina Samulewski.</itunes:subtitle>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Did two honesty researchers fabricate their data?</title>
@@ -8371,7 +8450,7 @@ Editor: Munazza Khan&lt;/p&gt;</itunes:summary><itunes:image href="http://ichef.
       <itunes:summary>שיחה מעניינת על נושא הארכת החיים. אבל מנקודת מבט של אריכות ואיכות חיים. נראה שבעשורים האחרונים הרפואה מתמקדת בהארכת החיים בלי קשר לאיכות שלהם ובפרק יש דיון על משמעות האיכות של השנים הללו. ומה היינו מעדיפים עוד שנים או שנים טובות.&lt;br&gt;#פסיכולוגיה #בריאות #אנגלית&lt;br&gt;&lt;br&gt;People I mostly admire - 102. Adding Ten Healthy Years to Your Life&lt;br&gt;משך: 56 דק' &lt;br&gt;&lt;br&gt;https://pca.st/p69u4poe&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Physician Peter Attia returns to the show to talk about the science of longevity — which focuses not only on extending life but on maintaining good health into old age. He explains the possibilities and limits of current medicine and gives Steve his best advice on how to defeat the aging process.&lt;/p&gt;
 </itunes:summary>
       <itunes:subtitle>Physician Peter Attia returns to the show to talk about the science of longevity — which focuses not only on extending life but on maintaining good health into old age. He explains the possibilities and limits of current medicine and gives Steve his best advice on how to defeat the aging process.</itunes:subtitle>
-      <itunes:explicit>no</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>102</itunes:episode>
     </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
@@ -9046,158 +9125,5 @@ Producer: Harry Graham&lt;/p&gt;&lt;p&gt;Editor: Munazza Khan&lt;/p&gt;</itunes:
       <itunes:subtitle>The Copenhagen restaurant Noma has consistently topped lists of best restaurants in the world. People fly in from all over the globe to pay $500 per person for the hyperlocal tasting menus dreamed up by chef/owner Rene Redzepi. But a couple months ago, Redzepi announced the restaurant will close next year because it had become unsustainable, “financially and emotionally.”</itunes:subtitle>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>פרק #723 - נתי אהרונוביץ׳</title>
-        <itunes:title>פרק #723 - נתי אהרונוביץ׳</itunes:title>
-        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-723-%d7%a0%d7%aa%d7%99-%d7%90%d7%94%d7%a8%d7%95%d7%a0%d7%95%d7%91%d7%99%d7%a5%d7%b3/</link>
-                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-723-%d7%a0%d7%aa%d7%99-%d7%90%d7%94%d7%a8%d7%95%d7%a0%d7%95%d7%91%d7%99%d7%a5%d7%b3/#comments</comments>        <pubDate>Thu, 25 May 2023 04:45:06 +0000</pubDate>
-        <guid isPermaLink="false">geekonomy.podbean.com/5d022c18-3062-3a1e-9189-b3539fbcbe90</guid>
-                      <description>שיחה מעניינת ובעיקר מרגיעה עם נתי אהרונוביץ'. נתי הוא מומחה להשקעות והשיחה סובבת סביב המצב המלחיץ כרגע בשווקים, אינפלציה וחוסר השקט הכללי. נתי ממליץ על פעולה על פני חוסר פעולה אבל בעיקר מעודד לעשות רק את מה שמתאים לגבולות שלכם.&lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;גיקונומי - פרק #723 - נתי אהרונוביץ׳&lt;br&gt;משך: שעה ו40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/z3y4czh5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נתי אהרונוביץ׳ התחיל לעבוד בגיל 16 בקרן גידור כאנליסט זוכר. לאחר מכן השלים שני תארים בכלכלה ועבר עם השנים להתמקד ביעוץ פיננסי. לפני מספר שנים הקים את קבוצת נינג׳ה פיננסית, שסייעה לעשרות אלפי אנשים לשפר את מצבם הכלכלי. נתי התארח כבר בפודקאסט לפני כארבע שנים.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-כלכלה, משברים כלכליים, הזדמנויות, נדל״ן, חסכונות, כסף, תוכניות לעתיד, השקעות, פנסיה
-
- 
-
-
-נותני החסות שלנו: &lt;a href='https://input.riseup.co.il/signup?utm_source=podcast&amp;utm_medium=podcast&amp;utm_content=podcast_geekonomy'&gt;חברת רייזאפ&lt;/a&gt;
-
- 
-
-
-לינקים מהפרק:
-&lt;a href='https://financialninja.co.il/'&gt;האתר של נינג׳ה פיננסית&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/2028446887518840/'&gt;מדריך מצולם לרכישה בבנק שעליו נתי דיבר בפרק&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/1991156347914561/'&gt;ההבדל מפיקדון עליו נתי דיבר בפרק&lt;/a&gt;
-
- 
-</description>
-                      <content:encoded>שיחה מעניינת ובעיקר מרגיעה עם נתי אהרונוביץ'. נתי הוא מומחה להשקעות והשיחה סובבת סביב המצב המלחיץ כרגע בשווקים, אינפלציה וחוסר השקט הכללי. נתי ממליץ על פעולה על פני חוסר פעולה אבל בעיקר מעודד לעשות רק את מה שמתאים לגבולות שלכם.&lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;גיקונומי - פרק #723 - נתי אהרונוביץ׳&lt;br&gt;משך: שעה ו40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/z3y4czh5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נתי אהרונוביץ׳ התחיל לעבוד בגיל 16 בקרן גידור כאנליסט זוכר. לאחר מכן השלים שני תארים בכלכלה ועבר עם השנים להתמקד ביעוץ פיננסי. לפני מספר שנים הקים את קבוצת נינג׳ה פיננסית, שסייעה לעשרות אלפי אנשים לשפר את מצבם הכלכלי. נתי התארח כבר בפודקאסט לפני כארבע שנים.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-כלכלה, משברים כלכליים, הזדמנויות, נדל״ן, חסכונות, כסף, תוכניות לעתיד, השקעות, פנסיה
-
- 
-
-
-נותני החסות שלנו: &lt;a href='https://input.riseup.co.il/signup?utm_source=podcast&amp;utm_medium=podcast&amp;utm_content=podcast_geekonomy'&gt;חברת רייזאפ&lt;/a&gt;
-
- 
-
-
-לינקים מהפרק:
-&lt;a href='https://financialninja.co.il/'&gt;האתר של נינג׳ה פיננסית&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/2028446887518840/'&gt;מדריך מצולם לרכישה בבנק שעליו נתי דיבר בפרק&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/1991156347914561/'&gt;ההבדל מפיקדון עליו נתי דיבר בפרק&lt;/a&gt;
-
- 
-</content:encoded>
-                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/75jit8/geekonomy723.mp3" length="96263376" type="audio/mpeg"/>
-        <itunes:subtitle>נתי אהרונוביץ׳ התחיל לעבוד בגיל 16 בקרן גידור כאנליסט זוכר. לאחר מכן השלים שני תארים בכלכלה ועבר עם השנים להתמקד ביעוץ פיננסי. לפני מספר שנים הקים את קבוצת נינג׳ה פיננסית, שסייעה לעשרות אלפי אנשים לשפר את מצבם הכלכלי. נתי התארח כבר בפודקאסט לפני כארב...</itunes:subtitle>
-        <itunes:summary>שיחה מעניינת ובעיקר מרגיעה עם נתי אהרונוביץ'. נתי הוא מומחה להשקעות והשיחה סובבת סביב המצב המלחיץ כרגע בשווקים, אינפלציה וחוסר השקט הכללי. נתי ממליץ על פעולה על פני חוסר פעולה אבל בעיקר מעודד לעשות רק את מה שמתאים לגבולות שלכם.&lt;br&gt;#כלכלה &lt;br&gt;&lt;br&gt;גיקונומי - פרק #723 - נתי אהרונוביץ׳&lt;br&gt;משך: שעה ו40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/z3y4czh5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;נתי אהרונוביץ׳ התחיל לעבוד בגיל 16 בקרן גידור כאנליסט זוכר. לאחר מכן השלים שני תארים בכלכלה ועבר עם השנים להתמקד ביעוץ פיננסי. לפני מספר שנים הקים את קבוצת נינג׳ה פיננסית, שסייעה לעשרות אלפי אנשים לשפר את מצבם הכלכלי. נתי התארח כבר בפודקאסט לפני כארבע שנים.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-כלכלה, משברים כלכליים, הזדמנויות, נדל״ן, חסכונות, כסף, תוכניות לעתיד, השקעות, פנסיה
-
- 
-
-
-נותני החסות שלנו: &lt;a href='https://input.riseup.co.il/signup?utm_source=podcast&amp;utm_medium=podcast&amp;utm_content=podcast_geekonomy'&gt;חברת רייזאפ&lt;/a&gt;
-
- 
-
-
-לינקים מהפרק:
-&lt;a href='https://financialninja.co.il/'&gt;האתר של נינג׳ה פיננסית&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/2028446887518840/'&gt;מדריך מצולם לרכישה בבנק שעליו נתי דיבר בפרק&lt;/a&gt;
-&lt;a href='https://www.facebook.com/groups/fininja/posts/1991156347914561/'&gt;ההבדל מפיקדון עליו נתי דיבר בפרק&lt;/a&gt;
-
- 
-</itunes:summary>
-        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>true</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>01:40:15</itunes:duration>
-                <itunes:episode>728</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://deow9bq0xqvbj.cloudfront.net/ep-logo/pbblog803031/WhatsApp_Image_2023-05-11_at_84536_PM8i0p6.jpeg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
-      <category>Talk Radio</category>
-      <slash:comments>0</slash:comments>
-      <itunes:explicit>no</itunes:explicit>
-      <podcast:transcript type="text/html" url="https://www.podcastone.com/episode/802-Michael-Santos--Conquering-a-45-Year-Prison-Term?view=transcript"/>
-      <link>https://www.podcastone.com/episode/802-Michael-Santos--Conquering-a-45-Year-Prison-Term</link>
-      <wfw:commentRss>https://www.podcastone.com/episode/802-Michael-Santos--Conquering-a-45-Year-Prison-Term</wfw:commentRss>
-      <title>802: Michael Santos | Conquering a 45-Year Prison Term</title>
-      <itunes:title>802: Michael Santos | Conquering a 45-Year Prison Term</itunes:title>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>802</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>סיפור מעניין של אסיר שריצה תקופת מאסר של 45 שנים. במהלך השנים הללו הוא החליט לשנות את ההתנהגות שלו מן הקצה אל הקצה ולהפוך לאיש עסקים מצליח. לאור העובדה שהוא כותב ספרים, מתראיין לפודקאסט ובעל עסק גדול יחד עם אשתו אפשר להבין שהוא הצליח 😎&lt;br&gt;#אנגלית #שיפורעצמי &lt;br&gt;&lt;br&gt;The Jordan Harbinger show - Michael Santos | Conquering a 45-Year Prison Term&lt;br&gt;משך: שעה ו18 דק' &lt;br&gt;&lt;br&gt;https://pca.st/khtls8py&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Michael Santos&lt;/strong&gt; (&lt;a href="https://twitter.com/MichaelGSantos" target="_blank" rel="noopener noreferrer"&gt;@MichaelGSantos&lt;/a&gt;) survived 26 years as a federal prisoner, hosts the &lt;a href="https://podcasts.apple.com/us/podcast/prison-professors/id1330244967?mt=2" target="_blank" rel="noopener"&gt;&lt;em&gt;Prison Professors&lt;/em&gt;&lt;/a&gt; podcast, and is the author of &lt;a href="https://www.amazon.com/gp/product/B087SN2T4P/?tag=jordanharbing-20" target="_blank" rel="noopener"&gt;&lt;em&gt;Earning Freedom!: Conquering a 45-Year Prison Term&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with Michael Santos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How Michael Santos got sentenced to 45 years in federal prison when he was just 23 years old&lt;/strong&gt; &amp;mdash; not for committing a violent crime, but for establishing himself as a cocaine &lt;em&gt;entrepreneur&lt;/em&gt; at the height of the War on Drugs (and committing perjury just made things worse).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What this conviction meant to Michael's relationship with his family&lt;/strong&gt; &amp;mdash; and his wife.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The three-prong plan Michael applied to the sudden wealth of time he had on his hands&lt;/strong&gt; to find a way to reduce his sentence and hit the ground running when he finally got out.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How the system is designed to trip up attempts inmates make toward self-improvement&lt;/strong&gt; and rehabilitation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How Michael made his first million behind bars.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/802" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/802&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;</description>
-      <content:encoded>סיפור מעניין של אסיר שריצה תקופת מאסר של 45 שנים. במהלך השנים הללו הוא החליט לשנות את ההתנהגות שלו מן הקצה אל הקצה ולהפוך לאיש עסקים מצליח. לאור העובדה שהוא כותב ספרים, מתראיין לפודקאסט ובעל עסק גדול יחד עם אשתו אפשר להבין שהוא הצליח 😎&lt;br&gt;#אנגלית #שיפורעצמי &lt;br&gt;&lt;br&gt;The Jordan Harbinger show - Michael Santos | Conquering a 45-Year Prison Term&lt;br&gt;משך: שעה ו18 דק' &lt;br&gt;&lt;br&gt;https://pca.st/khtls8py&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Michael Santos&lt;/strong&gt; (&lt;a href="https://twitter.com/MichaelGSantos" target="_blank" rel="noopener noreferrer"&gt;@MichaelGSantos&lt;/a&gt;) survived 26 years as a federal prisoner, hosts the &lt;a href="https://podcasts.apple.com/us/podcast/prison-professors/id1330244967?mt=2" target="_blank" rel="noopener"&gt;&lt;em&gt;Prison Professors&lt;/em&gt;&lt;/a&gt; podcast, and is the author of &lt;a href="https://www.amazon.com/gp/product/B087SN2T4P/?tag=jordanharbing-20" target="_blank" rel="noopener"&gt;&lt;em&gt;Earning Freedom!: Conquering a 45-Year Prison Term&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with Michael Santos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How Michael Santos got sentenced to 45 years in federal prison when he was just 23 years old&lt;/strong&gt; &amp;mdash; not for committing a violent crime, but for establishing himself as a cocaine &lt;em&gt;entrepreneur&lt;/em&gt; at the height of the War on Drugs (and committing perjury just made things worse).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What this conviction meant to Michael's relationship with his family&lt;/strong&gt; &amp;mdash; and his wife.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The three-prong plan Michael applied to the sudden wealth of time he had on his hands&lt;/strong&gt; to find a way to reduce his sentence and hit the ground running when he finally got out.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How the system is designed to trip up attempts inmates make toward self-improvement&lt;/strong&gt; and rehabilitation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How Michael made his first million behind bars.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/802" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/802&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;</content:encoded>
-      <author>info@podcastone.com</author>
-      <guid isPermaLink="false">ce464943-ff39-479f-9008-425f8dda33f9</guid>
-      <pubDate>Thu, 25 May 2023 04:45:00 +0000</pubDate>
-      <itunes:author>Jordan Harbinger</itunes:author>
-      <itunes:summary>סיפור מעניין של אסיר שריצה תקופת מאסר של 45 שנים. במהלך השנים הללו הוא החליט לשנות את ההתנהגות שלו מן הקצה אל הקצה ולהפוך לאיש עסקים מצליח. לאור העובדה שהוא כותב ספרים, מתראיין לפודקאסט ובעל עסק גדול יחד עם אשתו אפשר להבין שהוא הצליח 😎&lt;br&gt;#אנגלית #שיפורעצמי &lt;br&gt;&lt;br&gt;The Jordan Harbinger show - Michael Santos | Conquering a 45-Year Prison Term&lt;br&gt;משך: שעה ו18 דק' &lt;br&gt;&lt;br&gt;https://pca.st/khtls8py&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;Michael Santos&lt;/strong&gt; (&lt;a href="https://twitter.com/MichaelGSantos" target="_blank" rel="noopener noreferrer"&gt;@MichaelGSantos&lt;/a&gt;) survived 26 years as a federal prisoner, hosts the &lt;a href="https://podcasts.apple.com/us/podcast/prison-professors/id1330244967?mt=2" target="_blank" rel="noopener"&gt;&lt;em&gt;Prison Professors&lt;/em&gt;&lt;/a&gt; podcast, and is the author of &lt;a href="https://www.amazon.com/gp/product/B087SN2T4P/?tag=jordanharbing-20" target="_blank" rel="noopener"&gt;&lt;em&gt;Earning Freedom!: Conquering a 45-Year Prison Term&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with Michael Santos:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How Michael Santos got sentenced to 45 years in federal prison when he was just 23 years old&lt;/strong&gt; &amp;mdash; not for committing a violent crime, but for establishing himself as a cocaine &lt;em&gt;entrepreneur&lt;/em&gt; at the height of the War on Drugs (and committing perjury just made things worse).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;What this conviction meant to Michael's relationship with his family&lt;/strong&gt; &amp;mdash; and his wife.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The three-prong plan Michael applied to the sudden wealth of time he had on his hands&lt;/strong&gt; to find a way to reduce his sentence and hit the ground running when he finally got out.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How the system is designed to trip up attempts inmates make toward self-improvement&lt;/strong&gt; and rehabilitation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How Michael made his first million behind bars.&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/802" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/802&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;</itunes:summary>
-      <itunes:subtitle>Michael Santos survived 26 years in prison, hosts the Prison Professors podcast, and is the author of Earning Freedom!: Conquering a 45-Year Prison Term.</itunes:subtitle>
-      <itunes:duration>01:23:55</itunes:duration>
-      <itunes:keywords>Jordan Harbinger,The Jordan Harbinger Show,Entrepreneur,Self-help,Motivation,Motivational speaker,Fitness,Nutrition,Dating,Relationships,Lifestyle,Advice,Michael G. Santos,Earning Freedom,Prison Professors</itunes:keywords>
-      <itunes:image href="https://img.podcastone.com/images/1237/episodes/802-michael-santos.jpg"/>
-      <enclosure length="83856734" type="audio/mpeg" url="https://prefix.up.audio/s/dts.podtrac.com/redirect.mp3/pdst.fm/e/chrt.fm/track/E2G895/arttrk.com/p/PDPN1/pscrb.fm/rss/p/swap.fm/track/0rfjk5dlUYvVVB1j4JMa/aw.noxsolutions.com/launchpod/adswizz/1237/802-MichaelSantos_0n0r_8dda33f9.mp3?awCollectionId=1237&amp;awEpisodeId=ce464943-ff39-479f-9008-425f8dda33f9&amp;adwNewID3=true&amp;awNetwork=309"/>
     </item></channel>
 </rss>
