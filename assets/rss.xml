@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 21 Apr 2024 06:37:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 06:38:00 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #850 - ד״ר יגיל הנקין והיסטוריה צבאית</title>
@@ -633,7 +633,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>36</itunes:order>
+      <itunes:order>38</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -1732,9 +1732,9 @@ https://twitter.com/retro_stories
       <itunes:duration>1746</itunes:duration>
       <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdst.fm/e/pdrl.fm/12c388/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/0f1283e2-80fe-460b-b157-ae3900375d38/80ec4569-ee19-4fe3-8057-b0bd01810b89/audio.mp3?utm_source=Podcast&amp;in_playlist=d548f2c1-d522-4aa8-9ff3-ae3900375d41" length="27984098" type="audio/mpeg"/>
       <link>https://omny.fm/shows/a-slight-change-of-plans/your-future-self-needs-your-help-today</link>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=SubRip&amp;t=1701063127" type="application/srt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=WebVTT&amp;t=1701063127" type="text/vtt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=TextWithTimestamps&amp;t=1701063127" type="text/plain" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=SubRip&amp;t=1713752113" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=WebVTT&amp;t=1713752113" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/80ec4569-ee19-4fe3-8057-b0bd01810b89/transcript?format=TextWithTimestamps&amp;t=1713752113" type="text/plain" language="en-us"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Funnel vision: Marketing with an investor mindset</title>
       <itunes:title>Funnel vision: Marketing with an investor mindset</itunes:title>
@@ -1742,12 +1742,12 @@ https://twitter.com/retro_stories
 &lt;p&gt;Also, McKinsey senior partner Alok Kshirsagar talks about making a tough call on a high-profile project, from our &lt;a href="https://www.mckinsey.com/featured-insights/my-rookie-moment"&gt;&lt;em&gt;Rookie Moment&lt;/em&gt;&lt;/a&gt; series.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The McKinsey Podcast&lt;/em&gt; is hosted by Roberta Fusaro and Lucia Rahilly.&lt;/p&gt;
 &lt;p dir="ltr" data-test-bidi=""&gt;Theme music produced, composed, and performed by Joy Ngiaw.&lt;/p&gt;
-&lt;p dir="ltr" data-test-bidi=""&gt;See www.mckinsey.com/privacy-policy for privacy information&lt;/p&gt;See &lt;a href="https://www.mckinsey.com/privacy-policy"&gt;www.mckinsey.com/privacy-policy&lt;/a&gt; for privacy information</description>
+&lt;p dir="ltr" data-test-bidi=""&gt;See www.mckinsey.com/privacy-policy for privacy information&lt;/p&gt;&lt;p&gt;See &lt;a href="https://www.mckinsey.com/privacy-policy"&gt;www.mckinsey.com/privacy-policy&lt;/a&gt; for privacy information&lt;/p&gt;</description>
       <content:encoded>פרק קצר שעונה על השאלה - למה לא לצמצם מחלקות שיווק, אם חושבים מנקודת מבט של משקיע.&lt;br&gt;איך רואים בחברה שלכם את מחלקת השיווק , בתור הוצאה או בתור גורם צמיחה? כמה נקודות מעניינות למחשבה, לא כל התורה כולה אבל בהחלט כיוון מעניין.&lt;br&gt;#אנגלית #שיווק &lt;br&gt;&lt;br&gt;The McKinsey podcast - Funnel vision: Marketing with an investor mindset&lt;br&gt;משך: 20 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/y8umxh3u&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;When times get tough, &lt;/strong&gt;marketing budgets are among the first ones cut.&lt;strong&gt; &lt;/strong&gt;But such cutbacks can be shortsighted. On this edition of &lt;em&gt;The McKinsey Podcast,&lt;/em&gt; McKinsey senior partner Kelsey Robinson chats with cohost and editorial director Roberta Fusaro about why chief marketing officers should instead be empowered to adopt an investor mindset—that is, focus on eliminating inefficient spending and reinvesting it in high-growth marketing activities. By taking a full-funnel approach to their marketing strategies, companies are more likely to weather any economic storm that may come their way.&lt;/p&gt;
 &lt;p&gt;Also, McKinsey senior partner Alok Kshirsagar talks about making a tough call on a high-profile project, from our &lt;a href="https://www.mckinsey.com/featured-insights/my-rookie-moment"&gt;&lt;em&gt;Rookie Moment&lt;/em&gt;&lt;/a&gt; series.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;The McKinsey Podcast&lt;/em&gt; is hosted by Roberta Fusaro and Lucia Rahilly.&lt;/p&gt;
 &lt;p dir="ltr" data-test-bidi=""&gt;Theme music produced, composed, and performed by Joy Ngiaw.&lt;/p&gt;
-&lt;p dir="ltr" data-test-bidi=""&gt;See www.mckinsey.com/privacy-policy for privacy information&lt;/p&gt;See &lt;a href="https://www.mckinsey.com/privacy-policy"&gt;www.mckinsey.com/privacy-policy&lt;/a&gt; for privacy information</content:encoded>
+&lt;p dir="ltr" data-test-bidi=""&gt;See www.mckinsey.com/privacy-policy for privacy information&lt;/p&gt;&lt;p&gt;See &lt;a href="https://www.mckinsey.com/privacy-policy"&gt;www.mckinsey.com/privacy-policy&lt;/a&gt; for privacy information&lt;/p&gt;</content:encoded>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:author>McKinsey &amp; Company</itunes:author>
       <itunes:image href="https://www.omnycontent.com/d/playlist/708664bd-6843-4623-8066-aede00ce0c8a/3f6f52af-fba1-496d-b11b-af040139456a/bfe0b44a-082f-495a-952a-af0401394590/image.jpg?t=1707406344&amp;size=Large"/>
@@ -3325,9 +3325,9 @@ To learn more about listener data and our privacy practices visit: https://www.a
       <itunes:duration>2367</itunes:duration>
       <enclosure url="https://chtbl.com/track/39E17/podtrac.com/pts/redirect.mp3/pdrl.fm/18db03/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/c0ae8c6e-22f0-4e9b-ac1c-ae390037ac53/08de5ebc-d444-49f1-98e0-b0b401380f79/audio.mp3?utm_source=Podcast&amp;in_playlist=7f5a4714-6b10-4ccf-a424-ae390037ac70" length="37939220" type="audio/mpeg"/>
       <link>https://omny.fm/shows/cautionary-tales-with-tim-harford/laser-versus-parchment-doomsday-for-the-disc</link>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=SubRip&amp;t=1700020677" type="application/srt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=WebVTT&amp;t=1700020677" type="text/vtt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=TextWithTimestamps&amp;t=1700020677" type="text/plain" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=SubRip&amp;t=1713767653" type="application/srt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=WebVTT&amp;t=1713767653" type="text/vtt" language="en-us"/>
+      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=TextWithTimestamps&amp;t=1713767653" type="text/plain" language="en-us"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
         <title>פרק 67 - איך להפוך למפתחים ומנהלים בפרילאנס? עם: דימה וישנבצקי</title>
         <itunes:title>פרק 67 - איך להפוך למפתחים ומנהלים בפרילאנס? עם: דימה וישנבצקי</itunes:title>
