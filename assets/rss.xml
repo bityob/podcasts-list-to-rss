@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 02 May 2024 06:38:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 06:38:16 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Disney just fought off a shareholder revolt — but the clock’s still ticking</title>
@@ -259,7 +259,6 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <link>https://www.npr.org/2024/03/27/1197958536/roni-mazumdar-unapologetic-foods-adda-semma-new-york</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The trouble with Table 101 (Update)</itunes:title>
-      <itunes:episode>1730</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/27/the-great-data-driven-restaurant-makeover_sq-5a85528688282fa5befeef7e8604189412aeb930.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1478</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -316,7 +315,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
     <pubDate>Thu, 25 Apr 2024 03:25:43 +0000</pubDate>
     <itunes:duration>4647</itunes:duration>
     <itunes:keywords>kara swisher, elon musk, sam altman, steve jobs, burn book, tech journalism</itunes:keywords>
-    <itunes:episode>216</itunes:episode>
+    <itunes:episode>215</itunes:episode>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>true</itunes:explicit>
   </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -555,7 +554,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2024/03/22/1197958526/temu-website-app-shopping</link>
       <itunes:block>no</itunes:block>
       <itunes:title>What is Temu?</itunes:title>
-      <itunes:episode>1729</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/22/temu-website-app-shopping_sq-cfeb88f607ce995b47f40f344ae6b69082fa7b7b.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1520</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -875,7 +873,6 @@ Disclaimer</content:encoded>
       <link>https://www.npr.org/2024/03/15/1197958469/rum-wars-puerto-rico-virgin-islands-captain-morgan</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The billion dollar war behind U.S. rum</itunes:title>
-      <itunes:episode>1727</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/15/rum-wars-puerto-rico-virgin-islands-captain-morgan_sq-b6706a59b44666e4932bc5216119947baa264266.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1405</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1341,7 +1338,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2024/02/28/1197958355/school-fundraisers</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The secret world behind school fundraisers</itunes:title>
-      <itunes:episode>1722</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2024/02/28/school-fundraisers_sq-7e8397d140577844c18d99b9dabcd2cd825acc01.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1675</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -1400,7 +1396,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2024/03/08/1197958441/oscars-academy-awards-campaign-for-your-consideration</link>
       <itunes:block>no</itunes:block>
       <itunes:title>On the Oscars campaign trail</itunes:title>
-      <itunes:episode>1725</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/08/oscars-campaign-for-your-consideration_sq-70d5653a4d55bf0a3d1da253caa2c56bc46b60a7.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1554</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2518,7 +2513,6 @@ If that’s the case, today’s episode is really for</itunes:subtitle>
       <link>https://www.npr.org/2022/02/02/1077646249/the-m-m-anomaly-classic</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The M&amp;M anomaly (Classic)</itunes:title>
-      <itunes:episode>1506</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2022/02/02/m-m-1-new_sq-e532fc60f3efd96f62053cf02ea3959f5547ce3a.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>797</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -2915,7 +2909,6 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <link>https://www.npr.org/2023/10/27/1197954459/all-you-can-eat-buffets-economics</link>
       <itunes:block>no</itunes:block>
       <itunes:title>All you can eat economics</itunes:title>
-      <itunes:episode>1688</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/10/27/all-you-can-eat-buffets-economics-las-vegas_sq-725204c247bb2ae2dc5c9515427ebe70ec5a58aa.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1502</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -3152,7 +3145,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2023/12/20/1197956140/javier-milei-argentina-dollarize-economy-inflation</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Dollarizing Argentina</itunes:title>
-      <itunes:episode>1702</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/12/20/javier-milei-argentina-dollar-dollarize-economy_sq-24f89162729fc9bb4ef08c964af048031d34565d.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1452</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -3316,7 +3308,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2023/12/08/1197955913/doctors-pagers-beepers</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Why do doctors still use pagers?</itunes:title>
-      <itunes:episode>1699</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/12/08/pagers-doctors-beepers_sq-6719c18c3a74b6e45df2e58bb4ca046a538a5322.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1617</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -3607,7 +3598,6 @@ To learn more about listener data and our privacy practices visit: https://www.a
       <link>https://www.npr.org/2023/10/04/1197954201/chaos-alaska-airlines-flight-attendants-union-strike</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The flight attendants of CHAOS</itunes:title>
-      <itunes:episode>1681</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/10/04/chaos-alaska-airlines-flight-attendants-union-strike_sq-9e0924b29d42d03a0df31d032158af6098dfd0c5.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1731</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -4137,7 +4127,6 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
       <link>https://www.npr.org/2023/10/20/1197954385/uaw-united-auto-workers-union-strike-volkswagen-chattanooga</link>
       <itunes:block>no</itunes:block>
       <itunes:title>How unions are stopped before they start</itunes:title>
-      <itunes:episode>1686</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/10/20/uaw-united-auto-workers-union-strike-volkswagen-chattanooga-tennessee_sq-9836683af1133acf97835fccdf903d448b2009c5.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1661</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -4323,7 +4312,6 @@ Leadership support for Radiolab’s science programming is provided by the Gordo
       <link>https://www.npr.org/2023/09/27/1197954148/natural-disasters-environmental-risk-economics</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The natural disaster economist</itunes:title>
-      <itunes:episode>1679</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/09/27/tatyana-deryugina-natural-disasters-environmental-risk-economics_sq-2d4b47d0b54e7ea0fbc831d52926d107adbdc593.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1421</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -4534,7 +4522,6 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/09/01/1197321273/turmeric-india-biopiracy-patent-tkdl</link>
       <itunes:block>no</itunes:block>
       <itunes:title>How to fight a patent pirate</itunes:title>
-      <itunes:episode>1672</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/09/01/gettyimages-1241475116_sq-2c062372e7a577c60157c6ebbd06e3c99a2ec5b9.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1518</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -4699,7 +4686,6 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/30minutesorless
       <link>https://www.npr.org/2023/08/25/1195908462/sag-aftra-wga-strike-picket-line-neutral-gate</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The secret entrance that sidesteps Hollywood picket lines</itunes:title>
-      <itunes:episode>1670</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/08/25/sag-aftra-wga-strike-picket-line-bill-wolkoff-sarah-bibel-star-trek-strange-new-worlds-young-restless-television-city_sq-b55628f8a2c64682fcf1f9f4dbda5ab187e14850.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1317</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -5323,7 +5309,6 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <link>https://www.npr.org/2023/05/09/1175026593/mythos-and-melodrama-in-the-philippines</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Mythos and Melodrama in the Philippines</itunes:title>
-      <itunes:episode>239</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/05/09/gettyimages-1395951574_sq-bc3a289b630e64c4b6a3b3c9e3f1d03bcb705ec5.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>3130</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -6061,7 +6046,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2023/06/14/1182214943/regulatory-capture-moving-seattle-washington-furniture</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Mike The Mover vs. The Furniture Police</itunes:title>
-      <itunes:episode>1651</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/06/21/mike-the-mover-seattle-yellow-pages-1997_sq-3703bfdf02ae2c114fb086aa5527e392b6538184.png?s=1900&amp;c=66&amp;f=png"/>
       <itunes:duration>1535</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -6896,7 +6880,6 @@ This episode of “The Ezra Klein Show” is produced by Roge Karma, Kristin Lin
       <link>https://www.npr.org/2023/07/27/1190568472/dan-ariely-francesca-gino-harvard-dishonesty-fabricated-data</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Did two honesty researchers fabricate their data?</itunes:title>
-      <itunes:episode>1661</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/07/27/gettyimages-84447458_sq-b2b340573fc5ba02666e7a882880a845bbc44c40.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1557</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -7927,7 +7910,6 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <link>https://www.npr.org/2023/05/01/1173142340/whats-your-worth</link>
       <itunes:block>no</itunes:block>
       <itunes:title>What's Your Worth?</itunes:title>
-      <itunes:episode>238</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/05/02/gettyimages-1409988922_sq-f6a3c7d5a82710d7d7352b65f6a896e2f1df02a3.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>2956</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
@@ -8422,7 +8404,6 @@ Disclaimer</content:encoded>
       <link>https://www.npr.org/2023/05/11/1175487806/corporate-profit-price-spiral-wage-debate</link>
       <itunes:block>no</itunes:block>
       <itunes:title>Inflation and the Profit-Price Spiral</itunes:title>
-      <itunes:episode>1639</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/05/12/wage-profit-price-spiral-economists-debate_sq-978d6c563d9a4a7a85e46492d511f3bbe3940718.jpeg?s=1900&amp;c=66&amp;f=jpeg"/>
       <itunes:duration>1599</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
