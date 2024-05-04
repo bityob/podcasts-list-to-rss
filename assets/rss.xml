@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 03 May 2024 06:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:36:50 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Disney just fought off a shareholder revolt — but the clock’s still ticking</title>
@@ -991,7 +991,7 @@ Send in a voice message: https://podcasters.spotify.com/pod/show/avi-stern/messa
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>42</itunes:order>
+      <itunes:order>43</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -7580,7 +7580,6 @@ Disclaimer</content:encoded>
       <link>https://www.npr.org/2023/05/09/1175041677/the-implications-of-the-case-against-icwa</link>
       <itunes:block>no</itunes:block>
       <itunes:title>The implications of the case against ICWA</itunes:title>
-      <itunes:episode>403</itunes:episode>
       <itunes:image href="https://media.npr.org/assets/img/2023/05/16/cs-rnagle_icwa_2023-1-_sq-75cf52bd54074079eec80a22f5991cd0c3780f7f.jpg?s=1900&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1953</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
