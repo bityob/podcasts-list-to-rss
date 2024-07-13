@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 12 Jul 2024 06:40:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 06:39:38 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">d9ec0812-237b-4bfb-95ad-21d9f6361b4c</guid>
@@ -3156,7 +3156,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>76</itunes:order>
+      <itunes:order>77</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -5832,7 +5832,37 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
         <itunes:duration>01:26:38</itunes:duration>
                 <itunes:episode>790</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2023-09-29_at_124202_PMa132n.jpeg"/>    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2023-09-29_at_124202_PMa132n.jpeg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <guid isPermaLink="false">prx_93_a535f4db-ce6d-444a-860e-706ee08d6dd3</guid>
+      <title>Seal - Kiss from a Rose</title>
+      <pubDate>Tue, 19 Dec 2023 04:35:08 +0000</pubDate>
+      <link>http://songexploder.net/seal</link>
+      <description>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/a535f4db-ce6d-444a-860e-706ee08d6dd3/SongExploder250_Seal.mp3" type="audio/mpeg" length="32866290"/>
+      <itunes:subtitle>Seal breaks down his iconic song "Kiss from a Rose" alongside producer Trevor Horn. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>250</itunes:episode>
+      <itunes:duration>22:49</itunes:duration>
+      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
+      <itunes:author>Hrishikesh Hirway</itunes:author>
+      <itunes:summary>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/song-exploder/a535f4db-ce6d-444a-860e-706ee08d6dd3/images/e4970e82-2e54-46fa-84cd-52a40a49b76d/SongExploder250_Seal_Portrait.jpg"/>
+      <media:content fileSize="32866290" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/a535f4db-ce6d-444a-860e-706ee08d6dd3/SongExploder250_Seal.mp3"/>
+      <content:encoded>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </content:encoded>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 45: טניה קורח, מנהלת שיווק במגדל אור - עמותת יעדים לצפון</title>
 			<description>שיחה מעניינת לכל מי שעושה שיווק לעמותות. יש פה הרבה סיפורים וטיפים איך לדבר לקהלים שונים בתקציב נמוך. טניה קורח מעמותת מגדלור לעיוורים ובעלי לקות ראיה, מספרת על העמותה שלה ועל איך היא מתווכת אותה לעולם. עשייה מדהימה לחלוטין. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;Antimarketing - פרק 45: טניה קורח, מנהלת שיווק במגדל אור - עמותת יעדים לצפון&lt;br&gt;משך: 44 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1zyilz5b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;
 
