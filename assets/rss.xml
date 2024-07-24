@@ -10,9 +10,211 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 23 Jul 2024 06:41:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 06:41:46 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>פרק 53 - אמנות ואדריכלות באסלאם - עם ז'ניה פרומין</title>
+			<description>פרק מאוד מעניין על אומנות ואדריכלות בשלושת הדתות הגדולות. יש פה המון מידע אבל הוא מונגש בשיחה קלילה ומעניינת.&lt;br&gt;#סיפורמעניין #אדריכלות #דת &lt;br&gt;&lt;br&gt;אסכת - פרק 53 - אמנות ואדריכלות באסלאם - עם ז'ניה פרומין&lt;br&gt;משך: שעה ו13 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/qvsabqm9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך האסלאם מתייחס לאומנות ובאיזה אופן הוא הופך להיות למאבק בין ערים, מבנים ודתות? &lt;/p&gt;
+&lt;p&gt;ועל כך ועוד אשוחח עם עם ז&amp;#39;ניה פרומין בפרק על אמנות ואדריכלות באסלאם.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ז&amp;#39;ניה פרומין הוא המדריך הבכיר במוזיאון לאומנות האסלאם.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לפרקים נוספים - &lt;/p&gt;
+&lt;p&gt;פרק 21 - המזרח התיכון לפני שידע שהוא כזה - עם יעל רינג-בנעט&lt;/p&gt;
+&lt;p&gt;https://pod.link/aravimislam/episode/a012a6e1cbd4eb0f8048e174f1e6ef71&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;הסדרה שהוזכרה - דוקו-דרמה עם שחקנים שמציגים אירועים אמיתיים.&lt;/p&gt;
+&lt;p&gt;https://www.netflix.com/il/title/80990771&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לא לשכוח להגיב ולשתף את הפרק הזה ואחרים כדי שגם אחרים יצטרפו אל קהילת המאזינים הגדלה. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;להאזנה לשאר הפרקים - https://pod.link/aravimislam&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;הזמנת הרצאות - הכי טוב בטלפון או בוואטסאפ - 054-4455-221.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;המעוניינים לעקוב אחרי - תוסיפו aravimislam לטלגרם, לטוויטר, ליוטוב, לאינסטגרם, לפייסבוק או ההסכת (פודקאסט) שלי - אֻסְכֻּת. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;נעם בנעט - חלון למזרח התיכון המתחדש&lt;/p&gt;
+&lt;p&gt;#אסכת&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לחן והפקה מוזיקלית: רמי זכאים&lt;/p&gt;
+&lt;p&gt;קלידים: ראובן סגל&lt;/p&gt;
+&lt;p&gt;עוּד: רמי זכאים&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/aravimislam/episodes/53--------e2i2in6</link>
+			<guid isPermaLink="false">9cf39021-832e-46cd-9643-ed195cbf695c</guid>
+			<dc:creator>נעם בנעט</dc:creator>
+			<pubDate>Tue, 23 Jul 2024 14:35:21 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/6a7f6cb8/podcast/play/85067942/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-6%2F373458638-44100-2-5e9e72cbc93b7.m4a" length="71555781" type="audio/x-m4a"/>
+			<itunes:summary>פרק מאוד מעניין על אומנות ואדריכלות בשלושת הדתות הגדולות. יש פה המון מידע אבל הוא מונגש בשיחה קלילה ומעניינת.&lt;br&gt;#סיפורמעניין #אדריכלות #דת &lt;br&gt;&lt;br&gt;אסכת - פרק 53 - אמנות ואדריכלות באסלאם - עם ז'ניה פרומין&lt;br&gt;משך: שעה ו13 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/qvsabqm9&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;איך האסלאם מתייחס לאומנות ובאיזה אופן הוא הופך להיות למאבק בין ערים, מבנים ודתות? &lt;/p&gt;
+&lt;p&gt;ועל כך ועוד אשוחח עם עם ז&amp;#39;ניה פרומין בפרק על אמנות ואדריכלות באסלאם.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;ז&amp;#39;ניה פרומין הוא המדריך הבכיר במוזיאון לאומנות האסלאם.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לפרקים נוספים - &lt;/p&gt;
+&lt;p&gt;פרק 21 - המזרח התיכון לפני שידע שהוא כזה - עם יעל רינג-בנעט&lt;/p&gt;
+&lt;p&gt;https://pod.link/aravimislam/episode/a012a6e1cbd4eb0f8048e174f1e6ef71&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;הסדרה שהוזכרה - דוקו-דרמה עם שחקנים שמציגים אירועים אמיתיים.&lt;/p&gt;
+&lt;p&gt;https://www.netflix.com/il/title/80990771&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לא לשכוח להגיב ולשתף את הפרק הזה ואחרים כדי שגם אחרים יצטרפו אל קהילת המאזינים הגדלה. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;להאזנה לשאר הפרקים - https://pod.link/aravimislam&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;הזמנת הרצאות - הכי טוב בטלפון או בוואטסאפ - 054-4455-221.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;המעוניינים לעקוב אחרי - תוסיפו aravimislam לטלגרם, לטוויטר, ליוטוב, לאינסטגרם, לפייסבוק או ההסכת (פודקאסט) שלי - אֻסְכֻּת. &lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;נעם בנעט - חלון למזרח התיכון המתחדש&lt;/p&gt;
+&lt;p&gt;#אסכת&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;לחן והפקה מוזיקלית: רמי זכאים&lt;/p&gt;
+&lt;p&gt;קלידים: ראובן סגל&lt;/p&gt;
+&lt;p&gt;עוּד: רמי זכאים&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:13:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/17767358/17767358-1700336992594-eb4fc18e65f1e.jpg"/>
+			<itunes:season>3</itunes:season>
+			<itunes:episode>52</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+      <title>#188: Richard van der Blom – How the man behind the LinkedIn Algorithm Report uses LinkedIn.</title>
+      <link>https://podcast.creatorscience.com/richard-van-der-blom</link>
+      <description>שיחה על לינקדאין 😎&lt;br&gt;שיחה עם Richard van der Blom יוצר עבודת מחקר שנתית על האלגוריתם של לינקדאין ובשיחה הוא משתף מהנסיון שלו ומהממצאים האחרונים. &lt;br&gt;#אנגלית #רשתותחברתיות #לינקדאין&lt;br&gt;&lt;br&gt;Creator science - Richard van der Blom – How the man behind the LinkedIn Algorithm Report uses LinkedIn.&lt;br&gt;משך: שעה ו3 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/jvla5jjs&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Richard van der Blom is the founder of Just Connecting, a social selling and LinkedIn training consultancy based in the Netherlands. And with nearly 200,000 followers on LinkedIn, he's one of the most respected voices on the platform.
+Richard was really early to LinkedIn. And as his own reach grew, he started getting a lot of questions about how to best use the platform.
+5 years ago, Richard started creating an annual LinkedIn algorithm insights research report. This thing is a gold mine of data driven observations about how different aspects of LinkedIn are working and even how they are trending compared to the year before.
+In this episode you'll learn 
+
+Why LinkedIn reach may be down
+
+What formats are most effective right now
+
+How to use LinkedIn as a lead generation
+
+And you'll get a feature by feature breakdown of how Richard himself uses LinkedIn
+
+Full transcript and show notes
+Read the 2024 LinkedIn Algorithm Report
+Richard's Website / LinkedIn 
+Listen to episode #127 with Daniel Murray
+***
+RECOMMENDED NEXT EPISODE
+→ #170: Justin Welsh Returns
+***
+WHEN YOU'RE READY
+📬 Creator Science Newsletter
+🚀 Get CreatorHQ (creator operating system)
+🧪 Join The Lab (private membership community)
+🧞‍♂️ Get a Personalized Offer
+***
+CONNECT
+🐦 Connect on Twitter
+📸 Connect on Instagram
+💼 Connect on LinkedIn
+📹 Subscribe on YouTube
+***
+SPONSORS
+💼 View all sponsors and offers
+***
+SAY THANKS
+💜 Leave a review on Apple Podcasts
+🟢 Leave a rating on Spotify
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
+      <pubDate>Tue, 23 Jul 2024 06:55:15 +0000</pubDate>
+      <itunes:title>Richard van der Blom – How the man behind the LinkedIn Algorithm Report uses LinkedIn.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>188</itunes:episode>
+      <itunes:author>Jay Clouse</itunes:author>
+      <itunes:image href="https://megaphone.imgix.net/podcasts/8f981a24-f5b8-11ee-9a65-230705584344/image/c01785b4fffed01bfd389a20b62a1118.jpg?ixlib=rails-4.3.1&amp;max-w=3000&amp;max-h=3000&amp;fit=crop&amp;auto=format,compress"/>
+      <itunes:subtitle>Richard van der Blom creates the celebrated LinkedIn Algorithm Insights report.</itunes:subtitle>
+      <itunes:summary>שיחה על לינקדאין 😎&lt;br&gt;שיחה עם Richard van der Blom יוצר עבודת מחקר שנתית על האלגוריתם של לינקדאין ובשיחה הוא משתף מהנסיון שלו ומהממצאים האחרונים. &lt;br&gt;#אנגלית #רשתותחברתיות #לינקדאין&lt;br&gt;&lt;br&gt;Creator science - Richard van der Blom – How the man behind the LinkedIn Algorithm Report uses LinkedIn.&lt;br&gt;משך: שעה ו3 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/jvla5jjs&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Richard van der Blom is the founder of Just Connecting, a social selling and LinkedIn training consultancy based in the Netherlands. And with nearly 200,000 followers on LinkedIn, he's one of the most respected voices on the platform.
+Richard was really early to LinkedIn. And as his own reach grew, he started getting a lot of questions about how to best use the platform.
+5 years ago, Richard started creating an annual LinkedIn algorithm insights research report. This thing is a gold mine of data driven observations about how different aspects of LinkedIn are working and even how they are trending compared to the year before.
+In this episode you'll learn 
+
+Why LinkedIn reach may be down
+
+What formats are most effective right now
+
+How to use LinkedIn as a lead generation
+
+And you'll get a feature by feature breakdown of how Richard himself uses LinkedIn
+
+Full transcript and show notes
+Read the 2024 LinkedIn Algorithm Report
+Richard's Website / LinkedIn 
+Listen to episode #127 with Daniel Murray
+***
+RECOMMENDED NEXT EPISODE
+→ #170: Justin Welsh Returns
+***
+WHEN YOU'RE READY
+📬 Creator Science Newsletter
+🚀 Get CreatorHQ (creator operating system)
+🧪 Join The Lab (private membership community)
+🧞‍♂️ Get a Personalized Offer
+***
+CONNECT
+🐦 Connect on Twitter
+📸 Connect on Instagram
+💼 Connect on LinkedIn
+📹 Subscribe on YouTube
+***
+SPONSORS
+💼 View all sponsors and offers
+***
+SAY THANKS
+💜 Leave a review on Apple Podcasts
+🟢 Leave a rating on Spotify
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
+      <content:encoded>שיחה על לינקדאין 😎&lt;br&gt;שיחה עם Richard van der Blom יוצר עבודת מחקר שנתית על האלגוריתם של לינקדאין ובשיחה הוא משתף מהנסיון שלו ומהממצאים האחרונים. &lt;br&gt;#אנגלית #רשתותחברתיות #לינקדאין&lt;br&gt;&lt;br&gt;Creator science - Richard van der Blom – How the man behind the LinkedIn Algorithm Report uses LinkedIn.&lt;br&gt;משך: שעה ו3 דק'&lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/jvla5jjs&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Richard van der Blom is the founder of Just Connecting, a social selling and LinkedIn training consultancy based in the Netherlands. And with nearly 200,000 followers on LinkedIn, he's one of the most respected voices on the platform.
+Richard was really early to LinkedIn. And as his own reach grew, he started getting a lot of questions about how to best use the platform.
+5 years ago, Richard started creating an annual LinkedIn algorithm insights research report. This thing is a gold mine of data driven observations about how different aspects of LinkedIn are working and even how they are trending compared to the year before.
+In this episode you'll learn 
+
+Why LinkedIn reach may be down
+
+What formats are most effective right now
+
+How to use LinkedIn as a lead generation
+
+And you'll get a feature by feature breakdown of how Richard himself uses LinkedIn
+
+Full transcript and show notes
+Read the 2024 LinkedIn Algorithm Report
+Richard's Website / LinkedIn 
+Listen to episode #127 with Daniel Murray
+***
+RECOMMENDED NEXT EPISODE
+→ #170: Justin Welsh Returns
+***
+WHEN YOU'RE READY
+📬 Creator Science Newsletter
+🚀 Get CreatorHQ (creator operating system)
+🧪 Join The Lab (private membership community)
+🧞‍♂️ Get a Personalized Offer
+***
+CONNECT
+🐦 Connect on Twitter
+📸 Connect on Instagram
+💼 Connect on LinkedIn
+📹 Subscribe on YouTube
+***
+SPONSORS
+💼 View all sponsors and offers
+***
+SAY THANKS
+💜 Leave a review on Apple Podcasts
+🟢 Leave a rating on Spotify
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
+      <itunes:duration>3625</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <guid isPermaLink="false">8f981a24-f5b8-11ee-9a65-230705584344</guid>
+      <enclosure url="https://pdst.fm/e/chrt.fm/track/3C7AB4/traffic.megaphone.fm/ULROC3650438526.mp3?updated=1716910832" length="0" type="audio/mpeg"/>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_75970742-3c56-4ff5-94f0-94f42a63c689</guid>
       <title>Shania Twain - You're Still The One</title>
       <pubDate>Sun, 21 Jul 2024 06:55:18 +0000</pubDate>
@@ -8304,6 +8506,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>3395</itunes:duration>
       <guid isPermaLink="false">c7df4f98-dd49-11ed-b077-1b884937c39f</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/1E7F5E/traffic.megaphone.fm/ARML4100549572.mp3?updated=1681842395" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>[עושים תנ"ך] ארון הברית: הגביע הקדוש של העם היהודי – שחר ענבר</title><link>https://www.spreaker.com/episode/wsym-tn-k-rwn-hbryt-hgby-hqdws-sl-h-m-hyhwdy-shr-nbr--22688671</link><description>בפרק הזה יש התמקדות גדולה יותר על מה הוא ארון הברית. מה התיאורים שהתנ"ך מספק לנו של המראה והפונקציות של ארון הברית וכמובן איך יכולנו לאבד אותו בין דפי ההסטוריה. &lt;br&gt;#תרבות #סיפורמעניין &lt;br&gt;&lt;br&gt;עושים תנ"ך - ארון הברית: הגביע הקדוש של העם היהודי – שחר ענבר&lt;br&gt;משך: 52 דק'&lt;br&gt;&lt;br&gt;https://pca.st/xsi3x3fz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בסרט עטור הפרסים והאוסקרים "שודדי התיבה האבודה" משנת 1981, מככב אינדיאנה ג'ונס בסיפור עלילה פתלתל שכולל אתרים מסתוריים במצריים, נאצים, מכוניות מתפוצצות, מלכודות קטלניות וארון קודש אחד.&lt;br /&gt;הסרט הוא כמובן בדיוני...אבל עולה השאלה, האם גיבור הסרט, ארון הברית, הינו בעל בסיס היסטורי כלשהו? האם מדובר באגדת עם? האם באמת היה אי פעם פריט קדוש שכזה? אם כן - האם באמת היו לו כוחות מאגיים ומסתוריים? איך הוא נראה ומה היה בו? ואולי השאלה המסקרנת מכולן - אם הוא אכן היה קיים, לאן הוא נעלם?&lt;br /&gt;בפרק צופן סוד ומסתורי זה, חוקר המקרא שחר ענבר ואנוכי ננסה לענות על השאלות הללו ולפתור אי אילו תעלומות קסומות נוספות סביב סיפור ארון הברית המקודש.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;יותם.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;דף הבית של התכנית&lt;br /&gt;רשימת תפוצה בדואר האלקטרוני | iTunes | האפליקצייה שלנו לאנדרואיד | RSS Link | פייסבוק | טוויטר&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; </description><guid isPermaLink="false">https://www.ranlevi.com/?p=42817</guid><pubDate>Thu, 14 Sep 2023 05:41:01 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/22688671/32cb18ac.mp3" length="50279693" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>בסרט עטור הפרסים והאוסקרים "שודדי התיבה האבודה" משנת 1981, מככב אינדיאנה ג'ונס בסיפור עלילה פתלתל שכולל אתרים מסתוריים במצריים, נאצים, מכוניות מתפוצצות, מלכודות קטלניות וארון קודש אחד.
-הסרט הוא כמובן בדיוני...אבל עולה השאלה, האם גיבור הסרט, ארון...</itunes:subtitle><itunes:summary>בפרק הזה יש התמקדות גדולה יותר על מה הוא ארון הברית. מה התיאורים שהתנ"ך מספק לנו של המראה והפונקציות של ארון הברית וכמובן איך יכולנו לאבד אותו בין דפי ההסטוריה. &lt;br&gt;#תרבות #סיפורמעניין &lt;br&gt;&lt;br&gt;עושים תנ"ך - ארון הברית: הגביע הקדוש של העם היהודי – שחר ענבר&lt;br&gt;משך: 52 דק'&lt;br&gt;&lt;br&gt;https://pca.st/xsi3x3fz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;בסרט עטור הפרסים והאוסקרים "שודדי התיבה האבודה" משנת 1981, מככב אינדיאנה ג'ונס בסיפור עלילה פתלתל שכולל אתרים מסתוריים במצריים, נאצים, מכוניות מתפוצצות, מלכודות קטלניות וארון קודש אחד.&lt;br /&gt;הסרט הוא כמובן בדיוני...אבל עולה השאלה, האם גיבור הסרט, ארון הברית, הינו בעל בסיס היסטורי כלשהו? האם מדובר באגדת עם? האם באמת היה אי פעם פריט קדוש שכזה? אם כן - האם באמת היו לו כוחות מאגיים ומסתוריים? איך הוא נראה ומה היה בו? ואולי השאלה המסקרנת מכולן - אם הוא אכן היה קיים, לאן הוא נעלם?&lt;br /&gt;בפרק צופן סוד ומסתורי זה, חוקר המקרא שחר ענבר ואנוכי ננסה לענות על השאלות הללו ולפתור אי אילו תעלומות קסומות נוספות סביב סיפור ארון הברית המקודש.&lt;br /&gt;&lt;br /&gt;האזנה נעימה,&lt;br /&gt;יותם.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;דף הבית של התכנית&lt;br /&gt;רשימת תפוצה בדואר האלקטרוני | iTunes | האפליקצייה שלנו לאנדרואיד | RSS Link | פייסבוק | טוויטר&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt; </itunes:summary><itunes:duration>3139</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/dc1b5af3398864de8d601beb8b39fef4.jpg"/><itunes:episodeType>full</itunes:episodeType></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><category>Talk Radio</category><slash:comments>0</slash:comments><itunes:explicit>no</itunes:explicit><link>https://www.podcastone.com/episode/Episode-132--Does-Ethiopia-Have-the-Ark-of-the-Covenant-Part-II-</link><wfw:commentRss>https://www.podcastone.com/episode/Episode-132--Does-Ethiopia-Have-the-Ark-of-the-Covenant-Part-II-</wfw:commentRss><title>Episode #132- Does Ethiopia Have the Ark of the Covenant? (Part II) </title><itunes:title>Episode #132- Does Ethiopia Have the Ark of the Covenant? (Part II) </itunes:title><itunes:episodeType>full</itunes:episodeType><description>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ethiopia's history is nothing short of remarkable. The East African nation is home to one of the worlds oldest Christian traditions. For centuries the country was ruled by a line of kings who claimed to be descended from the biblical King Solomon. They also claimed to be the caretakers of the long lost Ark of the Covenant. However, Ethiopian archaeology and other historical sources can sometimes complicate these claims. How should we fit the story of the ark into a balanced understanding of Ethiopian history? Tune-in and find out how massive obelisks, ancient war gods, and an incense burning guardian all play a role in the story.</description><content:encoded>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ethiopia's history is nothing short of remarkable. The East African nation is home to one of the worlds oldest Christian traditions. For centuries the country was ruled by a line of kings who claimed to be descended from the biblical King Solomon. They also claimed to be the caretakers of the long lost Ark of the Covenant. However, Ethiopian archaeology and other historical sources can sometimes complicate these claims. How should we fit the story of the ark into a balanced understanding of Ethiopian history? Tune-in and find out how massive obelisks, ancient war gods, and an incense burning guardian all play a role in the story.</content:encoded><author>info@podcastone.com</author><guid isPermaLink="false">09b813be-0708-4942-856d-ceccdd0ea572</guid><pubDate>Thu, 14 Sep 2023 05:40:07 +0000</pubDate><itunes:author/><itunes:summary>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Ethiopia's history is nothing short of remarkable. The East African nation is home to one of the worlds oldest Christian traditions. For centuries the country was ruled by a line of kings who claimed to be descended from the biblical King Solomon. They also claimed to be the caretakers of the long lost Ark of the Covenant. However, Ethiopian archaeology and other historical sources can sometimes complicate these claims. How should we fit the story of the ark into a balanced understanding of Ethiopian history? Tune-in and find out how massive obelisks, ancient war gods, and an incense burning guardian all play a role in the story.</itunes:summary><itunes:subtitle>Ethiopia&amp;apos;s history is nothing short of remarkable. The East African nation is home to one of the worlds oldest Christian traditions. For centuries the country was ruled by a line of kings who claimed to be descended from the biblical...</itunes:subtitle><itunes:duration>01:07:02</itunes:duration><itunes:keywords/><itunes:image href="https://img.podcastone.com/images/2142/episodes/181563535_519782025698105_2922868444851983075_n.jpg"/><enclosure length="73473623" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/chrt.fm/track/E2G895/arttrk.com/p/PDPN1/pscrb.fm/rss/p/claritaspod.com/measure/aw.noxsolutions.com/launchpod/2142/Episode132-DoesEthiopiaHavetheArk_s9xf_dd0ea572.mp3?awCollectionId=2142&amp;awEpisodeId=09b813be-0708-4942-856d-ceccdd0ea572&amp;adwNewID3=true"/></item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/"><category>Talk Radio</category><slash:comments>0</slash:comments><itunes:explicit>no</itunes:explicit><link>https://www.podcastone.com/episode/Episode-131--Does-Ethiopia-Have-the-Ark-of-the-Covenant-Part-I</link><wfw:commentRss>https://www.podcastone.com/episode/Episode-131--Does-Ethiopia-Have-the-Ark-of-the-Covenant-Part-I</wfw:commentRss><title>Episode #131- Does Ethiopia Have the Ark of the Covenant? (Part I)</title><itunes:title>Episode #131- Does Ethiopia Have the Ark of the Covenant? (Part I)</itunes:title><itunes:episodeType>full</itunes:episodeType><description>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The Ark of the Covenant is one of the most fascinating objects mentioned in the Old Testament. The ancient Israelites believed the Ark held a divine power that made them unstoppable on the battlefield. When Solomon's temple in Jerusalem was destroyed by the Babylonians in 587BC, most assumed the Ark was lost. That is, except the Ethiopians. According to many pious Ethiopian Christians, the Ark was not destroyed in the sack of Jerusalem, because the Ark wasn't there that day. Could it be that the Ark of the Covenant has been safely squirreled away in Ethiopia for centuries? Tune-in and find out how thirst potions, Bob Marley, and the tiny space between cherub wings all play a role in the story.</description><content:encoded>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The Ark of the Covenant is one of the most fascinating objects mentioned in the Old Testament. The ancient Israelites believed the Ark held a divine power that made them unstoppable on the battlefield. When Solomon's temple in Jerusalem was destroyed by the Babylonians in 587BC, most assumed the Ark was lost. That is, except the Ethiopians. According to many pious Ethiopian Christians, the Ark was not destroyed in the sack of Jerusalem, because the Ark wasn't there that day. Could it be that the Ark of the Covenant has been safely squirreled away in Ethiopia for centuries? Tune-in and find out how thirst potions, Bob Marley, and the tiny space between cherub wings all play a role in the story.</content:encoded><author>info@podcastone.com</author><guid isPermaLink="false">0d5cfd6b-a052-4c93-be9f-78a63722fa7a</guid><pubDate>Thu, 14 Sep 2023 05:40:07 +0000</pubDate><itunes:author/><itunes:summary>חג שמח ושנה טובה! &lt;br&gt;לכבוד השנה החדשה בואו נדבר על אחד החפצים הכי מיתיים בתרבות שלנו - ארון הברית. אותו חפץ קדוש עוד מתקופת התורה שכולם אוהבים לחפש בכל מקום בעולם. נתחיל מהסיפור שמתמקד בתיאוריה שארון הברית נמצא באתיופיה, עוד מתקופת המלך שלמה ומלכת שבא. בדרך יש גם הסברים נוספים על התרבות האיתיופית. וכל הסיפור מאוד מעניין גם מבחינת ההיסטוריה של הארון וגם מבחינת רצף ההתפתחות הדתי של המדינה. &lt;br&gt;#הסטוריה #תרבות #אנגלית &lt;br&gt;&lt;br&gt;Our fake  history - Episode #131- Does Ethiopia Have the Ark of the Covenant?&lt;br&gt;&lt;br&gt;Part 1 - 1 hour and 1 min &lt;br&gt;https://pca.st/mtpcjoc5&lt;br&gt;&lt;br&gt;Part 2 - 1 hour and 2 min&lt;br&gt;https://pca.st/lqjxqzjz&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;The Ark of the Covenant is one of the most fascinating objects mentioned in the Old Testament. The ancient Israelites believed the Ark held a divine power that made them unstoppable on the battlefield. When Solomon's temple in Jerusalem was destroyed by the Babylonians in 587BC, most assumed the Ark was lost. That is, except the Ethiopians. According to many pious Ethiopian Christians, the Ark was not destroyed in the sack of Jerusalem, because the Ark wasn't there that day. Could it be that the Ark of the Covenant has been safely squirreled away in Ethiopia for centuries? Tune-in and find out how thirst potions, Bob Marley, and the tiny space between cherub wings all play a role in the story.</itunes:summary><itunes:subtitle>The Ark of the Covenant is one of the most fascinating objects mentioned in the Old Testament. The ancient Israelites believed the Ark held a divine power that made them unstoppable on the battlefield. When Solomon&amp;apos;s temple in...</itunes:subtitle><itunes:duration>01:08:26</itunes:duration><itunes:keywords/><itunes:image href="https://img.podcastone.com/images/2142/episodes/175501462_1227732647683674_2208949167296600195_n.jpg"/><enclosure length="77718815" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/pdst.fm/e/chrt.fm/track/E2G895/arttrk.com/p/PDPN1/pscrb.fm/rss/p/claritaspod.com/measure/aw.noxsolutions.com/launchpod/2142/Episode131-DoesEthiopiaHavetheArk_9yx4_3722fa7a.mp3?awCollectionId=2142&amp;awEpisodeId=0d5cfd6b-a052-4c93-be9f-78a63722fa7a&amp;adwNewID3=true"/></item></channel>
+    </item></channel>
 </rss>
