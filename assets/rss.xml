@@ -10,9 +10,97 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 13 Aug 2024 06:43:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 06:42:07 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>תורת השכנוע עם ד"ר מישל שטיין טיר</title>
+			<description>רטוריקה קלילה. שיחה על רטוריקה, על איך לדבר וטיפים על העברת מסרים מדוייקת. &lt;br&gt;#שיפורעצמי #השראה  &lt;br&gt;https://prnt.sc/k3n6d7R99YCo &lt;br&gt; &lt;br&gt;R.O.I positive - תורת השכנוע עם ד"ר מישל שטיין טיר &lt;br&gt;משך: 46 דק' &lt;br&gt; &lt;br&gt; https://pca.st/lx861476&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;
+מילא להעביר מסרים,
+מילא לשכנע.
+כדי לחזק, ללטש ולשדר מסר מדויק וחד - נדרשת תשומת לב ומודעות פעילה.
+(הבשורה הטובה: אפשר להשתפר!)
+
+הנה שלל דוגמאות למילים שמשתרבבות לנו בלי לשים לב ולא משרתות את המטרה.
+
+- בואי אני אתן לך סתם דוגמא
+- לעניות דעתי [השלם את החסר]
+- ניהלתי איזה שהוא פרויקט 
+- יש לי די הרבה ניסיון בתחום
+- רק עוד משהו קטן להוסיף
+- רעיון טוב, אבל [השלם את החסר]
+- כאילו, ככה, בעצם, למעשה (מילים ריקות)
+- אני חושבת/לדעתי/אני מרגישה בתחילת כל משפט
+- הצגה עצמית בסעיפים ולא כפסקה עם התחלה-אמצע וסוף
+
+זה לא מספיק להכיר בחוזקות שלנו ולשים לב למה יוצא לנו מפה.
+מומלץ להיות רגישים גם למי שמולנו.
+חשוב להתאים את הדברים שלנו לצד השני כך שיגעו וישפיעו.
+לא משנה אם מדובר בשיחה 1:1 או בהרצאה לקהל של אלף איש.
+
+יש כאלה שנוטים לאמירות מערכתיות וסגנון &amp;quot;ממלכתי&amp;quot; ומדויק.
+אחרים שצריכים שורות תחתונות, מספרים, תכלס.
+טיפוסי סטוריטלינג שיודעים ורוצים לגעת ברגש.
+ויצירתיים שאוהבים דיאלוג מאתגר, פרובוקציות ואפקטים.
+
+כל טיפוס משפיע ומושפע ממיקס אחר של בחירות מילוליות, שפת גוף ושימוש בקול ובעיניים.
+
+גם אם אנחנו לא מהמככבים ב Ted או בטלויזיה,
+לא מצלמים את עצמנו לפני מצגת,
+ואפילו לא מספיקים להתכונן לפני פגישות חשובות,
+גם לנו יש מה ללמוד ולשפר במינימום מאמץ.
+
+על כל זאת ועוד דיברתי עם ד&amp;quot;ר מישל שטיין טיר - יועצת וחוקרת מובילה בישראל בתחום הרטוריקה. 
+מישל ייסדה את האקדמיה לרטוריקה ומנהלת את התוכנית היוקרתית לאומנות הרטוריקה בהכשרת מנהלים באוניברסיטת רייכמן. מגישה את הוידיאו-קאסט ׳פרונטלית׳ בוואלה.&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/shira-lee-de-beer/episodes/ep-e2j47t2</link>
+			<guid isPermaLink="false">675900bf-06d4-4f8a-827e-380862094f00</guid>
+			<dc:creator>Shira Lee de-Beer שירה לי דה-בר</dc:creator>
+			<pubDate>Tue, 13 Aug 2024 09:20:33 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/da6aebec/podcast/play/86170978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-1%2Fac13eb56-5734-b9c0-9365-e083f71983a0.mp3" length="111917844" type="audio/mpeg"/>
+			<itunes:summary>רטוריקה קלילה. שיחה על רטוריקה, על איך לדבר וטיפים על העברת מסרים מדוייקת. &lt;br&gt;#שיפורעצמי #השראה  &lt;br&gt;https://prnt.sc/k3n6d7R99YCo &lt;br&gt; &lt;br&gt;R.O.I positive - תורת השכנוע עם ד"ר מישל שטיין טיר &lt;br&gt;משך: 46 דק' &lt;br&gt; &lt;br&gt; https://pca.st/lx861476&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;
+מילא להעביר מסרים,
+מילא לשכנע.
+כדי לחזק, ללטש ולשדר מסר מדויק וחד - נדרשת תשומת לב ומודעות פעילה.
+(הבשורה הטובה: אפשר להשתפר!)
+
+הנה שלל דוגמאות למילים שמשתרבבות לנו בלי לשים לב ולא משרתות את המטרה.
+
+- בואי אני אתן לך סתם דוגמא
+- לעניות דעתי [השלם את החסר]
+- ניהלתי איזה שהוא פרויקט 
+- יש לי די הרבה ניסיון בתחום
+- רק עוד משהו קטן להוסיף
+- רעיון טוב, אבל [השלם את החסר]
+- כאילו, ככה, בעצם, למעשה (מילים ריקות)
+- אני חושבת/לדעתי/אני מרגישה בתחילת כל משפט
+- הצגה עצמית בסעיפים ולא כפסקה עם התחלה-אמצע וסוף
+
+זה לא מספיק להכיר בחוזקות שלנו ולשים לב למה יוצא לנו מפה.
+מומלץ להיות רגישים גם למי שמולנו.
+חשוב להתאים את הדברים שלנו לצד השני כך שיגעו וישפיעו.
+לא משנה אם מדובר בשיחה 1:1 או בהרצאה לקהל של אלף איש.
+
+יש כאלה שנוטים לאמירות מערכתיות וסגנון &amp;quot;ממלכתי&amp;quot; ומדויק.
+אחרים שצריכים שורות תחתונות, מספרים, תכלס.
+טיפוסי סטוריטלינג שיודעים ורוצים לגעת ברגש.
+ויצירתיים שאוהבים דיאלוג מאתגר, פרובוקציות ואפקטים.
+
+כל טיפוס משפיע ומושפע ממיקס אחר של בחירות מילוליות, שפת גוף ושימוש בקול ובעיניים.
+
+גם אם אנחנו לא מהמככבים ב Ted או בטלויזיה,
+לא מצלמים את עצמנו לפני מצגת,
+ואפילו לא מספיקים להתכונן לפני פגישות חשובות,
+גם לנו יש מה ללמוד ולשפר במינימום מאמץ.
+
+על כל זאת ועוד דיברתי עם ד&amp;quot;ר מישל שטיין טיר - יועצת וחוקרת מובילה בישראל בתחום הרטוריקה. 
+מישל ייסדה את האקדמיה לרטוריקה ומנהלת את התוכנית היוקרתית לאומנות הרטוריקה בהכשרת מנהלים באוניברסיטת רייכמן. מגישה את הוידיאו-קאסט ׳פרונטלית׳ בוואלה.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:46:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36544403/36544403-1714567598666-13f81899d8285.jpg"/>
+			<itunes:episode>26</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Making Real Music for a Fake Band </title>
       <description>סיפור מאוד מעניין על יצירות אומנות שנוצרות במיוחד בשביל עולמות מדומיינים (סדרות, הצגות וסרטים).ובמקביל תהליך היצירה של ההצגה Stereophonic  שעלתה עכשיו בברודווי. מה בעצם צריך להיות במוזיקה שנכתבת היום כדי שנאמין שהיא מוזיקה מלפני חמישים שנה?&lt;br&gt;#מוזיקה #סיפורמעניין #אנגלית&lt;br&gt;&lt;br&gt;  Decoder ring - Making Real Music for a Fake Band &lt;br&gt;משך: 40 דק' &lt;br&gt;&lt;br&gt;https://pca.st/f7wkc1k5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Pop culture is full of fictional bands singing songs purpose-made to capture a moment, a sound. This music doesn’t organically emerge from a scene or genre, hoping to find an audience. Instead it fulfills an assignment: it needs to be 1960s folk music, 1970s guitar rock, 80s hair metal, 90s gangsta rap, and on and on.
 In this episode, we’re going to use ‘Stereophonic,’ which just opened on Broadway, as a kind of case study in how to construct songs like this. The playwright David Adjmi and his collaborator, Will Butler formerly of the band Arcade Fire, will walk us through how they did it. How they made music that needs to capture the past, but wants to speak to the present; that has to work dramatically but hopes to stand on its own; that must be plausible, but aspires to be something even more. 
@@ -8505,34 +8593,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=SubRip&amp;t=1714097622" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=WebVTT&amp;t=1714097622" type="text/vtt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=TextWithTimestamps&amp;t=1714097622" type="text/plain" language="en-us"/>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>פרק 217 - שחררו את מדיחי הכלים</title>
-        <itunes:title>פרק 217 - שחררו את מדיחי הכלים</itunes:title>
-        <link>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-217-%d7%a9%d7%97%d7%a8%d7%a8%d7%95-%d7%90%d7%aa-%d7%9e%d7%93%d7%99%d7%97%d7%99-%d7%94%d7%9b%d7%9c%d7%99%d7%9d/</link>
-                    <comments>https://regulator.podbean.com/e/%d7%a4%d7%a8%d7%a7-217-%d7%a9%d7%97%d7%a8%d7%a8%d7%95-%d7%90%d7%aa-%d7%9e%d7%93%d7%99%d7%97%d7%99-%d7%94%d7%9b%d7%9c%d7%99%d7%9d/#comments</comments>        <pubDate>Thu, 05 Oct 2023 04:10:05 +0000</pubDate>
-        <guid isPermaLink="false">regulator.podbean.com/457ef63e-aa5d-363e-9b03-cde22fe93d8d</guid>
-                      <description>אנקדוטה משעשעת לגבי מדיחי כלים וחוקים בארצות הברית. על הפעם ההיא שאובמה קבע מגבלה לכמות המים שאפשר לנצל בשטיפה אחת במדיח כלים, טראמפ ביטל אותה וביידן כנראה יבטל את הביטול.&lt;br&gt;#אנגלית #משפט #קצרים&lt;br&gt;&lt;br&gt;הרגולטור - פרק 217 - שחררו את מדיחי הכלים&lt;br&gt;משך: 6 דק' &lt;br&gt;&lt;br&gt;https://pca.st/6y1mn8ta&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בארצות הברית מתחוללת מלחמה קשה סביב הרגולציה על מדיחי הכלים. מה בדיוק קורה שם ולמה הפוליטיקאים מעבר לים חייבים לעסוק בנושא? &lt;/p&gt;
-&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-&lt;p&gt;מפיק ומגיש: גיא מור \&lt;/p&gt;
-&lt;p&gt;14.5&lt;/p&gt;
-</description>
-                      <content:encoded>אנקדוטה משעשעת לגבי מדיחי כלים וחוקים בארצות הברית. על הפעם ההיא שאובמה קבע מגבלה לכמות המים שאפשר לנצל בשטיפה אחת במדיח כלים, טראמפ ביטל אותה וביידן כנראה יבטל את הביטול.&lt;br&gt;#אנגלית #משפט #קצרים&lt;br&gt;&lt;br&gt;הרגולטור - פרק 217 - שחררו את מדיחי הכלים&lt;br&gt;משך: 6 דק' &lt;br&gt;&lt;br&gt;https://pca.st/6y1mn8ta&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בארצות הברית מתחוללת מלחמה קשה סביב הרגולציה על מדיחי הכלים. מה בדיוק קורה שם ולמה הפוליטיקאים מעבר לים חייבים לעסוק בנושא? &lt;/p&gt;
-&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-&lt;p&gt;מפיק ומגיש: גיא מור \&lt;/p&gt;
-&lt;p&gt;14.5&lt;/p&gt;
-</content:encoded>
-                    
-        <enclosure url="https://chtbl.com/track/BD81D3/mcdn.podbean.com/mf/web/4bhy2h/217_-_free_the_dishwashersa7pyo.mp3" length="7126559" type="audio/mpeg"/>
-        <itunes:summary>אנקדוטה משעשעת לגבי מדיחי כלים וחוקים בארצות הברית. על הפעם ההיא שאובמה קבע מגבלה לכמות המים שאפשר לנצל בשטיפה אחת במדיח כלים, טראמפ ביטל אותה וביידן כנראה יבטל את הביטול.&lt;br&gt;#אנגלית #משפט #קצרים&lt;br&gt;&lt;br&gt;הרגולטור - פרק 217 - שחררו את מדיחי הכלים&lt;br&gt;משך: 6 דק' &lt;br&gt;&lt;br&gt;https://pca.st/6y1mn8ta&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בארצות הברית מתחוללת מלחמה קשה סביב הרגולציה על מדיחי הכלים. מה בדיוק קורה שם ולמה הפוליטיקאים מעבר לים חייבים לעסוק בנושא? &lt;/p&gt;
-&lt;p&gt;הרגולטור - פודקאסט על מדיניות רגולציה \ &lt;/p&gt;
-&lt;p&gt;מפיק ומגיש: גיא מור \&lt;/p&gt;
-&lt;p&gt;14.5&lt;/p&gt;
-</itunes:summary>
-        <itunes:author>גיא מור</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>06:42</itunes:duration>
-                <itunes:episode>224</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-            </item></channel>
+    </item></channel>
 </rss>
