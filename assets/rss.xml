@@ -10,9 +10,36 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 14 Aug 2024 06:42:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 06:43:11 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+            <title>פרק 100 - פרופ' דן אריאלי - על כלכלה התנהגותית ויין</title>
+            <itunes:subtitle>פרק 100!
+כשזה מגיע ליין (ולא רק) אנחנו לא רציונלי…</itunes:subtitle>
+            <link>https://soundcloud.com/wineisbasic/100a</link>
+            <pubDate>Thu, 15 Aug 2024 06:01:01 +0000</pubDate>
+            <guid isPermaLink="false">tag:soundcloud,2010:tracks/1812603462</guid>
+            <description>קצת על כלכלה התנהגותית בתחום היין. מה נחשב ליין יקר ואיך אנשים מחליטים איזה יין הם קונים. &lt;br&gt;#אוכל #פסיכולוגיה &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 100 - פרופ' דן אריאלי - על כלכלה התנהגותית ויין &lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/5tjzkx3z&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק 100!
+כשזה מגיע ליין (ולא רק) אנחנו לא רציונליים ולא במקרה וזה גם לא נורא...
+מה משפיע על הבחירות שלנו ביין כזה או אחר? מה קורה במוח שלנו, מאחורי הקלעים, כשאנחנו בוחרים בקבוק יין בחנות או במסעדה?
+מאוד התרגשנו לארח את אחד המומחים הגדולים בעולם בכלכלה התנהגותית: פרופסור דן אריאלי. 
+הוא פרופסור בבית הספר למנהל עסקים של אוניברסיטת דיוק.
+ספריו פורסמו לאינספור שפות ובהם הוא מתאר בצורה קלה ופשוטה להבנה את התהליכים שעוברים על כולנו כשאנחנו בוחרים כמה לשלם ועל מה? 
+וגם איך המחיר משפיע על ההנאה שלנו מהיין אותו אנחנו לוגמים?
+https://danariely.co.il/</description>
+            <enclosure url="http://podswell.com/redirect/podswell/sha/65c056c1171987d3aec89e8c3210b9a9667d822f.mp3?name=wine" length="47990490" type="audio/mpeg"/>
+            <itunes:summary>קצת על כלכלה התנהגותית בתחום היין. מה נחשב ליין יקר ואיך אנשים מחליטים איזה יין הם קונים. &lt;br&gt;#אוכל #פסיכולוגיה &lt;br&gt;&lt;br&gt;מוצר צריכה בסיסי - פרק 100 - פרופ' דן אריאלי - על כלכלה התנהגותית ויין &lt;br&gt;משך: 49 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/5tjzkx3z&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;פרק 100!
+כשזה מגיע ליין (ולא רק) אנחנו לא רציונליים ולא במקרה וזה גם לא נורא...
+מה משפיע על הבחירות שלנו ביין כזה או אחר? מה קורה במוח שלנו, מאחורי הקלעים, כשאנחנו בוחרים בקבוק יין בחנות או במסעדה?
+מאוד התרגשנו לארח את אחד המומחים הגדולים בעולם בכלכלה התנהגותית: פרופסור דן אריאלי. 
+הוא פרופסור בבית הספר למנהל עסקים של אוניברסיטת דיוק.
+ספריו פורסמו לאינספור שפות ובהם הוא מתאר בצורה קלה ופשוטה להבנה את התהליכים שעוברים על כולנו כשאנחנו בוחרים כמה לשלם ועל מה? 
+וגם איך המחיר משפיע על ההנאה שלנו מהיין אותו אנחנו לוגמים?
+https://danariely.co.il/</itunes:summary>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>00:49:59</itunes:duration>
+            <itunes:image href="https://i1.sndcdn.com/artworks-SH7werE8IAyanDSQ-ssTx0g-t3000x3000.jpg"/>
+        </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>תורת השכנוע עם ד"ר מישל שטיין טיר</title>
 			<description>רטוריקה קלילה. שיחה על רטוריקה, על איך לדבר וטיפים על העברת מסרים מדוייקת. &lt;br&gt;#שיפורעצמי #השראה  &lt;br&gt;https://prnt.sc/k3n6d7R99YCo &lt;br&gt; &lt;br&gt;R.O.I positive - תורת השכנוע עם ד"ר מישל שטיין טיר &lt;br&gt;משך: 46 דק' &lt;br&gt; &lt;br&gt; https://pca.st/lx861476&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;
 מילא להעביר מסרים,
@@ -4979,9 +5006,9 @@ Disclaimer</content:encoded>
 			<title>פרק 10: הטוב מכולם? ספיישל הירוס 3</title>
 			<description>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
 הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
-החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת new world computing בשלושה חלקים.
+החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת New World Computing בשלושה חלקים.
 1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
-2. המוזיקה הכל כך זכורה של המשחק וניתוח מוזיקלי שלה באדיבות המוזיקאי דין כץ ריטוב.
+2. המוזיקה הכל כך זכורה של המשחק וניתוח שלה באדיבות המוזיקאי דין כץ ריטוב.
 3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
 &lt;/p&gt;
 &lt;p&gt;
@@ -5018,9 +5045,9 @@ https://twitter.com/retro_stories
 			<enclosure url="https://anchor.fm/s/da83f934/podcast/play/80433280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-25%2F6ad72cc8-186e-11d4-6f3d-128590a5c944.mp3" length="131343134" type="audio/mpeg"/>
 			<itunes:summary>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
 הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
-החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת new world computing בשלושה חלקים.
+החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת New World Computing בשלושה חלקים.
 1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
-2. המוזיקה הכל כך זכורה של המשחק וניתוח מוזיקלי שלה באדיבות המוזיקאי דין כץ ריטוב.
+2. המוזיקה הכל כך זכורה של המשחק וניתוח שלה באדיבות המוזיקאי דין כץ ריטוב.
 3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
 &lt;/p&gt;
 &lt;p&gt;
@@ -8555,43 +8582,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/ad9a442a-45f8-4157-82c2-af22013cf9c2/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="44863194" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/lover-lover-lover</link>
       <itunes:order>22</itunes:order>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>Hallucinating with AI</title>
-      <itunes:title>Hallucinating with AI</itunes:title>
-      <description>חקירה מעניינת לתוך ההזיות של בינה מלאכותית. אנחנו מכירים את המצב שבו שואלים את ChatGPT או דומיו שאלה ואז הם עונים לנו תשובה שמנוסחת ונראית כאילו היא אמיתית לחלוטין. אבל אז מתברר שאין לתשובה אפילו אחיזה קלושה במציאות. בפרק הזה מנתחים את ההזיות הללו ומסבירים איך המערכת מגיעה אליהן.&lt;br&gt;#טכנולוגיה #אנגלית #AI&lt;br&gt;&lt;br&gt;Tech stuff - Hallucinating with AI &lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;https://pca.st/6mj4zjji&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;What is an AI hallucination? What causes a chatbot to go off script and invent stuff? And is AI's tendency to rewrite history a bug or a feature?&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>חקירה מעניינת לתוך ההזיות של בינה מלאכותית. אנחנו מכירים את המצב שבו שואלים את ChatGPT או דומיו שאלה ואז הם עונים לנו תשובה שמנוסחת ונראית כאילו היא אמיתית לחלוטין. אבל אז מתברר שאין לתשובה אפילו אחיזה קלושה במציאות. בפרק הזה מנתחים את ההזיות הללו ומסבירים איך המערכת מגיעה אליהן.&lt;br&gt;#טכנולוגיה #אנגלית #AI&lt;br&gt;&lt;br&gt;Tech stuff - Hallucinating with AI &lt;br&gt;משך: 59 דק'&lt;br&gt;&lt;br&gt;https://pca.st/6mj4zjji&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;What is an AI hallucination? What causes a chatbot to go off script and invent stuff? And is AI's tendency to rewrite history a bug or a feature?&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <category>ChatGPT</category>
-      <category>Google Bard</category>
-      <category>OpenAI</category>
-      <category>AI</category>
-      <category>artificial intelligence</category>
-      <category>chatbot</category>
-      <category>large language model</category>
-      <category>machine learning</category>
-      <category>deep learning</category>
-      <category>neural network</category>
-      <category>natural language processing</category>
-      <category>hallucination</category>
-      <category>confabulation</category>
-      <category>statistics</category>
-      <category>probability</category>
-      <itunes:keywords>ChatGPT, Google Bard, OpenAI, AI, artificial intelligence, chatbot, large language model, machine learning, deep learning, neural network, natural language processing, hallucination, confabulation, statistics, probability</itunes:keywords>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>iHeartPodcasts</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large"/>
-      <media:content url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/techstuff/hallucinating-with-ai/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/image.jpg?t=1684863997&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">3a57ecf7-bf26-4c9f-a77c-afee014bb58a</guid>
-      <omny:clipId>3a57ecf7-bf26-4c9f-a77c-afee014bb58a</omny:clipId>
-      <pubDate>Thu, 05 Oct 2023 04:11:02 +0000</pubDate>
-      <itunes:duration>2869</itunes:duration>
-      <enclosure url="https://chtbl.com/track/5899E/podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/d02e7811-037c-4b4c-ba2d-ae2b00350ef0/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/audio.mp3?utm_source=Podcast&amp;in_playlist=659ad4ad-c26b-48a7-bb34-ae2b00350f07" length="45962614" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/techstuff/hallucinating-with-ai</link>
-      <itunes:explicit>clean</itunes:explicit>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=SubRip&amp;t=1714097622" type="application/srt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=WebVTT&amp;t=1714097622" type="text/vtt" language="en-us"/>
-      <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3a57ecf7-bf26-4c9f-a77c-afee014bb58a/transcript?format=TextWithTimestamps&amp;t=1714097622" type="text/plain" language="en-us"/>
     </item></channel>
 </rss>
