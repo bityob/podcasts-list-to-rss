@@ -10,9 +10,26 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 21 Aug 2024 06:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 06:42:43 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>מאני טוקס 44 - דירות ממש בזול</title>
+			<description>פרק קצר שכל תכליתו היא להגיד שימו לב. שימו לב לעסקאות שמציעים כרגע בשוק הנדלן הן לא בהכרח רעות אבל כמו כל עסקה, במיוחד עסקה בשווי כל כך גבוה כמו נדלן, צריך לשים לב גם לאותיות הקטנות וגם למודל העסקי של מה שמוכרים לכם.&lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מאני טוקס 44 - דירות ממש בזול &lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5p2g8186&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אבי שטרן וימית אפריאט, יועצת משכנתאות, מדברים על תופעה פופולרית שיש לה צד אפל: עסקאות פריסייל שבהן נדרש הון עצמי נמוך לקניית דירה על הנייר. העסקאות האלו פופולריות מאוד בשנה האחרונה, אבל ממש עכשיו בנק ישראל החליט שהוא מתלבש על העניין, מכיוון שיש חשש גדול שמשהו לא סבבה קורה שם. רוצים לדעת מה הסיפור? תאזינו לפרק ♥️&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/avi-stern/episodes/44---e2n2dhn</link>
+			<guid isPermaLink="false">f982ce16-9f3f-4e1b-807a-331b31cf6d4d</guid>
+			<dc:creator>Avi Stern</dc:creator>
+			<pubDate>Thu, 22 Aug 2024 06:05:15 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/7f98c540/podcast/play/90305527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-11%2F7d764b32-4321-3f8a-ce68-53c5b0874cba.mp3" length="38601583" type="audio/mpeg"/>
+			<itunes:summary>פרק קצר שכל תכליתו היא להגיד שימו לב. שימו לב לעסקאות שמציעים כרגע בשוק הנדלן הן לא בהכרח רעות אבל כמו כל עסקה, במיוחד עסקה בשווי כל כך גבוה כמו נדלן, צריך לשים לב גם לאותיות הקטנות וגם למודל העסקי של מה שמוכרים לכם.&lt;br&gt;#כלכלה #ישראל &lt;br&gt;&lt;br&gt;מאני טוקס 44 - דירות ממש בזול &lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5p2g8186&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אבי שטרן וימית אפריאט, יועצת משכנתאות, מדברים על תופעה פופולרית שיש לה צד אפל: עסקאות פריסייל שבהן נדרש הון עצמי נמוך לקניית דירה על הנייר. העסקאות האלו פופולריות מאוד בשנה האחרונה, אבל ממש עכשיו בנק ישראל החליט שהוא מתלבש על העניין, מכיוון שיש חשש גדול שמשהו לא סבבה קורה שם. רוצים לדעת מה הסיפור? תאזינו לפרק ♥️&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:48</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded/21307184/21307184-1643013790048-8c061198b77b2.jpg"/>
+			<itunes:season>2</itunes:season>
+			<itunes:episode>44</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
         <title>פרק #911 - אוהד כהן סוכן שחקנים</title>
         <itunes:title>פרק #911 - אוהד כהן סוכן שחקנים</itunes:title>
         <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-911-%d7%90%d7%95%d7%94%d7%93-%d7%9b%d7%94%d7%9f-%d7%a1%d7%95%d7%9b%d7%9f-%d7%a9%d7%97%d7%a7%d7%a0%d7%99%d7%9d/</link>
@@ -2519,7 +2536,7 @@ Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franc
       <itunes:title>The #1 Mindset Holding You Back in Life</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>142</itunes:episode>
-      <itunes:author>Her First $100K</itunes:author>
+      <itunes:author>Her First $100K | YAP Media</itunes:author>
       <itunes:subtitle>In this episode, Tori unpacks the harmful effects of this mindset and offers practical strategies for overcoming it.</itunes:subtitle>
       <itunes:summary>פרק שכל כולו מוקדש לנסיון להכניס נקודה ממש פשוטה לראש הקולקטיבי שלנו - לא חייבים לעשות הכל מושלם, זאת לא משוואה של הכל או כלום. בהמון המון תחומים אנחנו נסחפים ולא עושים דברים רק כי אנחנו מפחדים שלא נהיה בראש או כי אנחנו מפחדים שלא נצליח - אז אנחנו מוותרים מראש.&lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית&lt;br&gt;&lt;br&gt;Financial feminist - The #1 Mindset Holding You Back in Life&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rtmxqnob&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Have you ever wanted to do something — overhaul your health, change your body, start a new career, reach a financial goal — and become utterly overwhelmed just thinking about all the things you’d have to do to achieve it? You’re not the only one. For many of us, it’s not the fear of failure that is holding us back in life, it’s the “go big or go home” mindset that stops us from progressing. The attitude that it has to be all or nothing.
 In this episode, Tori unpacks the harmful effects of this mindset and offers practical strategies for overcoming it.
@@ -4289,7 +4306,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>96</itunes:order>
+      <itunes:order>97</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -6958,7 +6975,37 @@ This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-chec
         <itunes:duration>01:26:38</itunes:duration>
                 <itunes:episode>790</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2023-09-29_at_124202_PMa132n.jpeg"/>    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2023-09-29_at_124202_PMa132n.jpeg"/>    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <guid isPermaLink="false">prx_93_a535f4db-ce6d-444a-860e-706ee08d6dd3</guid>
+      <title>Seal - Kiss from a Rose</title>
+      <pubDate>Tue, 19 Dec 2023 04:35:08 +0000</pubDate>
+      <link>http://songexploder.net/seal</link>
+      <description>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/a535f4db-ce6d-444a-860e-706ee08d6dd3/SongExploder250_Seal.mp3" type="audio/mpeg" length="32866290"/>
+      <itunes:subtitle>Seal breaks down his iconic song "Kiss from a Rose" alongside producer Trevor Horn. </itunes:subtitle>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>250</itunes:episode>
+      <itunes:duration>22:49</itunes:duration>
+      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
+      <itunes:author>Hrishikesh Hirway</itunes:author>
+      <itunes:summary>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/song-exploder/a535f4db-ce6d-444a-860e-706ee08d6dd3/images/e4970e82-2e54-46fa-84cd-52a40a49b76d/SongExploder250_Seal_Portrait.jpg"/>
+      <media:content fileSize="32866290" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/a535f4db-ce6d-444a-860e-706ee08d6dd3/SongExploder250_Seal.mp3"/>
+      <content:encoded>פרק חמוד על שיר שהרבה אנשים עדיין זוכרים מהסרט באטמן לנצח.&lt;br&gt;זאת שיחה עם היוצר שלו, שמספר מה עמד מאחורי השיר ואיך הוא כמעט לא הגיע לתודעה של הציבור הרחב.&lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/s8m2hNmIXmR6&lt;br&gt;&lt;br&gt;Song exploder - Seal - Kiss from a Rose&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/vaf6asl5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Seal is a multi-Grammy-winning singer and songwriter from England. His song “Kiss from a Rose” was first released in 1994, on his second album. It was a huge hit, thanks in part to being featured in the movie Batman Forever. It landed on the top ten charts in multiple countries, and eventually went quadruple platinum in the US. At the 1996 Grammys, it won Song of the Year, Record of the Year, and Best Male Pop Vocal Performance. But "Kiss from a Rose" becoming a hit was not a foregone conclusion. Seal almost didn’t record it. And when it was first released, it didn’t make much of a splash. But for this episode, the 250th episode of Song Exploder, Seal and his longtime collaborator, producer Trevor Horn, told me the story of what it took to bring "Kiss from a Rose" to life.&lt;/p&gt;
+
+&lt;p&gt;For more, visit &lt;a href="http://songexploder.net/seal" rel="nofollow" target="_blank"&gt;songexploder.net/seal&lt;/a&gt;.&lt;/p&gt;
+      </content:encoded>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 45: טניה קורח, מנהלת שיווק במגדל אור - עמותת יעדים לצפון</title>
 			<description>שיחה מעניינת לכל מי שעושה שיווק לעמותות. יש פה הרבה סיפורים וטיפים איך לדבר לקהלים שונים בתקציב נמוך. טניה קורח מעמותת מגדלור לעיוורים ובעלי לקות ראיה, מספרת על העמותה שלה ועל איך היא מתווכת אותה לעולם. עשייה מדהימה לחלוטין. &lt;br&gt;#שיווק &lt;br&gt;&lt;br&gt;Antimarketing - פרק 45: טניה קורח, מנהלת שיווק במגדל אור - עמותת יעדים לצפון&lt;br&gt;משך: 44 דק' &lt;br&gt;&lt;br&gt;https://pca.st/1zyilz5b&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;
 
@@ -8373,137 +8420,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<itunes:season>1</itunes:season>
 			<itunes:episode>17</itunes:episode>
 			<itunes:episodeType>full</itunes:episodeType>
-		</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
-      <category>Talk Radio</category>
-      <slash:comments>0</slash:comments>
-      <itunes:explicit>no</itunes:explicit>
-      <podcast:transcript type="text/html" url="https://www.podcastone.com/episode/839-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-Two?view=transcript"/>
-      <link>https://www.podcastone.com/episode/839-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-Two</link>
-      <wfw:commentRss>https://www.podcastone.com/episode/839-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-Two</wfw:commentRss>
-      <title>839: David Packouz | The Real-Life "War Dogs" Gun-Runner Part Two</title>
-      <itunes:title>839: David Packouz | The Real-Life "War Dogs" Gun-Runner Part Two</itunes:title>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>839</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_self"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_self"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_self"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part two of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-one/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Catch up with part one here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/839" target="_self"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/839&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_self"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-</description>
-      <content:encoded>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_self"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_self"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_self"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part two of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-one/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Catch up with part one here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/839" target="_self"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/839&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_self"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-</content:encoded>
-      <author>info@podcastone.com</author>
-      <guid isPermaLink="false">2f82bc54-e03d-4894-bc03-95dab63a0f0b</guid>
-      <pubDate>Sun, 15 Oct 2023 04:01:01 +0000</pubDate>
-      <itunes:author>Jordan Harbinger</itunes:author>
-      <itunes:summary>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_self"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_self"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_self"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part two of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-one/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Catch up with part one here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/839" target="_self"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/839&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_self"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-</itunes:summary>
-      <itunes:subtitle>David Packouz is a former arms dealer whose story was portrayed in the movie War Dogs with Jonah Hill, Miles Teller, and Bradley Cooper. This is part 2/2!</itunes:subtitle>
-      <itunes:duration>01:28:20</itunes:duration>
-      <itunes:keywords>Jordan Harbinger,The Jordan Harbinger Show,Entrepreneur,Self-help,Motivation,Motivational speaker,Fitness,Nutrition,Dating,Relationships,Lifestyle,Advice,David Packouz,War Dogs</itunes:keywords>
-      <itunes:image href="https://img.podcastone.com/images/1237/episodes/839-david-packouz.jpg"/>
-      <enclosure length="88094608" type="audio/mpeg" url="https://prefix.up.audio/s/dts.podtrac.com/redirect.mp3/pdst.fm/e/chrt.fm/track/E2G895/arttrk.com/p/PDPN1/pscrb.fm/rss/p/swap.fm/track/0rfjk5dlUYvVVB1j4JMa/aw.noxsolutions.com/launchpod/adswizz/1237/839-DavidPackouzPt2_wokx_b63a0f0b.mp3?awCollectionId=1237&amp;awEpisodeId=2f82bc54-e03d-4894-bc03-95dab63a0f0b&amp;adwNewID3=true&amp;awNetwork=309"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
-      <category>Talk Radio</category>
-      <slash:comments>0</slash:comments>
-      <itunes:explicit>no</itunes:explicit>
-      <podcast:transcript type="text/html" url="https://www.podcastone.com/episode/838-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-One?view=transcript"/>
-      <link>https://www.podcastone.com/episode/838-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-One</link>
-      <wfw:commentRss>https://www.podcastone.com/episode/838-David-Packouz--The-Real-Life-War-Dogs-Gun-Runner-Part-One</wfw:commentRss>
-      <title>838: David Packouz | The Real-Life "War Dogs" Gun-Runner Part One</title>
-      <itunes:title>838: David Packouz | The Real-Life "War Dogs" Gun-Runner Part One</itunes:title>
-      <itunes:season>1</itunes:season>
-      <itunes:episode>838</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_blank"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_blank"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_blank"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part one of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-two/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Carry on to part two here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/838" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/838&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;
-</description>
-      <content:encoded>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_blank"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_blank"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_blank"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part one of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-two/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Carry on to part two here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/838" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/838&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;
-</content:encoded>
-      <author>info@podcastone.com</author>
-      <guid isPermaLink="false">93888259-8e6d-4f38-9592-f5dba0967e3a</guid>
-      <pubDate>Sun, 15 Oct 2023 04:01:01 +0000</pubDate>
-      <itunes:author>Jordan Harbinger</itunes:author>
-      <itunes:summary>כלב המלחמה שמאחורי הסרט כלבי המלחמה.&lt;br&gt;תזכורת קלה, הסרט "כלבי המלחמה" (2016) עוקב אחר שני סוחרי נשק, אפרים דיברולי ודייוויד פאקוץ, אשר זוכים במכרז של צבא ארצות הברית לאספקת תחמושת לצבא הלאומי של אפגניסטן בשווי של כ-300 מיליון דולר.&lt;br&gt;ראיון עם דיוויד פאקוץ שהשתקם והפך ליזם ומוזיקאי. יש כאן הרבה פרטים מעניינים על ההבדל בין הסרט למציאות וגם סיפורים מתוך עולמם של סוחרי נשק.&lt;br&gt;#קולנוע #אנגלית #תרבות &lt;br&gt;&lt;br&gt;https://prnt.sc/54MwTAluYR65&lt;br&gt;&lt;br&gt;The Jordan Harbinger show -838: David Packouz | The Real-Life "War Dogs" Gun-Runner&lt;br&gt;חלק 1 - שעה ו30 דק' &lt;br&gt;https://pca.st/nonvy2mu&lt;br&gt;&lt;br&gt;חלק 2 - שעה ו28 דק'&lt;br&gt;https://pca.st/00h3m4oa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;strong&gt;David Packouz&lt;/strong&gt; (&lt;a href="https://twitter.com/DavidPackouz" target="_blank"&gt;@DavidPackouz&lt;/a&gt;) is an entrepreneur, inventor, musician, and CEO of &lt;a href="https://www.singularsound.com/" target="_blank"&gt;Singular Sound&lt;/a&gt;. He's also a former arms dealer, whose story was portrayed in the movie &lt;a href="https://www.amazon.com/War-Dogs-Jonah-Hill/dp/B01KGS9H5E/?tag=jordanharbing-20" target="_blank"&gt;&lt;em&gt;War Dogs&lt;/em&gt;&lt;/a&gt; with Jonah Hill, Miles Teller, Ana de Armas, and Bradley Cooper. &lt;strong&gt;&lt;em&gt;[This is part one of a two-part episode. &lt;/em&gt;&lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/david-packouz-the-real-life-war-dogs-gun-runner-part-two/" target="_self"&gt;&lt;strong&gt;&lt;em&gt;Carry on to part two here&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;!]&lt;/em&gt;&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;What We Discuss with David Packouz:&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;How does an Orthodox Jew with 10 siblings&lt;/strong&gt; become an international arms dealer?&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How federal government contracts work&lt;/strong&gt; — and why some of them almost always go over budget.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How corruption at every level of the Russian government&lt;/strong&gt; hamstrings its military and stifles innovation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;How David and his partner Efraim Diveroli got hooked up with lucrative government arms deals&lt;/strong&gt; when they were barely adults.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;The countless ways in which Efraim is not as charming as Jonah Hill&lt;/strong&gt; made him out to be in War Dogs.&lt;/li&gt;
-&lt;li&gt;And much more...&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;Full show notes and resources can be found here: &lt;/strong&gt;&lt;/span&gt;&lt;a href="https://jordanharbinger.com/838" target="_blank"&gt;&lt;span style="color: rgb(255,0,0);"&gt;&lt;strong&gt;jordanharbinger.com/838&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;This Episode Is Brought To You By Our Fine Sponsors: &lt;/strong&gt;&lt;a href="https://www.jordanharbinger.com/deals/" target="_self"&gt;&lt;strong&gt;jordanharbinger.com/deals&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Sign up for &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;Six-Minute Networking&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — our free networking and relationship development mini course — at &lt;/strong&gt;&lt;a href="https://jordanharbinger.com/course" target="_blank"&gt;&lt;strong&gt;jordanharbinger.com/course&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;!&lt;/strong&gt;&amp;nbsp;&lt;/p&gt;
-&lt;p&gt;&lt;a href="https://itunes.apple.com/podcast/id1344999619?mt=2&amp;ls=1" target="_blank"&gt;&lt;strong&gt;Like this show? Please leave us a review here&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; — even one sentence helps! Consider including your Twitter handle so we can thank you personally!&lt;/strong&gt;&lt;/p&gt;
-</itunes:summary>
-      <itunes:subtitle>David Packouz is a former arms dealer whose story was portrayed in the movie War Dogs with Jonah Hill, Miles Teller, and Bradley Cooper. This is part 1/2!</itunes:subtitle>
-      <itunes:duration>01:36:45</itunes:duration>
-      <itunes:keywords>Jordan Harbinger,The Jordan Harbinger Show,Entrepreneur,Self-help,Motivation,Motivational speaker,Fitness,Nutrition,Dating,Relationships,Lifestyle,Advice,David Packouz,War Dogs</itunes:keywords>
-      <itunes:image href="https://img.podcastone.com/images/1237/episodes/838-david-packouz.jpg"/>
-      <enclosure length="95816994" type="audio/mpeg" url="https://prefix.up.audio/s/dts.podtrac.com/redirect.mp3/pdst.fm/e/chrt.fm/track/E2G895/arttrk.com/p/PDPN1/pscrb.fm/rss/p/swap.fm/track/0rfjk5dlUYvVVB1j4JMa/aw.noxsolutions.com/launchpod/adswizz/1237/838-DavidPackouz-V2_cdic_a0967e3a.mp3?awCollectionId=1237&amp;awEpisodeId=93888259-8e6d-4f38-9592-f5dba0967e3a&amp;adwNewID3=true&amp;awNetwork=309"/>
-    </item></channel>
+		</item></channel>
 </rss>
