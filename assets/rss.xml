@@ -10,9 +10,27 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 29 Oct 2024 06:47:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 06:46:47 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>האזנה מודרכת - Yellow - Coldplay</title>
+      <itunes:title>האזנה מודרכת - Yellow - Coldplay</itunes:title>
+      <description>סיפורו של שיר ולהקה. סיפור היצירה של השיר Yellow של קולדפליי. &lt;br&gt;#מוזיקה &lt;br&gt;https://prnt.sc/at7BIG3H9bGS&lt;br&gt;&lt;br&gt;האזנה מודרכת - Yellow - Coldplay &lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/3rd49fjy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;היום, לבקשתו של המילואימניק אליהו רוזנפלדר. אנחנו עם&lt;/p&gt; &lt;p dir="rtl"&gt; Yellow של קולדפליי&lt;br&gt;על תחילת הדרך של אחת מהלהקות הגדולות האחרונות, על אלבום הביכורים שלהם שהפך אותם ללהקה הכי גדולה באנגליה מאז אואזיס, על הקשר המפותל עם ישראל לאורך השנים ובייחוד בשבועות האחרונים, ומה קשורים ניל יאנג וג׳ף באקלי?&lt;br&gt;לא מתרגלים עד שכולם חוזרים&lt;/p&gt;</description>
+      <content:encoded>סיפורו של שיר ולהקה. סיפור היצירה של השיר Yellow של קולדפליי. &lt;br&gt;#מוזיקה &lt;br&gt;https://prnt.sc/at7BIG3H9bGS&lt;br&gt;&lt;br&gt;האזנה מודרכת - Yellow - Coldplay &lt;br&gt;משך: 26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/3rd49fjy&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;היום, לבקשתו של המילואימניק אליהו רוזנפלדר. אנחנו עם&lt;/p&gt; &lt;p dir="rtl"&gt; Yellow של קולדפליי&lt;br&gt;על תחילת הדרך של אחת מהלהקות הגדולות האחרונות, על אלבום הביכורים שלהם שהפך אותם ללהקה הכי גדולה באנגליה מאז אואזיס, על הקשר המפותל עם ישראל לאורך השנים ובייחוד בשבועות האחרונים, ומה קשורים ניל יאנג וג׳ף באקלי?&lt;br&gt;לא מתרגלים עד שכולם חוזרים&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>גלגלצ</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/8aa7082f-7c89-48b2-b064-b19600ad6f5e/image.jpg?t=1718966040&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/8aa7082f-7c89-48b2-b064-b19600ad6f5e/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/haazanamudrechet/yellow-coldplay/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/8aa7082f-7c89-48b2-b064-b19600ad6f5e/image.jpg?t=1718966040&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">8aa7082f-7c89-48b2-b064-b19600ad6f5e</guid>
+      <omny:clipId>8aa7082f-7c89-48b2-b064-b19600ad6f5e</omny:clipId>
+      <pubDate>Tue, 29 Oct 2024 15:15:13 +0000</pubDate>
+      <itunes:duration>1599</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/8aa7082f-7c89-48b2-b064-b19600ad6f5e/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" length="25614511" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/haazanamudrechet/yellow-coldplay</link>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">7663cc70-2c96-4589-8892-17cefa932c05</guid>
       <title>Brilliantly Boring</title>
       <description>פרק שמוקדש לחובבי הפודקאסט - 99% Invisible, רומן מארס מספר איך נולד השם ואיך נולד הקונספט של להתמקד בדברים השקופים בחיים. &lt;br&gt;הסבר של הקונספט של הדברים היומיומיים שאנחנו לא רואים כי הם עובדים טוב ולכן הם משעממים אותנו. &lt;br&gt;#אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;99% Invisible - Brilliantly Boring&lt;br&gt;משך: 27 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ly6itbwu&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In this bonus episode, Roman unearths the surprising story behind the 99% Invisible's name and delves into the unnoticed brilliance of everyday design—from the origins of reinforced concrete to the artistry of Japan’s manhole covers. &lt;/p&gt;&lt;p&gt;This episode is sponsored by PNC Bank, where “brilliantly boring” means stability that allows you to focus on what truly matters.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=42846" target="_blank"&gt;Brilliantly Boring&lt;/a&gt;&lt;/p&gt;
@@ -1422,7 +1440,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<enclosure length="94081920" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/the_word_for_blue_-_no_metadata.mp3?dest-id=94300"/>
 			<itunes:duration>39:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>Science,color,blue,sciencehistory,colorperception</itunes:keywords>
+			<itunes:keywords>science,color,blue,sciencehistory,colorperception</itunes:keywords>
 			<itunes:subtitle>In his epic poem, The Odyssey, Homer mentions the colors black, white, red, and yellow. But despite numerous mentions of the brilliant Greek sea and sky, the word blue never makes an appearance.  This omission set off a debate between...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
@@ -4651,7 +4669,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 </itunes:summary>
 
 				<itunes:explicit>no</itunes:explicit>
-					<enclosure url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/this-is-uncomfortable/2024/03/07/tiu_20240307_TIU_S9_K_Beauty_128.mp3?awEpisodeId=https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais/you-used-to-be-so-pretty&amp;aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais" type="audio/mpeg" length="12342555"/>
+					<enclosure url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/3G835/pdst.fm/e/play.publicradio.org/wp-feed/o/marketplace/this-is-uncomfortable/2024/03/07/tiu_20240307_TIU_S9_K_Beauty_128.mp3?awEpisodeId=https://www.marketplace.org/shows/this-is-uncomfortable-reema-khrais/you-used-to-be-so-pretty&amp;awCollectionId=mkp-THisUnComfy&amp;awGenre=%5B&quot;Talk&quot;,&quot;Society%20and%20Culture&quot;%5D&amp;aw_0_cnt.rss=https://www.marketplace.org/feed/podcast/this-is-uncomfortable-reema-khrais" type="audio/mpeg" length="12342555"/>
 
 				  <itunes:duration>00:40:26</itunes:duration>
 <post-id xmlns="com-wordpress:feed-additions:1">1060593</post-id>	</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -5947,7 +5965,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>118</itunes:order>
+      <itunes:order>119</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -8456,76 +8474,5 @@ You can find transcripts (posted midday) and more episodes of “The Ezra Klein 
 This episode of “The Ezra Klein Show” was produced by Emefa Agawu. Fact-checking by Michelle Harris, with Mary Marge Locker and Kate Sinclair. Our senior engineer is Jeff Geld. Our senior editor is Rogé Karma. The show’s production team also includes Rollin Hu and Kristin Lin. Original music by Isaac Jones. Audience strategy by Kristina Samulewski and Shannon Busta. The executive producer of New York Times Opinion Audio is Annie-Rose Strasser. And special thanks to Sonia Herrero.</itunes:subtitle>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
-        <title>פרק #784 - גילי יובל משוררת טק</title>
-        <itunes:title>פרק #784 - גילי יובל משוררת טק</itunes:title>
-        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-784-%d7%92%d7%99%d7%9c%d7%99-%d7%99%d7%95%d7%91%d7%9c-%d7%9e%d7%a9%d7%95%d7%a8%d7%a8%d7%aa-%d7%98%d7%a7/</link>
-                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-784-%d7%92%d7%99%d7%9c%d7%99-%d7%99%d7%95%d7%91%d7%9c-%d7%9e%d7%a9%d7%95%d7%a8%d7%a8%d7%aa-%d7%98%d7%a7/#comments</comments>        <pubDate>Thu, 21 Dec 2023 04:30:18 +0000</pubDate>
-        <guid isPermaLink="false">geekonomy.podbean.com/1f27bd17-2442-3b3c-ad04-7cdc7537dbf9</guid>
-                                    <description>שיחה מעולה עם משוררת טק.  גילי יובל היא משוררת קצת שונה מאלו שאנחנו רגילים אליהם - היא כותבת שירה על הייטק ועל סיטואציות מוכרות מעולם העבודה. יש פה הרבה שיח על הייטק, על נשים, ובעיקר על מודעות עצמית.&lt;br&gt;#ראיוןמעניין &lt;br&gt;https://prnt.sc/UE3X9eIGMctA&lt;br&gt;&lt;br&gt;גיקונומי - פרק #784 - גילי יובל משוררת טק&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5lwzyjn4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;גילי יובל היא משוררת טק, למרות שהיא טוענת שהיא לא משוררת ולא בטק. כך או כך, היא כתבה שני ספרי שירה נהדרים שעוסקים בתרבות העבודה ומתרכזת בעולם הטכנולוגיה. הספרים שלה צברו פופולריות רבה מאז שפורסמו והתפתחה קהילה גדולה של אנשים שנהנו מהם.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-ספרי השירה של גילי, עולם העבודה, עבדים, פריבילגיות, גוגל, שליחי וולט, מקל בטוסיק, הוצאה של מקל מהטוסיק, לינקדאין, כמה מטופשים פוסטים בלינקדאין לפעמים, הצלחה עסקית, כשלונות עסקיים, תסמונת המתחזה, הפרק של ראם עם יותם זמרי, המעבר של גילי לאנגליה, ארצות הברית, כשלונות
-
- 
-
-נותני החסות של הפרק:
-&lt;a href='https://extra.tech/he/%D7%A2%D7%9E%D7%95%D7%93-%D7%94%D7%91%D7%99%D7%AA/'&gt;חברת אקסטרא טק&lt;/a&gt;
-&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
-
- 
-
-לינקים מהפרק:
-&lt;a href='https://geekonomy.net/2022/06/28/geekonomy573/'&gt;הפרק עם משה פרידמן בגיקונומי&lt;/a&gt;
-&lt;a href='https://www.hakovetz.com/'&gt;האתר של גילי יובל&lt;/a&gt;
-&lt;a href='https://m.facebook.com/VeHaEved/'&gt;הקהילה שצמחה מסביב לספרי השירה של גילי&lt;/a&gt;</description>
-                                                            <content:encoded>שיחה מעולה עם משוררת טק.  גילי יובל היא משוררת קצת שונה מאלו שאנחנו רגילים אליהם - היא כותבת שירה על הייטק ועל סיטואציות מוכרות מעולם העבודה. יש פה הרבה שיח על הייטק, על נשים, ובעיקר על מודעות עצמית.&lt;br&gt;#ראיוןמעניין &lt;br&gt;https://prnt.sc/UE3X9eIGMctA&lt;br&gt;&lt;br&gt;גיקונומי - פרק #784 - גילי יובל משוררת טק&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5lwzyjn4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;גילי יובל היא משוררת טק, למרות שהיא טוענת שהיא לא משוררת ולא בטק. כך או כך, היא כתבה שני ספרי שירה נהדרים שעוסקים בתרבות העבודה ומתרכזת בעולם הטכנולוגיה. הספרים שלה צברו פופולריות רבה מאז שפורסמו והתפתחה קהילה גדולה של אנשים שנהנו מהם.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-ספרי השירה של גילי, עולם העבודה, עבדים, פריבילגיות, גוגל, שליחי וולט, מקל בטוסיק, הוצאה של מקל מהטוסיק, לינקדאין, כמה מטופשים פוסטים בלינקדאין לפעמים, הצלחה עסקית, כשלונות עסקיים, תסמונת המתחזה, הפרק של ראם עם יותם זמרי, המעבר של גילי לאנגליה, ארצות הברית, כשלונות
-
- 
-
-נותני החסות של הפרק:
-&lt;a href='https://extra.tech/he/%D7%A2%D7%9E%D7%95%D7%93-%D7%94%D7%91%D7%99%D7%AA/'&gt;חברת אקסטרא טק&lt;/a&gt;
-&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
-
- 
-
-לינקים מהפרק:
-&lt;a href='https://geekonomy.net/2022/06/28/geekonomy573/'&gt;הפרק עם משה פרידמן בגיקונומי&lt;/a&gt;
-&lt;a href='https://www.hakovetz.com/'&gt;האתר של גילי יובל&lt;/a&gt;
-&lt;a href='https://m.facebook.com/VeHaEved/'&gt;הקהילה שצמחה מסביב לספרי השירה של גילי&lt;/a&gt;</content:encoded>
-                                    
-        <enclosure url="https://mcdn.podbean.com/mf/web/uv4aq8/geekonomy784.mp3" length="83187024" type="audio/mpeg"/>
-        <itunes:summary>שיחה מעולה עם משוררת טק.  גילי יובל היא משוררת קצת שונה מאלו שאנחנו רגילים אליהם - היא כותבת שירה על הייטק ועל סיטואציות מוכרות מעולם העבודה. יש פה הרבה שיח על הייטק, על נשים, ובעיקר על מודעות עצמית.&lt;br&gt;#ראיוןמעניין &lt;br&gt;https://prnt.sc/UE3X9eIGMctA&lt;br&gt;&lt;br&gt;גיקונומי - פרק #784 - גילי יובל משוררת טק&lt;br&gt;משך: שעה ו26 דק' &lt;br&gt;&lt;br&gt;https://pca.st/5lwzyjn4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;גילי יובל היא משוררת טק, למרות שהיא טוענת שהיא לא משוררת ולא בטק. כך או כך, היא כתבה שני ספרי שירה נהדרים שעוסקים בתרבות העבודה ומתרכזת בעולם הטכנולוגיה. הספרים שלה צברו פופולריות רבה מאז שפורסמו והתפתחה קהילה גדולה של אנשים שנהנו מהם.&lt;/p&gt;
-
- 
-
-על מה דיברנו:
-ספרי השירה של גילי, עולם העבודה, עבדים, פריבילגיות, גוגל, שליחי וולט, מקל בטוסיק, הוצאה של מקל מהטוסיק, לינקדאין, כמה מטופשים פוסטים בלינקדאין לפעמים, הצלחה עסקית, כשלונות עסקיים, תסמונת המתחזה, הפרק של ראם עם יותם זמרי, המעבר של גילי לאנגליה, ארצות הברית, כשלונות
-
- 
-
-נותני החסות של הפרק:
-&lt;a href='https://extra.tech/he/%D7%A2%D7%9E%D7%95%D7%93-%D7%94%D7%91%D7%99%D7%AA/'&gt;חברת אקסטרא טק&lt;/a&gt;
-&lt;a href='https://www.fnx.co.il/car-insurance/'&gt;ביטוח רכב הפניקס סמארט&lt;/a&gt;
-
- 
-
-לינקים מהפרק:
-&lt;a href='https://geekonomy.net/2022/06/28/geekonomy573/'&gt;הפרק עם משה פרידמן בגיקונומי&lt;/a&gt;
-&lt;a href='https://www.hakovetz.com/'&gt;האתר של גילי יובל&lt;/a&gt;
-&lt;a href='https://m.facebook.com/VeHaEved/'&gt;הקהילה שצמחה מסביב לספרי השירה של גילי&lt;/a&gt;</itunes:summary>
-        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
-        <itunes:explicit>false</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>01:26:38</itunes:duration>
-                <itunes:episode>790</itunes:episode>
-        <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2023-09-29_at_124202_PMa132n.jpeg"/>    </item></channel>
+    </item></channel>
 </rss>
