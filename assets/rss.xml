@@ -10,9 +10,123 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 06 Nov 2024 06:44:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 06:44:14 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>לחלץ קנקן מלב ים</title>
+      <itunes:title>לחלץ קנקן מלב ים</itunes:title>
+      <description>סיפור קצר מקרקעית הים. על איך גילוי מפתיע בקרקעית הים ליד ישראל הוביל למסע ארוך לחילוץ כדים כנעניים בני שלושת אלפים שנה. &lt;br&gt;#הסטוריה #ישראל &lt;br&gt;&lt;br&gt;אחד ביום - לחלץ קנקן מלב ים&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/lmjmn0hx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;גם במקום לא צפוי אפשר למצוא אוצר, או סיפור. וזה בדיוק מה שקרה לפני שנתיים, כשאנייה של חברת האנרגיה אנרג'יאן ערכה בדיקה שגרתית בעומק הים, לקראת הקמה של תשתית להפקת גז. אבל אז, במהלך הבדיקה, נמצאו כדים כנענים בני 3,000 שנה לפחות, מונחים בקרקעית הים. אז הפעם אנחנו עם יגאל מוסקו וקובי שרביט, והמסע של האונייה ששטה ללב ים במטרה לשלוף מהקרקעית שני קנקנים עתיקים שמסקרנים חוקרים ברחבי העולם.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>סיפור קצר מקרקעית הים. על איך גילוי מפתיע בקרקעית הים ליד ישראל הוביל למסע ארוך לחילוץ כדים כנעניים בני שלושת אלפים שנה. &lt;br&gt;#הסטוריה #ישראל &lt;br&gt;&lt;br&gt;אחד ביום - לחלץ קנקן מלב ים&lt;br&gt;משך: 22 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/lmjmn0hx&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;גם במקום לא צפוי אפשר למצוא אוצר, או סיפור. וזה בדיוק מה שקרה לפני שנתיים, כשאנייה של חברת האנרגיה אנרג'יאן ערכה בדיקה שגרתית בעומק הים, לקראת הקמה של תשתית להפקת גז. אבל אז, במהלך הבדיקה, נמצאו כדים כנענים בני 3,000 שנה לפחות, מונחים בקרקעית הים. אז הפעם אנחנו עם יגאל מוסקו וקובי שרביט, והמסע של האונייה ששטה ללב ים במטרה לשלוף מהקרקעית שני קנקנים עתיקים שמסקרנים חוקרים ברחבי העולם.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>N12</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/43eac9d9-8d85-4acd-9b48-b1ac0156ea9c/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/ehadbeyom/43eac9d9-8d85-4acd-9b48-b1ac0156ea9c/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">43eac9d9-8d85-4acd-9b48-b1ac0156ea9c</guid>
+      <omny:clipId>43eac9d9-8d85-4acd-9b48-b1ac0156ea9c</omny:clipId>
+      <pubDate>Thu, 07 Nov 2024 05:44:01 +0000</pubDate>
+      <itunes:duration>1327</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/43eac9d9-8d85-4acd-9b48-b1ac0156ea9c/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" length="21258046" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/ehadbeyom/43eac9d9-8d85-4acd-9b48-b1ac0156ea9c</link>
+    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>פרק 2 - AI למתכנתים, פודקאסטריות ועסקים קטנים?</title>
+			<description>אישה חכמה אמרה לי לפני כמה ימים, שמי שמקשיב להרבה פודקאסטים, &lt;br&gt;סופו שיקליט אחד, אז גם אני נפלתי 😂 &lt;br&gt;חברים, הכירו בבקשה את הבייבי החדש שלי - "מנהלות מוצר" 😎 &lt;br&gt;פודקאסט על ניהול מוצר, טכנולוגיה, החיים ומה שביניהם.... &lt;br&gt;&lt;br&gt;את הפודקאסט אני עושה עם חברתי, מנהלת מוצר משכמה ומעלה, Marina Gorbonosov. והוא מתמקד בשאלות של אסטרטגיה מוצרית, חדשות מעולם ה-AI, היבטים כלכליים וטכנולוגיים של תעשיית ההייטק ועוד... &lt;br&gt; &lt;br&gt;כבר עלו שני הפרקים הראשונים ואתם מוזמנים להקשיב, להעיר ולתת לי כמה שיותר פידבק אכזרי 😈 &lt;br&gt; &lt;br&gt;פרק 1 - איך הופכים למנהלים שתמיד רצינו להיות?&lt;br&gt;https://pca.st/ug36e1fq&lt;br&gt;פרק 2 - AI למתכנתים, פודקאסטריות ועסקים קטנים  &lt;br&gt;&lt;br&gt;https://pca.st/pdpf86mi &lt;br&gt;והאתר החדש שלנו: &lt;br&gt;https://pmpodcast.co.il/&lt;br&gt;&lt;br&gt;מדהים כמה לחץ זה להקליט פודקאסט ולא רק להקשיב לו... 😂&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;האם AI ישנה את תהליכי העבודה של המתכנתים, ישלח את הפודקאסטריות לארוז וישנה את תוכניות 2025 של העסקים הקטנים? &lt;/p&gt;
+&lt;p&gt;בפרק הזה נדבר על העידכונים האחרונים, על מחקרים מענינים ולאן אנחנו ממשיכות מפה. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;00:38 - מה צופן העתיד למפרסמים באינטרנט, שינויים בגוגל, והאם סוף העולם הגיע&lt;/p&gt;
+&lt;p&gt;09:40 - מחקרים חדשים בתחום הפרודוקטיביות וה-AI ועד כמה עולם התכנות הולך להשתנות (או לא) בזמן הקרוב&lt;/p&gt;
+&lt;p&gt;15:09 - האם AI יחליף את הפודקאסטריות? ולמה התחלנו את הפודקאסט הזה בעצם &lt;/p&gt;
+&lt;p&gt;18:03 - המלצות צפיה וקריאה של מרינה ויוליה&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;לינקים שימושיים לדברים שמוזכרים בפרק: &lt;/p&gt;
+&lt;p&gt;ערוץ היוטיוב של דיאנה יאו: https://www.youtube.com/@diannayau&lt;/p&gt;
+&lt;p&gt;ערוץ היוטיוב של סבין הוסנפלדר: https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw&lt;/p&gt;
+&lt;p&gt;הספר של כנרת יפרח: https://www.microcopy.co.il/what-is-microcopy&lt;/p&gt;
+&lt;p&gt;הספר של מורד שטרן: https://www.moradstern.com/&lt;/p&gt;
+&lt;p&gt;קבוצת לינקרס: https://www.linkedin.com/groups/8948621/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;הכנסו לאתר שלנו לפרטים נוספים על הפרק והפודקאסט באופן כללי: 
+https://pmpodcast.co.il/&lt;/p&gt;
+&lt;p&gt;
+הירשמו כדי לקבל עדכון למייל כל פעם שעולה פרק חדש (בלי ספאם!): 
+https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/menahalot/episodes/2---AI-e2q6opc</link>
+			<guid isPermaLink="false">b55f4f62-0441-4301-820a-41c2d054dfa0</guid>
+			<dc:creator>מנהלות מוצר</dc:creator>
+			<pubDate>Wed, 06 Nov 2024 11:00:52 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/fad80978/podcast/play/93593836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-27%2F8c87e723-9a47-b3c2-07c9-6925db284f4a.mp3" length="27989710" type="audio/mpeg"/>
+			<itunes:summary>אישה חכמה אמרה לי לפני כמה ימים, שמי שמקשיב להרבה פודקאסטים, &lt;br&gt;סופו שיקליט אחד, אז גם אני נפלתי 😂 &lt;br&gt;חברים, הכירו בבקשה את הבייבי החדש שלי - "מנהלות מוצר" 😎 &lt;br&gt;פודקאסט על ניהול מוצר, טכנולוגיה, החיים ומה שביניהם.... &lt;br&gt;&lt;br&gt;את הפודקאסט אני עושה עם חברתי, מנהלת מוצר משכמה ומעלה, Marina Gorbonosov. והוא מתמקד בשאלות של אסטרטגיה מוצרית, חדשות מעולם ה-AI, היבטים כלכליים וטכנולוגיים של תעשיית ההייטק ועוד... &lt;br&gt; &lt;br&gt;כבר עלו שני הפרקים הראשונים ואתם מוזמנים להקשיב, להעיר ולתת לי כמה שיותר פידבק אכזרי 😈 &lt;br&gt; &lt;br&gt;פרק 1 - איך הופכים למנהלים שתמיד רצינו להיות?&lt;br&gt;https://pca.st/ug36e1fq&lt;br&gt;פרק 2 - AI למתכנתים, פודקאסטריות ועסקים קטנים  &lt;br&gt;&lt;br&gt;https://pca.st/pdpf86mi &lt;br&gt;והאתר החדש שלנו: &lt;br&gt;https://pmpodcast.co.il/&lt;br&gt;&lt;br&gt;מדהים כמה לחץ זה להקליט פודקאסט ולא רק להקשיב לו... 😂&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;האם AI ישנה את תהליכי העבודה של המתכנתים, ישלח את הפודקאסטריות לארוז וישנה את תוכניות 2025 של העסקים הקטנים? &lt;/p&gt;
+&lt;p&gt;בפרק הזה נדבר על העידכונים האחרונים, על מחקרים מענינים ולאן אנחנו ממשיכות מפה. &lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;00:38 - מה צופן העתיד למפרסמים באינטרנט, שינויים בגוגל, והאם סוף העולם הגיע&lt;/p&gt;
+&lt;p&gt;09:40 - מחקרים חדשים בתחום הפרודוקטיביות וה-AI ועד כמה עולם התכנות הולך להשתנות (או לא) בזמן הקרוב&lt;/p&gt;
+&lt;p&gt;15:09 - האם AI יחליף את הפודקאסטריות? ולמה התחלנו את הפודקאסט הזה בעצם &lt;/p&gt;
+&lt;p&gt;18:03 - המלצות צפיה וקריאה של מרינה ויוליה&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;לינקים שימושיים לדברים שמוזכרים בפרק: &lt;/p&gt;
+&lt;p&gt;ערוץ היוטיוב של דיאנה יאו: https://www.youtube.com/@diannayau&lt;/p&gt;
+&lt;p&gt;ערוץ היוטיוב של סבין הוסנפלדר: https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw&lt;/p&gt;
+&lt;p&gt;הספר של כנרת יפרח: https://www.microcopy.co.il/what-is-microcopy&lt;/p&gt;
+&lt;p&gt;הספר של מורד שטרן: https://www.moradstern.com/&lt;/p&gt;
+&lt;p&gt;קבוצת לינקרס: https://www.linkedin.com/groups/8948621/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;הכנסו לאתר שלנו לפרטים נוספים על הפרק והפודקאסט באופן כללי: 
+https://pmpodcast.co.il/&lt;/p&gt;
+&lt;p&gt;
+הירשמו כדי לקבל עדכון למייל כל פעם שעולה פרק חדש (בלי ספאם!): 
+https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:31</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41984622/41984622-1729973031916-0cec4784d2856.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+			<title>פרק 1 - איך הופכים למנהלים שתמיד רצינו להיות?</title>
+			<description>אישה חכמה אמרה לי לפני כמה ימים, שמי שמקשיב להרבה פודקאסטים, &lt;br&gt;סופו שיקליט אחד, אז גם אני נפלתי 😂 &lt;br&gt;חברים, הכירו בבקשה את הבייבי החדש שלי - "מנהלות מוצר" 😎 &lt;br&gt;פודקאסט על ניהול מוצר, טכנולוגיה, החיים ומה שביניהם.... &lt;br&gt;&lt;br&gt;את הפודקאסט אני עושה עם חברתי, מנהלת מוצר משכמה ומעלה, Marina Gorbonosov. והוא מתמקד בשאלות של אסטרטגיה מוצרית, חדשות מעולם ה-AI, היבטים כלכליים וטכנולוגיים של תעשיית ההייטק ועוד... &lt;br&gt; &lt;br&gt;כבר עלו שני הפרקים הראשונים ואתם מוזמנים להקשיב, להעיר ולתת לי כמה שיותר פידבק אכזרי 😈 &lt;br&gt; &lt;br&gt;פרק 1 - איך הופכים למנהלים שתמיד רצינו להיות?&lt;br&gt;https://pca.st/ug36e1fq&lt;br&gt;פרק 2 - AI למתכנתים, פודקאסטריות ועסקים קטנים  &lt;br&gt;&lt;br&gt;https://pca.st/pdpf86mi &lt;br&gt;והאתר החדש שלנו: &lt;br&gt;https://pmpodcast.co.il/&lt;br&gt;&lt;br&gt;מדהים כמה לחץ זה להקליט פודקאסט ולא רק להקשיב לו... 😂&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק הזה נדבר על הספר של ליאור פרנקל, "הספר הקטן למנהל.ת המתחיל.ה", ונברר האם לספר יש מה ללמד אותנו כמנהלי ומנהלות מוצר (ספויילר: התשובה היא כן), מה הכי חשוב לעשות כשמתחילים עבודה חדשה, ומה המפתח ללהפוך למנהל.ת שתמיד רצינו להיות.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;לינקים שימושיים לדברים שמוזכרים בפרק: &lt;/p&gt;
+&lt;p&gt;הספר באתר של ליאור פרנקל: https://frnkl.co/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A7%D7%98%D7%9F-%D7%9C%D7%9E%D7%A0%D7%94%D7%9C-%D7%94%D7%97%D7%93%D7%A9/&lt;/p&gt;
+&lt;p&gt;האתר של איריס שור: &lt;/p&gt;
+&lt;p&gt;https://irisshoor.com/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;הכנסו לאתר שלנו לפרטים נוספים על הפרק והפודקאסט באופן כללי: 
+https://pmpodcast.co.il/&lt;/p&gt;
+&lt;p&gt;
+הירשמו כדי לקבל עדכון למייל כל פעם שעולה פרק חדש (בלי ספאם!): 
+https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
+</description>
+			<link>https://podcasters.spotify.com/pod/show/menahalot/episodes/1---e2q67tc</link>
+			<guid isPermaLink="false">f1d0fc14-c9ee-4f68-ad7c-81350a1deb00</guid>
+			<dc:creator>מנהלות מוצר</dc:creator>
+			<pubDate>Wed, 06 Nov 2024 11:00:52 +0000</pubDate>
+			<enclosure url="https://anchor.fm/s/fad80978/podcast/play/93576556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-26%2Fc5f4d902-c90a-6fdc-3a1b-556d0f48e8cc.mp3" length="36949906" type="audio/mpeg"/>
+			<itunes:summary>אישה חכמה אמרה לי לפני כמה ימים, שמי שמקשיב להרבה פודקאסטים, &lt;br&gt;סופו שיקליט אחד, אז גם אני נפלתי 😂 &lt;br&gt;חברים, הכירו בבקשה את הבייבי החדש שלי - "מנהלות מוצר" 😎 &lt;br&gt;פודקאסט על ניהול מוצר, טכנולוגיה, החיים ומה שביניהם.... &lt;br&gt;&lt;br&gt;את הפודקאסט אני עושה עם חברתי, מנהלת מוצר משכמה ומעלה, Marina Gorbonosov. והוא מתמקד בשאלות של אסטרטגיה מוצרית, חדשות מעולם ה-AI, היבטים כלכליים וטכנולוגיים של תעשיית ההייטק ועוד... &lt;br&gt; &lt;br&gt;כבר עלו שני הפרקים הראשונים ואתם מוזמנים להקשיב, להעיר ולתת לי כמה שיותר פידבק אכזרי 😈 &lt;br&gt; &lt;br&gt;פרק 1 - איך הופכים למנהלים שתמיד רצינו להיות?&lt;br&gt;https://pca.st/ug36e1fq&lt;br&gt;פרק 2 - AI למתכנתים, פודקאסטריות ועסקים קטנים  &lt;br&gt;&lt;br&gt;https://pca.st/pdpf86mi &lt;br&gt;והאתר החדש שלנו: &lt;br&gt;https://pmpodcast.co.il/&lt;br&gt;&lt;br&gt;מדהים כמה לחץ זה להקליט פודקאסט ולא רק להקשיב לו... 😂&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק הזה נדבר על הספר של ליאור פרנקל, "הספר הקטן למנהל.ת המתחיל.ה", ונברר האם לספר יש מה ללמד אותנו כמנהלי ומנהלות מוצר (ספויילר: התשובה היא כן), מה הכי חשוב לעשות כשמתחילים עבודה חדשה, ומה המפתח ללהפוך למנהל.ת שתמיד רצינו להיות.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;לינקים שימושיים לדברים שמוזכרים בפרק: &lt;/p&gt;
+&lt;p&gt;הספר באתר של ליאור פרנקל: https://frnkl.co/%D7%94%D7%A1%D7%A4%D7%A8-%D7%94%D7%A7%D7%98%D7%9F-%D7%9C%D7%9E%D7%A0%D7%94%D7%9C-%D7%94%D7%97%D7%93%D7%A9/&lt;/p&gt;
+&lt;p&gt;האתר של איריס שור: &lt;/p&gt;
+&lt;p&gt;https://irisshoor.com/&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;הכנסו לאתר שלנו לפרטים נוספים על הפרק והפודקאסט באופן כללי: 
+https://pmpodcast.co.il/&lt;/p&gt;
+&lt;p&gt;
+הירשמו כדי לקבל עדכון למייל כל פעם שעולה פרק חדש (בלי ספאם!): 
+https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/41984622/41984622-1729973031916-0cec4784d2856.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">3e325b73-feed-41a3-8df3-b1c1797db83f</guid>
       <title>Spirit Halloween</title>
       <description>האלווין כרגע נגמר בארה"ב וזה הזמן להקשיב לסיפור מעניין שהוא שילוב של החג עם הצרכנות האמריקאית. איך רשת אחת החליטה לנצל את קניוני הרפאים שפזורים בארה"ב ובדרך ייצרה מודל עסקי מעניין. &lt;br&gt;#אנגלית #יזמות #סיפורמעניין &lt;br&gt;&lt;br&gt;99% Invisable - Spirit Halloween&lt;br&gt;משך: 32 דק' &lt;br&gt;&lt;br&gt;https://pca.st/578qtyqk&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Every fall, a vacant Toronto storefront is possessed by Spirit Halloween, the pop-up shop haunting 1,500 empty spaces across North America. What does this seasonal invasion say about the retail apocalypse? And why are people so drawn to its eerie aisles? Explore the spooky rise of Spirit Halloween—where the scares are temporary, but the obsession is real.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=42850" target="_blank"&gt;Spirit Halloween&lt;/a&gt;&lt;/p&gt;
@@ -8516,28 +8630,5 @@ To learn more about listener data and our privacy practices visit: https://www.a
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=SubRip&amp;t=1713767653" type="application/srt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=WebVTT&amp;t=1713767653" type="text/vtt" language="en-us"/>
       <podcast:transcript url="https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/08de5ebc-d444-49f1-98e0-b0b401380f79/transcript?format=TextWithTimestamps&amp;t=1713767653" type="text/plain" language="en-us"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">2fb3c6af-357c-4cad-8e0c-d312df24ca77</guid>
-      <title>The Six-Week Cure</title>
-      <description>סיפור משעשע על בירת הגירושים של ארצות הברית בתחילת המאה הקודמת. מסתבר שבמשך כמה עשרות שנים רינו (נבדה) הייתה בירת הגירושים של ארה"ב. כי בכל המקומות האחרים היה הרבה יותר קשה להתגרש וברינו זה גם היה קל גם רווחי וגם הייתה תמיכה רגשית מהתושבים המקומיים. סיפור על ניצול הזדמנות ועל השפעות החקיקה על תעשיית התיירות. &lt;br&gt;#אנגלית #סיפורמעניין #הסטוריה &lt;br&gt;&lt;br&gt;99% Invisible - 559- The Six-Week Cure&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/tt0g8a9s&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the mid-1900s, people flocked to Reno, Nevada -- not for frontier gold or loose slots, but to get out of bad marriages.  The city became known as the "Divorce Capital of the World." For much of modern history, it has been relatively easy to get married, and extremely difficult to get divorced -- and for a time, this was true in the New World as well. But Reno provided the cure: &lt;a href="https://99percentinvisible.org/?p=41355&amp;post_type=episode"&gt;The Six-Week Cure&lt;/a&gt;.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</description>
-      <pubDate>Thu, 28 Dec 2023 06:26:01 +0000</pubDate>
-      <author>contact@99pi.org (Ellie Gordon-Moershel)</author>
-      <link>https://www.99pi.org</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/96792a27-13c3-40ce-b933-36bdb43a299e/82d76f05-5b84-44ec-8c76-9e9cfc0768f7/stitcher-graphics-pack-99percentinvisible-r2021-1920x1080-a.jpg" width="1280"/>
-      <content:encoded>סיפור משעשע על בירת הגירושים של ארצות הברית בתחילת המאה הקודמת. מסתבר שבמשך כמה עשרות שנים רינו (נבדה) הייתה בירת הגירושים של ארה"ב. כי בכל המקומות האחרים היה הרבה יותר קשה להתגרש וברינו זה גם היה קל גם רווחי וגם הייתה תמיכה רגשית מהתושבים המקומיים. סיפור על ניצול הזדמנות ועל השפעות החקיקה על תעשיית התיירות. &lt;br&gt;#אנגלית #סיפורמעניין #הסטוריה &lt;br&gt;&lt;br&gt;99% Invisible - 559- The Six-Week Cure&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/tt0g8a9s&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the mid-1900s, people flocked to Reno, Nevada -- not for frontier gold or loose slots, but to get out of bad marriages.  The city became known as the "Divorce Capital of the World." For much of modern history, it has been relatively easy to get married, and extremely difficult to get divorced -- and for a time, this was true in the New World as well. But Reno provided the cure: &lt;a href="https://99percentinvisible.org/?p=41355&amp;post_type=episode"&gt;The Six-Week Cure&lt;/a&gt;.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</content:encoded>
-      <enclosure length="33681546" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/chrt.fm/track/288D49/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/8588ad15-10a6-4da8-8da5-2c472fca5587/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=8588ad15-10a6-4da8-8da5-2c472fca5587&amp;feed=BqbsxVfO"/>
-      <itunes:title>The Six-Week Cure</itunes:title>
-      <itunes:author>Ellie Gordon-Moershel</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/96792a27-13c3-40ce-b933-36bdb43a299e/54c9f8d8-80d8-425d-a3f3-751478db2e52/3000x3000/cover-99percentinvisible-3000x3000-r2021-final.jpg?aid=rss_feed"/>
-      <itunes:duration>00:34:58</itunes:duration>
-      <itunes:summary>סיפור משעשע על בירת הגירושים של ארצות הברית בתחילת המאה הקודמת. מסתבר שבמשך כמה עשרות שנים רינו (נבדה) הייתה בירת הגירושים של ארה"ב. כי בכל המקומות האחרים היה הרבה יותר קשה להתגרש וברינו זה גם היה קל גם רווחי וגם הייתה תמיכה רגשית מהתושבים המקומיים. סיפור על ניצול הזדמנות ועל השפעות החקיקה על תעשיית התיירות. &lt;br&gt;#אנגלית #סיפורמעניין #הסטוריה &lt;br&gt;&lt;br&gt;99% Invisible - 559- The Six-Week Cure&lt;br&gt;משך: 34 דק' &lt;br&gt;&lt;br&gt;https://pca.st/tt0g8a9s&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;In the mid-1900s, people flocked to Reno, Nevada -- not for frontier gold or loose slots, but to get out of bad marriages.  The city became known as the "Divorce Capital of the World." For much of modern history, it has been relatively easy to get married, and extremely difficult to get divorced -- and for a time, this was true in the New World as well. But Reno provided the cure: &lt;a href="https://99percentinvisible.org/?p=41355&amp;post_type=episode"&gt;The Six-Week Cure&lt;/a&gt;.&lt;/p&gt;&lt;p&gt; &lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</itunes:summary>
-      <itunes:subtitle>How Reno became the go-to place to get a quick divorce and how divorce laws have changed over time</itunes:subtitle>
-      <itunes:keywords>jane rule, divorce, marriage, nevada, reno</itunes:keywords>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>559</itunes:episode>
     </item></channel>
 </rss>
