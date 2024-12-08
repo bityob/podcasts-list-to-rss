@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 07 Dec 2024 06:46:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 06:46:32 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">1c12218d-2a2e-45df-93e8-eb466043bf24</guid>
@@ -979,7 +979,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2282</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/63dbc181-f5e4-42b2-9f7d-b19e014d3366/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36555843" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-b284f256-b167-4b99-ba8c-e1d02e316c57</link>
-      <itunes:order>63</itunes:order>
+      <itunes:order>65</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שפת הסתרים של סימני המסחר - פרק 1</title>
       <itunes:title>שפת הסתרים של סימני המסחר - פרק 1</itunes:title>
@@ -998,7 +998,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2894</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/b7dcb97b-59dc-4a78-a1e6-b19e014a3f93/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46345701" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-cf914392-a444-4f60-9ff7-5f8a36eddbb9</link>
-      <itunes:order>64</itunes:order>
+      <itunes:order>66</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>No, We Cannot - ‘The Deadline’</title>
       <itunes:title>No, We Cannot - ‘The Deadline’</itunes:title>
@@ -6805,7 +6805,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2193</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/c488e90b-8ac2-412e-9f87-b12e01389f85/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="35153141" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4e1824aa-0c93-454b-93d4-233710cb6566</link>
-      <itunes:order>101</itunes:order>
+      <itunes:order>103</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>תעלומות ארכיאולוגיות בירושלים - פרק 1</title>
       <itunes:title>תעלומות ארכיאולוגיות בירושלים - פרק 1</itunes:title>
@@ -6824,7 +6824,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2658</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/51f8694d-6b89-4cc7-a66d-b12e013509a1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42597829" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-339f87b8-c326-4f16-8e95-34e3190d7c28</link>
-      <itunes:order>102</itunes:order>
+      <itunes:order>104</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן</title>
 			<description>ההסטוריה של סעודיה. מההתחלה ודרך בניית הזהות הלאומית ועד למצב היום. וגם מה אנחנו מפספסים היום בקשר לסעודיה. &lt;br&gt;#הסטוריה #פוליטיקה &lt;br&gt;&lt;br&gt;אסכת - פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן &lt;br&gt;משך: שעה ו6 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tb116tfr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אם הרצון שלך הוא להבין מדינה, לא מספיק לשמוע על המנהיגים שלה בחדשות - אלא להבין את החברה עצמה - ועל כך אשוחח עם ד&amp;quot;ר יוסי מן בפרק על החברה בסעודיה.&lt;/p&gt;
