@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 18 Dec 2024 06:46:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 06:47:05 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0"><title>#60 – פני המציאות כפני הסטורי - מעין ברג'יק</title>
 <guid isPermaLink="false">https://pinecast.com/guid/0cf8d3c3-4447-41b2-b81d-ef22975ea8c1</guid>
@@ -3258,7 +3258,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<enclosure length="94081920" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/the_word_for_blue_-_no_metadata.mp3?dest-id=94300"/>
 			<itunes:duration>39:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,color,blue,sciencehistory,colorperception</itunes:keywords>
+			<itunes:keywords>Science,color,blue,sciencehistory,colorperception</itunes:keywords>
 			<itunes:subtitle>In his epic poem, The Odyssey, Homer mentions the colors black, white, red, and yellow. But despite numerous mentions of the brilliant Greek sea and sky, the word blue never makes an appearance.  This omission set off a debate between...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
