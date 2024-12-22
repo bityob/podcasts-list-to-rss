@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 21 Dec 2024 06:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 06:42:58 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_7057_e5f7b7f2-b242-4a5e-ac8e-c689f537e570</guid>
@@ -1358,7 +1358,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2282</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/63dbc181-f5e4-42b2-9f7d-b19e014d3366/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36555843" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-b284f256-b167-4b99-ba8c-e1d02e316c57</link>
-      <itunes:order>69</itunes:order>
+      <itunes:order>73</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שפת הסתרים של סימני המסחר - פרק 1</title>
       <itunes:title>שפת הסתרים של סימני המסחר - פרק 1</itunes:title>
@@ -1377,7 +1377,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2894</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/b7dcb97b-59dc-4a78-a1e6-b19e014a3f93/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46345701" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-cf914392-a444-4f60-9ff7-5f8a36eddbb9</link>
-      <itunes:order>70</itunes:order>
+      <itunes:order>74</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>[GREATEST HITS] #147: Chenell Basilio – How the best newsletter operators grow to 50K+ subscribers</title>
       <link>https://podcast.creatorscience.com/chenell-basilio-replay</link>
@@ -6433,7 +6433,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>580</itunes:episode>
-    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/" xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">
 		<title>מה איראן בנתה (ניתוח 203) – ש.ח.</title>
 		<link>https://greatgame.blog/2024/02/25/%d7%9e%d7%94-%d7%90%d7%99%d7%a8%d7%90%d7%9f-%d7%91%d7%a0%d7%aa%d7%94-%d7%a0%d7%99%d7%aa%d7%95%d7%97-203-%d7%a9-%d7%97/</link>
 		<pubDate>Sun, 26 May 2024 04:16:01 +0000</pubDate>
@@ -7127,7 +7127,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2193</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/c488e90b-8ac2-412e-9f87-b12e01389f85/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="35153141" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4e1824aa-0c93-454b-93d4-233710cb6566</link>
-      <itunes:order>107</itunes:order>
+      <itunes:order>111</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>תעלומות ארכיאולוגיות בירושלים - פרק 1</title>
       <itunes:title>תעלומות ארכיאולוגיות בירושלים - פרק 1</itunes:title>
@@ -7146,7 +7146,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2658</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/51f8694d-6b89-4cc7-a66d-b12e013509a1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42597829" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-339f87b8-c326-4f16-8e95-34e3190d7c28</link>
-      <itunes:order>108</itunes:order>
+      <itunes:order>112</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן</title>
 			<description>ההסטוריה של סעודיה. מההתחלה ודרך בניית הזהות הלאומית ועד למצב היום. וגם מה אנחנו מפספסים היום בקשר לסעודיה. &lt;br&gt;#הסטוריה #פוליטיקה &lt;br&gt;&lt;br&gt;אסכת - פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן &lt;br&gt;משך: שעה ו6 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tb116tfr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אם הרצון שלך הוא להבין מדינה, לא מספיק לשמוע על המנהיגים שלה בחדשות - אלא להבין את החברה עצמה - ועל כך אשוחח עם ד&amp;quot;ר יוסי מן בפרק על החברה בסעודיה.&lt;/p&gt;
@@ -7802,48 +7802,6 @@ Disclaimer</content:encoded>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
       <itunes:order>148</itunes:order>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
-      <title>Green Day - Basket Case</title>
-      <pubDate>Tue, 02 Apr 2024 04:10:10 +0000</pubDate>
-      <link>https://songexploder.net/green-day</link>
-      <description>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/0af0c559-ce0d-472e-b406-1f029ca8b157/SongExploder267_GreenDay_1.mp3" type="audio/mpeg" length="30360761"/>
-      <itunes:subtitle>Billie Joe Armstrong of Green Day tells the story behind the song "Basket Case."</itunes:subtitle>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>267</itunes:episode>
-      <itunes:duration>21:05</itunes:duration>
-      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
-      <itunes:author>Hrishikesh Hirway</itunes:author>
-      <itunes:summary>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </itunes:summary>
-      <itunes:image href="https://f.prxu.org/song-exploder/0af0c559-ce0d-472e-b406-1f029ca8b157/images/d30dc423-617a-424d-a202-f3a8c04fd52a/SongExploder267_GreenDay_Portrait.jpg"/>
-      <media:content fileSize="30360761" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/0af0c559-ce0d-472e-b406-1f029ca8b157/SongExploder267_GreenDay_1.mp3"/>
-      <content:encoded>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </content:encoded>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">b2071ea8-3652-4331-93a0-2827f5cf2781</guid>
       <title>חושבים טוב 163 -  איך לאהוב ולקבל אותי? עם טל בשן</title>
