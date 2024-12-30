@@ -10,9 +10,27 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 29 Dec 2024 06:43:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 06:45:51 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>כיסון 20: להפסיק לשלם לחברת החשמל? זה קל</title>
+      <itunes:title>כיסון 20: להפסיק לשלם לחברת החשמל? זה קל</itunes:title>
+      <description>פרק מסקרן על סטטוס החשמל בישראל. מעניין שלפחות בתקופה האחרונה אני לא שמעתי פרסומות מיוחדות להוזלה של חשבון החשמל ולמעבר לחברות המתחרות אבל אני מניחה שכדאי לבדוק את זה.... ולכן אני משתפת את הפרק גם איתכם כדי שתחשבו על הנקודה הזאת.&lt;br&gt;#ישראל &lt;br&gt;&lt;br&gt;חיות כיס - כיסון 20: להפסיק לשלם לחברת החשמל? זה קל&lt;br&gt;משך: 15 דק' &lt;br&gt;https://pca.st/z467sl1f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;גם אתם נתקלתם פתאום בפרסומות שמציעות לכם לעבור ספק חשמל? גם אתם התקשתם להאמין שאין כאן קאץ'? גם אתם עדיין לא מצאתם את הזמן לעשות את הצעד הכל כך פשוט הזה? הפרק הבא הוא בדיוק בשבילכם &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;מגיש: אלון אמיצי; עורך: יונתן כיתאין; הפקה: ליהיא צדוק; עורכת סאונד: חן עוז; קרדיט תמונה: Roni Schutzer/Flash 90&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>פרק מסקרן על סטטוס החשמל בישראל. מעניין שלפחות בתקופה האחרונה אני לא שמעתי פרסומות מיוחדות להוזלה של חשבון החשמל ולמעבר לחברות המתחרות אבל אני מניחה שכדאי לבדוק את זה.... ולכן אני משתפת את הפרק גם איתכם כדי שתחשבו על הנקודה הזאת.&lt;br&gt;#ישראל &lt;br&gt;&lt;br&gt;חיות כיס - כיסון 20: להפסיק לשלם לחברת החשמל? זה קל&lt;br&gt;משך: 15 דק' &lt;br&gt;https://pca.st/z467sl1f&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;גם אתם נתקלתם פתאום בפרסומות שמציעות לכם לעבור ספק חשמל? גם אתם התקשתם להאמין שאין כאן קאץ'? גם אתם עדיין לא מצאתם את הזמן לעשות את הצעד הכל כך פשוט הזה? הפרק הבא הוא בדיוק בשבילכם &lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;מגיש: אלון אמיצי; עורך: יונתן כיתאין; הפקה: ליהיא צדוק; עורכת סאונד: חן עוז; קרדיט תמונה: Roni Schutzer/Flash 90&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/762022b6-e199-48d1-b9d2-b1c200eef674/image.jpg?t=1722783057&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/762022b6-e199-48d1-b9d2-b1c200eef674/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/hayot-kiss/20-1/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/762022b6-e199-48d1-b9d2-b1c200eef674/image.jpg?t=1722783057&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">762022b6-e199-48d1-b9d2-b1c200eef674</guid>
+      <omny:clipId>762022b6-e199-48d1-b9d2-b1c200eef674</omny:clipId>
+      <pubDate>Sun, 29 Dec 2024 06:45:13 +0000</pubDate>
+      <itunes:duration>894</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/762022b6-e199-48d1-b9d2-b1c200eef674/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="14357630" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/hayot-kiss/20-1</link>
+    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">cb5fdf44-8a75-442c-b82d-b555b9b81052</guid>
       <title>Mini-Stories: Volume 19</title>
       <description>פרק קליל וכיפי עם כמה סיפורים קצרים שיעודדו אתכם וישמחו אתכם עם כל מיני שטויות של העולם.&lt;br&gt;אזהרה: יש מצב שאחרי הפרק תתחילו לספור בצורה אובססיבית אצבעות ברגלים. &lt;br&gt;#קצרים #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - Mini-Stories: Volume 19&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/8l3kj45w&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Cheeky highway signs, Jane Fonda’s surprising side hustle, a dynamite twist on legacy, and the Greeks’ ideal foot obsession—expect the unexpected.&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=43596" target="_blank"&gt;Mini-Stories: Volume 19&lt;/a&gt;&lt;/p&gt;
@@ -6940,7 +6958,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1955</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e9083e60-68ef-4a0e-8cd6-b1280107b011/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="31313858" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/e9083e60-68ef-4a0e-8cd6-b1280107b011</link>
-      <itunes:order>9</itunes:order>
+      <itunes:order>10</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">49db2023-ff65-4d4c-89b1-a94d1f8a8bdc</guid>
       <title>The Society of Ambiance Makers and Elegant Persons</title>
@@ -7905,7 +7923,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>151</itunes:order>
+      <itunes:order>152</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -8416,7 +8434,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1473</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/97be3264-2685-4da7-a42e-b0f900b24673/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="23637146" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/97be3264-2685-4da7-a42e-b0f900b24673</link>
-      <itunes:order>13</itunes:order>
+      <itunes:order>14</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>ליל חניה | חנן יובל, ירדנה ארזי ואפרים שמיר</title>
       <itunes:title>ליל חניה | חנן יובל, ירדנה ארזי ואפרים שמיר</itunes:title>
@@ -8436,7 +8454,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2833</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/ac0daff3-dd5d-4ba6-8d81-accf01736a15/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c&amp;t=1613359818" length="45362210" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/ac0daff3-dd5d-4ba6-8d81-accf01736a15</link>
-      <itunes:order>50</itunes:order>
+      <itunes:order>51</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">b1c2df78-5263-4f85-8293-9623f06118d9</guid>
       <title>27. Romance Novels</title>
@@ -8673,85 +8691,5 @@ Disclaimer</content:encoded>
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">8f5cb28e-8cb0-11ee-8e31-67127eba9dd6</guid>
       <enclosure url="https://pdst.fm/e/traffic.megaphone.fm/SCIM2670765142.mp3?updated=1734396892" length="0" type="audio/mpeg"/>
-    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
-			<title>פרק 10: הטוב מכולם? ספיישל הירוס 3</title>
-			<description>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
-הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
-החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת New World Computing בשלושה חלקים.
-1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
-2. המוזיקה הכל כך זכורה של המשחק וניתוח שלה באדיבות המוזיקאי דין כץ ריטוב.
-3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
-&lt;/p&gt;
-&lt;p&gt;
-יוצר הפודקסט: אלעד כהן
-
-
-00:00 פתיח. 
-02:12 - ההיסטוריה של משחקי תפקידים שולחניים - עומר יואל
-06:50 - סיפורו של ג&amp;#39;ון ואן קנגם וחברת NWC. אלעד
-08:25 - משחקי m&amp;amp;m והעולם שהם יצרו כהכנה לעולם של Hereos? עומר יואל.
-17:20 - תחילת הדרך. סדרת Heroes . אלעד
-25:19 - חלק ב&amp;#39; המוזיקה. סיפורו המדהים של פול רומרו. אלעד
-34:50 - ניתוח מוזיקלי לheroes3 . דין כץ ריטוב.
-57:40 - חלק ג&amp;#39;. יצירתו של Heroes3 . אלעד
-1:01:27 - קבילת המעריצים של Heroes כיום. דניאל רודשטיין
-1:12:00 - מדוע לדעתי Heroes3 כל כך מצליח עד היום? אלעד
-
---------------------------------------------------------------------------------------------------------------------------------
-אשמח לקבל פניות והצעות בכתובת האימייל:
-sipureyretro@gmail.com
-
-בואו להגיב בעמוד הפייסבוק שלנו:
-https://www.facebook.com/profile.php?id=61565175932254
-
-עקבו אחרינו בטוויטר:
-https://twitter.com/retro_stories
-
-&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/retro-stories/episodes/10------3-e2dl4m0</link>
-			<guid isPermaLink="false">62d57f10-d77b-439a-8bf6-63f29fcb12c5</guid>
-			<dc:creator>סיפורי רטרו</dc:creator>
-			<pubDate>Thu, 22 Feb 2024 05:11:01 +0000</pubDate>
-			<enclosure url="https://anchor.fm/s/da83f934/podcast/play/80433280/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-25%2F6ad72cc8-186e-11d4-6f3d-128590a5c944.mp3" length="131343134" type="audio/mpeg"/>
-			<itunes:summary>פרק שהוא נוסטלגיה של משחקי מחשב. אין לי שום תירוץ חוץ מזה ש Heroes 3! אם שיחקתם יהיה לכם מגניב להקשיב להסטוריה, סיפורים ומוזיקה מהמשחק. אם לא.... לא בטוחה 😅&lt;br&gt;#משחקימחשב #מוזיקה &lt;br&gt;https://prnt.sc/7YCADmzI6TtC &lt;br&gt;&lt;br&gt;סיפורי רטרו - פרק 10: הטוב מכולם? ספיישל הירוס 3&lt;br&gt;משך: שעה ו15 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/1hd56gh7&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק 10 של הפודקסט עשיתי משהו קצת שונה: במקום ראיון - סקירה היסטורית מלאה שלי בצירוף קטעים מוקלטים של מומחים שונים.
-הסיבה לשינוי היא שרציתי להביא תמונה כמה שיותר מלאה על המשחק הכי אהוב עלי בכל הזמנים: Heroes3. 
-החלטתי להביא אליכם את הסיפור המלא של המשחק המדהים הזה ושל חברת New World Computing בשלושה חלקים.
-1. משחקי תפקידים וסדרת Might and Magic שהיוו את הבסיס לעולם של Heroes. באדיבות עורך המשחקים השולחניים עומר יואל.
-2. המוזיקה הכל כך זכורה של המשחק וניתוח שלה באדיבות המוזיקאי דין כץ ריטוב.
-3. הקהילה החיה והשוקקת של המשחק כיום באדיבות חבר הקהילה דניאל רודשטיין.
-&lt;/p&gt;
-&lt;p&gt;
-יוצר הפודקסט: אלעד כהן
-
-
-00:00 פתיח. 
-02:12 - ההיסטוריה של משחקי תפקידים שולחניים - עומר יואל
-06:50 - סיפורו של ג&amp;#39;ון ואן קנגם וחברת NWC. אלעד
-08:25 - משחקי m&amp;amp;m והעולם שהם יצרו כהכנה לעולם של Hereos? עומר יואל.
-17:20 - תחילת הדרך. סדרת Heroes . אלעד
-25:19 - חלק ב&amp;#39; המוזיקה. סיפורו המדהים של פול רומרו. אלעד
-34:50 - ניתוח מוזיקלי לheroes3 . דין כץ ריטוב.
-57:40 - חלק ג&amp;#39;. יצירתו של Heroes3 . אלעד
-1:01:27 - קבילת המעריצים של Heroes כיום. דניאל רודשטיין
-1:12:00 - מדוע לדעתי Heroes3 כל כך מצליח עד היום? אלעד
-
---------------------------------------------------------------------------------------------------------------------------------
-אשמח לקבל פניות והצעות בכתובת האימייל:
-sipureyretro@gmail.com
-
-בואו להגיב בעמוד הפייסבוק שלנו:
-https://www.facebook.com/profile.php?id=61565175932254
-
-עקבו אחרינו בטוויטר:
-https://twitter.com/retro_stories
-
-&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>01:15:42</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/36560821/36560821-1703496333089-279a15c291037.jpg"/>
-			<itunes:episode>10</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item></channel>
+    </item></channel>
 </rss>
