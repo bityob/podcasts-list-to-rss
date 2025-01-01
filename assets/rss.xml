@@ -10,9 +10,33 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 31 Dec 2024 06:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 06:45:51 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <guid isPermaLink="false">prx_93_c2ee3208-0048-4bc4-96da-2464d45ace71</guid>
+      <title>Sam Smith - Stay With Me</title>
+      <pubDate>Tue, 31 Dec 2024 18:26:44 +0000</pubDate>
+      <link>https://play.prx.org/listen?ge=prx_93_c2ee3208-0048-4bc4-96da-2464d45ace71&amp;uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder</link>
+      <description>הסיפור של השיר Stay With Me של סם סמית'. על איך השיר נוצר, התפתח וכעבור שנים השתנה שוב יחד עם השינויים של סם. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;Exploder - Sam Smith - Stay With Me&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qq9nlwca&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Sam Smith is a Grammy and Oscar-winning singer and songwriter from London, England. Their first album, &lt;em&gt;In the Lonely Hour,&lt;/em&gt; came out in 2014. It went quintuple platinum in the US, and the biggest hit from that album is the song “Stay With Me,” which has over 2 billion streams on Spotify alone. For this episode, in honor of the song’s 10th anniversary, I talked to Sam about how “Stay With Me” was made. I also talked to Sam’s frequent collaborator, Jimmy Napes, who is an award-winning producer and songwriter as well. The two of them tell the story of how the song began, and how it turned into the hit that it became. And then, years later, how it changed again.&lt;/p&gt;&lt;p&gt;For more, visit &lt;strong&gt;songexploder.net/sam-smith.&lt;/strong&gt;&lt;/p&gt;
+      </description>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/c2ee3208-0048-4bc4-96da-2464d45ace71/SongExploder276-SamSmith-Part1.mp3" type="audio/mpeg" length="33393891"/>
+      <itunes:subtitle>Sam Smith tells the story behind their iconic song "Stay With Me."</itunes:subtitle>
+      <itunes:explicit>true</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>276</itunes:episode>
+      <itunes:duration>23:11</itunes:duration>
+      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
+      <itunes:author>Hrishikesh Hirway</itunes:author>
+      <itunes:summary>הסיפור של השיר Stay With Me של סם סמית'. על איך השיר נוצר, התפתח וכעבור שנים השתנה שוב יחד עם השינויים של סם. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;Exploder - Sam Smith - Stay With Me&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qq9nlwca&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Sam Smith is a Grammy and Oscar-winning singer and songwriter from London, England. Their first album, &lt;em&gt;In the Lonely Hour,&lt;/em&gt; came out in 2014. It went quintuple platinum in the US, and the biggest hit from that album is the song “Stay With Me,” which has over 2 billion streams on Spotify alone. For this episode, in honor of the song’s 10th anniversary, I talked to Sam about how “Stay With Me” was made. I also talked to Sam’s frequent collaborator, Jimmy Napes, who is an award-winning producer and songwriter as well. The two of them tell the story of how the song began, and how it turned into the hit that it became. And then, years later, how it changed again.&lt;/p&gt;&lt;p&gt;For more, visit &lt;strong&gt;songexploder.net/sam-smith.&lt;/strong&gt;&lt;/p&gt;
+      </itunes:summary>
+      <itunes:image href="https://f.prxu.org/song-exploder/c2ee3208-0048-4bc4-96da-2464d45ace71/images/aedfb6f0-36ea-41c5-a912-bc8fd8acb282/SongExploder276-SamSmith-Portrait.jpg"/>
+      <media:content fileSize="33393891" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/c2ee3208-0048-4bc4-96da-2464d45ace71/SongExploder276-SamSmith-Part1.mp3"/>
+      <content:encoded>הסיפור של השיר Stay With Me של סם סמית'. על איך השיר נוצר, התפתח וכעבור שנים השתנה שוב יחד עם השינויים של סם. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;&lt;br&gt;Exploder - Sam Smith - Stay With Me&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/qq9nlwca&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
+        &lt;p&gt;Sam Smith is a Grammy and Oscar-winning singer and songwriter from London, England. Their first album, &lt;em&gt;In the Lonely Hour,&lt;/em&gt; came out in 2014. It went quintuple platinum in the US, and the biggest hit from that album is the song “Stay With Me,” which has over 2 billion streams on Spotify alone. For this episode, in honor of the song’s 10th anniversary, I talked to Sam about how “Stay With Me” was made. I also talked to Sam’s frequent collaborator, Jimmy Napes, who is an award-winning producer and songwriter as well. The two of them tell the story of how the song began, and how it turned into the hit that it became. And then, years later, how it changed again.&lt;/p&gt;&lt;p&gt;For more, visit &lt;strong&gt;songexploder.net/sam-smith.&lt;/strong&gt;&lt;/p&gt;
+      </content:encoded>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
       <guid isPermaLink="false">tag:soundcloud,2010:tracks/1896995745</guid>
       <title>אסטרטגיה עם גפן: איפה לשחק? ואיך לנצח</title>
       <pubDate>Tue, 31 Dec 2024 05:00:53 +0000</pubDate>
@@ -3525,7 +3549,7 @@ Commissioning editor for Radio 4: Rhian Roberts&lt;/p&gt;</itunes:summary><itune
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:19:34</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/3a589f6d3d38e538.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/42626384-1735640184591-9965af6b6fdf1.jpg"/>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>Will the Olympics break breakdancing?</title>
       <description>שיחה מעניינת על שיפוט בענפי ספורט אומנותיים באולימפיאדה. איך ברייקדנס נכנס ואיך עובדת שיטת הניקוד שלו. וגם על שיטות ניקוד שמשלבות נקודות על תרגילים טכניים ואומנותיים.&lt;br&gt;#אנגלית #ספורט &lt;br&gt;&lt;br&gt;Planet money - Will the Olympics break breakdancing?&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/21w5x7i6&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;For some sports, picking the winner is simple: It's the athlete who crosses the finish line first, or the side that scores the most goals. But for the new Olympic sport of breaking (if you want to be cool, don't call it breakdancing), the criteria aren't quite that straightforward. How do you judge an event whose core values are dopeness, freshness, and breaking the rules? &lt;br/&gt;&lt;br/&gt;That was the challenge for Storm and Renegade, two legendary b-boys who set out to create a fair and objective scoring system for a dance they say is more of an art than a sport. Over the years, their journey to define the soul of breaking led them to meetings with Olympics bigwigs, debates over the science of dopeness, and a battle with a question many sports — from figure skating to gymnastics — have tried to answer: Can art and sport coexist? &lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was hosted by Jeff Guo and Alexi Horowitz-Ghazi. It was produced by Emma Peaslee and edited by Jenny Lawton. It was fact checked by Sierra Juarez and engineered by Valentina Rodríguez Sánchez with help from James Willets and Cena Loffredo. Alex Goldmark is &lt;/em&gt;Planet Money&lt;em&gt;'s executive producer. &lt;br/&gt;&lt;br/&gt;Help support Planet Money and hear our bonus episodes by subscribing to Planet Money+ &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;in Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;Learn more about sponsor message choices: &lt;a href="https://podcastchoices.com/adchoices"&gt;podcastchoices.com/adchoices&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</description>
@@ -6253,7 +6277,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:30:01</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/3a589f6d3d38e538.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/42626384-1735640184591-9965af6b6fdf1.jpg"/>
 		</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>142. The #1 Mindset Holding You Back in Life</title>
       <description>פרק שכל כולו מוקדש לנסיון להכניס נקודה ממש פשוטה לראש הקולקטיבי שלנו - לא חייבים לעשות הכל מושלם, זאת לא משוואה של הכל או כלום. בהמון המון תחומים אנחנו נסחפים ולא עושים דברים רק כי אנחנו מפחדים שלא נהיה בראש או כי אנחנו מפחדים שלא נצליח - אז אנחנו מוותרים מראש.&lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית&lt;br&gt;&lt;br&gt;Financial feminist - The #1 Mindset Holding You Back in Life&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rtmxqnob&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Have you ever wanted to do something — overhaul your health, change your body, start a new career, reach a financial goal — and become utterly overwhelmed just thinking about all the things you’d have to do to achieve it? You’re not the only one. For many of us, it’s not the fear of failure that is holding us back in life, it’s the “go big or go home” mindset that stops us from progressing. The attitude that it has to be all or nothing.
@@ -6696,7 +6720,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 </itunes:summary>
 			<itunes:explicit>No</itunes:explicit>
 			<itunes:duration>00:22:39</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/3a589f6d3d38e538.jpg"/>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/42626384/42626384-1735640184591-9965af6b6fdf1.jpg"/>
 		</item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_07316194-372a-4998-b7a2-7fafc7c29e22</guid>
       <title>Arlo Parks - Black Dog (Re-Issue)</title>
@@ -7950,49 +7974,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>152</itunes:order>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
-      <title>Green Day - Basket Case</title>
-      <pubDate>Tue, 02 Apr 2024 04:10:10 +0000</pubDate>
-      <link>https://songexploder.net/green-day</link>
-      <description>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/0af0c559-ce0d-472e-b406-1f029ca8b157/SongExploder267_GreenDay_1.mp3" type="audio/mpeg" length="30360761"/>
-      <itunes:subtitle>Billie Joe Armstrong of Green Day tells the story behind the song "Basket Case."</itunes:subtitle>
-      <itunes:explicit>true</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>267</itunes:episode>
-      <itunes:duration>21:05</itunes:duration>
-      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
-      <itunes:author>Hrishikesh Hirway</itunes:author>
-      <itunes:summary>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </itunes:summary>
-      <itunes:image href="https://f.prxu.org/song-exploder/0af0c559-ce0d-472e-b406-1f029ca8b157/images/d30dc423-617a-424d-a202-f3a8c04fd52a/SongExploder267_GreenDay_Portrait.jpg"/>
-      <media:content fileSize="30360761" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/0af0c559-ce0d-472e-b406-1f029ca8b157/SongExploder267_GreenDay_1.mp3"/>
-      <content:encoded>סיפור של שיר: Green Day - Basket Case. הדרך שבה השיר שכולנו מכירים נוצר, הגרסאות המוקדמות, השילובים וההשראה המקורית.  &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/jopu4RxrSPcu&lt;br&gt;&lt;br&gt;Song Exploder: Green Day - Basket Case&lt;br&gt;משך: 21 דק' &lt;br&gt;&lt;br&gt;https://pca.st/to9nq9b4&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Green Day is a punk band from the East Bay in California. Billie Joe Armstrong, Mike Dirnt and Tré Cool have been playing music together since 1987. They’ve sold over 90 million records. They’ve won four Grammys, including twice for Best Rock Album. They put out their first album in 1990, and their second album, &lt;em&gt;Kerplunk!&lt;/em&gt;, in 1991. And then, they moved to a major label and in 1994 they put out their third album, &lt;em&gt;Dookie&lt;/em&gt;, which was huge. It helped bring punk into the mainstream. And this month is its 30th anniversary. So for this episode, I talked to Billie Joe Armstrong about the making of one of Green Day’s biggest hits of all time: “Basket Case."&lt;/p&gt;
-
-&lt;p&gt;Coming up, you’ll also hear from Rob Cavallo, who produced the album. Plus, you’ll hear two different demo versions of “Basket Case,” the first of which is basically a totally different song.&lt;/p&gt;
-
-&lt;p&gt;Billie Joe Amstrong traces the history of “Basket Case,” from its origins as a cassette recording in a punk basement, all the way to becoming a song that helped define an era of music.&lt;/p&gt;
-
-&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/green-day" title="songexploder.net/green-day" rel="nofollow" target="_blank"&gt;songexploder.net/green-day&lt;/a&gt;.&lt;/p&gt;
-      </content:encoded>
+      <itunes:order>153</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">b2071ea8-3652-4331-93a0-2827f5cf2781</guid>
       <title>חושבים טוב 163 -  איך לאהוב ולקבל אותי? עם טל בשן</title>
@@ -8569,21 +8551,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2388</itunes:duration>
       <guid isPermaLink="false">2400d10a-9435-11ee-956c-0b351654bb1b</guid>
       <enclosure url="https://pdst.fm/e/chrt.fm/track/47G541/pscrb.fm/rss/p/mgln.ai/e/433/claritaspod.com/measure/traffic.megaphone.fm/QCD7648778950.mp3?updated=1701914664" length="0" type="audio/mpeg"/>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:atom="http://www.w3.org/2005/Atom">
-    <itunes:title>סיידנוט - שיחה עם אריאלה גרבר על תפקידה של אופנה במלחמה וההשפעה שלהן על ההיסטוריה</itunes:title>
-    <title>סיידנוט - שיחה עם אריאלה גרבר על תפקידה של אופנה במלחמה וההשפעה שלהן על ההיסטוריה</title>
-    <itunes:summary>פרק מעניין וכייפי על נושא פחות כייפי - מלחמה. אבל הפעם מזוית של אופנה. על הקשר בין מלחמה לאופנה ואיך אופנה משתנה בהשפעת מלחמה. כמובן נגיעה במלחמות עבר שלנו ואיך יכול להיות שהנוכחית תשפיע בהמשך. &lt;br&gt;#מלחמה #הסטוריה #אופנה &lt;br&gt;&lt;br&gt;https://prnt.sc/E5lF_Eq_sIn-&lt;br&gt;&lt;br&gt;סיידנוט - שיחה עם אריאלה גרבר על תפקידה של אופנה במלחמה וההשפעה שלהן על ההיסטוריה&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/aw84syxq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;הפרקים החדשים של הפודקאסט סיידנוט מבית מגזין ARE יוקדשו לשיח בין תעשיית האופנה למלחמה. &lt;br/&gt;&lt;br/&gt;בהפרק השישי של הפודקאסט מתארחת  חוקרת האופנה אריאלה גרבר. בפרק ראיינו עמית זאאנטקרן והילה גורנת את גרבר על השפעות המעניינות שהיו למלחמות על היסטוריה של האופנה. ודנו בשאלה אילו השפעות אנחנו עשויות לראות כאן בישראל בעקבות &amp;quot;חרבות ברזל&amp;quot;? &lt;/p&gt;&lt;p dir='rtl'&gt;סיידנוט - (הערת שוליים באנגלית) הוא הפודקאסט החדש של מגזין האופנה הישראלי אר. בו יארחו עורכות המגזין עמית ורעות זאנטקרן אנשי תעשייה כותבים ואמנים. וידברו על תרבות, קיימות, יצירה ישראלית והתפתחות תעשייה האופנה.&lt;/p&gt;</itunes:summary>
-    <description>פרק מעניין וכייפי על נושא פחות כייפי - מלחמה. אבל הפעם מזוית של אופנה. על הקשר בין מלחמה לאופנה ואיך אופנה משתנה בהשפעת מלחמה. כמובן נגיעה במלחמות עבר שלנו ואיך יכול להיות שהנוכחית תשפיע בהמשך. &lt;br&gt;#מלחמה #הסטוריה #אופנה &lt;br&gt;&lt;br&gt;https://prnt.sc/E5lF_Eq_sIn-&lt;br&gt;&lt;br&gt;סיידנוט - שיחה עם אריאלה גרבר על תפקידה של אופנה במלחמה וההשפעה שלהן על ההיסטוריה&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/aw84syxq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;הפרקים החדשים של הפודקאסט סיידנוט מבית מגזין ARE יוקדשו לשיח בין תעשיית האופנה למלחמה. &lt;br/&gt;&lt;br/&gt;בהפרק השישי של הפודקאסט מתארחת  חוקרת האופנה אריאלה גרבר. בפרק ראיינו עמית זאאנטקרן והילה גורנת את גרבר על השפעות המעניינות שהיו למלחמות על היסטוריה של האופנה. ודנו בשאלה אילו השפעות אנחנו עשויות לראות כאן בישראל בעקבות &amp;quot;חרבות ברזל&amp;quot;? &lt;/p&gt;&lt;p dir='rtl'&gt;סיידנוט - (הערת שוליים באנגלית) הוא הפודקאסט החדש של מגזין האופנה הישראלי אר. בו יארחו עורכות המגזין עמית ורעות זאנטקרן אנשי תעשייה כותבים ואמנים. וידברו על תרבות, קיימות, יצירה ישראלית והתפתחות תעשייה האופנה.&lt;/p&gt;</description>
-    <content:encoded>פרק מעניין וכייפי על נושא פחות כייפי - מלחמה. אבל הפעם מזוית של אופנה. על הקשר בין מלחמה לאופנה ואיך אופנה משתנה בהשפעת מלחמה. כמובן נגיעה במלחמות עבר שלנו ואיך יכול להיות שהנוכחית תשפיע בהמשך. &lt;br&gt;#מלחמה #הסטוריה #אופנה &lt;br&gt;&lt;br&gt;https://prnt.sc/E5lF_Eq_sIn-&lt;br&gt;&lt;br&gt;סיידנוט - שיחה עם אריאלה גרבר על תפקידה של אופנה במלחמה וההשפעה שלהן על ההיסטוריה&lt;br&gt;משך: 43 דק' &lt;br&gt;&lt;br&gt;https://pca.st/aw84syxq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir='rtl'&gt;הפרקים החדשים של הפודקאסט סיידנוט מבית מגזין ARE יוקדשו לשיח בין תעשיית האופנה למלחמה. &lt;br/&gt;&lt;br/&gt;בהפרק השישי של הפודקאסט מתארחת  חוקרת האופנה אריאלה גרבר. בפרק ראיינו עמית זאאנטקרן והילה גורנת את גרבר על השפעות המעניינות שהיו למלחמות על היסטוריה של האופנה. ודנו בשאלה אילו השפעות אנחנו עשויות לראות כאן בישראל בעקבות &amp;quot;חרבות ברזל&amp;quot;? &lt;/p&gt;&lt;p dir='rtl'&gt;סיידנוט - (הערת שוליים באנגלית) הוא הפודקאסט החדש של מגזין האופנה הישראלי אר. בו יארחו עורכות המגזין עמית ורעות זאנטקרן אנשי תעשייה כותבים ואמנים. וידברו על תרבות, קיימות, יצירה ישראלית והתפתחות תעשייה האופנה.&lt;/p&gt;</content:encoded>
-    <itunes:author>Are Mag</itunes:author>
-    <enclosure url="https://www.buzzsprout.com/951781/episodes/14213360-.mp3" length="31699276" type="audio/mpeg"/>
-    <guid isPermaLink="false">Buzzsprout-14213360</guid>
-    <pubDate>Sun, 25 Feb 2024 04:41:01 +0000</pubDate>
-    <itunes:duration>2638</itunes:duration>
-    <itunes:keywords/>
-    <itunes:season>2</itunes:season>
-    <itunes:episode>6</itunes:episode>
-    <itunes:episodeType>full</itunes:episodeType>
-    <itunes:explicit>false</itunes:explicit>
-  </item></channel>
+    </item></channel>
 </rss>
