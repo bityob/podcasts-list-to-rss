@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Fri, 10 Jan 2025 06:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 06:42:42 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Embracing the Escape Fire (with Adam Grant)</title>
@@ -193,7 +193,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>George Soros vs. the Bank of England</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/12/03/pm-episode-art-40-_sq-99cbc645970b38e3f4e7f5552ae30bb18cba9ea6.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/12/03/pm-episode-art-40-_wide-e16aa8a6011d6834b617c087b94232075604c263.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/12/03/pm-episode-art-40-_wide-e16aa8a6011d6834b617c087b94232075604c263.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1840</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -584,7 +584,7 @@ creating-growth.org/new</description>
       <itunes:block>no</itunes:block>
       <itunes:title>The great German land lottery</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/11/13/pm-episode-art-34-_sq-812cffcc3bbfd4d91bf6bbd818c57ea07ffeef9e.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/11/13/pm-episode-art-34-_wide-8a82d2354fdf9bcde8e39bc3c631d67418e82ddc.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/11/13/pm-episode-art-34-_wide-8a82d2354fdf9bcde8e39bc3c631d67418e82ddc.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1735</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -896,7 +896,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>What markets bet President Trump will do</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/11/08/donald-trump-2024-election-wall-street-bonds-dow-jones-s_sq-c0ae5631afbc96e1b588b8d97debcb08856f50b5.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/11/08/donald-trump-2024-election-wall-street-bonds-dow-jones-s_wide-9aab1bfa54f6bb871aff213e5db3fbee8ec53bac.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/11/08/donald-trump-2024-election-wall-street-bonds-dow-jones-s_wide-9aab1bfa54f6bb871aff213e5db3fbee8ec53bac.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1597</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -1427,7 +1427,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>The veteran loan calamity</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/11/01/veteran-affair-home-program-covid_sq-16c5418477b14b78c9dbe831ad77943e5906f4ee.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/11/01/veteran-affair-home-program-covid_wide-a9b665327908d9284b16040299cc6f03baaabd4a.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/11/01/veteran-affair-home-program-covid_wide-a9b665327908d9284b16040299cc6f03baaabd4a.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>2208</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -2234,7 +2234,7 @@ https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
       <itunes:block>no</itunes:block>
       <itunes:title>Zombie mortgages are coming back to life</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/05/15/018_2023-11-foreclosure-mass--vleroy-_sq-3356facf16ee052c9d060ea70f48ae2b79525455.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/05/15/018_2023-11-foreclosure-mass--vleroy-_wide-feb4dfd8c64461c85194658517c781d932c48734.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/05/15/018_2023-11-foreclosure-mass--vleroy-_wide-feb4dfd8c64461c85194658517c781d932c48734.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1855</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -3308,7 +3308,7 @@ Rocketship is brought to you by Evergreen Podcasts.</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Can money buy happiness?</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/09/17/pm-episode-art-10-_sq-5971440779afc9cfc2e8c189c978b71a94275fb3.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/09/17/pm-episode-art-10-_wide-62bb312cc5eaccb6027a6bb392a92a76eea088c4.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/09/17/pm-episode-art-10-_wide-62bb312cc5eaccb6027a6bb392a92a76eea088c4.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1728</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -3736,7 +3736,7 @@ Commissioning editor for Radio 4: Rhian Roberts&lt;/p&gt;</itunes:summary><itune
       <itunes:block>no</itunes:block>
       <itunes:title>The trade fraud detective</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/08/23/the-hong-kong-based-cscl-east-china-sea-container-ship-sits-news-photo_sq-af713b66f226ba7f67e1be1fdcdbaba2907d95b9.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/08/23/the-hong-kong-based-cscl-east-china-sea-container-ship-sits-news-photo_wide-e767e3249ce1e246ae2e64660c7530c1a1fb06ec.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/08/23/the-hong-kong-based-cscl-east-china-sea-container-ship-sits-news-photo_wide-e767e3249ce1e246ae2e64660c7530c1a1fb06ec.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1603</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -3779,7 +3779,7 @@ Commissioning editor for Radio 4: Rhian Roberts&lt;/p&gt;</itunes:summary><itune
       <itunes:block>no</itunes:block>
       <itunes:title>Will the Olympics break breakdancing?</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/08/09/swami-of-mexico-competes-in-the-breaking-b-girls-pre-news-photo_sq-55a7f001a53c8a22f3418fd8eb04dbc7e2410edc.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/08/09/swami-of-mexico-competes-in-the-breaking-b-girls-pre-news-photo_wide-3b6ac381e23904cff77fd58c8b4af115ae7a0eec.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/08/09/swami-of-mexico-competes-in-the-breaking-b-girls-pre-news-photo_wide-3b6ac381e23904cff77fd58c8b4af115ae7a0eec.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1548</itunes:duration>
       <itunes:explicit>yes</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -4282,7 +4282,7 @@ Commissioning editor for Radio 4: Rhian Roberts&lt;/p&gt;</itunes:summary><itune
       <itunes:block>no</itunes:block>
       <itunes:title>The color monopoly</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/07/19/pantone-colors-lawrence-herbert-stuart-semple-standards_sq-4e72ee3def1d0451b6f12f3f403214e7517a83a7.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/07/19/pantone-colors-lawrence-herbert-stuart-semple-standards_wide-b0a4a4183dba4adae04d1ee9ca2c49c96639e054.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/07/19/pantone-colors-lawrence-herbert-stuart-semple-standards_wide-b0a4a4183dba4adae04d1ee9ca2c49c96639e054.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1323</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -4599,7 +4599,7 @@ This episode of “The Ezra Klein Show” was produced by Annie Galvin. Fact-che
       <itunes:block>no</itunes:block>
       <itunes:title>Rooftop solar's dark side</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/07/12/rooftop-solar-panels-energy-bills-marketing_sq-bde9f2aa73a1652a4ce9305fd7fa1a27844f4c1c.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/07/12/rooftop-solar-panels-energy-bills-marketing_wide-97df350ad907bb61a455dbb619ff5c27c73700ff.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/07/12/rooftop-solar-panels-energy-bills-marketing_wide-97df350ad907bb61a455dbb619ff5c27c73700ff.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1642</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -5714,7 +5714,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>What's with all the tiny soda cans? And other grocery store mysteries, solved.</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/06/14/shrinkflation-price-pack-architecture_sq-3369f2709c1ae07325ddd030e1a28f40d2e5afb4.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/06/14/shrinkflation-price-pack-architecture_wide-1572d5bd1db9a2e8f50500716d99a16d3b28db53.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/06/14/shrinkflation-price-pack-architecture_wide-1572d5bd1db9a2e8f50500716d99a16d3b28db53.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1462</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6505,7 +6505,8 @@ In this episode, Tori unpacks the harmful effects of this mindset and offers pra
 Read transcripts, learn more about our guests and sponsors, and get more resources at https://financialfeministpodcast.com. 
 Not sure where to start on your financial journey? Take our FREE money personality quiz! https://herfirst100k.com/quiz
 Stock Market School: https://treasury.app/herfirst100k/investing-101-workshop 
-Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco</description>
+Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</description>
       <pubDate>Tue, 04 Jun 2024 04:15:09 +0000</pubDate>
       <itunes:title>The #1 Mindset Holding You Back in Life</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
@@ -6517,13 +6518,15 @@ In this episode, Tori unpacks the harmful effects of this mindset and offers pra
 Read transcripts, learn more about our guests and sponsors, and get more resources at https://financialfeministpodcast.com. 
 Not sure where to start on your financial journey? Take our FREE money personality quiz! https://herfirst100k.com/quiz
 Stock Market School: https://treasury.app/herfirst100k/investing-101-workshop 
-Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco</itunes:summary>
+Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
       <content:encoded>פרק שכל כולו מוקדש לנסיון להכניס נקודה ממש פשוטה לראש הקולקטיבי שלנו - לא חייבים לעשות הכל מושלם, זאת לא משוואה של הכל או כלום. בהמון המון תחומים אנחנו נסחפים ולא עושים דברים רק כי אנחנו מפחדים שלא נהיה בראש או כי אנחנו מפחדים שלא נצליח - אז אנחנו מוותרים מראש.&lt;br&gt;#פסיכולוגיה #שיפורעצמי #אנגלית&lt;br&gt;&lt;br&gt;Financial feminist - The #1 Mindset Holding You Back in Life&lt;br&gt;משך: 29 דק' &lt;br&gt;&lt;br&gt;https://pca.st/rtmxqnob&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Have you ever wanted to do something — overhaul your health, change your body, start a new career, reach a financial goal — and become utterly overwhelmed just thinking about all the things you’d have to do to achieve it? You’re not the only one. For many of us, it’s not the fear of failure that is holding us back in life, it’s the “go big or go home” mindset that stops us from progressing. The attitude that it has to be all or nothing.
 In this episode, Tori unpacks the harmful effects of this mindset and offers practical strategies for overcoming it.
 Read transcripts, learn more about our guests and sponsors, and get more resources at https://financialfeministpodcast.com. 
 Not sure where to start on your financial journey? Take our FREE money personality quiz! https://herfirst100k.com/quiz
 Stock Market School: https://treasury.app/herfirst100k/investing-101-workshop 
-Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco</content:encoded>
+Also mentioned in the episode: How to Travel Ethically on a Budget with Jo Franco 
+Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1954</itunes:duration>
       <guid isPermaLink="false">7645e9e2-95d8-11ee-8e17-831ce97ec9ea</guid>
       <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/clrtpod.com/m/s.gum.fm/s-66aa86674ac1bd9a707eab3c/pscrb.fm/rss/p/chrt.fm/track/59979/claritaspod.com/measure/traffic.megaphone.fm/ADL6498693160.mp3?updated=1724421149" length="0" type="audio/mpeg"/>
@@ -6903,7 +6906,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>FTX and the Serengeti of bankruptcy</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/04/18/pm-episode-art-20-1_sq-a50c312e1413a1300965517324c3ebd367c1d9d7.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/04/18/pm-episode-art-20-1_wide-d3dc960ddee5827f61de2426847900809fab630d.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/04/18/pm-episode-art-20-1_wide-d3dc960ddee5827f61de2426847900809fab630d.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1527</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -7262,7 +7265,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>Japan's Lost Decades</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/04/05/japan-lost-decade_sq-32a437b82b19ac554693b0ece441295718dfd753.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/04/05/japan-lost-decade_wide-b6aa4118bb0a5ad34916504e50984acff5a2d623.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/04/05/japan-lost-decade_wide-b6aa4118bb0a5ad34916504e50984acff5a2d623.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1370</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -7614,7 +7617,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>The trouble with Table 101 (Update)</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/27/the-great-data-driven-restaurant-makeover_sq-5a85528688282fa5befeef7e8604189412aeb930.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/03/27/the-great-data-driven-restaurant-makeover_wide-0b792266bea2161571bb65a3b67bcd57a30fac97.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/03/27/the-great-data-driven-restaurant-makeover_wide-0b792266bea2161571bb65a3b67bcd57a30fac97.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1478</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -7766,7 +7769,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:block>no</itunes:block>
       <itunes:title>What is Temu?</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/22/temu-website-app-shopping_sq-cfeb88f607ce995b47f40f344ae6b69082fa7b7b.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/03/22/temu-website-app-shopping_wide-a34ade5a7d8e9311810b80f680869ba63f30bd4c.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/03/22/temu-website-app-shopping_wide-a34ade5a7d8e9311810b80f680869ba63f30bd4c.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1520</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8083,7 +8086,7 @@ Disclaimer</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>The billion dollar war behind U.S. rum</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/15/rum-wars-puerto-rico-virgin-islands-captain-morgan_sq-b6706a59b44666e4932bc5216119947baa264266.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/03/15/rum-wars-puerto-rico-virgin-islands-captain-morgan_wide-896cd8301ed23217a389773c32b9cb9e9ec07106.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/03/15/rum-wars-puerto-rico-virgin-islands-captain-morgan_wide-896cd8301ed23217a389773c32b9cb9e9ec07106.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1405</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8194,7 +8197,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>157</itunes:order>
+      <itunes:order>158</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -8504,7 +8507,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>The secret world behind school fundraisers</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/02/28/school-fundraisers_sq-7e8397d140577844c18d99b9dabcd2cd825acc01.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/02/28/school-fundraisers_wide-82a8e9947acd0dadb937e2cfcfc8f040226b5220.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/02/28/school-fundraisers_wide-82a8e9947acd0dadb937e2cfcfc8f040226b5220.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1675</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -8563,7 +8566,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:block>no</itunes:block>
       <itunes:title>On the Oscars campaign trail</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/03/08/oscars-campaign-for-your-consideration_sq-70d5653a4d55bf0a3d1da253caa2c56bc46b60a7.jpg?s=3000&amp;c=66&amp;f=jpg"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/03/08/oscars-campaign-for-your-consideration_wide-7ba596ebd61066e49e770d411defee9d9a3e144c.jpg?s=1280&amp;c=66&amp;f=jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/03/08/oscars-campaign-for-your-consideration_wide-7ba596ebd61066e49e770d411defee9d9a3e144c.jpg?s=1280&amp;c=66&amp;f=jpg"/>
       <itunes:duration>1554</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
