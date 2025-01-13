@@ -10,9 +10,199 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 12 Jan 2025 06:43:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:46:48 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>ההופכים ערפם לאומאלס</title>
+      <itunes:title>ההופכים ערפם לאומאלס</itunes:title>
+      <description>שיחה על סיפור קצר של אורסולה לה גווין על אוטופיות ודיסטופיות. אין צורך בהיכרות מוקדמת עם הסיפור כי נועה ואיילת מכסות כמעט את כולו בפרק. &lt;br&gt;#ספרות &lt;br&gt;&lt;br&gt;האחיות גרים - ההופכים ערפם לאומאלס&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;https://pca.st/bqcai088&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;פרק מאתיים וארבעה ובו נעמוד בצומת מוסרי ונתלבט לאן נלך וממה נברח?&lt;/p&gt;</description>
+      <content:encoded>שיחה על סיפור קצר של אורסולה לה גווין על אוטופיות ודיסטופיות. אין צורך בהיכרות מוקדמת עם הסיפור כי נועה ואיילת מכסות כמעט את כולו בפרק. &lt;br&gt;#ספרות &lt;br&gt;&lt;br&gt;האחיות גרים - ההופכים ערפם לאומאלס&lt;br&gt;משך: 31 דק' &lt;br&gt;&lt;br&gt;https://pca.st/bqcai088&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;פרק מאתיים וארבעה ובו נעמוד בצומת מוסרי ונתלבט לאן נלך וממה נברח?&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>Grim</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/b5778d04-ad80-4ab3-85fe-ade9008f64dc/d5de53ae-94c3-4295-9f0b-ade9008fdb5a/image.jpg?t=1707397558&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/b5778d04-ad80-4ab3-85fe-ade9008f64dc/2176287b-84ba-4f22-b61b-b1cb00828448/audio.mp3?utm_source=Podcast&amp;in_playlist=d5de53ae-94c3-4295-9f0b-ade9008fdb5a" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/grim/2176287b-84ba-4f22-b61b-b1cb00828448/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/playlist/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/b5778d04-ad80-4ab3-85fe-ade9008f64dc/d5de53ae-94c3-4295-9f0b-ade9008fdb5a/image.jpg?t=1707397558&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">2176287b-84ba-4f22-b61b-b1cb00828448</guid>
+      <omny:clipId>2176287b-84ba-4f22-b61b-b1cb00828448</omny:clipId>
+      <pubDate>Sun, 12 Jan 2025 10:06:41 +0000</pubDate>
+      <itunes:duration>1883</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/b5778d04-ad80-4ab3-85fe-ade9008f64dc/2176287b-84ba-4f22-b61b-b1cb00828448/audio.mp3?utm_source=Podcast&amp;in_playlist=d5de53ae-94c3-4295-9f0b-ade9008fdb5a" length="30154683" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/grim/2176287b-84ba-4f22-b61b-b1cb00828448</link>
+    </item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:rawvoice="https://blubrry.com/developer/rawvoice-rss/">
+		<title>#435 – Andrew Huberman: Focus, Controversy, Politics, and Relationships</title>
+		<link>https://lexfridman.com/andrew-huberman-5/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=andrew-huberman-5</link>
+		<pubDate>Sun, 12 Jan 2025 07:06:03 +0000</pubDate>
+		<guid isPermaLink="false">https://lexfridman.com/?p=5941</guid>
+		<comments>https://lexfridman.com/andrew-huberman-5/#respond</comments>
+		<wfw:commentRss>https://lexfridman.com/andrew-huberman-5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category>ai</category>
+		<description>מצד אחד שיחה מרתקת בין שני פודקאסטרים מאוד מאוד מפורסמים. מצד שני שיחה בגדול על היקום ועל המשמעויות הפיזיולוגיות והביולוגיות שלו. ומצד שלישי שיחה על חוויות אקסטרמיות כמו שחייה עם כרישים, סמים פסיכדלים ועוד ועוד. סך הכל שיחה מאוד מעניינת בין שני גברים שאוהבים להתעמק ולגלות דברים על העולם ועל עצמם.&lt;br&gt;#אנגלית #ראיוןמעניין #פודקאסטים&lt;br&gt;https://prnt.sc/Cy9oaSsd4ntq&lt;br&gt;&lt;br&gt;Lex Fridman podcast - #435 – Andrew Huberman: Focus, Controversy, Politics, and Relationships&lt;br&gt;משך: שעה ו57 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sds8i757&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors:
+- Eight Sleep: https://eightsleep.com/lex to get $350 off
+- LMNT: https://drinkLMNT.com/lex to get free sample pack
+- AG1: https://drinkag1.com/lex to get 1 month supply of fish oil
+- Shopify: https://shopify.com/lex to get $1 per month trial
+- NetSuite: http://netsuite.com/lex to get free product tour
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+
+Transcript: https://lexfridman.com/andrew-huberman-5-transcript
+
+EPISODE LINKS:
+Andrew's YouTube: https://youtube.com/AndrewHubermanLab
+Andrew's Instagram: https://instagram.com/hubermanlab
+Andrew's Website: https://hubermanlab.com
+Andrew's X: https://x.com/hubermanlab
+Andrew's book on Amazon: https://amzn.to/3RNSIQN
+Andrew's book: https://hubermanlab.com/protocols-book
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+
+SUPPORT &amp; CONNECT:
+- Check out the sponsors above, it's the best way to support this podcast
+- Support on Patreon: https://www.patreon.com/lexfridman
+- Twitter: https://twitter.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+
+OUTLINE:
+Here's the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) - Introduction
+(10:24) - Quitting and evolving
+(17:22) - How to focus and think deeply
+(19:56) - Cannabis drama
+(30:08) - Jungian shadow
+(40:35) - Supplements
+(43:38) - Nicotine
+(48:01) - Caffeine
+(49:48) - Math gaffe
+(1:06:50) - 2024 presidential elections
+(1:13:47) - Great white sharks
+(1:22:32) - Ayahuasca &amp; psychedelics
+(1:37:33) - Relationships
+(1:45:08) - Productivity
+(1:53:58) - Friendship</description>
+		<content:encoded>מצד אחד שיחה מרתקת בין שני פודקאסטרים מאוד מאוד מפורסמים. מצד שני שיחה בגדול על היקום ועל המשמעויות הפיזיולוגיות והביולוגיות שלו. ומצד שלישי שיחה על חוויות אקסטרמיות כמו שחייה עם כרישים, סמים פסיכדלים ועוד ועוד. סך הכל שיחה מאוד מעניינת בין שני גברים שאוהבים להתעמק ולגלות דברים על העולם ועל עצמם.&lt;br&gt;#אנגלית #ראיוןמעניין #פודקאסטים&lt;br&gt;https://prnt.sc/Cy9oaSsd4ntq&lt;br&gt;&lt;br&gt;Lex Fridman podcast - #435 – Andrew Huberman: Focus, Controversy, Politics, and Relationships&lt;br&gt;משך: שעה ו57 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sds8i757&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors:
+- Eight Sleep: https://eightsleep.com/lex to get $350 off
+- LMNT: https://drinkLMNT.com/lex to get free sample pack
+- AG1: https://drinkag1.com/lex to get 1 month supply of fish oil
+- Shopify: https://shopify.com/lex to get $1 per month trial
+- NetSuite: http://netsuite.com/lex to get free product tour
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+
+Transcript: https://lexfridman.com/andrew-huberman-5-transcript
+
+EPISODE LINKS:
+Andrew's YouTube: https://youtube.com/AndrewHubermanLab
+Andrew's Instagram: https://instagram.com/hubermanlab
+Andrew's Website: https://hubermanlab.com
+Andrew's X: https://x.com/hubermanlab
+Andrew's book on Amazon: https://amzn.to/3RNSIQN
+Andrew's book: https://hubermanlab.com/protocols-book
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+
+SUPPORT &amp; CONNECT:
+- Check out the sponsors above, it's the best way to support this podcast
+- Support on Patreon: https://www.patreon.com/lexfridman
+- Twitter: https://twitter.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+
+OUTLINE:
+Here's the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) - Introduction
+(10:24) - Quitting and evolving
+(17:22) - How to focus and think deeply
+(19:56) - Cannabis drama
+(30:08) - Jungian shadow
+(40:35) - Supplements
+(43:38) - Nicotine
+(48:01) - Caffeine
+(49:48) - Math gaffe
+(1:06:50) - 2024 presidential elections
+(1:13:47) - Great white sharks
+(1:22:32) - Ayahuasca &amp; psychedelics
+(1:37:33) - Relationships
+(1:45:08) - Productivity
+(1:53:58) - Friendship</content:encoded>
+		<enclosure url="https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_andrew_huberman_5.mp3" length="84244608" type="audio/mpeg"/>
+		<itunes:subtitle>Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors: - Eight Sleep: https://eightsleep.com/lex to get $350 off - LMNT: https://drinkLMNT.</itunes:subtitle>
+		<itunes:summary>מצד אחד שיחה מרתקת בין שני פודקאסטרים מאוד מאוד מפורסמים. מצד שני שיחה בגדול על היקום ועל המשמעויות הפיזיולוגיות והביולוגיות שלו. ומצד שלישי שיחה על חוויות אקסטרמיות כמו שחייה עם כרישים, סמים פסיכדלים ועוד ועוד. סך הכל שיחה מאוד מעניינת בין שני גברים שאוהבים להתעמק ולגלות דברים על העולם ועל עצמם.&lt;br&gt;#אנגלית #ראיוןמעניין #פודקאסטים&lt;br&gt;https://prnt.sc/Cy9oaSsd4ntq&lt;br&gt;&lt;br&gt;Lex Fridman podcast - #435 – Andrew Huberman: Focus, Controversy, Politics, and Relationships&lt;br&gt;משך: שעה ו57 דק' &lt;br&gt;&lt;br&gt;https://pca.st/sds8i757&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Andrew Huberman is a neuroscientist at Stanford and host of the Huberman Lab Podcast. Please support this podcast by checking out our sponsors:
+- Eight Sleep: https://eightsleep.com/lex to get $350 off
+- LMNT: https://drinkLMNT.com/lex to get free sample pack
+- AG1: https://drinkag1.com/lex to get 1 month supply of fish oil
+- Shopify: https://shopify.com/lex to get $1 per month trial
+- NetSuite: http://netsuite.com/lex to get free product tour
+- BetterHelp: https://betterhelp.com/lex to get 10% off
+
+Transcript: https://lexfridman.com/andrew-huberman-5-transcript
+
+EPISODE LINKS:
+Andrew's YouTube: https://youtube.com/AndrewHubermanLab
+Andrew's Instagram: https://instagram.com/hubermanlab
+Andrew's Website: https://hubermanlab.com
+Andrew's X: https://x.com/hubermanlab
+Andrew's book on Amazon: https://amzn.to/3RNSIQN
+Andrew's book: https://hubermanlab.com/protocols-book
+
+PODCAST INFO:
+Podcast website: https://lexfridman.com/podcast
+Apple Podcasts: https://apple.co/2lwqZIr
+Spotify: https://spoti.fi/2nEwCF8
+RSS: https://lexfridman.com/feed/podcast/
+YouTube Full Episodes: https://youtube.com/lexfridman
+YouTube Clips: https://youtube.com/lexclips
+
+SUPPORT &amp; CONNECT:
+- Check out the sponsors above, it's the best way to support this podcast
+- Support on Patreon: https://www.patreon.com/lexfridman
+- Twitter: https://twitter.com/lexfridman
+- Instagram: https://www.instagram.com/lexfridman
+- LinkedIn: https://www.linkedin.com/in/lexfridman
+- Facebook: https://www.facebook.com/lexfridman
+- Medium: https://medium.com/@lexfridman
+
+OUTLINE:
+Here's the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.
+(00:00) - Introduction
+(10:24) - Quitting and evolving
+(17:22) - How to focus and think deeply
+(19:56) - Cannabis drama
+(30:08) - Jungian shadow
+(40:35) - Supplements
+(43:38) - Nicotine
+(48:01) - Caffeine
+(49:48) - Math gaffe
+(1:06:50) - 2024 presidential elections
+(1:13:47) - Great white sharks
+(1:22:32) - Ayahuasca &amp; psychedelics
+(1:37:33) - Relationships
+(1:45:08) - Productivity
+(1:53:58) - Friendship</itunes:summary>
+		<itunes:author>Lex Fridman</itunes:author>
+		<itunes:image href="https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png"/>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:duration>1:57:00</itunes:duration>
+	</item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>Embracing the Escape Fire (with Adam Grant)</title>
       <itunes:title>Embracing the Escape Fire (with Adam Grant)</itunes:title>
       <description>פרק קצת פילוסופי על למה כדאי לפעמים לעשות חשיבה מחודשת על עובדות שאנחנו יודעים. &lt;br&gt;כמה אנחנו צריכים להשקיע מחשבה נוספת בהיפותזות ידועות ובניסיון לערער עליהן. אני מקווה שברור לכולנו שלשנות דיעה של מישהו ובמיוחד של עצמינו זה ממש לא פשוט...אבל לפעמים כדאי לחשוב על זה.&lt;br&gt;#שיפורעצמי #אנגלית #סיפורמעניין &lt;br&gt;&lt;br&gt;Cautionary tales - Embracing the Escape Fire (with Adam Grant)&lt;br&gt;משך: 36 דק' &lt;br&gt;&lt;br&gt;https://pca.st/ido220rn&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Cautionary Conversation: Steve Jobs hated his phone so much that he smashed it against a wall. He also referred to mobile carriers as "orifices". Yet he went on to invent the world's most popular smartphone. Why did he change his mind?&lt;/p&gt; &lt;p&gt;Tim Harford and organizational psychologist Adam Grant (&lt;em&gt;Think Again&lt;/em&gt;, &lt;em&gt;Hidden Potential&lt;/em&gt;) discuss the consequences of letting our ideas become part of our identity; when it's essential to adapt; and whether frogs really &lt;em&gt;do &lt;/em&gt;stay sitting in slowly boiling water.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
@@ -183,7 +373,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2448</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/1bd3fce3-91a2-48b4-a135-b22b0116724d/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="39192511" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/1bd3fce3-91a2-48b4-a135-b22b0116724d</link>
-      <itunes:order>4</itunes:order>
+      <itunes:order>5</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
       <title>George Soros vs. the Bank of England</title>
       <description>סיפור הסטורי-כלכלי מרתק. הסיפור של הקרן של ג'ורג' סורוס והפעם ההיא (1992) שקרן ההשקעות שלו הימרה נגד הממשלה הבריטית....וניצחה.&lt;br&gt;#כלכלה #הסטוריה #אנגלית &lt;br&gt;https://prnt.sc/zYfK2Cx_BRKs&lt;br&gt;&lt;br&gt;Planet money - George Soros vs. the Bank of England&lt;br&gt;משך: 34 דק' &lt;br&gt;https://pca.st/sx5eyyss&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;As people learn more about Donald Trump's pick for Treasury Secretary, Scott Bessent, one story comes up over and over: a legendary trade that he played a small part in while he worked at George Soros' hedge fund in the 1990s. &lt;br/&gt;&lt;br/&gt;In 1992, Soros' fund set its sights on the British pound, betting that some time in the fall of that year, the pound would plummet in value. Opposing them in this trade was the Bank of England, which was determined to keep its currency stable. The financial battle that followed was intense and proved to be a watershed moment in the balance of power between markets and governments.&lt;br/&gt;&lt;br/&gt;On today's show, we speak to Robert Johnson, a former managing director at Soros' fund, for a blow-by-blow account of those fateful days in 1992. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was hosted by Keith Romer and Alex Goldmark. It was produced by Willa Rubin and edited by Martina Castro. It was fact-checked by Sierra Juarez and engineered by Cena Loffredo. Alex Goldmark is &lt;/em&gt;Planet Money&lt;em&gt;'s executive producer. &lt;br/&gt;&lt;br/&gt;Help support &lt;/em&gt;Planet Money&lt;em&gt; and hear our bonus episodes by subscribing to &lt;/em&gt;Planet Money&lt;em&gt;+ &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;in Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;br/&gt;&lt;br/&gt;Always free at these links: &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, &lt;/em&gt;&lt;a href="https://n.pr/3gTkQlR"&gt;&lt;em&gt;Spotify&lt;/em&gt;&lt;/a&gt;&lt;em&gt;, &lt;/em&gt;&lt;a href="https://n.pr/3Bkb17W"&gt;&lt;em&gt;the NPR app&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or anywhere you get podcasts.&lt;br/&gt;&lt;br/&gt;Find more Planet Money: &lt;/em&gt;&lt;a href="https://n.pr/3h92GwS"&gt;&lt;em&gt;Facebook&lt;/em&gt;&lt;/a&gt;&lt;em&gt; / &lt;/em&gt;&lt;a href="https://n.pr/3FqLuws"&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/a&gt;&lt;em&gt; / &lt;/em&gt;&lt;a href="https://n.pr/3sGZdrq"&gt;&lt;em&gt;TikTok&lt;/em&gt;&lt;/a&gt;&lt;em&gt; / Our weekly &lt;/em&gt;&lt;a href="https://n.pr/3zrFvUB"&gt;&lt;em&gt;Newsletter&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;Learn more about sponsor message choices: &lt;a href="https://podcastchoices.com/adchoices"&gt;podcastchoices.com/adchoices&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</description>
@@ -5222,30 +5412,6 @@ SAY THANKS
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">8f981a24-f5b8-11ee-9a65-230705584344</guid>
       <enclosure url="https://pdst.fm/e/chrt.fm/track/3C7AB4/traffic.megaphone.fm/ULROC3650438526.mp3?updated=1716910832" length="0" type="audio/mpeg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">prx_93_75970742-3c56-4ff5-94f0-94f42a63c689</guid>
-      <title>Shania Twain - You're Still The One</title>
-      <pubDate>Sun, 21 Jul 2024 06:55:18 +0000</pubDate>
-      <link>https://songexploder.net/shania-twain</link>
-      <description>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/75970742-3c56-4ff5-94f0-94f42a63c689/SongExploder270-ShaniaTwain-Part1.mp3" type="audio/mpeg" length="26476876"/>
-      <itunes:subtitle>Shania Twain breaks down her hit song "You're Still The One."</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>270</itunes:episode>
-      <itunes:duration>18:23</itunes:duration>
-      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
-      <itunes:author>Hrishikesh Hirway</itunes:author>
-      <itunes:summary>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </itunes:summary>
-      <itunes:image href="https://f.prxu.org/song-exploder/75970742-3c56-4ff5-94f0-94f42a63c689/images/035e63f2-2580-4d52-ae11-3c1603679f17/SongExploder270-ShaniaTwain-Portrait.jpg"/>
-      <media:content fileSize="26476876" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/75970742-3c56-4ff5-94f0-94f42a63c689/SongExploder270-ShaniaTwain-Part1.mp3"/>
-      <content:encoded>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </content:encoded>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 289: האם שמן הזית הישראלי עומד להיעלם?</title>
       <itunes:title>פרק 289: האם שמן הזית הישראלי עומד להיעלם?</itunes:title>
@@ -7232,7 +7398,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1955</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/acf55018-3331-41be-9c34-a919008d593c/e9083e60-68ef-4a0e-8cd6-b1280107b011/audio.mp3?utm_source=Podcast&amp;in_playlist=bd9198c9-39cc-41f7-8612-a919008d593c" length="31313858" type="audio/mpeg"/>
       <link>https://omny.fm/shows/one-song/e9083e60-68ef-4a0e-8cd6-b1280107b011</link>
-      <itunes:order>10</itunes:order>
+      <itunes:order>11</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">49db2023-ff65-4d4c-89b1-a94d1f8a8bdc</guid>
       <title>The Society of Ambiance Makers and Elegant Persons</title>
@@ -8197,7 +8363,7 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>158</itunes:order>
+      <itunes:order>159</itunes:order>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <guid isPermaLink="false">prx_93_0af0c559-ce0d-472e-b406-1f029ca8b157</guid>
       <title>Green Day - Basket Case</title>
@@ -8672,23 +8838,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>1888</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/dbe32976-5401-4c93-87ed-a919008d58ae/d5001e1f-eb49-4b82-a06d-b11b01263527/audio.mp3?utm_source=Podcast&amp;in_playlist=1ea69f94-8d46-4ff2-aaca-a919008d58b8" length="30250376" type="audio/mpeg"/>
       <link>https://omny.fm/shows/hayot-kiss/16-1</link>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>האזנה מודרכת - Californication - Red Hot Chili Peppers</title>
-      <itunes:title>האזנה מודרכת - Californication - Red Hot Chili Peppers</itunes:title>
-      <description>כולנו מכירים את השיר Californication של Red Hot Chili Peppers וזאת הזדמנות נחמדה להכיר קצת את ההיסטוריה שלו. בדרך גם קצת היסטוריה של הלהקה.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;האזנה מודרכת - Californication - Red Hot Chili Peppers&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;https://pca.st/yrhly5ur&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;היום בהאזנה מודרכת, (ובעקבות בקשה של רס״ן ד מיהל״ם שנלחם כרגע בעזה) &lt;/p&gt; &lt;p dir="rtl"&gt;אנחנו עם שיר העשור המקורי של שנות ה2000 בגלגלצ, קליפורניקיישן. &lt;br&gt;על המיתוס של קליפורניה במוזיקה ומה מסתתר מתחתיו כשמסתכלים מספיק מקרוב, על הקאמבק של הגיטריסט המיתולוגי שלה, ועל האלבום המצליח ביותר של רד הוט צ׳ילי פפרז.&lt;/p&gt;</description>
-      <content:encoded>כולנו מכירים את השיר Californication של Red Hot Chili Peppers וזאת הזדמנות נחמדה להכיר קצת את ההיסטוריה שלו. בדרך גם קצת היסטוריה של הלהקה.&lt;br&gt;#מוזיקה &lt;br&gt;&lt;br&gt;האזנה מודרכת - Californication - Red Hot Chili Peppers&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;https://pca.st/yrhly5ur&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;היום בהאזנה מודרכת, (ובעקבות בקשה של רס״ן ד מיהל״ם שנלחם כרגע בעזה) &lt;/p&gt; &lt;p dir="rtl"&gt;אנחנו עם שיר העשור המקורי של שנות ה2000 בגלגלצ, קליפורניקיישן. &lt;br&gt;על המיתוס של קליפורניה במוזיקה ומה מסתתר מתחתיו כשמסתכלים מספיק מקרוב, על הקאמבק של הגיטריסט המיתולוגי שלה, ועל האלבום המצליח ביותר של רד הוט צ׳ילי פפרז.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>גלגלצ</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/db7029db-984b-4a3c-abf5-b10300f8ccb8/image.jpg?t=1706281664&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/db7029db-984b-4a3c-abf5-b10300f8ccb8/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/haazanamudrechet/californication-red-hot-chili-peppers/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/db7029db-984b-4a3c-abf5-b10300f8ccb8/image.jpg?t=1706281664&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">db7029db-984b-4a3c-abf5-b10300f8ccb8</guid>
-      <omny:clipId>db7029db-984b-4a3c-abf5-b10300f8ccb8</omny:clipId>
-      <pubDate>Tue, 05 Mar 2024 06:02:01 +0000</pubDate>
-      <itunes:duration>1502</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/6dcbc33f-1fb6-49de-9ae2-ad8a00c01523/46c773f3-1909-4cfc-8d80-add7013b7d87/db7029db-984b-4a3c-abf5-b10300f8ccb8/audio.mp3?utm_source=Podcast&amp;in_playlist=73c7acdf-e87d-4170-a517-add70141038c" length="24071035" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/haazanamudrechet/californication-red-hot-chili-peppers</link>
     </item></channel>
 </rss>
