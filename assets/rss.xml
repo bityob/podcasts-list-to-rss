@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 15 Jan 2025 06:43:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 06:43:45 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Proactively Advancing Your Product Management Career </title>
@@ -2942,7 +2942,7 @@ https://mailchi.mp/52dfcea03a2f/pmpodcast&lt;/p&gt;
       <itunes:block>no</itunes:block>
       <itunes:title>100 years of immigration policies working to keep out immigrants</itunes:title>
       <itunes:image href="https://media.npr.org/assets/img/2024/06/06/immigration_25_sq-6b33825392189ef21a0fff62cedd37d5bf2199ea.png?s=3000&amp;c=66&amp;f=png"/>
-      <media:thumbnail height="720" width="1280" href="https://media.npr.org/assets/img/2024/06/06/immigration_25_wide-1a4128f9c48708dc2cf8aa5e6f0c4d6bb87dc370.png?s=1280&amp;c=66&amp;f=png"/>
+      <media:thumbnail height="720" width="1280" url="https://media.npr.org/assets/img/2024/06/06/immigration_25_wide-1a4128f9c48708dc2cf8aa5e6f0c4d6bb87dc370.png?s=1280&amp;c=66&amp;f=png"/>
       <itunes:duration>2552</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
@@ -3966,7 +3966,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
 			<enclosure length="94081920" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/the_word_for_blue_-_no_metadata.mp3?dest-id=94300"/>
 			<itunes:duration>39:13</itunes:duration>
 			<itunes:explicit>false</itunes:explicit>
-			<itunes:keywords>science,color,blue,sciencehistory,colorperception</itunes:keywords>
+			<itunes:keywords>Science,color,blue,sciencehistory,colorperception</itunes:keywords>
 			<itunes:subtitle>In his epic poem, The Odyssey, Homer mentions the colors black, white, red, and yellow. But despite numerous mentions of the brilliant Greek sea and sky, the word blue never makes an appearance.  This omission set off a debate between...</itunes:subtitle>
 			<itunes:episodeType>full</itunes:episodeType>
 		</item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
@@ -5495,30 +5495,6 @@ SAY THANKS
       <itunes:explicit>no</itunes:explicit>
       <guid isPermaLink="false">8f981a24-f5b8-11ee-9a65-230705584344</guid>
       <enclosure url="https://pdst.fm/e/chrt.fm/track/3C7AB4/traffic.megaphone.fm/ULROC3650438526.mp3?updated=1716910832" length="0" type="audio/mpeg"/>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">prx_93_75970742-3c56-4ff5-94f0-94f42a63c689</guid>
-      <title>Shania Twain - You're Still The One</title>
-      <pubDate>Sun, 21 Jul 2024 06:55:18 +0000</pubDate>
-      <link>https://songexploder.net/shania-twain</link>
-      <description>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </description>
-      <enclosure url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/75970742-3c56-4ff5-94f0-94f42a63c689/SongExploder270-ShaniaTwain-Part1.mp3" type="audio/mpeg" length="26476876"/>
-      <itunes:subtitle>Shania Twain breaks down her hit song "You're Still The One."</itunes:subtitle>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>270</itunes:episode>
-      <itunes:duration>18:23</itunes:duration>
-      <author>contact@songexploder.net (Hrishikesh Hirway)</author>
-      <itunes:author>Hrishikesh Hirway</itunes:author>
-      <itunes:summary>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </itunes:summary>
-      <itunes:image href="https://f.prxu.org/song-exploder/75970742-3c56-4ff5-94f0-94f42a63c689/images/035e63f2-2580-4d52-ae11-3c1603679f17/SongExploder270-ShaniaTwain-Portrait.jpg"/>
-      <media:content fileSize="26476876" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/dovetail.prxu.org/_/93/75970742-3c56-4ff5-94f0-94f42a63c689/SongExploder270-ShaniaTwain-Part1.mp3"/>
-      <content:encoded>שאניה טוויין היא זמרת קאנטרי-פופ וכותבת שירים קנדית, הנחשבת לזמרת הקאנטרי המצליחה בעולם. וזהו סיפורו של השיר You're Still The One שהוקדש במקור לבן זוגה ואז המשמעות שלו השתנתה כשהם נפרדו. &lt;br&gt;#מוזיקה #אנגלית &lt;br&gt;https://prnt.sc/Xi-Wqcn1m6nW&lt;br&gt;&lt;br&gt;Exploder - Shania Twain - You're Still The One&lt;br&gt;משך: 18 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mw0uce0v&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;
-        &lt;p&gt;Shania Twain is a singer and songwriter from Ontario, Canada. She’s the only female artist to have had three consecutive Diamond albums — albums that have sold over ten million copies. Actually, her 1997 album &lt;em&gt;Come On Over &lt;/em&gt;is the best-selling album by a female solo artist of all time. One of the most iconic songs from that iconic album is "You’re Still The One." It was co-written and produced by Mutt Lange, who had previously produced some other classic albums, like &lt;em&gt;Back in Black &lt;/em&gt;by AC/DC and &lt;em&gt;Pyromania &lt;/em&gt;by Def Leppard. He had also produced Shania Twain’s previous album, &lt;em&gt;The Woman in Me&lt;/em&gt;.  For this episode, Shania told me the story of writing “You’re Still The One.” She told me about what the song meant to her when she was making it, over 25 years ago, and what it means to her now.&lt;/p&gt;&lt;p&gt;For more, visit &lt;a href="https://songexploder.net/shania-twain"&gt;&lt;strong&gt;songexploder.net/shania-twain&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-      </content:encoded>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>פרק 289: האם שמן הזית הישראלי עומד להיעלם?</title>
       <itunes:title>פרק 289: האם שמן הזית הישראלי עומד להיעלם?</itunes:title>
