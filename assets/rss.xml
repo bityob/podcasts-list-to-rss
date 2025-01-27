@@ -10,9 +10,27 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 26 Jan 2025 06:41:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 06:44:55 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>ספיישל קאס אליוט</title>
+      <itunes:title>ספיישל קאס אליוט</itunes:title>
+      <description>הסיפור של קאס אליוט, הזמרת המובילה של The Mamas &amp; the Papas, הוא סיפור של הצלחה מוזיקלית וטרגדיה אישית. &lt;br&gt;קאס הייתה אחת מהדמויות המובילות של המוזיקה בשנות ה-60, עם קול ייחודי שהפך אותה לאייקון של התקופה. &lt;br&gt;&lt;br&gt;לאחר פירוק הלהקה, היא המשיכה בקריירת סולו מצליחה, אך נפטרה בגיל צעיר בעקבות התקף לב. למרות השמועות שהיו סביב מותה, היא מתה מהתקף לב ולא מכריך 🤨&lt;br&gt;#מוזיקה #היסטוריה #טרגדיה&lt;br&gt;https://prnt.sc/FWVGNyMxEUcl&lt;br&gt;&lt;br&gt;ספיישל 88 - ספיישל קאס אליוט&lt;br&gt;משך: 1 שעה ו-8 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/2f265945-2e05-4ced-a676-2933957956d5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;50 שנה למותה של קאס אליוט מ-The Mamas &amp;amp; The Papas. עם גיל מטוס ואורי ב"ש&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
+      <content:encoded>הסיפור של קאס אליוט, הזמרת המובילה של The Mamas &amp; the Papas, הוא סיפור של הצלחה מוזיקלית וטרגדיה אישית. &lt;br&gt;קאס הייתה אחת מהדמויות המובילות של המוזיקה בשנות ה-60, עם קול ייחודי שהפך אותה לאייקון של התקופה. &lt;br&gt;&lt;br&gt;לאחר פירוק הלהקה, היא המשיכה בקריירת סולו מצליחה, אך נפטרה בגיל צעיר בעקבות התקף לב. למרות השמועות שהיו סביב מותה, היא מתה מהתקף לב ולא מכריך 🤨&lt;br&gt;#מוזיקה #היסטוריה #טרגדיה&lt;br&gt;https://prnt.sc/FWVGNyMxEUcl&lt;br&gt;&lt;br&gt;ספיישל 88 - ספיישל קאס אליוט&lt;br&gt;משך: 1 שעה ו-8 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/2f265945-2e05-4ced-a676-2933957956d5&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;50 שנה למותה של קאס אליוט מ-The Mamas &amp;amp; The Papas. עם גיל מטוס ואורי ב"ש&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:author>כאן | Kan</itunes:author>
+      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/7b56278a-688d-427a-a189-b1bc014d87f0/image.jpg?t=1722284265&amp;size=Large"/>
+      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/7b56278a-688d-427a-a189-b1bc014d87f0/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" type="audio/mpeg">
+        <media:player url="https://omny.fm/shows/midnight-special/7b56278a-688d-427a-a189-b1bc014d87f0/embed"/>
+      </media:content>
+      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/7b56278a-688d-427a-a189-b1bc014d87f0/image.jpg?t=1722284265&amp;size=Large" type="image/jpeg"/>
+      <guid isPermaLink="false">7b56278a-688d-427a-a189-b1bc014d87f0</guid>
+      <omny:clipId>7b56278a-688d-427a-a189-b1bc014d87f0</omny:clipId>
+      <pubDate>Sun, 26 Jan 2025 13:11:16 +0000</pubDate>
+      <itunes:duration>6394</itunes:duration>
+      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/96330a1f-eab4-4ecb-ba00-a919008d5a07/7b56278a-688d-427a-a189-b1bc014d87f0/audio.mp3?utm_source=Podcast&amp;in_playlist=085fc623-8310-4bdd-8465-a919008d5a07" length="102350259" type="audio/mpeg"/>
+      <link>https://omny.fm/shows/midnight-special/7b56278a-688d-427a-a189-b1bc014d87f0</link>
+    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Working with Friends</title>
       <description>פרק קצר אבל מעניין שנוגע בכמה נקודות חשובות בנוגע ליחסי חברות ועבודה. איך זוג חברים מתחילים לעבוד ביחד - על מה כדאי לחשוב מראש ומה היתרונות של התהליך.&lt;br&gt;#אנגלית #פסיכולוגיה #עסקים &lt;br&gt;&lt;br&gt;How to be fine - Working with Friends&lt;br&gt;משך: 25 דק' &lt;br&gt;&lt;br&gt;https://pca.st/pdy7cih1&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;When is it a good idea to mix friendship and work? What are the benefits and drawbacks of working with a friend? And what can we do to ensure both the work and the friendship succeed when the two are mixed? Liz Craft and Sarah Fain, BFFs and business partners, share their wisdom.
 We want to hear from you! Share your own experiences with friendship and loneliness on our private facebook community: facebook.com/groups/kristenandjolenta or write to us at kristenandjolenta@gmail.com   
@@ -9162,23 +9180,5 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
         <itunes:duration>01:15:13</itunes:duration>
                 <itunes:episode>844</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2024-01-24_at_2117136o1ri.jpeg"/>    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>מה עושים עם שלל המלחמה?</title>
-      <itunes:title>מה עושים עם שלל המלחמה?</itunes:title>
-      <description>אני מנסה לא לדבר על נושאים אקטואלים אבל זה שילוב של אקטואליה עם תחום מעניין שקודם לכן לא חשבתי עליו, אז אני משתפת. &lt;br&gt;בפרק שלפנינו יש לנו דיון על שלל מלחמה וספציפית השלל שהלוחמים שלנו לוקחים מעזה.&lt;br&gt;מה נחשב לשלל? מה מוגדר על פי החוקים בישראל כשלל? איך מבדילים בין טלוויזיה שהיא שלל לבין טלוויזיה שהיא רכוש פרטי של מישהו? &lt;br&gt;הכל שאלות טובות שמקבלות מענה בפרק. כמו גם השאלה - מה עושים עם כל הכסף שאנחנו יודעים שנאסף בעזה?&lt;br&gt;ספרו לי אם זה היה לכם מעניין...&lt;br&gt;#אקטואליה #ישראל #מלחמה #משפט &lt;br&gt;&lt;br&gt;אחד ביום - מה עושים עם שלל המלחמה?&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/jiz906k8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;נשקים, אמצעי לחימה, מחשבים, מצלמות, מסמכים, כספות - ועשרות מיליוני שקלים במזומן. מתקפת חמאס בשבעה באוקטובר והמלחמה בעזה שהגיעה אחריה הותירו בידי צה״ל כמויות אדירות של שלל שנתפס בשטח. מה עושים עם הפריטים שנמצאו בשדה הקרב, איך מחליטים מה להשמיד ומה לשמור, ולאן הולך כל הכסף שנתפס?&lt;/p&gt; &lt;p dir="rtl"&gt;אורחים: סגן מפקד היחידה לפינוי שלל, סא"ל (במיל') עידן שרון קטלר; וד"ר מאור לוי ממחלקת ההיסטוריה של צה"ל.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>אני מנסה לא לדבר על נושאים אקטואלים אבל זה שילוב של אקטואליה עם תחום מעניין שקודם לכן לא חשבתי עליו, אז אני משתפת. &lt;br&gt;בפרק שלפנינו יש לנו דיון על שלל מלחמה וספציפית השלל שהלוחמים שלנו לוקחים מעזה.&lt;br&gt;מה נחשב לשלל? מה מוגדר על פי החוקים בישראל כשלל? איך מבדילים בין טלוויזיה שהיא שלל לבין טלוויזיה שהיא רכוש פרטי של מישהו? &lt;br&gt;הכל שאלות טובות שמקבלות מענה בפרק. כמו גם השאלה - מה עושים עם כל הכסף שאנחנו יודעים שנאסף בעזה?&lt;br&gt;ספרו לי אם זה היה לכם מעניין...&lt;br&gt;#אקטואליה #ישראל #מלחמה #משפט &lt;br&gt;&lt;br&gt;אחד ביום - מה עושים עם שלל המלחמה?&lt;br&gt;משך: 24 דק' &lt;br&gt;&lt;br&gt;https://pca.st/jiz906k8&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;נשקים, אמצעי לחימה, מחשבים, מצלמות, מסמכים, כספות - ועשרות מיליוני שקלים במזומן. מתקפת חמאס בשבעה באוקטובר והמלחמה בעזה שהגיעה אחריה הותירו בידי צה״ל כמויות אדירות של שלל שנתפס בשטח. מה עושים עם הפריטים שנמצאו בשדה הקרב, איך מחליטים מה להשמיד ומה לשמור, ולאן הולך כל הכסף שנתפס?&lt;/p&gt; &lt;p dir="rtl"&gt;אורחים: סגן מפקד היחידה לפינוי שלל, סא"ל (במיל') עידן שרון קטלר; וד"ר מאור לוי ממחלקת ההיסטוריה של צה"ל.&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>N12</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/45d6d73a-1b95-47a6-9ef3-b122016931a5/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/ehadbeyom/45d6d73a-1b95-47a6-9ef3-b122016931a5/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/programs/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/image.jpg?t=1613578325&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">45d6d73a-1b95-47a6-9ef3-b122016931a5</guid>
-      <omny:clipId>45d6d73a-1b95-47a6-9ef3-b122016931a5</omny:clipId>
-      <pubDate>Tue, 19 Mar 2024 05:16:01 +0000</pubDate>
-      <itunes:duration>1403</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/2ee97a4e-8795-4260-9648-accf00a38c6a/ac2da21e-2193-4683-bcb5-accf011076ad/45d6d73a-1b95-47a6-9ef3-b122016931a5/audio.mp3?utm_source=Podcast&amp;in_playlist=409bad89-c4c2-46cb-b69b-accf01152781" length="22482191" type="audio/mpeg"/>
-      <link>https://omny.fm/shows/ehadbeyom/45d6d73a-1b95-47a6-9ef3-b122016931a5</link>
-    </item></channel>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2024-01-24_at_2117136o1ri.jpeg"/>    </item></channel>
 </rss>
