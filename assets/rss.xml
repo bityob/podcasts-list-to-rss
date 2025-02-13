@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Wed, 12 Feb 2025 06:44:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 06:44:20 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 28: נמרוד סונדרס על בינה מלאכותית יוצרת מבעד לעדשה</title>
@@ -1093,7 +1093,7 @@ Further Reading:
 
 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1928</itunes:duration>
+      <itunes:duration>1958</itunes:duration>
       <guid isPermaLink="false">7481b1ee-4de9-11ef-b514-03d7d2b2bbc2</guid>
       <enclosure url="https://pdst.fm/e/chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ9117862369.mp3?updated=1725037115" length="0" type="audio/mpeg"/>
     </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
@@ -2707,7 +2707,7 @@ Further Listening:
 -What Is Amazon’s Secret ‘Project Nessie’? 
 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1270</itunes:duration>
+      <itunes:duration>1300</itunes:duration>
       <guid isPermaLink="false">be354c60-0668-11ef-b321-db61d0bcb351</guid>
       <enclosure url="https://pdst.fm/e/chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ4775745171.mp3?updated=1725038975" length="0" type="audio/mpeg"/>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
@@ -4209,7 +4209,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</itunes:summary>
 -What Is Happening in Sudan? The Fighting Explained 
 
 Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
-      <itunes:duration>1220</itunes:duration>
+      <itunes:duration>1250</itunes:duration>
       <guid isPermaLink="false">9339e6fa-2db0-11ef-b41e-f3afb62a9431</guid>
       <enclosure url="https://pdst.fm/e/chtbl.com/track/1F1B1F/traffic.megaphone.fm/WSJ1601224548.mp3?updated=1725037616" length="0" type="audio/mpeg"/>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
@@ -9091,6 +9091,6 @@ Disclaimer</content:encoded>
       <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
       <itunes:duration>2826</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>168</itunes:order>
+      <itunes:order>169</itunes:order>
     </item></channel>
 </rss>
