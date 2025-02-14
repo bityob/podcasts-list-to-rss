@@ -10,9 +10,92 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Thu, 13 Feb 2025 06:44:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 06:43:55 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
-  <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+  <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+			<title>The Fraud that Transformed Psychiatry</title>
+			<itunes:title>The Fraud that Transformed Psychiatry</itunes:title>
+			<pubDate>Thu, 13 Feb 2025 15:27:33 +0000</pubDate>
+			<guid isPermaLink="false">f5dc420e-c4d7-4891-ba02-aa5f23f8bfc8</guid>
+			<link>https://www.sciencehistory.org/stories/distillations-pod/the-fraud-that-transformed-psychiatry/</link>
+			<itunes:image href="https://static.libsyn.com/p/assets/9/7/3/f/973f4450a475a6dee55e3c100dce7605/Pdcst24_3000x3000_Ep8_Psychiatrys-Bible_1400x1400.jpeg"/>
+			<description>הפרק עוסק במחקר פורץ דרך שביצע פרופ' דייוויד רוזנהן בשנת 1973, שבו שמונה משתתפים התחזו לחולים פסיכיאטריים והתקבלו לבתי חולים שונים. המחקר הדגיש את הבעיות בהבחנה הפסיכיאטרית, אך התברר שפרופ' רוזנהן עיוות את הנתונים, שכן לא כל הנתונים שלו היו נכונים.&lt;br&gt;&lt;br&gt;אך למרות השקר שעומד מאחוריו, המחקר הוביל לשינויים חשובים בהבנת האבחון הפסיכיאטרי.&lt;br&gt;#אנגלית #פסיכיאטריה #היסטוריה #מחקר&lt;br&gt;&lt;br&gt;Distillations – The Fraud that Transformed Psychiatry&lt;br&gt;משך: 58 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/dea7add3-db68-43bc-b7a4-6259a6ae6679&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;In 1973 a bombshell study appeared in the premier scientific journal &lt;em&gt;Science&lt;/em&gt;. It was called “On Being Sane in Insane Places.” Its author, a Stanford psychology professor named David Rosenhan, claimed that by faking their way into psychiatric hospitals, he and eight other pseudo-patients had proven that psychiatrists were unable to diagnose mental illness accurately.&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt; &lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;Psychiatrists panicked, and, as a result, re-wrote what’s known as “psychiatry’s bible”—the Diagnostic and Statistical Manual of Mental Disorders, or DSM. The study and the subsequent overhaul of the DSM changed the field forever. So it was a surprise when, decades later, a journalist reopened Rosenhan’s files and discovered that the study was full of inconsistencies and even blatant fraud. So should we throw out everything it revealed? Or can something based on a lie still contain any truths?&lt;/p&gt; &lt;p&gt;&lt;!-- wp:heading --&gt;&lt;/p&gt; &lt;h2 id="credits" class="wp-block-heading"&gt;Credits&lt;/h2&gt; &lt;p&gt;&lt;!-- /wp:heading --&gt; &lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;Host: &lt;a href= "https://www.sciencehistory.org/profile/alexis-j-pedrick"&gt;Alexis Pedrick&lt;/a&gt;&lt;br /&gt; Senior Producer: &lt;a href= "https://www.sciencehistory.org/profile/mariel-carr"&gt;Mariel Carr&lt;/a&gt;&lt;br /&gt; Producer: &lt;a href= "https://www.sciencehistory.org/profile/rigoberto-hernandez"&gt;Rigoberto Hernandez&lt;/a&gt;&lt;br /&gt; Associate Producer: &lt;a href= "https://www.sciencehistory.org/profile/sarah-kaplan/"&gt;Sarah Kaplan&lt;/a&gt;&lt;br /&gt; Audio Engineer: &lt;a href="https://www.podbrain.org/" target= "_blank" rel="noreferrer noopener"&gt;Jonathan Pfeffer&lt;/a&gt;&lt;br /&gt; “Color Theme” composed by &lt;a href= "https://www.podbrain.org/" target="_blank" rel= "noreferrer noopener"&gt;Jonathan Pfeffer&lt;/a&gt;. Additional music by &lt;a href="https://www.sessions.blue/" target= "_blank" rel="noreferrer noopener"&gt;Blue Dot Sessions&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt; &lt;!-- wp:heading --&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;</description>
+			<content:encoded>הפרק עוסק במחקר פורץ דרך שביצע פרופ' דייוויד רוזנהן בשנת 1973, שבו שמונה משתתפים התחזו לחולים פסיכיאטריים והתקבלו לבתי חולים שונים. המחקר הדגיש את הבעיות בהבחנה הפסיכיאטרית, אך התברר שפרופ' רוזנהן עיוות את הנתונים, שכן לא כל הנתונים שלו היו נכונים.&lt;br&gt;&lt;br&gt;אך למרות השקר שעומד מאחוריו, המחקר הוביל לשינויים חשובים בהבנת האבחון הפסיכיאטרי.&lt;br&gt;#אנגלית #פסיכיאטריה #היסטוריה #מחקר&lt;br&gt;&lt;br&gt;Distillations – The Fraud that Transformed Psychiatry&lt;br&gt;משך: 58 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/dea7add3-db68-43bc-b7a4-6259a6ae6679&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;In 1973 a bombshell study appeared in the premier scientific journal &lt;em&gt;Science&lt;/em&gt;. It was called “On Being Sane in Insane Places.” Its author, a Stanford psychology professor named David Rosenhan, claimed that by faking their way into psychiatric hospitals, he and eight other pseudo-patients had proven that psychiatrists were unable to diagnose mental illness accurately.&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt; &lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;Psychiatrists panicked, and, as a result, re-wrote what’s known as “psychiatry’s bible”—the Diagnostic and Statistical Manual of Mental Disorders, or DSM. The study and the subsequent overhaul of the DSM changed the field forever. So it was a surprise when, decades later, a journalist reopened Rosenhan’s files and discovered that the study was full of inconsistencies and even blatant fraud. So should we throw out everything it revealed? Or can something based on a lie still contain any truths?&lt;/p&gt; &lt;p&gt;&lt;!-- wp:heading --&gt;&lt;/p&gt; &lt;h2 id="credits" class="wp-block-heading"&gt;Credits&lt;/h2&gt; &lt;p&gt;&lt;!-- /wp:heading --&gt; &lt;!-- wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;Host: &lt;a href= "https://www.sciencehistory.org/profile/alexis-j-pedrick"&gt;Alexis Pedrick&lt;/a&gt;&lt;br /&gt; Senior Producer: &lt;a href= "https://www.sciencehistory.org/profile/mariel-carr"&gt;Mariel Carr&lt;/a&gt;&lt;br /&gt; Producer: &lt;a href= "https://www.sciencehistory.org/profile/rigoberto-hernandez"&gt;Rigoberto Hernandez&lt;/a&gt;&lt;br /&gt; Associate Producer: &lt;a href= "https://www.sciencehistory.org/profile/sarah-kaplan/"&gt;Sarah Kaplan&lt;/a&gt;&lt;br /&gt; Audio Engineer: &lt;a href="https://www.podbrain.org/" target= "_blank" rel="noreferrer noopener"&gt;Jonathan Pfeffer&lt;/a&gt;&lt;br /&gt; “Color Theme” composed by &lt;a href= "https://www.podbrain.org/" target="_blank" rel= "noreferrer noopener"&gt;Jonathan Pfeffer&lt;/a&gt;. Additional music by &lt;a href="https://www.sessions.blue/" target= "_blank" rel="noreferrer noopener"&gt;Blue Dot Sessions&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt; &lt;!-- wp:heading --&gt;&lt;/p&gt; &lt;p&gt; &lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt; &lt;p&gt;&lt;!-- /wp:paragraph --&gt;&lt;/p&gt;</content:encoded>
+			<enclosure length="139526656" type="audio/mpeg" url="https://traffic.libsyn.com/secure/chemheritage/the_fraud_that_transformed_psychiatry_-_quieter_music_v2.mp3?dest-id=94300"/>
+			<itunes:duration>58:09</itunes:duration>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:keywords>history,psychiatry,medicine,schizophrenia,asylum,DSM,MentalIllness</itunes:keywords>
+			<itunes:subtitle>In 1973 a bombshell study appeared in the premier scientific journal Science. It was called “On Being Sane in Insane Places.” Its author, a Stanford psychology professor named David Rosenhan, claimed that by faking their way into psychiatric...</itunes:subtitle>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item><item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+        <title>פרק #988 - עברי לידר</title>
+        <itunes:title>פרק #988 - עברי לידר</itunes:title>
+        <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-988-%d7%a2%d7%91%d7%a8%d7%99-%d7%9c%d7%99%d7%93%d7%a8/</link>
+                    <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a7-988-%d7%a2%d7%91%d7%a8%d7%99-%d7%9c%d7%99%d7%93%d7%a8/#comments</comments>        <pubDate>Thu, 13 Feb 2025 08:08:01 +0000</pubDate>
+        <guid isPermaLink="false">geekonomy.podbean.com/1f37e2de-f1b7-3290-885d-acee1158fba0</guid>
+                                    <description>איך נראה מבפנים עולמו של אמן מצליח? &lt;br&gt;עברי לידר פותח את הלב בשיחה פתוחה על יצירה, חיים, מחשבות, וספורט. אחד הרגעים המסקרנים בפרק הוא כשהוא חושף את האבסורד: כשהוא מבצע את שיריו בהופעות, הוא משלם עליהם תמלוגים לאקו"ם – והיא מחזירה לו את הכסף. הצצה מיוחדת לעולם המוזיקה שמפתיעה גם את מי שחושב שהוא מכיר אותו היטב.&lt;br&gt;&lt;br&gt;#מוזיקה #אומנות #תרבות&lt;br&gt;&lt;br&gt;גיקונומי - פרק #988 - עברי לידר&lt;br&gt;משך: שעה ו42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/episode/5091727c-7c37-4973-bc56-41515d413604&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;עברי לידר הוא מוזיקאי מוערך שאחראי לשורה של להיטים מוכרים. הוא הגיע לדבר עם ראם על האלבום החדש שלו ״חלק לא נפרד מאחרים״.&lt;/p&gt;
+
+ 
+
+נותני החסות לפרק:
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;amp;D משכנתאות וגיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+
+ 
+
+לינקים מהפרק:
+&lt;a href='https://li.sten.to/ivrihelek'&gt;האלבום החדש של עברי לידר&lt;/a&gt; 
+
+
+ 
+
+</description>
+                                                            <content:encoded>איך נראה מבפנים עולמו של אמן מצליח? &lt;br&gt;עברי לידר פותח את הלב בשיחה פתוחה על יצירה, חיים, מחשבות, וספורט. אחד הרגעים המסקרנים בפרק הוא כשהוא חושף את האבסורד: כשהוא מבצע את שיריו בהופעות, הוא משלם עליהם תמלוגים לאקו"ם – והיא מחזירה לו את הכסף. הצצה מיוחדת לעולם המוזיקה שמפתיעה גם את מי שחושב שהוא מכיר אותו היטב.&lt;br&gt;&lt;br&gt;#מוזיקה #אומנות #תרבות&lt;br&gt;&lt;br&gt;גיקונומי - פרק #988 - עברי לידר&lt;br&gt;משך: שעה ו42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/episode/5091727c-7c37-4973-bc56-41515d413604&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;עברי לידר הוא מוזיקאי מוערך שאחראי לשורה של להיטים מוכרים. הוא הגיע לדבר עם ראם על האלבום החדש שלו ״חלק לא נפרד מאחרים״.&lt;/p&gt;
+
+ 
+
+נותני החסות לפרק:
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;amp;D משכנתאות וגיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+
+ 
+
+לינקים מהפרק:
+&lt;a href='https://li.sten.to/ivrihelek'&gt;האלבום החדש של עברי לידר&lt;/a&gt; 
+
+
+ 
+
+</content:encoded>
+                                    
+        <enclosure url="https://mcdn.podbean.com/mf/web/prgz7i6sts7xikhf/geekonomy_ivri.mp3" length="98053631" type="audio/mpeg"/>
+        <itunes:summary>איך נראה מבפנים עולמו של אמן מצליח? &lt;br&gt;עברי לידר פותח את הלב בשיחה פתוחה על יצירה, חיים, מחשבות, וספורט. אחד הרגעים המסקרנים בפרק הוא כשהוא חושף את האבסורד: כשהוא מבצע את שיריו בהופעות, הוא משלם עליהם תמלוגים לאקו"ם – והיא מחזירה לו את הכסף. הצצה מיוחדת לעולם המוזיקה שמפתיעה גם את מי שחושב שהוא מכיר אותו היטב.&lt;br&gt;&lt;br&gt;#מוזיקה #אומנות #תרבות&lt;br&gt;&lt;br&gt;גיקונומי - פרק #988 - עברי לידר&lt;br&gt;משך: שעה ו42 דק' &lt;br&gt;&lt;br&gt;https://pca.st/episode/5091727c-7c37-4973-bc56-41515d413604&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="p1 sh-color-black sh-color" dir="rtl"&gt;עברי לידר הוא מוזיקאי מוערך שאחראי לשורה של להיטים מוכרים. הוא הגיע לדבר עם ראם על האלבום החדש שלו ״חלק לא נפרד מאחרים״.&lt;/p&gt;
+
+ 
+
+נותני החסות לפרק:
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.rndf.co.il/maschanta-geekonomy'&gt;חפשו בגוגל R&amp;amp;D משכנתאות וגיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='https://www.2sit.co.il/'&gt;חברת 2sit שבה תקבלו 25% הנחה על הכסא הראשון שתקנו אם תגידו שהגעתם דרך גיקונומי&lt;/a&gt;&lt;/p&gt;
+&lt;p class="sh-color-black sh-color"&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+
+ 
+
+לינקים מהפרק:
+&lt;a href='https://li.sten.to/ivrihelek'&gt;האלבום החדש של עברי לידר&lt;/a&gt; 
+
+
+ 
+
+</itunes:summary>
+        <itunes:author>ראם שרמן ודורון ניר</itunes:author>
+        <itunes:explicit>false</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>01:42:07</itunes:duration>
+                <itunes:episode>997</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+            </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 28: נמרוד סונדרס על בינה מלאכותית יוצרת מבעד לעדשה</title>
 			<description>כיצד משפיעה הבינה המלאכותית על עולם הצילום? בפרק זה, הצלם נמרוד סונדרס משתף כיצד הוא משלב כלים מבוססי AI בעבודתו היומיומית, מה שמאפשר לו ליצור תמונות חדשניות ומרהיבות. השיחה מתמקדת בהשפעת הטכנולוגיה על תהליך היצירה, האתגרים וההזדמנויות שהיא מביאה עמה, וכיצד ניתן לנצל את הכלים החדשים ליצירת אמנות חזותית מרתקת.&lt;br&gt;#בינהמלאכותית #צילום #אומנות&lt;br&gt;&lt;br&gt;מצייצים שיווק AI - פרק 28: נמרוד סונדרס על בינה מלאכותית יוצרת מבעד לעדשה&lt;br&gt;משך: 30 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/15a6201a-ebb5-4e7e-bd53-f632a109922a&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;בפרק החדש של הפודקאסט מצייצים שיווק בינה מלאכותית, אירח אמיר שניידר את נמרוד סונדרס, מנהל קהילת המכחול המכני וצלם מקצועי המתמחה בצילום מזון. סונדרס, בוגר המחלקה לצילום בבצלאל עם ניסיון של כמעט 20 שנה בתחום, חולק תובנות מרתקות על השילוב בין צילום מסחרי לבינה מלאכותית.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;ממהפכת הצילום הדיגיטלי למהפכת הבינה&lt;/p&gt;&lt;p&gt;סונדרס, שעבר את המהפכה הדיגיטלית בצילום, מספר על המפגש עם AI: "כשראיתי שזה שימושי או שזה עומד להיות שימושי, אז ישר קפצתי על זה והבנתי שאני חייב להבין בזה בצורה מקצועית ושזה הולך להיות העתיד שלנו."&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;המרחב השיווקי בעידן הבינה&lt;/p&gt;&lt;p&gt;לדברי סונדרס, זה הולך לנגוס ביס מאוד גדול מצילום. צילום כפרקטיקה אומנותית ותחביב ומשהו שאנשים עושים יישאר, אבל במרחב השימושי, השיווקי, נתח מאוד גדול הולך לבינה המלאכותית.&lt;/p&gt;
 </description>
@@ -9051,46 +9134,5 @@ Disclaimer</content:encoded>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:episode>165</itunes:episode>
-    </item><item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <guid isPermaLink="false">dca8fd45-0da6-44c6-a0c7-18add0e90675</guid>
-      <title>WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm</title>
-      <description>פרק שהתמצית שלו היא: הדרך לגיהנום רצופה כוונות טובות. בקליפורניה יש סט של חוקים שנועדו להזהיר את האזרחים מפני שימוש בחומרים אסורים בכל המוצרים שסובבים אותם - ממוצרי מזון, היגיינה ועד לבניינים. אבל מרוב אזהרות לא רואים את היער ומצד שני הפרק מדגים איך בכל זאת החוק הזה כן מטיב עם האזרחים.&lt;br&gt;הערה מאוחרת: הפרק כולל כמה פעמים רעשים חזקים דמויי סרנה. &lt;br&gt;#משפט #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;br&gt;משך: 42 דק' &lt;br&gt; &lt;br&gt;https://pca.st/qz2bacfa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Intimidating Proposition 65 warnings can be found on all kinds of products manufactured or distributed in the State of California. They can seem rather terrifying at first, but within the state, they are ubiquitous, on everyday objects from power tools to potato chips, dietary supplements, leather jackets, gas pumps, coffee tables, the list goes on. All of which raises the question: if these labels are on so many things, are they actually useful in warning us of real dangers?&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=41899&amp;post_type=episode"&gt;572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</description>
-      <pubDate>Thu, 04 Apr 2024 04:35:09 +0000</pubDate>
-      <author>originals@stitcher.com (vivian le)</author>
-      <link>https://99percentinvisible.org/?p=41899&amp;post_type=episode</link>
-      <media:thumbnail height="720" url="https://image.simplecastcdn.com/images/96792a27-13c3-40ce-b933-36bdb43a299e/82d76f05-5b84-44ec-8c76-9e9cfc0768f7/stitcher-graphics-pack-99percentinvisible-r2021-1920x1080-a.jpg" width="1280"/>
-      <content:encoded>פרק שהתמצית שלו היא: הדרך לגיהנום רצופה כוונות טובות. בקליפורניה יש סט של חוקים שנועדו להזהיר את האזרחים מפני שימוש בחומרים אסורים בכל המוצרים שסובבים אותם - ממוצרי מזון, היגיינה ועד לבניינים. אבל מרוב אזהרות לא רואים את היער ומצד שני הפרק מדגים איך בכל זאת החוק הזה כן מטיב עם האזרחים.&lt;br&gt;הערה מאוחרת: הפרק כולל כמה פעמים רעשים חזקים דמויי סרנה. &lt;br&gt;#משפט #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;br&gt;משך: 42 דק' &lt;br&gt; &lt;br&gt;https://pca.st/qz2bacfa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Intimidating Proposition 65 warnings can be found on all kinds of products manufactured or distributed in the State of California. They can seem rather terrifying at first, but within the state, they are ubiquitous, on everyday objects from power tools to potato chips, dietary supplements, leather jackets, gas pumps, coffee tables, the list goes on. All of which raises the question: if these labels are on so many things, are they actually useful in warning us of real dangers?&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=41899&amp;post_type=episode"&gt;572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</content:encoded>
-      <enclosure length="41116363" type="audio/mpeg" url="https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/0bDcdoop59bdTYSfajQW/stitcher.simplecastaudio.com/3bb687b0-04af-4257-90f1-39eef4e631b6/episodes/9e7d680e-5214-4b38-8657-b9bd2550c239/audio/128/default.mp3?aid=rss_feed&amp;awCollectionId=3bb687b0-04af-4257-90f1-39eef4e631b6&amp;awEpisodeId=9e7d680e-5214-4b38-8657-b9bd2550c239&amp;feed=BqbsxVfO"/>
-      <itunes:title>WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm</itunes:title>
-      <itunes:author>vivian le</itunes:author>
-      <itunes:image href="https://image.simplecastcdn.com/images/00c81e60-45f9-4643-9fed-2184b2b6a3d3/a61daa3f-bb9b-4555-b180-18f505919c87/3000x3000/sxm-cover-99percentinvisible-3000x3000-r2021-final.jpg?aid=rss_feed"/>
-      <itunes:duration>00:42:39</itunes:duration>
-      <itunes:summary>פרק שהתמצית שלו היא: הדרך לגיהנום רצופה כוונות טובות. בקליפורניה יש סט של חוקים שנועדו להזהיר את האזרחים מפני שימוש בחומרים אסורים בכל המוצרים שסובבים אותם - ממוצרי מזון, היגיינה ועד לבניינים. אבל מרוב אזהרות לא רואים את היער ומצד שני הפרק מדגים איך בכל זאת החוק הזה כן מטיב עם האזרחים.&lt;br&gt;הערה מאוחרת: הפרק כולל כמה פעמים רעשים חזקים דמויי סרנה. &lt;br&gt;#משפט #אנגלית &lt;br&gt;&lt;br&gt;99% Invisible - 572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;br&gt;משך: 42 דק' &lt;br&gt; &lt;br&gt;https://pca.st/qz2bacfa&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;Intimidating Proposition 65 warnings can be found on all kinds of products manufactured or distributed in the State of California. They can seem rather terrifying at first, but within the state, they are ubiquitous, on everyday objects from power tools to potato chips, dietary supplements, leather jackets, gas pumps, coffee tables, the list goes on. All of which raises the question: if these labels are on so many things, are they actually useful in warning us of real dangers?&lt;/p&gt;&lt;p&gt;&lt;a href="https://99percentinvisible.org/?p=41899&amp;post_type=episode"&gt;572- WARNING: This Podcast Contains Chemicals Known to the State of California to Cause Cancer or Other Reproductive Harm&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;p&gt;Subscribe to SiriusXM Podcasts+ on Apple Podcasts to listen to ad-free new episodes and get exclusive access to bonus content.&lt;/p&gt;&lt;/p&gt;</itunes:summary>
-      <itunes:subtitle>Understanding the clunky Prop 65 warnings on products</itunes:subtitle>
-      <itunes:keywords>safe drinking water and toxic enforcement act of 1986, prop 65, proposition 65, david roe, fda</itunes:keywords>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:episode>572</itunes:episode>
-    </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
-      <title>120 למלחמת רוסיה-יפן: שיחה עם פרופ' דני אורבך</title>
-      <itunes:title>120 למלחמת רוסיה-יפן: שיחה עם פרופ' דני אורבך</itunes:title>
-      <description>הסטוריה של מלחמת יפן-רוסיה. המלחמה שיכולה להקרא גם מלחמת העולם 0. יש פה סקירה הסטורית רגילה אבל לצד זה גם כמה אנקדוטות מגניבות (כולל בדיחה יהודית על המלחמה).&lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;אש זרה - 120 למלחמת רוסיה-יפן: שיחה עם פרופ' דני אורבך&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/ipkzwpbe&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;מסע אל המלחמה שרבים רואים המבשרת הגדולה של מלחמות העולם: על מה שהוביל להתנגשות בין יפן של הקיסר לבין האימפריה של הצאר ועל חטא הפיכת הניצחון היפני לקונספציה, על עלייתה המטאורית של יפן וההכשלה העצמית של שתי המדינות הנלחמות, על הצד הציוני במלחמה&lt;/p&gt; &lt;p dir="rtl"&gt;אורחים: סנטוקה, האדמירל טוגו, הגנרל נוגי, הצאר ניקולאי השני, הקיסר מוציהיטו, דה אנימלס, קומודור מתיו פרי, ניל יאנג, קין והבל, נפתלי הרץ אימבר, יוסף טרומפלדור, מקהלת הצבא האדום&lt;/p&gt; &lt;p dir="rtl"&gt;עורך ומגיש: נדב הלפרין&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</description>
-      <content:encoded>הסטוריה של מלחמת יפן-רוסיה. המלחמה שיכולה להקרא גם מלחמת העולם 0. יש פה סקירה הסטורית רגילה אבל לצד זה גם כמה אנקדוטות מגניבות (כולל בדיחה יהודית על המלחמה).&lt;br&gt;#הסטוריה &lt;br&gt;&lt;br&gt;אש זרה - 120 למלחמת רוסיה-יפן: שיחה עם פרופ' דני אורבך&lt;br&gt;משך: 47 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/ipkzwpbe&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt;מסע אל המלחמה שרבים רואים המבשרת הגדולה של מלחמות העולם: על מה שהוביל להתנגשות בין יפן של הקיסר לבין האימפריה של הצאר ועל חטא הפיכת הניצחון היפני לקונספציה, על עלייתה המטאורית של יפן וההכשלה העצמית של שתי המדינות הנלחמות, על הצד הציוני במלחמה&lt;/p&gt; &lt;p dir="rtl"&gt;אורחים: סנטוקה, האדמירל טוגו, הגנרל נוגי, הצאר ניקולאי השני, הקיסר מוציהיטו, דה אנימלס, קומודור מתיו פרי, ניל יאנג, קין והבל, נפתלי הרץ אימבר, יוסף טרומפלדור, מקהלת הצבא האדום&lt;/p&gt; &lt;p dir="rtl"&gt;עורך ומגיש: נדב הלפרין&lt;/p&gt;&lt;p&gt;See &lt;a href="https://omnystudio.com/listener"&gt;omnystudio.com/listener&lt;/a&gt; for privacy information.&lt;/p&gt;</content:encoded>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:author>כאן | Kan</itunes:author>
-      <itunes:image href="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/image.jpg?t=1707678821&amp;size=Large"/>
-      <media:content url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" type="audio/mpeg">
-        <media:player url="https://omny.fm/shows/foreign-fire/120-4/embed"/>
-      </media:content>
-      <media:content url="https://www.omnycontent.com/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/image.jpg?t=1707678821&amp;size=Large" type="image/jpeg"/>
-      <guid isPermaLink="false">67cd3ee2-ce87-4071-b96f-b113013c8e16</guid>
-      <omny:clipId>67cd3ee2-ce87-4071-b96f-b113013c8e16</omny:clipId>
-      <pubDate>Tue, 02 Apr 2024 04:11:01 +0000</pubDate>
-      <itunes:duration>2826</itunes:duration>
-      <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/bec15f07-5abc-475c-8894-a9db00ccca55/67cd3ee2-ce87-4071-b96f-b113013c8e16/audio.mp3?utm_source=Podcast&amp;in_playlist=270f6d1e-c7d6-45a2-b36a-a9db00cd0ef0" length="45268972" type="audio/mpeg"/>
-      <itunes:order>169</itunes:order>
     </item></channel>
 </rss>
