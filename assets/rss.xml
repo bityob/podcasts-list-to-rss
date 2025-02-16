@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 15 Feb 2025 06:44:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 06:42:06 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:atom="http://www.w3.org/2005/Atom" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
 			<title>The Fraud that Transformed Psychiatry</title>
@@ -429,7 +429,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2852</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5cca975d-dd94-4b7a-96bc-b1b300efeaa8/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45656799" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-ee39e24f-aa29-4859-9590-4627cab6a41a</link>
-      <itunes:order>80</itunes:order>
+      <itunes:order>84</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 3</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 3</itunes:title>
@@ -448,7 +448,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2633</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5a67c9b1-4c58-421a-bc9e-b1b300eebca2/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42147196" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-591747ec-93ad-45ae-a211-3fa43850ca00</link>
-      <itunes:order>81</itunes:order>
+      <itunes:order>85</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 2</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 2</itunes:title>
@@ -467,7 +467,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2837</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/aeb532d2-1e8c-4c92-bc1e-b1b300edd76e/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45411457" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-9c81119b-f0dd-4689-a155-e6f64b144ddd</link>
-      <itunes:order>82</itunes:order>
+      <itunes:order>86</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 1</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 1</itunes:title>
@@ -486,7 +486,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2863</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1554a773-a824-4192-be4d-b1b300ec6384/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45835268" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-88a66e75-5683-4445-a321-e5542a7719ec</link>
-      <itunes:order>83</itunes:order>
+      <itunes:order>87</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)</title><link>https://www.spreaker.com/episode/428-g-r-r-twlqyn-wsym-hystwryh-s-h--61088326</link><description>פרק כיפי ומלא אנקדוטות על ג'.ר.ר. טולקין (J.R.R. Tolkien, או Tulkin כפי שהוא נהגה בפרק). תשמעו על הקשר בין אהבתו לבלשנות ליצירת השפות ב"שר הטבעות", על הזכויות לספרים שהסתבכו, ואיך כל זה תרם להפצת הספרים בעולם. &lt;br&gt;&lt;br&gt;זה פרק עם סיפורים קטנים ומפתיעים, שירגשו את מעריצי טולקין ויפתיעו גם את מי שפחות בקיא בעולמות הפנטזיה שלו. &lt;br&gt;רק תתכוננו, השם "Tulkin" אולי ידרוש מכם קצת סבלנות.&lt;br&gt;#היסטוריה #ספרות #פנטזיה&lt;br&gt;&lt;br&gt;עושים היסטוריה - 428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)&lt;br&gt;משך: 48 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/9437ff18-d657-449a-8de1-483574589433&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה את 'שר הטבעות' ליצירה הפופולרית והאלמותית שהיא היום. &lt;br /&gt;האזנה נעימה,&lt;br /&gt;רן</description><guid isPermaLink="false">https://api.spreaker.com/episode/61088326</guid><pubDate>Tue, 21 Jan 2025 14:05:36 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61088326/ep428_tolkien_rerun.mp3" length="46734132" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה...</itunes:subtitle><itunes:summary>פרק כיפי ומלא אנקדוטות על ג'.ר.ר. טולקין (J.R.R. Tolkien, או Tulkin כפי שהוא נהגה בפרק). תשמעו על הקשר בין אהבתו לבלשנות ליצירת השפות ב"שר הטבעות", על הזכויות לספרים שהסתבכו, ואיך כל זה תרם להפצת הספרים בעולם. &lt;br&gt;&lt;br&gt;זה פרק עם סיפורים קטנים ומפתיעים, שירגשו את מעריצי טולקין ויפתיעו גם את מי שפחות בקיא בעולמות הפנטזיה שלו. &lt;br&gt;רק תתכוננו, השם "Tulkin" אולי ידרוש מכם קצת סבלנות.&lt;br&gt;#היסטוריה #ספרות #פנטזיה&lt;br&gt;&lt;br&gt;עושים היסטוריה - 428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)&lt;br&gt;משך: 48 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/9437ff18-d657-449a-8de1-483574589433&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה את 'שר הטבעות' ליצירה הפופולרית והאלמותית שהיא היום. &lt;br /&gt;האזנה נעימה,&lt;br /&gt;רן</itunes:summary><itunes:duration>2921</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9753a8e67a74acdac57c3db7d4c5e4b3.jpg"/><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>The Mummy (1999) with Dr. Aidan Dodson</title>
       <link>https://links.boatspodcast.com/340</link>
@@ -2811,7 +2811,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2282</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/63dbc181-f5e4-42b2-9f7d-b19e014d3366/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36555843" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-b284f256-b167-4b99-ba8c-e1d02e316c57</link>
-      <itunes:order>90</itunes:order>
+      <itunes:order>94</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שפת הסתרים של סימני המסחר - פרק 1</title>
       <itunes:title>שפת הסתרים של סימני המסחר - פרק 1</itunes:title>
@@ -2830,7 +2830,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2894</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/b7dcb97b-59dc-4a78-a1e6-b19e014a3f93/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46345701" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-cf914392-a444-4f60-9ff7-5f8a36eddbb9</link>
-      <itunes:order>91</itunes:order>
+      <itunes:order>95</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>[GREATEST HITS] #147: Chenell Basilio – How the best newsletter operators grow to 50K+ subscribers</title>
       <link>https://podcast.creatorscience.com/chenell-basilio-replay</link>
@@ -8500,7 +8500,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2193</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/c488e90b-8ac2-412e-9f87-b12e01389f85/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="35153141" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4e1824aa-0c93-454b-93d4-233710cb6566</link>
-      <itunes:order>128</itunes:order>
+      <itunes:order>132</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>תעלומות ארכיאולוגיות בירושלים - פרק 1</title>
       <itunes:title>תעלומות ארכיאולוגיות בירושלים - פרק 1</itunes:title>
@@ -8519,7 +8519,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2658</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/51f8694d-6b89-4cc7-a66d-b12e013509a1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42597829" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-339f87b8-c326-4f16-8e95-34e3190d7c28</link>
-      <itunes:order>129</itunes:order>
+      <itunes:order>133</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן</title>
 			<description>ההסטוריה של סעודיה. מההתחלה ודרך בניית הזהות הלאומית ועד למצב היום. וגם מה אנחנו מפספסים היום בקשר לסעודיה. &lt;br&gt;#הסטוריה #פוליטיקה &lt;br&gt;&lt;br&gt;אסכת - פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן &lt;br&gt;משך: שעה ו6 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tb116tfr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אם הרצון שלך הוא להבין מדינה, לא מספיק לשמוע על המנהיגים שלה בחדשות - אלא להבין את החברה עצמה - ועל כך אשוחח עם ד&amp;quot;ר יוסי מן בפרק על החברה בסעודיה.&lt;/p&gt;
