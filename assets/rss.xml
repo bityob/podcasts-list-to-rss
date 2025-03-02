@@ -10,7 +10,7 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sat, 01 Mar 2025 06:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 06:43:56 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
   <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>האזנה מודרכת - The Police - Every Breath You Take</title>
@@ -814,7 +814,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2852</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5cca975d-dd94-4b7a-96bc-b1b300efeaa8/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45656799" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/4-ee39e24f-aa29-4859-9590-4627cab6a41a</link>
-      <itunes:order>88</itunes:order>
+      <itunes:order>92</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 3</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 3</itunes:title>
@@ -833,7 +833,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2633</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/5a67c9b1-4c58-421a-bc9e-b1b300eebca2/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42147196" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/3-591747ec-93ad-45ae-a211-3fa43850ca00</link>
-      <itunes:order>89</itunes:order>
+      <itunes:order>93</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 2</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 2</itunes:title>
@@ -852,7 +852,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2837</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/aeb532d2-1e8c-4c92-bc1e-b1b300edd76e/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45411457" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-9c81119b-f0dd-4689-a155-e6f64b144ddd</link>
-      <itunes:order>90</itunes:order>
+      <itunes:order>94</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>הסיפורים שאנחנו מספרים - פרק 1</title>
       <itunes:title>הסיפורים שאנחנו מספרים - פרק 1</itunes:title>
@@ -871,7 +871,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2863</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/1554a773-a824-4192-be4d-b1b300ec6384/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="45835268" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-88a66e75-5683-4445-a321-e5542a7719ec</link>
-      <itunes:order>91</itunes:order>
+      <itunes:order>95</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/"><title>428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)</title><link>https://www.spreaker.com/episode/428-g-r-r-twlqyn-wsym-hystwryh-s-h--61088326</link><description>פרק כיפי ומלא אנקדוטות על ג'.ר.ר. טולקין (J.R.R. Tolkien, או Tulkin כפי שהוא נהגה בפרק). תשמעו על הקשר בין אהבתו לבלשנות ליצירת השפות ב"שר הטבעות", על הזכויות לספרים שהסתבכו, ואיך כל זה תרם להפצת הספרים בעולם. &lt;br&gt;&lt;br&gt;זה פרק עם סיפורים קטנים ומפתיעים, שירגשו את מעריצי טולקין ויפתיעו גם את מי שפחות בקיא בעולמות הפנטזיה שלו. &lt;br&gt;רק תתכוננו, השם "Tulkin" אולי ידרוש מכם קצת סבלנות.&lt;br&gt;#היסטוריה #ספרות #פנטזיה&lt;br&gt;&lt;br&gt;עושים היסטוריה - 428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)&lt;br&gt;משך: 48 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/9437ff18-d657-449a-8de1-483574589433&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה את 'שר הטבעות' ליצירה הפופולרית והאלמותית שהיא היום. &lt;br /&gt;האזנה נעימה,&lt;br /&gt;רן</description><guid isPermaLink="false">https://api.spreaker.com/episode/61088326</guid><pubDate>Tue, 21 Jan 2025 14:05:36 +0000</pubDate><enclosure url="https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/61088326/ep428_tolkien_rerun.mp3" length="46734132" type="audio/mpeg"/><itunes:author>רשת עושים היסטוריה</itunes:author><itunes:subtitle>כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה...</itunes:subtitle><itunes:summary>פרק כיפי ומלא אנקדוטות על ג'.ר.ר. טולקין (J.R.R. Tolkien, או Tulkin כפי שהוא נהגה בפרק). תשמעו על הקשר בין אהבתו לבלשנות ליצירת השפות ב"שר הטבעות", על הזכויות לספרים שהסתבכו, ואיך כל זה תרם להפצת הספרים בעולם. &lt;br&gt;&lt;br&gt;זה פרק עם סיפורים קטנים ומפתיעים, שירגשו את מעריצי טולקין ויפתיעו גם את מי שפחות בקיא בעולמות הפנטזיה שלו. &lt;br&gt;רק תתכוננו, השם "Tulkin" אולי ידרוש מכם קצת סבלנות.&lt;br&gt;#היסטוריה #ספרות #פנטזיה&lt;br&gt;&lt;br&gt;עושים היסטוריה - 428: ג'.ר.ר. טולקין [עושים היסטוריה] (ש.ח)&lt;br&gt;משך: 48 דקות&lt;br&gt;&lt;br&gt;https://pca.st/episode/9437ff18-d657-449a-8de1-483574589433&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;כשיצא לאור הכרך הראשון של 'שר הטבעות', מבקרים רבים קטלו את סגנונו הספרותי של ג'.ר.ר. טולקין. ואכן, המהדורה הראשונה של הסדרה נמכרה בכמה אלפי עותקים בלבד, ונחלה כשלון חרוץ. אבל אז, דווקא הוצאת ספרים שניסתה לרמות את טולקין - נתנה לסדרה פרסום מעולה, והפכה את 'שר הטבעות' ליצירה הפופולרית והאלמותית שהיא היום. &lt;br /&gt;האזנה נעימה,&lt;br /&gt;רן</itunes:summary><itunes:duration>2921</itunes:duration><itunes:explicit>clean</itunes:explicit><itunes:image href="https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/9753a8e67a74acdac57c3db7d4c5e4b3.jpg"/><itunes:episodeType>full</itunes:episodeType></item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>The Mummy (1999) with Dr. Aidan Dodson</title>
       <link>https://links.boatspodcast.com/340</link>
@@ -3125,7 +3125,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2282</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/63dbc181-f5e4-42b2-9f7d-b19e014d3366/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="36555843" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-b284f256-b167-4b99-ba8c-e1d02e316c57</link>
-      <itunes:order>98</itunes:order>
+      <itunes:order>102</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>שפת הסתרים של סימני המסחר - פרק 1</title>
       <itunes:title>שפת הסתרים של סימני המסחר - פרק 1</itunes:title>
@@ -3144,7 +3144,7 @@ Learn more about your ad choices. Visit megaphone.fm/adchoices</content:encoded>
       <itunes:duration>2894</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/b7dcb97b-59dc-4a78-a1e6-b19e014a3f93/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="46345701" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-cf914392-a444-4f60-9ff7-5f8a36eddbb9</link>
-      <itunes:order>99</itunes:order>
+      <itunes:order>103</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>[GREATEST HITS] #147: Chenell Basilio – How the best newsletter operators grow to 50K+ subscribers</title>
       <link>https://podcast.creatorscience.com/chenell-basilio-replay</link>
@@ -8778,7 +8778,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2193</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/c488e90b-8ac2-412e-9f87-b12e01389f85/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="35153141" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/2-4e1824aa-0c93-454b-93d4-233710cb6566</link>
-      <itunes:order>136</itunes:order>
+      <itunes:order>140</itunes:order>
     </item><item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:psc="http://podlove.org/simple-chapters" xmlns:omny="https://omny.fm/rss-extensions" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:acast="https://schema.acast.com/1.0/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
       <title>תעלומות ארכיאולוגיות בירושלים - פרק 1</title>
       <itunes:title>תעלומות ארכיאולוגיות בירושלים - פרק 1</itunes:title>
@@ -8797,7 +8797,7 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:duration>2658</itunes:duration>
       <enclosure url="https://traffic.omny.fm/d/clips/23f697a0-7e6a-4e96-a223-a82c00962b12/304b2cf5-dea9-4263-8a33-a919008d5a41/51f8694d-6b89-4cc7-a66d-b12e013509a1/audio.mp3?utm_source=Podcast&amp;in_playlist=a82055c0-d8eb-4780-b6bb-a919008d5a42" length="42597829" type="audio/mpeg"/>
       <link>https://omny.fm/shows/the-lab/1-339f87b8-c326-4f16-8e95-34e3190d7c28</link>
-      <itunes:order>137</itunes:order>
+      <itunes:order>141</itunes:order>
     </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
 			<title>פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן</title>
 			<description>ההסטוריה של סעודיה. מההתחלה ודרך בניית הזהות הלאומית ועד למצב היום. וגם מה אנחנו מפספסים היום בקשר לסעודיה. &lt;br&gt;#הסטוריה #פוליטיקה &lt;br&gt;&lt;br&gt;אסכת - פרק 52 - החברה בסעודיה - עם ד"ר יוסי מן &lt;br&gt;משך: שעה ו6 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt;https://pca.st/tb116tfr&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;אם הרצון שלך הוא להבין מדינה, לא מספיק לשמוע על המנהיגים שלה בחדשות - אלא להבין את החברה עצמה - ועל כך אשוחח עם ד&amp;quot;ר יוסי מן בפרק על החברה בסעודיה.&lt;/p&gt;
@@ -9030,28 +9030,5 @@ Learn more about your ad choices. Visit podcastchoices.com/adchoices</content:en
       <itunes:episodeType>full</itunes:episodeType>
       <content:encoded>סקירה של אתר Temu. אתר חדש יחסית בארהב שמתחרה בענקיות אמזון ועליבאבא. קצת על המודל העסקי, איך ארהב מנסה לחוקק עוד חוק נגד חברה סינית ואיך האתר גורם לצרכנים לקנות יותר (מזכיר טיפה פירמידה)&lt;br&gt;#אנגלית #טכנולוגיה #כלכלה&lt;br&gt;&lt;br&gt;Planet Money - What is Temu?&lt;br&gt;משך: 28 דק' &lt;br&gt;&lt;br&gt;&lt;br&gt; https://pca.st/mzgj3otq&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;It is rare that a new e-commerce company has such a meteoric rise as Temu. The company, which launched in the fall of 2022, has been flooding the American advertising market, buying much of the inventory of Facebook, Snapchat, and beyond. According to the market intelligence firm Sensor Tower, Temu is one of the most downloaded iPhone apps in the country, with around 50 million monthly active users.&lt;br/&gt;&lt;br/&gt;On today's show, we go deep on Temu: How does it work, how did it manage such a quick rise in the U.S., and what hints might it offer us about the future of retail? Plus, we'll talk to the bicycle-loving U.S. Representative who is working to shut down a loophole that has proved very helpful to Temu's swift ascent. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode was hosted by Nick Fountain and Alexi Horowitz-Ghazi with reporting from Emily Feng. It was produced by Sam Yellowhorse Kesler and Emma Peaslee. It was edited by Keith Romer, fact-checked by Sierra Juarez, and engineered by Cena Loffredo. Alex Goldmark is Planet Money's executive producer. &lt;br/&gt;&lt;br/&gt;Help support Planet Money and get bonus episodes by subscribing to Planet Money+ &lt;/em&gt;&lt;a href="http://n.pr/PM-digital"&gt;&lt;em&gt;in Apple Podcasts&lt;/em&gt;&lt;/a&gt;&lt;em&gt; or at &lt;/em&gt;&lt;a href="https://n.pr/3HlREPz"&gt;&lt;em&gt;plus.npr.org/planetmoney&lt;/em&gt;&lt;/a&gt;&lt;em&gt;.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;Learn more about sponsor message choices: &lt;a href="https://podcastchoices.com/adchoices"&gt;podcastchoices.com/adchoices&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</content:encoded>
       <enclosure length="24334882" type="audio/mpeg" url="https://chrt.fm/track/138C95/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR7754106355.mp3?d=1520&amp;size=24334882&amp;e=1197958526&amp;t=podcast&amp;p=510289"/>
-    </item><item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
-			<title>שירים בארנק - המשוררים, הסיפורים והיצירות על שטרות הכסף שלנו</title>
-			<description>מסוג הפרקים שאני מאוד אוהבת - ההסטוריה של שירים והמשוררים שמופיעים על השטרות שלנו. קצת על הבחירה בשירים הללו ובסודות הקטנים שמוחבאים בשטרות. &lt;br&gt;#כלכלה #סיפורמעניין #תרבות &lt;br&gt;https://prnt.sc/oU0LlZrO5z3n&lt;br&gt;&lt;br&gt;הספרנים - שירים בארנק - המשוררים, הסיפורים והיצירות על שטרות הכסף שלנו&lt;br&gt;משך:  52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/88xk6wlv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;מה הקשר בין השיר &amp;#39;ימים לבנים&amp;#39; של לאה גולדברג המופיע על שטרות 100 שקל ובין לוח השנה הגרגוריאני? איך הפך &amp;#39;שיר בוקר&amp;#39; של אלתרמן שעל שטרות 200 שקלים ללהיט בגרמניה הנאצית, ומהם השירים הסמויים שהוטמעו בשטרות הכסף כאמצעי ביטחון נגד זיוף? האזינו לשיחה עם ד&amp;quot;ר חזי עמיאור, על המשוררים והשירים שעל שטרות הכסף הישראלים.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;עורכת ומגישה&lt;/strong&gt;: ורד ליון-ירושלמי&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;הפקה, הקלטה ועריכת סאונד&lt;/strong&gt;: רז חסון, KeyPod&lt;/p&gt;
-</description>
-			<link>https://podcasters.spotify.com/pod/show/hasafranim/episodes/--e2fosjk</link>
-			<guid isPermaLink="false">874dfc0e-5d8a-49c0-8d29-5918611cd24a</guid>
-			<dc:creator>הספרייה הלאומית</dc:creator>
-			<pubDate>Thu, 18 Apr 2024 04:31:02 +0000</pubDate>
-			<enclosure url="https://anchor.fm/s/ab9d2f50/podcast/play/82653236/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F179ec3be-b661-4e6f-7e59-f34a24404e6c.mp3" length="79994343" type="audio/mpeg"/>
-			<itunes:summary>מסוג הפרקים שאני מאוד אוהבת - ההסטוריה של שירים והמשוררים שמופיעים על השטרות שלנו. קצת על הבחירה בשירים הללו ובסודות הקטנים שמוחבאים בשטרות. &lt;br&gt;#כלכלה #סיפורמעניין #תרבות &lt;br&gt;https://prnt.sc/oU0LlZrO5z3n&lt;br&gt;&lt;br&gt;הספרנים - שירים בארנק - המשוררים, הסיפורים והיצירות על שטרות הכסף שלנו&lt;br&gt;משך:  52 דק' &lt;br&gt;&lt;br&gt;https://pca.st/88xk6wlv&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;מה הקשר בין השיר &amp;#39;ימים לבנים&amp;#39; של לאה גולדברג המופיע על שטרות 100 שקל ובין לוח השנה הגרגוריאני? איך הפך &amp;#39;שיר בוקר&amp;#39; של אלתרמן שעל שטרות 200 שקלים ללהיט בגרמניה הנאצית, ומהם השירים הסמויים שהוטמעו בשטרות הכסף כאמצעי ביטחון נגד זיוף? האזינו לשיחה עם ד&amp;quot;ר חזי עמיאור, על המשוררים והשירים שעל שטרות הכסף הישראלים.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;עורכת ומגישה&lt;/strong&gt;: ורד ליון-ירושלמי&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;הפקה, הקלטה ועריכת סאונד&lt;/strong&gt;: רז חסון, KeyPod&lt;/p&gt;
-</itunes:summary>
-			<itunes:explicit>No</itunes:explicit>
-			<itunes:duration>00:55:32</itunes:duration>
-			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/28692052/28692052-1707898033344-f4cc7e616da55.jpg"/>
-			<itunes:season>3</itunes:season>
-			<itunes:episode>5</itunes:episode>
-			<itunes:episodeType>full</itunes:episodeType>
-		</item></channel>
+    </item></channel>
 </rss>
