@@ -1,7 +1,7 @@
 import re
-from collections.abc import AsyncGenerator
-from typing import Any
+from collections.abc import Generator
 
+from loguru import logger
 from telethon import TelegramClient
 
 from src.base import Message
@@ -13,36 +13,37 @@ from src.settings import (
     TELEGRAM_APP_ID,
 )
 
-URL_PATTERN = r"(https?://[^\s)]+)"
+URL_PATTERN = r"(https?://[^\s\])]+)"
 
 url_regex = re.compile(URL_PATTERN)
 
 
 class TelegramReader:
     @staticmethod
-    async def get_urls_from_text_message(message) -> list[str]:
-        return url_regex.findall(message.text)
+    def get_urls_from_text_message(message) -> list[str]:
+        return url_regex.findall(message.text.replace("*", ""))
 
     @staticmethod
-    async def get_url_from_message(message) -> str | None:
+    def get_url_from_message(message) -> str | None:
         if message.web_preview:
             return message.web_preview.url
         return None
 
-    async def gen_messages(self) -> AsyncGenerator[Message, Any]:
-        async with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
-            await client.start()
+    def gen_messages(self) -> Generator[Message, None, None]:
+        with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
+            client.start()
 
-            async for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
-                print(f"id={message.id}, date={message.date}")
+            for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
+                logger.info(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
                         id=message.id,
-                        url=await self.get_url_from_message(message),
-                        urls=await self.get_urls_from_text_message(message),
+                        url=self.get_url_from_message(message),
+                        urls=self.get_urls_from_text_message(message),
                         text=message.text,
                         audio=message.audio,
                         date=message.date,
+                        message_url=f"https://t.me/{CHANNEL_NAME}/{message.id}",
                     )
 
     @staticmethod

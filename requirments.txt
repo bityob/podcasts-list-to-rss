@@ -7,4 +7,11 @@ lxml==5.1.1
 pytest
 envparse
 ipython
-pdbpp
+pdbpp==0.11.6
+peewee==3.17.8
+psycopg2-binary==2.9.10
+loguru
+
+# dev/testing/maintenance
+peewee-db-evolve==3.7.6
+git+https://github.com/keredson/peewee-db-evolve@bc3a2a219194b5d0ba7fb9a764b69af8cc3bcd97
