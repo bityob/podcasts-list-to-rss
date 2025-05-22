@@ -1,5 +1,6 @@
 import traceback
 
+from loguru import logger
 from lxml import etree
 from podgen import Podcast
 from podgen.util import formatRFC2822
@@ -36,7 +37,7 @@ class RssGenerator:
 
         for message in self.messages:
             try:
-                print(f"Message id={message.id}...")
+                logger.info(f"Message id={message.id}...")
 
                 all_urls = message.urls
 
@@ -44,28 +45,28 @@ class RssGenerator:
 
                 found_url = valid_urls[0] if valid_urls else None
 
-                print(f"Found url={found_url}")
+                logger.info(f"Found url={found_url}")
 
                 # TODO: Add support for messages with audio in Telegram as source for podcasts
                 # if message.audio:
-                #     print(f"Found audio attached to message: {message.audio}")
+                #     logger.info(f"Found audio attached to message: {message.audio}")
                 #     TelegramReader.get_download_url(message)
                 #     continue
 
                 if found_url is None:
-                    print(f"Ignoring message {message.id}, text: {message.text} no url found")
+                    logger.info(f"Ignoring message {message.id}, text: {message.text} no url found")
                     continue
 
-                print(f"Valid urls: {valid_urls}")
+                logger.info(f"Valid urls: {valid_urls}")
 
                 # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
                 # and we add the episodes on DESC order here (from the newest to the oldest)
                 for curr_url in reversed(valid_urls):
-                    print(f"Converting url={curr_url} to rss item")
+                    logger.info(f"Converting url={curr_url} to rss item")
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
             except Exception as ex:
-                print(f"Failed with message id={message.id}, error={ex}")
+                logger.info(f"Failed with message id={message.id}, error={ex}")
                 traceback.print_exc()
                 # Enable for debugging
                 # raise
@@ -81,8 +82,7 @@ class RssGenerator:
         with timer("pocket_init"):
             connector = PocketCasts(found_url, message_id=message.id)
 
-        with timer("pocket_get_title"):
-            print(f"title={connector.item_title}")
+        logger.info(f"title={connector.item_title}")
 
         item = str(connector.item)
 
@@ -128,4 +128,4 @@ class RssGenerator:
 
     def update_publish_date(self, message, xml_item, tag="pubDate"):
         xml_item.lxml.find(tag).text = formatRFC2822(message.date)
-        print(f"after={xml_item.lxml.find(tag).text}")
+        logger.info(f"after={xml_item.lxml.find(tag).text}")

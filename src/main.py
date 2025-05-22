@@ -1,4 +1,5 @@
 import urllib3
+from loguru import logger
 
 from src.rss import RssGenerator
 from src.settings import RSS_FILE_NAME
@@ -8,7 +9,7 @@ urllib3.disable_warnings()
 
 
 def main():
-    print("Starting...")
+    logger.info("Starting...")
 
     reader = TelegramReader()
 

@@ -2,6 +2,7 @@ import re
 from collections.abc import AsyncGenerator
 from typing import Any
 
+from loguru import logger
 from telethon import TelegramClient
 
 from src.base import Message
@@ -34,7 +35,7 @@ class TelegramReader:
             client.start()
 
             for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
-                print(f"id={message.id}, date={message.date}")
+                logger.info(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
                         id=message.id,
