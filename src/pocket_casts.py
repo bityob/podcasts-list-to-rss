@@ -113,7 +113,6 @@ class PocketCasts(RssConnector):
     def _get_item_title(self):
         if not self._item_title:
 
-            # Get all episodes and save to db
             episodes = self.podcast_data["episodes"]
             Episode.insert_many(
                 [
@@ -125,7 +124,9 @@ class PocketCasts(RssConnector):
                     for x in episodes
                 ]
             ).on_conflict("ignore").execute()
+
             self._item_title = Episode.get_or_none(Episode.episode_id == self.episode_id).episode_name
+
         return self._item_title
 
     @cached_property
