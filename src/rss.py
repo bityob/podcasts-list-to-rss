@@ -26,6 +26,12 @@ class RssGenerator:
         )
         self.messages = messages
 
+    @staticmethod
+    def beautify_xml(xml_string):
+        parser = etree.XMLParser(remove_blank_text=True)
+        tree = etree.fromstring(xml_string.encode("utf-8"), parser)
+        return etree.tostring(tree, pretty_print=True, encoding="unicode")
+
     def create_rss(self):
         """
         Need to take the original xml item string and change only those fields:
@@ -85,7 +91,7 @@ class RssGenerator:
 
             # break
 
-        return rss_string
+        return self.beautify_xml(rss_string)
 
     def convert_found_url_to_rss_item(self, found_url, message, rss_string):
         # TODO: Add logic to use RssConnector based on the message
