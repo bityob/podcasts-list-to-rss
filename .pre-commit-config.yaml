@@ -23,6 +23,7 @@ repos:
           - types-requests
           - types-redis
           - types-cachetools
+          - types-python-dateutil
   - repo: https://github.com/pycqa/flake8.git
     rev: 7.0.0
     hooks:

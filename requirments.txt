@@ -11,6 +11,7 @@ pdbpp==0.11.6
 peewee==3.17.8
 psycopg2-binary==2.9.10
 loguru
+python-dateutil
 
 # dev/testing/maintenance
 peewee-db-evolve==3.7.6

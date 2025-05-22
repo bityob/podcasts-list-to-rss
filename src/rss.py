@@ -1,6 +1,9 @@
+import re
 import traceback
+from datetime import datetime
 from pathlib import Path
 
+import dateutil.tz
 from loguru import logger
 from lxml import etree
 from podgen import Podcast
@@ -168,6 +171,13 @@ class RssGenerator:
         else:
             # We apply only NEW messages so we put the current one at the beginning, and running on messages reversed
             rss_string = rss_string.replace(ITEM_TAG, f"{xml_string}{ITEM_TAG}", 1)
+
+            # Since we are using an exiting RSS xml file, we need to set tue last updated time by ourselves
+            last_updated = datetime.now(dateutil.tz.tzutc())
+
+            rss_string = re.sub(
+                r"(<lastBuildDate>)[a-zA-Z, 0-9:\+]+(</lastBuildDate>)", rf"\1{last_updated}\2", rss_string
+            )
 
         return rss_string
 
