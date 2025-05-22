@@ -62,15 +62,13 @@ class RssGenerator:
                 # and we add the episodes on DESC order here (from the newest to the oldest)
                 for curr_url in reversed(valid_urls):
                     print(f"Converting url={curr_url} to rss item")
-                    with timer("convert_found_url_to_rss_item"):
-                        rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
+                    rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
             except Exception as ex:
                 print(f"Failed with message id={message.id}, error={ex}")
                 traceback.print_exc()
+                # Enable for debugging
                 # raise
-
-            # break
 
         return rss_string
 
