@@ -173,7 +173,9 @@ class RssGenerator:
             rss_string = rss_string.replace(ITEM_TAG, f"{xml_string}{ITEM_TAG}", 1)
 
             # Since we are using an exiting RSS xml file, we need to set tue last updated time by ourselves
+            # Logic taken from podgen
             last_updated = datetime.now(dateutil.tz.tzutc())
+            last_updated = formatRFC2822(last_updated)
 
             rss_string = re.sub(
                 r"(<lastBuildDate>)[a-zA-Z, 0-9:\+]+(</lastBuildDate>)", rf"\1{last_updated}\2", rss_string
