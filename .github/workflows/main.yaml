@@ -44,8 +44,9 @@ jobs:
         uses: EndBug/add-and-commit@v7.4.0
         with:
           add: 'assets/rss.xml'
-          author_name: Yonatan Bitton (via GitHub Actions)
-          author_email: bityob@gmail.com
+          # author_name: Yonatan Bitton (via GitHub Actions)
+          # author_email: bityob@gmail.com
+          default_author: github_actions
 
           # # The local path to the directory where your repository is located. You should use actions/checkout first to set it up.
           # # Default: '.'
