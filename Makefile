@@ -11,6 +11,7 @@ create-env-file:
 	echo "RSS_IMAGE_URL=${RSS_IMAGE_URL}" >> .env
 	echo "RSS_FILE_NAME=${RSS_FILE_NAME}" >> .env
 	echo "RSS_MAX_MESSAGES=${RSS_MAX_MESSAGES}" >> .env
+	echo "DB_URL=${DB_URL}" >> .env
 
 decrypt:
 	# Decrypt the file
