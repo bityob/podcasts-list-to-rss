@@ -13,6 +13,4 @@ ENV PYTHONPATH=/opt
 
 COPY src /opt/src
 
-#RUN cd /opt/src && pytest ./utils.py -vvv -s
-
 CMD ["python", "main.py"]
