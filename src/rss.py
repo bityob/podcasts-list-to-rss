@@ -1,4 +1,5 @@
 import traceback
+from pathlib import Path
 
 from loguru import logger
 from lxml import etree
@@ -9,7 +10,14 @@ from requests_xml import XML
 from base import Message
 from pocket_casts import AlreadyFailedMessage, PocketCasts
 from src.db import Error
-from src.settings import RSS_DESCRIPTION, RSS_IMAGE_URL, RSS_NAME, RSS_WEBSITE
+from src.settings import (
+    CHECK_FOR_NEW_MESSAGES_ONLY,
+    RSS_DESCRIPTION,
+    RSS_FILE_PATH,
+    RSS_IMAGE_URL,
+    RSS_NAME,
+    RSS_WEBSITE,
+)
 from src.utils import timer
 
 CLOSING_CHANNEL_TAG = "</channel>"
@@ -33,8 +41,12 @@ class RssGenerator:
         * description - prepand the orignal text with the Message text
         """
 
+        breakpoint()
         # Rss with only basic fields
         rss_string = str(self.p)
+
+        if CHECK_FOR_NEW_MESSAGES_ONLY:
+            rss_string = Path(RSS_FILE_PATH).read_text()
 
         for message in self.messages:
             logger.info(f"Message id={message.id}...")

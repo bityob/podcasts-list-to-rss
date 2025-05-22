@@ -2,7 +2,7 @@ import urllib3
 from loguru import logger
 
 from src.rss import RssGenerator
-from src.settings import RSS_FILE_NAME
+from src.settings import RSS_FILE_PATH
 from telegram import TelegramReader
 
 urllib3.disable_warnings()
@@ -19,7 +19,7 @@ def main():
 
     rss_text = rss.create_rss()
 
-    with open(f"/opt/assets/{RSS_FILE_NAME}", "w", encoding="utf-8") as writer:
+    with open(RSS_FILE_PATH, "w", encoding="utf-8") as writer:
         writer.write(rss_text)
 
 

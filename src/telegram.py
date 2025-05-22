@@ -5,8 +5,10 @@ from loguru import logger
 from telethon import TelegramClient
 
 from src.base import Message
+from src.db import MessageLink
 from src.settings import (
     CHANNEL_NAME,
+    CHECK_FOR_NEW_MESSAGES_ONLY,
     PUBLIC_DOWNLOAD_URL_BOT,
     RSS_MAX_MESSAGES,
     TELEGRAM_APP_HASH,
@@ -30,10 +32,17 @@ class TelegramReader:
         return None
 
     def gen_messages(self) -> Generator[Message, None, None]:
+        min_message_id = 0
+
+        if CHECK_FOR_NEW_MESSAGES_ONLY:
+            min_message_id = MessageLink.select().order_by(MessageLink.message_id.desc()).get().message_id
+
         with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
             client.start()
 
-            for message in client.iter_messages(CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5):
+            for message in client.iter_messages(
+                CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5, min_id=min_message_id + 1
+            ):
                 logger.info(f"id={message.id}, date={message.date}")
                 if message.text:
                     yield Message(
