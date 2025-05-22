@@ -37,11 +37,13 @@ class TelegramReader:
         if CHECK_FOR_NEW_MESSAGES_ONLY:
             min_message_id = MessageLink.select().order_by(MessageLink.message_id.desc()).get().message_id
 
+        logger.info(f"Getting messages from Telegram > {min_message_id}")
+
         with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
             client.start()
 
             for message in client.iter_messages(
-                CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5, min_id=min_message_id + 1
+                CHANNEL_NAME, limit=RSS_MAX_MESSAGES, wait_time=5, min_id=min_message_id
             ):
                 logger.info(f"id={message.id}, date={message.date}")
                 if message.text:

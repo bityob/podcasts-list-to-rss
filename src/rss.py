@@ -21,6 +21,7 @@ from src.settings import (
 from src.utils import timer
 
 CLOSING_CHANNEL_TAG = "</channel>"
+ITEM_TAG = "<item"
 
 
 class RssGenerator:
@@ -33,6 +34,8 @@ class RssGenerator:
             image=RSS_IMAGE_URL,
         )
         self.messages = messages
+        if CHECK_FOR_NEW_MESSAGES_ONLY:
+            self.messages = reversed(self.messages)
 
     def create_rss(self):
         """
@@ -40,8 +43,6 @@ class RssGenerator:
         * pubDate - use telegram Message date
         * description - prepand the orignal text with the Message text
         """
-
-        breakpoint()
         # Rss with only basic fields
         rss_string = str(self.p)
 
@@ -73,7 +74,14 @@ class RssGenerator:
 
             # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
             # and we add the episodes on DESC order here (from the newest to the oldest)
-            for curr_url in reversed(valid_urls):
+            # Update (22-05-25):
+            #   We reverse only when we iterate over all messages, so we are going from END to START,
+            #   but when we add only the new messages, we add them from END to START, so we don't reverse the urls,
+            #   but reverse the messages
+            if not CHECK_FOR_NEW_MESSAGES_ONLY:
+                valid_urls = reversed(valid_urls)
+
+            for curr_url in valid_urls:
                 try:
                     logger.info(f"Converting url={curr_url} to rss item")
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
@@ -97,7 +105,15 @@ class RssGenerator:
 
             # break
 
-        return rss_string
+        # Beautify XML
+        from lxml import etree
+
+        def beautify_xml(xml_string):
+            parser = etree.XMLParser(remove_blank_text=True)
+            tree = etree.fromstring(xml_string, parser)
+            return etree.tostring(tree, pretty_print=True, encoding="unicode")
+
+        return beautify_xml(rss_string)
 
     def convert_found_url_to_rss_item(self, found_url, message, rss_string):
         # TODO: Add logic to use RssConnector based on the message
@@ -148,7 +164,12 @@ class RssGenerator:
         # Must use the `lxml` and not the `xml`, because we change it
         xml_string = etree.tostring(xml_item.lxml, encoding="utf8").decode("utf8")
 
-        rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
+        if not CHECK_FOR_NEW_MESSAGES_ONLY:
+            # We apply all messages from new to old, so we put current one at the end
+            rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
+        else:
+            # We apply only NEW messages so we put the current one at the beginning, and running on messages reversed
+            rss_string = rss_string.replace(ITEM_TAG, f"{xml_string}{ITEM_TAG}")
 
         return rss_string
 
