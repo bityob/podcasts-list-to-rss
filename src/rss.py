@@ -167,7 +167,7 @@ class RssGenerator:
             rss_string = rss_string.replace(CLOSING_CHANNEL_TAG, f"{xml_string}{CLOSING_CHANNEL_TAG}")
         else:
             # We apply only NEW messages so we put the current one at the beginning, and running on messages reversed
-            rss_string = rss_string.replace(ITEM_TAG, f"{xml_string}{ITEM_TAG}")
+            rss_string = rss_string.replace(ITEM_TAG, f"{xml_string}{ITEM_TAG}", 1)
 
         return rss_string
 
