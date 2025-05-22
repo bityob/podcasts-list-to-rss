@@ -1,11 +1,22 @@
 import re
 from functools import cached_property
 
+from loguru import logger
 from requests_html import HTMLSession
 from requests_xml import XML, Element, XMLSession
 
 from base import RssConnector
-from src.db import Episode, MessageLink, RssFeed
+from src.db import (
+    Episode,
+    MessageLink,
+    RssFeed,
+    get_error_object_from_cache,
+    get_message_object_from_cache,
+)
+
+
+class AlreadyFailedMessage(Exception):
+    pass
 
 
 class PocketCasts(RssConnector):
@@ -20,35 +31,31 @@ class PocketCasts(RssConnector):
     session = HTMLSession()
     xml_session = XMLSession()
 
-    def __init__(self, url, message_id):
+    def __init__(self, url, message):
         self.url = url
-        self.message_id = message_id
+        self.message_id = message.id
 
         self.podcast_id = None
         self.episode_id = None
         self.podcast_name = None
+        self.message_url = message.message_url
         self._item_title = None
         self._rss_feed = None
         self._rss_item = None
 
-        self.message_in_db = (
-            MessageLink.select(MessageLink, Episode, RssFeed)
-            .join(Episode)
-            .join(RssFeed)
-            .where(
-                (MessageLink.message_id == self.message_id)
-                & (MessageLink.link == self.url)
-                & (Episode.podcast_id == RssFeed.podcast_id)
-            )
-        ).get_or_none()
+        self.message_in_db = get_message_object_from_cache(self.message_id, self.url)
 
         if self.message_in_db:
+            logger.info(f"Url from {self.message_id} => {self.url} already exists in DB")
             self.podcast_id = self.message_in_db.episode.podcast_id
             self.episode_id = self.message_in_db.episode.episode_id
             self.podcast_name = self.message_in_db.episode.podcast.podcast_name
             self._item_title = self.message_in_db.episode.episode_name
             self._rss_feed = self.message_in_db.episode.podcast.rss_feed
             self._rss_item = self.message_in_db.rss_item
+
+        if get_error_object_from_cache(self.message_id, self.url):
+            raise AlreadyFailedMessage()
 
         self.get_missing_episode_data_and_store_in_db()
 
@@ -102,6 +109,7 @@ class PocketCasts(RssConnector):
                 link=self.url,
                 episode_id=self.episode_id,
                 rss_item=item,
+                message_url=self.message_url,
             ).on_conflict(
                 conflict_target=[MessageLink.message_id, MessageLink.link],
                 preserve=[MessageLink.episode_id, MessageLink.rss_item],

@@ -134,3 +134,5 @@ dmypy.json
 
 .idea
 .tool-versions
+
+src/user.session-journal

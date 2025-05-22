@@ -43,6 +43,7 @@ class TelegramReader:
                         text=message.text,
                         audio=message.audio,
                         date=message.date,
+                        message_url=f"https://t.me/{CHANNEL_NAME}/{message.id}",
                     )
 
     @staticmethod

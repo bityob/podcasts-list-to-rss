@@ -7,7 +7,8 @@ from podgen.util import formatRFC2822
 from requests_xml import XML
 
 from base import Message
-from pocket_casts import PocketCasts
+from pocket_casts import AlreadyFailedMessage, PocketCasts
+from src.db import Error
 from src.settings import RSS_DESCRIPTION, RSS_IMAGE_URL, RSS_NAME, RSS_WEBSITE
 from src.utils import timer
 
@@ -36,40 +37,53 @@ class RssGenerator:
         rss_string = str(self.p)
 
         for message in self.messages:
-            try:
-                logger.info(f"Message id={message.id}...")
+            logger.info(f"Message id={message.id}...")
 
-                all_urls = message.urls
+            all_urls = message.urls
 
-                valid_urls = [url for url in all_urls if PocketCasts.is_valid_url(url)]
+            valid_urls = [url for url in all_urls if PocketCasts.is_valid_url(url)]
 
-                found_url = valid_urls[0] if valid_urls else None
+            found_url = valid_urls[0] if valid_urls else None
 
-                logger.info(f"Found url={found_url}")
+            logger.info(f"Found url={found_url}")
 
-                # TODO: Add support for messages with audio in Telegram as source for podcasts
-                # if message.audio:
-                #     logger.info(f"Found audio attached to message: {message.audio}")
-                #     TelegramReader.get_download_url(message)
-                #     continue
+            # TODO: Add support for messages with audio in Telegram as source for podcasts
+            # if message.audio:
+            #     logger.info(f"Found audio attached to message: {message.audio}")
+            #     TelegramReader.get_download_url(message)
+            #     continue
 
-                if found_url is None:
-                    logger.info(f"Ignoring message {message.id}, text: {message.text} no url found")
-                    continue
+            if found_url is None:
+                logger.info(f"Ignoring message {message.id}, text: {message.text} no url found")
+                continue
 
-                logger.info(f"Valid urls: {valid_urls}")
+            logger.info(f"Valid urls: {valid_urls}")
 
-                # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
-                # and we add the episodes on DESC order here (from the newest to the oldest)
-                for curr_url in reversed(valid_urls):
+            # We iterate over the urls in reversed mode, since usually the urls are in ASC order,
+            # and we add the episodes on DESC order here (from the newest to the oldest)
+            for curr_url in reversed(valid_urls):
+                try:
                     logger.info(f"Converting url={curr_url} to rss item")
                     rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
+                except AlreadyFailedMessage:
+                    logger.info(f"Skipping already failed message; id={message.id}, url={curr_url}")
+                    continue
+                except Exception as ex:
+                    logger.info(f"Failed with message id={message.id}, url={curr_url}, error={ex}")
+                    traceback.print_exc()
 
-            except Exception as ex:
-                logger.info(f"Failed with message id={message.id}, error={ex}")
-                traceback.print_exc()
+                    Error.insert(
+                        message_id=message.id,
+                        link=curr_url,
+                        exception_type=ex.__class__.__name__,
+                        exception_message=str(ex),
+                        exception_traceback=traceback.format_exc(),
+                    ).on_conflict("ignore").execute()
+
                 # Enable for debugging
                 # raise
+
+            # break
 
         return rss_string
 
@@ -80,7 +94,7 @@ class RssGenerator:
         #   and add the description and episode details from the message itself
 
         with timer("pocket_init"):
-            connector = PocketCasts(found_url, message_id=message.id)
+            connector = PocketCasts(found_url, message=message)
 
         logger.info(f"title={connector.item_title}")
 

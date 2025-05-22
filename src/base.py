@@ -44,3 +44,4 @@ class Message:
     date: datetime
     urls: list[str]
     audio: Document
+    message_url: str
