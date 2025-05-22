@@ -1,6 +1,5 @@
 import re
-from collections.abc import AsyncGenerator
-from typing import Any
+from collections.abc import Generator
 
 from loguru import logger
 from telethon import TelegramClient
@@ -30,7 +29,7 @@ class TelegramReader:
             return message.web_preview.url
         return None
 
-    def gen_messages(self) -> AsyncGenerator[Message, Any]:  # type: ignore
+    def gen_messages(self) -> Generator[Message, None, None]:
         with TelegramClient("user", TELEGRAM_APP_ID, TELEGRAM_APP_HASH, timeout=5) as client:
             client.start()
 
