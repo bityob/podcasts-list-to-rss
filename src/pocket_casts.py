@@ -136,19 +136,23 @@ class PocketCasts(RssConnector):
     def _get_item_title(self):
         if not self._item_title:
 
-            episodes = self.podcast_data["episodes"]
-            Episode.insert_many(
-                [
-                    {
-                        "podcast_id": self.podcast_id,
-                        "episode_id": x["uuid"],
-                        "episode_name": x["title"],
-                    }
-                    for x in episodes
-                ]
-            ).on_conflict("ignore").execute()
+            episode_in_db = Episode.get_or_none(Episode.episode_id == self.episode_id)
 
-            self._item_title = Episode.get_or_none(Episode.episode_id == self.episode_id).episode_name
+            if not episode_in_db:
+                episodes = self.podcast_data["episodes"]
+                Episode.insert_many(
+                    [
+                        {
+                            "podcast_id": self.podcast_id,
+                            "episode_id": x["uuid"],
+                            "episode_name": x["title"],
+                        }
+                        for x in episodes
+                    ]
+                ).on_conflict("ignore").execute()
+                episode_in_db = Episode.get_or_none(Episode.episode_id == self.episode_id)
+
+            self._item_title = episode_in_db.episode_name
 
         return self._item_title
 
