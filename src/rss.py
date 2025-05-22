@@ -8,6 +8,7 @@ from requests_xml import XML
 from base import Message
 from pocket_casts import PocketCasts
 from src.settings import RSS_DESCRIPTION, RSS_IMAGE_URL, RSS_NAME, RSS_WEBSITE
+from src.utils import timer
 
 CLOSING_CHANNEL_TAG = "</channel>"
 
@@ -61,11 +62,15 @@ class RssGenerator:
                 # and we add the episodes on DESC order here (from the newest to the oldest)
                 for curr_url in reversed(valid_urls):
                     print(f"Converting url={curr_url} to rss item")
-                    rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
+                    with timer("convert_found_url_to_rss_item"):
+                        rss_string = self.convert_found_url_to_rss_item(curr_url, message, rss_string)
 
             except Exception as ex:
                 print(f"Failed with message id={message.id}, error={ex}")
                 traceback.print_exc()
+                # raise
+
+            # break
 
         return rss_string
 
@@ -74,9 +79,12 @@ class RssGenerator:
         #   If link from "pca.st" use PocketsCasts
         #   If audio file attached, take it from there,
         #   and add the description and episode details from the message itself
-        connector = PocketCasts(found_url)
 
-        print(f"title={connector.item_title}")
+        with timer("pocket_init"):
+            connector = PocketCasts(found_url, message_id=message.id)
+
+        with timer("pocket_get_title"):
+            print(f"title={connector.item_title}")
 
         item = str(connector.item)
 

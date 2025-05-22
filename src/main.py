@@ -1,5 +1,3 @@
-import asyncio
-
 import urllib3
 
 from src.rss import RssGenerator
@@ -9,12 +7,12 @@ from telegram import TelegramReader
 urllib3.disable_warnings()
 
 
-async def main():
+def main():
     print("Starting...")
 
     reader = TelegramReader()
 
-    messages = [m async for m in reader.gen_messages()]
+    messages = [m for m in reader.gen_messages()]
 
     rss = RssGenerator(messages)
 
@@ -25,4 +23,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()

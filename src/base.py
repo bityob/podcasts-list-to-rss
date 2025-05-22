@@ -2,19 +2,11 @@ from dataclasses import dataclass
 from datetime import datetime
 from functools import cached_property
 
-from requests_html import Element, HTMLSession
+from requests_html import Element
 from telethon.tl.types import Document
-
-session = HTMLSession()
 
 
 class RssConnector:
-    def __init__(self, url: str):
-        self.url = url
-        self.session = session
-        self.request = self.session.get(self.url, verify=False)
-        self.request.raise_for_status()
-        self.html = self.request.html
 
     def _get_rss_feed(self) -> str:
         """

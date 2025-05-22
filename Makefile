@@ -24,8 +24,11 @@ run:
 run-with-mount:
 	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src podcasts-list-to-rss
 
+bash:
+	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss bash
+
 ipython:
-	docker run -it podcasts-list-to-rss bash
+	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss ipython
 
 gh-run-rss:
 	gh workflow run main.yaml --ref $$(git rev-parse --abbrev-ref HEAD)
