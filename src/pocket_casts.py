@@ -59,7 +59,6 @@ class PocketCasts(RssConnector):
         raise ValueError(f"Url response is not valid: {url}")
 
     def get_episode_and_podcast_ids(self):
-        # Get podcast id and episode id
         if not self.podcast_id or not self.episode_id:
             self.response = self.session.get(self.url)
             self.response.raise_for_status()
