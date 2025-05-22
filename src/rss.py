@@ -35,7 +35,13 @@ class RssGenerator:
         )
         self.messages = messages
         if CHECK_FOR_NEW_MESSAGES_ONLY:
-            self.messages = reversed(self.messages)
+            self.messages = list(reversed(self.messages))
+
+    @staticmethod
+    def beautify_xml(xml_string):
+        parser = etree.XMLParser(remove_blank_text=True)
+        tree = etree.fromstring(xml_string.encode("utf-8"), parser)
+        return etree.tostring(tree, pretty_print=True, encoding="unicode")
 
     def create_rss(self):
         """
@@ -105,15 +111,7 @@ class RssGenerator:
 
             # break
 
-        # Beautify XML
-        from lxml import etree
-
-        def beautify_xml(xml_string):
-            parser = etree.XMLParser(remove_blank_text=True)
-            tree = etree.fromstring(xml_string, parser)
-            return etree.tostring(tree, pretty_print=True, encoding="unicode")
-
-        return beautify_xml(rss_string)
+        return self.beautify_xml(rss_string)
 
     def convert_found_url_to_rss_item(self, found_url, message, rss_string):
         # TODO: Add logic to use RssConnector based on the message
