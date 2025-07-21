@@ -32,7 +32,7 @@ ipython:
 	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss ipython
 
 test:
-	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss pytest ./tests
+	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -i$$([ -t 0 ] && echo t) podcasts-list-to-rss pytest ./tests
 
 gh-run-rss:
 	gh workflow run main.yaml --ref $$(git rev-parse --abbrev-ref HEAD)
