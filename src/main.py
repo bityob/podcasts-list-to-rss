@@ -22,6 +22,8 @@ def main():
     with open(RSS_FILE_PATH, "w", encoding="utf-8") as writer:
         writer.write(rss_text)
 
+    logger.info("Done.")
+
 
 if __name__ == "__main__":
     main()

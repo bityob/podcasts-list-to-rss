@@ -52,6 +52,8 @@ class RssGenerator:
         * pubDate - use telegram Message date
         * description - prepand the orignal text with the Message text
         """
+        logger.info("Creating RSS...")
+
         # Rss with only basic fields
         rss_string = str(self.p)
 
@@ -114,7 +116,11 @@ class RssGenerator:
 
             # break
 
-        return self.beautify_xml(rss_string)
+        rss_xml = self.beautify_xml(rss_string)
+
+        logger.info("RSS created")
+
+        return rss_xml
 
     def convert_found_url_to_rss_item(self, found_url, message, rss_string):
         # TODO: Add logic to use RssConnector based on the message

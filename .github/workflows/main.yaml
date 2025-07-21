@@ -34,7 +34,7 @@ jobs:
         run: |
           make create-env-file
           cp .env ./src/.env
-          make build
+          make build && make test
 
       - name: Run docker container
         run: |

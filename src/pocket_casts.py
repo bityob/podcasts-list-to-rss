@@ -5,7 +5,7 @@ from loguru import logger
 from requests_html import HTMLSession
 from requests_xml import XML, Element, XMLSession
 
-from base import RssConnector
+from src.base import RssConnector
 from src.db import (
     Episode,
     MessageLink,
@@ -21,7 +21,7 @@ class AlreadyFailedMessage(Exception):
 
 class PocketCasts(RssConnector):
     url_host = "pca.st"
-    response_url_pattern = re.compile(r"https://play.pocketcasts.com/podcasts/([a-z0-9\-]+)/([a-z0-9\-]+)")
+    response_url_pattern = re.compile(r"https://(?:play\.)?pocketcasts\.com/podcasts/([a-z0-9\-]+)/([a-z0-9\-]+)")
     podcasts_data_url = "https://podcast-api.pocketcasts.com/podcast/full/{podcast_id}"
     """
     Link example:

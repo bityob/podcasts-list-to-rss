@@ -13,7 +13,7 @@ from peewee import (
     UUIDField,
 )
 
-from settings import DB_URL
+from src.settings import DB_URL
 
 
 def get_db() -> Database:
