@@ -19,9 +19,19 @@ class AlreadyFailedMessage(Exception):
     pass
 
 
+
+UUID = r"[0-9a-fA-F]{8}(?:-[0-9a-fA-F]{4}){3}-[0-9a-fA-F]{12}"
+
+
 class PocketCasts(RssConnector):
     url_host = "pca.st"
-    response_url_pattern = re.compile(r"https://(?:play\.)?pocketcasts\.com/podcasts/([a-z0-9\-]+)/([a-z0-9\-]+)")
+    response_url_pattern = re.compile(
+        rf"https://(?:play\.)?pocketcasts\.com/podcasts?/"
+        rf"(?:[^/]+/)?"
+        rf"({UUID})"  # podcast UUID
+        rf"/(?:[^/]+/)*"
+        rf"({UUID})"  # episode UUID
+    )
     podcasts_data_url = "https://podcast-api.pocketcasts.com/podcast/full/{podcast_id}"
     """
     Link example:
