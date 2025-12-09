@@ -32,7 +32,7 @@ bash-without-mount:
 	docker run -it podcasts-list-to-rss bash
 
 ipython:
-	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss ipython
+	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -it podcasts-list-to-rss uv run ipython
 
 test:
 	docker run -v $$(pwd)/assets:/opt/assets -v $$(pwd)/src:/opt/src -i$$([ -t 0 ] && echo t) podcasts-list-to-rss uv run pytest ./tests
