@@ -1,16 +1,28 @@
 # syntax=docker/dockerfile:1
-FROM python:3.10 as base
+FROM python:3.10 AS base
 
 WORKDIR /opt/assets
 WORKDIR /opt/src
 
-COPY requirments.txt .
+COPY --from=ghcr.io/astral-sh/uv:0.9.16 /uv /uvx /bin/
 
-RUN --mount=type=cache,mode=0755,target=/root/.cache/pip \
-    pip install -r requirments.txt
+ENV UV_LINK_MODE=copy
+ENV UV_PROJECT_ENVIRONMENT=/tmp/venv
+ENV UV_COMPILE_BYTECODE=1
+ENV UV_PYTHON_DOWNLOADS=0
+ENV UV_NO_SYNC=1
+ENV UV_FROZEN=1
+
+RUN --mount=type=cache,target=/root/.cache/uv \
+    --mount=type=bind,source=src/pyproject.toml,target=pyproject.toml \
+    --mount=type=bind,source=src/uv.lock,target=uv.lock \
+    uv sync --no-install-project
+    
+COPY src .
+
+RUN --mount=type=cache,target=/root/.cache/uv \
+    uv sync
 
 ENV PYTHONPATH=/opt
 
-COPY src /opt/src
-
-CMD ["python", "main.py"]
+CMD ["uv", "run", "main.py"]

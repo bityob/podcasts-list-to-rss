@@ -1,0 +1,23 @@
+[project]
+name = "podcasts-list-to-rss"
+version = "0.1.0"
+requires-python = "==3.10.*"
+dependencies = [
+    "envparse>=0.2.0",
+    "ipython>=8.37.0",
+    "loguru>=0.7.3",
+    "lxml==5.1.1",
+    "pdbpp==0.11.6",
+    "peewee==3.17.8",
+    "peewee-db-evolve==3.7.6",
+    "podgen>=1.1.0",
+    "psycopg2-binary==2.9.10",
+    "pytest>=9.0.2",
+    "python-dateutil>=2.9.0.post0",
+    "requests-html>=0.10.0",
+    "requests-xml>=0.2.3",
+    "telethon>=1.42.0",
+]
+
+[tool.uv.sources]
+peewee-db-evolve = { git = "https://github.com/keredson/peewee-db-evolve", rev = "bc3a2a219194b5d0ba7fb9a764b69af8cc3bcd97" }
