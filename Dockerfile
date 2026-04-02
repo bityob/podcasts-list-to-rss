@@ -17,7 +17,7 @@ RUN --mount=type=cache,target=/root/.cache/uv \
     --mount=type=bind,source=src/pyproject.toml,target=pyproject.toml \
     --mount=type=bind,source=src/uv.lock,target=uv.lock \
     uv sync --no-install-project
-    
+
 COPY src .
 
 RUN --mount=type=cache,target=/root/.cache/uv \

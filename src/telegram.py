@@ -31,7 +31,7 @@ class TelegramReader:
             return message.web_preview.url
         return None
 
-    def gen_messages(self) -> Generator[Message, None, None]:
+    def gen_messages(self) -> Generator[Message]:
         min_message_id = 0
 
         if CHECK_FOR_NEW_MESSAGES_ONLY:

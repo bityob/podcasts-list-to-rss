@@ -1,6 +1,7 @@
+import sys
+
 import urllib3
 from loguru import logger
-import sys
 
 from src.rss import RssGenerator
 from src.settings import RSS_FILE_PATH
@@ -11,9 +12,9 @@ urllib3.disable_warnings()
 
 def main():
     logger.info("Starting...")
-    
+
     logger.info(f"{sys.version=}")
-    
+
     logger.info(f"{sys.executable=}")
 
     reader = TelegramReader()

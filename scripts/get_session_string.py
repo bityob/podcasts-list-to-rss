@@ -44,8 +44,7 @@ with TelegramClient(StringSession(), get_value("API_ID"), get_value("API_HASH"))
     print(client.session.save())
     print("\nAbove is your session string ⬆️\n\n")
 
-print(
-    """
+print("""
 
 - Keep this string safe! Dont leak it.
 
@@ -57,5 +56,4 @@ print(
 - You can deactivate this session by going to your
 \tTelegram App -> Settings -> Devices -> Active sessions
 
-"""
-)
+""")
