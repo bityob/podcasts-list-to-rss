@@ -9,8 +9,63 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Tue, 01 Sep 2026 11:55:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:32:46 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
+    <item xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+      <title>Why do British people love tea?</title>
+      <description>אתנחתא קומית שבה בריטים שמדברים על תה. &lt;br&gt;הם מתחילים בנסיכה פורטוגזית במאה ה-17 ומשם זה מידרדר די מהר - חברת הודו המזרחית,מלחמות האופיום וריגול תעשייתי. &lt;br&gt;שיחה כייפית על משקה שגרם לכמות בלתי סבירה של צרות.&lt;br&gt;#הסטוריה #בריטניה #אוכל #אנגלית&lt;br&gt;&lt;br&gt;Here For The History – Why do British people love tea?&lt;br&gt;משך: 31 דקות&lt;br&gt;&lt;br&gt;https://pca.st/dgyvpwi4&lt;br&gt;&lt;br&gt;[@podcastsrec](https://t.me/podcastsrec)&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How and when did tea arrive in the UK? Alice Loxton and Ben Henderson take a look at the mythological origins, the role of a Portuguese princess and even going to war for a cuppa.
+ 
+We’ll start our journey with the first appearance of tea in England in the 1600s and its popularisation in the English royal court thanks to the Portuguese princess, Catherine of Braganza who married King Charles II.  
+ 
+The story takes a dark turn as the British East India Company seeks to break China’s monopoly on tea production leading to the Opium Wars and corporate espionage. 
+ 
+Finally, how tea fuelled Britain’s industrial revolution. 
+ 
+Key Sources: 
+A Social History of Tea - Jane Pettigrew
+A journey to the tea countries of China - Robert Fortune 
+Dinner with Dickens - Penn Vogler&lt;/p&gt;</description>
+      <itunes:subtitle>The Portuguese princess, corporate espionage and waging war for tea.</itunes:subtitle>
+      <itunes:summary>אתנחתא קומית שבה בריטים שמדברים על תה. &lt;br&gt;הם מתחילים בנסיכה פורטוגזית במאה ה-17 ומשם זה מידרדר די מהר - חברת הודו המזרחית,מלחמות האופיום וריגול תעשייתי. &lt;br&gt;שיחה כייפית על משקה שגרם לכמות בלתי סבירה של צרות.&lt;br&gt;#הסטוריה #בריטניה #אוכל #אנגלית&lt;br&gt;&lt;br&gt;Here For The History – Why do British people love tea?&lt;br&gt;משך: 31 דקות&lt;br&gt;&lt;br&gt;https://pca.st/dgyvpwi4&lt;br&gt;&lt;br&gt;[@podcastsrec](https://t.me/podcastsrec)&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;How and when did tea arrive in the UK? Alice Loxton and Ben Henderson take a look at the mythological origins, the role of a Portuguese princess and even going to war for a cuppa.
+ 
+We’ll start our journey with the first appearance of tea in England in the 1600s and its popularisation in the English royal court thanks to the Portuguese princess, Catherine of Braganza who married King Charles II.  
+ 
+The story takes a dark turn as the British East India Company seeks to break China’s monopoly on tea production leading to the Opium Wars and corporate espionage. 
+ 
+Finally, how tea fuelled Britain’s industrial revolution. 
+ 
+Key Sources: 
+A Social History of Tea - Jane Pettigrew
+A journey to the tea countries of China - Robert Fortune 
+Dinner with Dickens - Penn Vogler&lt;/p&gt;</itunes:summary>
+      <pubDate>Thu, 03 Sep 2026 08:15:18 +0000</pubDate>
+      <itunes:duration>1883</itunes:duration>
+      <enclosure url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ns9hgx.mp3" length="30128000" type="audio/mpeg"/>
+      <ppg:enclosureLegacy url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ns9hgx.mp3" length="30128000" type="audio/mpeg"/>
+      <ppg:enclosureSecure url="https://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/https/vpid/p0ns9hgx.mp3" length="30128000" type="audio/mpeg"/>
+      <guid isPermaLink="false">urn:bbc:podcast:m002yf05</guid>
+      <link>http://www.bbc.co.uk/programmes/m002yf05</link>
+      <itunes:explicit>clean</itunes:explicit>
+      <media:content url="http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0ns9hgx.mp3" fileSize="30128000" type="audio/mpeg" medium="audio" expression="full" duration="1883"/>
+      <itunes:author>BBC Sounds</itunes:author>
+      <ppg:canonical>/programmes/m002yf05</ppg:canonical>
+    </item>
+    <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>פרק 43 - פודקסט</title>
+      <description>נקודת מבט מעניינת על פודקאסט כעל מוצר, ומוצר שלא השתנה הרבה בשנים האחרונות ... הדס מנתחת אותו כמו כל מוצר אחר - מי היוזרים, מאיפה מגיע הכסף, ומה בעצם קורה בתהליך. &lt;br&gt;ומתברר שאין תשובה אחת שמתאימה לכולם, כי יש פודקאסטים שהאייג'נט שלה מסכם לה במקום להקשיב להכל, ויש כאלה שהתקציר שלהם חסר משמעות כי כל הערך הוא בשיחה עצמה. וזה מחזיר אתנו לשאלה מה המוצר כאן בכלל, אם קובץ האודיו הוא רק הפורמט.&lt;br&gt;#ניהולמוצר #פודקאסטים #טכנולוגיה&lt;br&gt;&lt;br&gt;על החיים ועל המוצר – פרק 43 - פודקסט&lt;br&gt;משך: 16 דקות&lt;br&gt;&lt;br&gt;https://pca.st/86vv8eip&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הגיע הזמן לדבר על פודקסטים.&lt;/p&gt;&lt;p&gt;פורמט סופר-מצליח (באמת?)&lt;/p&gt;&lt;p&gt;אבל נשאלת השאלה - מה באמת הערך של פודקסט? איפה החדשנות?&lt;/p&gt;&lt;p&gt;פרק עם יותר שאלות מתשובות&lt;/p&gt;</description>
+      <guid isPermaLink="false">9a6a23d5-ad1d-473f-9425-3e37da8b409a</guid>
+      <dc:creator>Hadas Sheinfeld הדס שיינפלד</dc:creator>
+      <pubDate>Thu, 03 Sep 2026 05:25:11 +0000</pubDate>
+      <enclosure url="https://api.riverside.com/hosting-analytics/media/9b74bc0c038b7bc13646ddc692702957b63eae975a4d09fc27863f8226bf95d1/eyJlcGlzb2RlSWQiOiI5YTZhMjNkNS1hZDFkLTQ3M2YtOTQyNS0zZTM3ZGE4YjQwOWEiLCJwb2RjYXN0SWQiOiJhOWNlZTUwZC04OWZlLTRlNzUtODk2YS05ODdmMjY3YmM0MDciLCJhY2NvdW50SWQiOiI2OGY3OWYxNDhmOWU5YjE3OGEyMWQ3MmUiLCJwYXRoIjoibWVkaWEvY2xpcHMvNmE4MmI5YzJiM2FkYzY5ZjU2NjZkMDA0L2hhZGFzcy1zdHVkaW8tYkFFbHMtY29tcG9zZXItMjAyNi04LTE3X185LTM1LTMwLm1wMyJ9.mp3" length="31050335" type="audio/mpeg"/>
+      <itunes:summary>נקודת מבט מעניינת על פודקאסט כעל מוצר, ומוצר שלא השתנה הרבה בשנים האחרונות ... הדס מנתחת אותו כמו כל מוצר אחר - מי היוזרים, מאיפה מגיע הכסף, ומה בעצם קורה בתהליך. &lt;br&gt;ומתברר שאין תשובה אחת שמתאימה לכולם, כי יש פודקאסטים שהאייג'נט שלה מסכם לה במקום להקשיב להכל, ויש כאלה שהתקציר שלהם חסר משמעות כי כל הערך הוא בשיחה עצמה. וזה מחזיר אתנו לשאלה מה המוצר כאן בכלל, אם קובץ האודיו הוא רק הפורמט.&lt;br&gt;#ניהולמוצר #פודקאסטים #טכנולוגיה&lt;br&gt;&lt;br&gt;על החיים ועל המוצר – פרק 43 - פודקסט&lt;br&gt;משך: 16 דקות&lt;br&gt;&lt;br&gt;https://pca.st/86vv8eip&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;הגיע הזמן לדבר על פודקסטים.&lt;/p&gt;&lt;p&gt;פורמט סופר-מצליח (באמת?)&lt;/p&gt;&lt;p&gt;אבל נשאלת השאלה - מה באמת הערך של פודקסט? איפה החדשנות?&lt;/p&gt;&lt;p&gt;פרק עם יותר שאלות מתשובות&lt;/p&gt;</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>00:16:10</itunes:duration>
+      <itunes:image href="https://hosting-media.riverside.com/media/podcasts/a9cee50d-89fe-4e75-896a-987f267bc407/logos/fc3c2f73-142d-4263-ac72-061bc2a25eca.png"/>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:title>פרק 43 - פודקסט</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
       <title>האיש שרואה את העתיד; עם ד״ר רועי צזנה</title>
       <description>שיחה מעניינת עם איש מעניין על העתיד של ה-AI ושלנו. צזנה אופטימי לגבי הכלכלה ופחות לגבי האנשים שבתוכה.&lt;br&gt;אגב, ב-2015 שאלה אותו סטודנטית מה המשמעות של האדם אם הבינה המלאכותית תוכל לעשות הכל, והוא ענה לה שאף אחד לא הבטיח לאדם משמעות. אופטימי, כן?&lt;br&gt;#בינהמלאכותית #עולםהעבודה #עתידנות&lt;br&gt;&lt;br&gt;תTrashTech – האיש שרואה את העתיד; עם ד״ר רועי צזנה&lt;br&gt;משך: שעה ו10 דקות&lt;br&gt;&lt;br&gt;https://pca.st/9bsggoxc&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;השבוע בטראשטק: המודל שברח מהכלוב, המלחמה הקרה של ה-AI בין ארה״ב וסין ומה יקרה לעובדים כשמהנדס אחד שווה פי 100?&lt;/p&gt;&lt;p&gt;איתנו העתידן ד״ר רועי צזנה שחוזר אלינו אחרי שנה בדיוק על מנת להסביר למה קצב ההתקדמות של ה-AI רק מאיץ (הכפלת יכולות כל 4 חודשים!), ולמה הוא מוכן לשים את הכסף שלו על ASI (בינת-על) בתכנות כבר ב-2027?&lt;/p&gt;&lt;p&gt;_________________________&lt;/p&gt;&lt;p&gt;(00:00) - פתיחה&lt;/p&gt;&lt;p&gt;(02:14) - איך מודל ה-AI ברח מהכלוב?&lt;/p&gt;&lt;p&gt;(10:31) - הפריצה ל-Hugging Face&lt;/p&gt;&lt;p&gt;(17:17) - למה מדינות הגדירו AI כמשאב של ביטחון לאומי?&lt;/p&gt;&lt;p&gt;(22:00) - הסוד מאחורי המודלים החינמיים של סין&lt;/p&gt;&lt;p&gt;(26:33) - ״אין לי ספק שארה״ב כבר משתמשת במיתוס לריגול״&lt;/p&gt;&lt;p&gt;(30:48) - למה קצב ההתקדמות של ה-AI רק מאיץ?&lt;/p&gt;&lt;p&gt;(41:13) - AGI בתכנות כבר בשנה הבאה?&lt;/p&gt;&lt;p&gt;(50:00) - למה כל תעשיית ה-AI צועקת ״תשרפו טוקנים״?&lt;/p&gt;&lt;p&gt;(53:01) - Human out of the loop: מה זה אומר?&lt;/p&gt;&lt;p&gt;(1:00:56) - התחזית: 80% מהעבודה האנושית תוחלף עד 2034&lt;/p&gt;&lt;p&gt;_________________________&lt;/p&gt;&lt;p&gt;רוצים לקחת חלק באירוע טראשטק לייב מיוחד לקהילה? אנחנו מזמינים אתכם לפגוש את האנשים המובילים בתעשייה ולהנות מערב מיוחד איתנו עם מלא הפתעות שוות… השאירו פרטים בלינק וקבלו הנחה מיוחדת לקהילה שלנו: &lt;a href="https://forms.gle/Hugwt21wn4rG7MV38"&gt;&lt;u&gt;https://forms.gle/Hugwt21wn4rG7MV38&lt;/u&gt;&lt;/a&gt; &lt;/p&gt;&lt;p&gt;על מעלית הבינה שמעתם? הכירו את הפורמט החדש מבית טראשטק - 30 יזמים, 30 קומות, 30 יוזקייסים על AI.היכנסו עכשיו - &lt;a href="https://linktr.ee/elevator_ai"&gt;&lt;u&gt;https://linktr.ee/elevator_ai&lt;/u&gt;&lt;/a&gt; &lt;/p&gt;&lt;p&gt;_________________________&lt;/p&gt;&lt;p&gt;תודה ל-⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Guts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠, מעבדת החדשנות והסטארטאפים של הראל&lt;/p&gt;&lt;p&gt;  &lt;a href="https://www.gutsinnovation.com/"&gt;&lt;u&gt;https://www.gutsinnovation.com/&lt;/u&gt;&lt;/a&gt; &lt;a href="https://www.guts.co.il"&gt; &lt;/a&gt;&lt;/p&gt;&lt;p&gt;ענב - יוצרים מציאות חדשה&lt;a href="http://enav.co.il/nedirot"&gt;&lt;u&gt;Enav.co.il/nedirot&lt;/u&gt;&lt;/a&gt;  &lt;/p&gt;&lt;p&gt;רוצים להצטרף למועדון הוט? פותחים חשבון בבנק לאומי ויכולים להנות ממגוון הטבות ייחודיות &lt;/p&gt;&lt;p&gt;&lt;a href="https://web.leumi.co.il/trashtech-hot"&gt;&lt;u&gt;https://web.leumi.co.il/trashtech-hot&lt;/u&gt;&lt;/a&gt; &lt;/p&gt;&lt;p&gt;_________________________&lt;/p&gt;&lt;p&gt;אנחנו רוצים להמשיך וליצור עוד תוכן במיוחד בשבילכם! נשמח ל-2 דקות מזמנכם לענות על הסקר שלנו: &lt;a href="https://did.li/5lJZH"&gt;https://did.li/5lJZH&lt;/a&gt; &lt;/p&gt;&lt;p&gt;📲❤️ אהבתם את הפרק? נשמח אם תרשמו לערוץ ותכתבו לנו! &lt;/p&gt;&lt;p&gt;_________________________&lt;/p&gt;&lt;p&gt;הירשמו לערוץ: &lt;/p&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1"&gt;https://www.youtube.com/channel/UCwywdccdYsNS_Cs6tS0U_dg?sub_confirmation=1&lt;/a&gt; &lt;/p&gt;&lt;p&gt;לאינסטגרם של טראשטק:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.instagram.com/trashtechnewsig/"&gt;https://www.instagram.com/trashtechnewsig/&lt;/a&gt; &lt;/p&gt;&lt;p&gt;לטיקטוק של טראשטק:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.tiktok.com/@trashtechnews"&gt;https://www.tiktok.com/@trashtechnews&lt;/a&gt; &lt;/p&gt;&lt;p&gt;לערוץ הוואצאפ של טראשטק:&lt;/p&gt;&lt;p&gt;&lt;a href="https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27"&gt;https://www.whatsapp.com/channel/0029VagGRsoGOj9obvapMw27&lt;/a&gt; &lt;/p&gt;&lt;p&gt;לפודקאסט בספוטיפיי:&lt;/p&gt;&lt;p&gt;&lt;a href="https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff"&gt;https://open.spotify.com/show/0nGv2IY8OATmjMtkJ7eLHG?si=9b6a1be00e2344ff&lt;/a&gt; &lt;/p&gt;&lt;p&gt;ללינקים שלנו:&lt;/p&gt;&lt;p&gt;&lt;a href="https://linktr.ee/trashtechnews"&gt;https://linktr.ee/trashtechnews&lt;/a&gt; &lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;
