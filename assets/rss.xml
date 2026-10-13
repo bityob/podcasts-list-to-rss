@@ -9,8 +9,91 @@ https://www.linkedin.com/in/yuliashnerer</description>
     <itunes:explicit>no</itunes:explicit>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-podgen v1.1.0 https://podgen.readthedocs.org</generator>
-    <lastBuildDate>Sun, 11 Oct 2026 13:17:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:28:57 +0000</lastBuildDate>
     <itunes:image href="https://github.com/bityob/podcasts-list-to-rss/raw/main/assets/podcast-image.jpg"/>
+    <item xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:spotify="http://www.spotify.com/ns/rss" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:media="http://search.yahoo.com/mrss/">
+      <title>פרק #1234 - אודי דנינו מסרב להיות פסימי</title>
+      <itunes:title>פרק #1234 - אודי דנינו מסרב להיות פסימי</itunes:title>
+      <link>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a71234%d7%90%d7%95%d7%93%d7%99-%d7%93%d7%a0%d7%99%d7%a0%d7%95-%d7%9e%d7%a1%d7%a8%d7%91-%d7%9c%d7%94%d7%99%d7%95%d7%aa-%d7%a4/</link>
+      <comments>https://geekonomy.podbean.com/e/%d7%a4%d7%a8%d7%a71234%d7%90%d7%95%d7%93%d7%99-%d7%93%d7%a0%d7%99%d7%a0%d7%95-%d7%9e%d7%a1%d7%a8%d7%91-%d7%9c%d7%94%d7%99%d7%95%d7%aa-%d7%a4/#comments</comments>
+      <pubDate>Tue, 13 Oct 2026 11:25:27 +0000</pubDate>
+      <guid isPermaLink="false">geekonomy.podbean.com/a1ed320f-6b4d-3437-96e6-7e6cfff11c64</guid>
+      <description>אודי דנינו מגיע לבינה מלאכותית מהצד המעשי. הוא ייסד את סייפס, שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. היום הוא מנכ״ל מיוז. &lt;br&gt;השיחה קופצת בין כמה נושאים, וכדאי להקשיב לה בעיקר בשביל נקודת המבט של מי שבנה את הטכנולוגיה בעצמו ועדיין מסרב להיות פסימי.&lt;br&gt;#בינהמלאכותית #טכנולוגיה #יזמות&lt;br&gt;&lt;br&gt;גיקונומי – אודי דנינו מסרב להיות פסימי&lt;br&gt;משך: שעה ו40 דקות&lt;br&gt;https://pca.st/z7jb94v1&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;אודי דנינו הוא מומחה לבינה מלאכותית ובוגר אוניברסיטת תל אביב בהנדסה ובמדעי המחשב. הוא ייסד את חברת סייפס שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. כיום הוא המנכ"ל של חברת מיוז שפותרת בעיות גדולות עבור שחקניות משמעותיות בתחום&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;אודי פרסם לאחרונה ספר בשם ״ההמצאה האחרונה״ שסוקר את עולם ה-AI בגישה מאוד אופטימית.&lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;נותני החסות לפרק:&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.catonetworks.com/careers/'&gt;הפרק בחסות חברת Cato Networks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://geekonomy.net/2024/04/30/geekonomy886/'&gt;הפרק עם ישי יובל מקייטו&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;לינקים מהפרק:&lt;/p&gt;
+&lt;p dir="rtl"&gt;&lt;a href='https://e-vrit.co.il/product/39701/%D7%94%D7%94%D7%9E%D7%A6%D7%90%D7%94-%D7%94%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94'&gt;הספר של אודי&lt;/a&gt;&lt;/p&gt;
+</description>
+      <content:encoded>אודי דנינו מגיע לבינה מלאכותית מהצד המעשי. הוא ייסד את סייפס, שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. היום הוא מנכ״ל מיוז. &lt;br&gt;השיחה קופצת בין כמה נושאים, וכדאי להקשיב לה בעיקר בשביל נקודת המבט של מי שבנה את הטכנולוגיה בעצמו ועדיין מסרב להיות פסימי.&lt;br&gt;#בינהמלאכותית #טכנולוגיה #יזמות&lt;br&gt;&lt;br&gt;גיקונומי – אודי דנינו מסרב להיות פסימי&lt;br&gt;משך: שעה ו40 דקות&lt;br&gt;https://pca.st/z7jb94v1&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;אודי דנינו הוא מומחה לבינה מלאכותית ובוגר אוניברסיטת תל אביב בהנדסה ובמדעי המחשב. הוא ייסד את חברת סייפס שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. כיום הוא המנכ"ל של חברת מיוז שפותרת בעיות גדולות עבור שחקניות משמעותיות בתחום&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;אודי פרסם לאחרונה ספר בשם ״ההמצאה האחרונה״ שסוקר את עולם ה-AI בגישה מאוד אופטימית.&lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;נותני החסות לפרק:&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.catonetworks.com/careers/'&gt;הפרק בחסות חברת Cato Networks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://geekonomy.net/2024/04/30/geekonomy886/'&gt;הפרק עם ישי יובל מקייטו&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;לינקים מהפרק:&lt;/p&gt;
+&lt;p dir="rtl"&gt;&lt;a href='https://e-vrit.co.il/product/39701/%D7%94%D7%94%D7%9E%D7%A6%D7%90%D7%94-%D7%94%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94'&gt;הספר של אודי&lt;/a&gt;&lt;/p&gt;
+</content:encoded>
+      <enclosure url="https://mcdn.podbean.com/mf/web/3rzpyww5grz9a3bv/geekonomy1234_udi.mp3" length="96828676" type="audio/mpeg"/>
+      <itunes:summary>אודי דנינו מגיע לבינה מלאכותית מהצד המעשי. הוא ייסד את סייפס, שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. היום הוא מנכ״ל מיוז. &lt;br&gt;השיחה קופצת בין כמה נושאים, וכדאי להקשיב לה בעיקר בשביל נקודת המבט של מי שבנה את הטכנולוגיה בעצמו ועדיין מסרב להיות פסימי.&lt;br&gt;#בינהמלאכותית #טכנולוגיה #יזמות&lt;br&gt;&lt;br&gt;גיקונומי – אודי דנינו מסרב להיות פסימי&lt;br&gt;משך: שעה ו40 דקות&lt;br&gt;https://pca.st/z7jb94v1&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p style="text-align: right;"&gt;אודי דנינו הוא מומחה לבינה מלאכותית ובוגר אוניברסיטת תל אביב בהנדסה ובמדעי המחשב. הוא ייסד את חברת סייפס שנמכרה לפורד, והוביל את פיתוח האלגוריתמים בתוכנית הרכב האוטונומי של ענקית הרכב. כיום הוא המנכ"ל של חברת מיוז שפותרת בעיות גדולות עבור שחקניות משמעותיות בתחום&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;אודי פרסם לאחרונה ספר בשם ״ההמצאה האחרונה״ שסוקר את עולם ה-AI בגישה מאוד אופטימית.&lt;/p&gt;
+&lt;p dir="rtl"&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;נותני החסות לפרק:&lt;/p&gt;
+&lt;p&gt;&lt;a href='https://www.catonetworks.com/careers/'&gt;הפרק בחסות חברת Cato Networks&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='https://geekonomy.net/2024/04/30/geekonomy886/'&gt;הפרק עם ישי יובל מקייטו&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href='mailto:pozon10@gmail.com'&gt;האימייל של ראם&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p dir="rtl"&gt;לינקים מהפרק:&lt;/p&gt;
+&lt;p dir="rtl"&gt;&lt;a href='https://e-vrit.co.il/product/39701/%D7%94%D7%94%D7%9E%D7%A6%D7%90%D7%94-%D7%94%D7%90%D7%97%D7%A8%D7%95%D7%A0%D7%94'&gt;הספר של אודי&lt;/a&gt;&lt;/p&gt;
+</itunes:summary>
+      <itunes:author>ראם שרמן ודורון ניר</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:block>No</itunes:block>
+      <itunes:duration>6051</itunes:duration>
+      <itunes:episode>1243</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://pbcdn1.podbean.com/imglogo/ep-logo/pbblog803031/WhatsApp_Image_2026-07-16_at_233108baina.jpeg"/>
+    </item>
+    <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+      <title>How to win a penalty shootout (with game theory)</title>
+      <description>כדורגל בערוץ הזה, ועוד בהקשר של תורת המשחקים ...😎&lt;br&gt;מסי הוא מלך השערים של המונדיאלים, ובפנדלים הוא קצת מתחת לממוצע. מתברר שבפנדל לא מספיק לבעוט טוב, צריך גם להיות בלתי צפוי, כולל לבעוט מדי פעם דווקא לצד החלש שלך.&lt;br&gt;פרק מעניין ולא צריך להבין בכדורגל, אפילו מה זה ליגת האלופות מסבירים שם.&lt;br&gt;&lt;br&gt;#תורתהמשחקים #כלכלה #ספורט #אנגלית&lt;br&gt;&lt;br&gt;Planet Money – How to win a penalty shootout (with game theory)&lt;br&gt;משך: 21 דקות&lt;br&gt;https://pca.st/dpur21oi&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.&lt;br/&gt;&lt;br/&gt;According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until economists started studying soccer players in real life. &lt;br/&gt;&lt;br/&gt;On today's show, we kick it over to the hosts of the &lt;a href="https://linktr.ee/soccernomicspod"target="_blank"   &gt;Soccernomics podcast&lt;/a&gt; to explain how game theory has changed soccer, and how soccer has changed game theory. &lt;br/&gt;&lt;br/&gt;Watch the penalty shootout between &lt;a href="https://www.youtube.com/watch?v=z-QliFMvpqI"target="_blank"   &gt;Manchester United and Chelsea in the Champions League final in 2008&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;Support:&lt;/em&gt;&lt;br&gt;&lt;a href="https://n.pr/3HlREPz"target="_blank"   &gt;Planet Money+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Read: &lt;/em&gt;&lt;br&gt;Our book: &lt;a href="https://lnk.to/i3AukBdD"target="_blank"   &gt;Planet Money: A Guide to the Economic Forces That Shape Your Life&lt;/a&gt; &lt;br&gt;Our weekly longform &lt;a href="https://n.pr/3zrFvUB"target="_blank"   &gt;Planet Money newsletter&lt;/a&gt;&lt;br&gt;Our weekly &lt;a href="https://www.npr.org/newsletter/indicator"target="_blank"   &gt;Indicator round-up newsletter&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Follow: &lt;/em&gt;&lt;br&gt;&lt;a href="https://n.pr/3FqLuws"target="_blank"   &gt;Instagram&lt;/a&gt;&lt;br&gt;&lt;a href="https://n.pr/3sGZdrq"target="_blank"   &gt;TikTok&lt;/a&gt;&lt;br&gt;&lt;a href="https://lnk.to/iCVDaW3C"target="_blank"   &gt;YouTube&lt;/a&gt;&lt;br&gt;&lt;a href="https://n.pr/3h92GwS"target="_blank"   &gt;Facebook&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode of Planet Money was produced by Emma Peaslee with help from James Sneed. It was edited by Jess Jiang. It was fact checked by Sierra Juarez and engineered by Annlie Huang. Alex Goldmark is our executive producer.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;The Soccernomics episode was originally hosted by Ashish Malhotra, Simon Kuper and Stefan Szymanski and sound designed by Alex Roldan.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 06:15:09 +0000</pubDate>
+      <guid isPermaLink="false">3a1cc7b7-7691-4070-a761-e9465a7b8f42</guid>
+      <link>https://www.npr.org/2026/07/03/nx-s1-5879357/world-cup-penalty-kick-game-theory</link>
+      <itunes:block>no</itunes:block>
+      <itunes:title>How to win a penalty shootout (with game theory)</itunes:title>
+      <itunes:image href="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/3000/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2Fef%2Fa651ff4c40e0b07e8b528b8dc26e%2Ff85d76bb-c189-46b0-a359-58f5d510a5af.jpg"/>
+      <media:thumbnail height="720" width="1280" url="https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1280/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fd8%2F59%2F2568a92348e9b5fd92ea163655cc%2F9ddcefbf-7332-4c25-9352-f6814e44ebba.jpg"/>
+      <itunes:duration>1077</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>כדורגל בערוץ הזה, ועוד בהקשר של תורת המשחקים ...😎&lt;br&gt;מסי הוא מלך השערים של המונדיאלים, ובפנדלים הוא קצת מתחת לממוצע. מתברר שבפנדל לא מספיק לבעוט טוב, צריך גם להיות בלתי צפוי, כולל לבעוט מדי פעם דווקא לצד החלש שלך.&lt;br&gt;פרק מעניין ולא צריך להבין בכדורגל, אפילו מה זה ליגת האלופות מסבירים שם.&lt;br&gt;&lt;br&gt;#תורתהמשחקים #כלכלה #ספורט #אנגלית&lt;br&gt;&lt;br&gt;Planet Money – How to win a penalty shootout (with game theory)&lt;br&gt;משך: 21 דקות&lt;br&gt;https://pca.st/dpur21oi&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Lionel Messi is arguably the greatest soccer scorer of all time. But when it comes to penalty kicks, Messi is merely average. Why? Maybe the answer involves game theory.&lt;br/&gt;&lt;br/&gt;According to game theory, there’s an optimal strategy for taking penalty kicks. This strategy involves an idea that was once somewhat controversial in economics — that is, until economists started studying soccer players in real life. &lt;br/&gt;&lt;br/&gt;On today's show, we kick it over to the hosts of the &lt;a href="https://linktr.ee/soccernomicspod"target="_blank"   &gt;Soccernomics podcast&lt;/a&gt; to explain how game theory has changed soccer, and how soccer has changed game theory. &lt;br/&gt;&lt;br/&gt;Watch the penalty shootout between &lt;a href="https://www.youtube.com/watch?v=z-QliFMvpqI"target="_blank"   &gt;Manchester United and Chelsea in the Champions League final in 2008&lt;/a&gt;. &lt;br/&gt;&lt;br/&gt;&lt;em&gt;Support:&lt;/em&gt;&lt;br&gt;&lt;a href="https://n.pr/3HlREPz"target="_blank"   &gt;Planet Money+&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Read: &lt;/em&gt;&lt;br&gt;Our book: &lt;a href="https://lnk.to/i3AukBdD"target="_blank"   &gt;Planet Money: A Guide to the Economic Forces That Shape Your Life&lt;/a&gt; &lt;br&gt;Our weekly longform &lt;a href="https://n.pr/3zrFvUB"target="_blank"   &gt;Planet Money newsletter&lt;/a&gt;&lt;br&gt;Our weekly &lt;a href="https://www.npr.org/newsletter/indicator"target="_blank"   &gt;Indicator round-up newsletter&lt;/a&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Follow: &lt;/em&gt;&lt;br&gt;&lt;a href="https://n.pr/3FqLuws"target="_blank"   &gt;Instagram&lt;/a&gt;&lt;br&gt;&lt;a href="https://n.pr/3sGZdrq"target="_blank"   &gt;TikTok&lt;/a&gt;&lt;br&gt;&lt;a href="https://lnk.to/iCVDaW3C"target="_blank"   &gt;YouTube&lt;/a&gt;&lt;br&gt;&lt;a href="https://n.pr/3h92GwS"target="_blank"   &gt;Facebook&lt;/a&gt; &lt;br/&gt;&lt;br/&gt;&lt;em&gt;This episode of Planet Money was produced by Emma Peaslee with help from James Sneed. It was edited by Jess Jiang. It was fact checked by Sierra Juarez and engineered by Annlie Huang. Alex Goldmark is our executive producer.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;&lt;em&gt;The Soccernomics episode was originally hosted by Ashish Malhotra, Simon Kuper and Stefan Szymanski and sound designed by Alex Roldan.&lt;/em&gt;&lt;br/&gt;&lt;br/&gt;See &lt;a href="https://pcm.adswizz.com"&gt;pcm.adswizz.com&lt;/a&gt; for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.&lt;br/&gt;&lt;br/&gt;&lt;a href="https://www.npr.org/about-npr/179878450/privacy-policy"&gt;NPR Privacy Policy&lt;/a&gt;</content:encoded>
+      <enclosure length="17233799" type="audio/mpeg" url="https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&amp;awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&amp;feed=hvWWWzRv&amp;t=podcast&amp;e=nx-s1-5879357&amp;p=510289&amp;d=1077&amp;size=17233799"/>
+    </item>
     <item xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <title>Choose Your Own Odyssey</title>
       <description>חבורה יוצאת למסע, אוספת שלל, נתקלת במפלצות ומאבדת את כל הציוד בדרך - זה נכון גם לאודיסיאה וגם לערב D&amp;D.&lt;br&gt;יש הרבה קווים מקבילים: המשוררים של יוון העתיקה שרו את הסיפור מהזיכרון, כל ערב קצת אחרת, הבריחה מהקיקלופ נשמעת כמו סדרה של גלגולי קוביה, ואודיסאוס עצמו עולה רמות לאורך הדרך.&lt;br&gt;שיחה מעניינת על אודיסיאה מכיוון שונה. &lt;br&gt;#מיתולוגיה #משחקים #תרבות #אנגלית&lt;br&gt;&lt;br&gt;Imaginary Worlds – Choose Your Own Odyssey&lt;br&gt;משך: 41 דקות&lt;br&gt;https://pca.st/1z7apac2&lt;br&gt;&lt;br&gt;@podcastsrec&lt;br&gt;&lt;br&gt;&lt;br&gt;#######&lt;br&gt;&lt;br&gt;&lt;br&gt;Christopher Nolan’s film The Odyssey is part of a long line of film adaptations, but Homer’s epic poem has quietly shaped another medium: role-playing games. The structure of The Odyssey is practically a blueprint for  tabletop and video game RPGs from the ‘boss fights’ with fantasy creatures to the way Odysseus levels up through the tale. Professor Roger Travis explains how ancient bards engaged in a similar type of immersive storytelling as game masters today. Laura Jenkinson-Brown argues that Odysseus’s choices are like a dialogue tree in a choose-your-own-adventure book. That’s why she wrote one called “You Are Odysseus. Plus, John Haygood and Jonathan Drake tell me how they’ve created tabletop role-playing games that tap into Greek myths and reward players for embracing the values of the Homeric world. 
